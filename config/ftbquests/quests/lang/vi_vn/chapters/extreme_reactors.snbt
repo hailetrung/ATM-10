@@ -89,6 +89,7 @@
 		"{@pagebreak}"
 		"Khung của Multiblock Reprocessor."
 
+
 		"{image:atm:textures/questpics/extremereactors/reprocessorframe.png width:100 height:175 align:1}"
 		"{@pagebreak}"
 		"Bộ tái xử lý được xây dựng đầy đủ:"
@@ -121,6 +122,6 @@
 	]
 	quest.7E07C5A6FA6B6B1F.title: "Blutonium"
 	task.27D8027E1B88F02A.title: "AllRightsReserved"
-	task.2905C4386A407A1E.title: "Giao diện tuabin"
+	task.2905C4386A407A1E.title: "Tua bin giao tiếp"
 	task.4851C74261B5FA25.title: "AllRightsReserved"
 }
