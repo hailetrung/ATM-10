@@ -1,271 +1,283 @@
 {
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \\n\\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \\n\\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
-	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
-	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
-	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
-	quest.03564837ECB5CC79.title: "&2Dragon Familiar&rSpawn Trứng"
-	quest.038812A14456236C.quest_desc: ["By combining some Processors, an Energy Cell, and any Dense Cable we get the ME Quantum Ring. \\n\\nUsually we'd use it to connect our ME system across Dimensions but we only care about the &6&lATM Star&r!"]
-	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r Bees are adorable but the limited things Honey gives us isn't enough to justify the work to get it. \\n\\nWell unless you can get just about anything from the Bees, then that'd be different!"]
-	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
-	quest.05850541675B2493.quest_desc: ["It does. \\n\\nYou have created the &6&lATM Star&r, that means you have beat the modpack!\\n\\nSo what's next?"]
-	quest.05850541675B2493.quest_subtitle: "Does this mean you win?"
-	quest.05850541675B2493.title: "&6&lATM Star"
-	quest.0848056FDD3F9BDA.quest_desc: ["A &9Singularity&r is a theorized point of ultimate density. Scientists believe the Universe we live in once was a &9Singularity&r. Every molecule in our Universe, in a single point smaller than a grain of sand. \\n\\nOf course with &l&bAE2&r drifting along the line of theoritical sciences they have their own &9Singularity&r. \\n\\nThere's 2 ways of crafting it but each require condensing a multitude of Items into one point!"]
+	quest.00AC7CC291A3E590.quest_desc: ["Bạn có thể (chắc chắn) đã nhìn thấy các công trình trên khắp thế giới với những thứ trông giống như Đèn hiệu phát ra từ chúng. Chúng được làm bằng đá cuội, có 4 chân đỡ, hơi cao trong không trung! \n\nHy vọng là bạn biết nhưng họ được gọi là &8Dark Temples và họ có &aEnviromental Accumulator mà chúng ta cần. \n\nBạn sẽ phải đợi Bão xảy ra để điền vào Weather Container của bạn. Sau đó, bạn có thể chế tạo &3Lightning Bomb của mình!"]
+	quest.00AC7CC291A3E590.title: "&3Bom sét"
+	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus là việc sử dụng Arcane để thực hiện các nghi lễ với Lò rèn để trở nên mạnh mẽ hơn! \n\nHoặc vì lý do gì mà hầu hết mọi người biết đến nó, Eternal Stella. Có nhiều hơn nữa cho Mod mà bạn biết!"]
+	quest.022C38096F79EF07.title: "&6&lBị cấm \\&Arcanus"
+	quest.03564837ECB5CC79.quest_desc: ["Another Ritual tất nhiên, đây là &2Ihagan's Enthrallment. (BTW để hiến tế một con Ngựa, bạn cần có nó ở gần khi thực hiện nghi lễ) \n\nSau khi hoàn tất, bạn sẽ nhận được Spawn Egg cho &2Rồng Thú. Những thứ này có thể được sử dụng trong quá trình chế tạo để nhận Ngôi sao &6&lATM hoặc bạn có thể tạo ra Ngôi sao &2Familiar. \n\nCon này sẽ theo bạn đi khắp nơi và có thể được cưng chiều bằng cách sử dụng Shift Right Click trên nó."]
+	quest.03564837ECB5CC79.title: "Trứng sinh sản của &2Rồng quen thuộc"
+	quest.038812A14456236C.quest_desc: ["Bằng cách kết hợp một số Bộ xử lý, Energy Cell và bất kỳ Dense Cable nào, chúng tôi nhận được ME Quantum Ring. \n\nThông thường, chúng tôi sẽ sử dụng nó để kết nối hệ thống ME của mình trên các Thứ nguyên nhưng chúng tôi chỉ quan tâm đến &6&lATM Star!"]
+	quest.0573B6F1BE5110FD.quest_desc: ["&2&lNhững chú ong của Minecraft rất đáng yêu nhưng những thứ có hạn mà Mật ong mang lại cho chúng ta không đủ để biện minh cho công sức để có được nó. \n\nChà trừ khi bạn có thể nhận được bất cứ thứ gì từ Ong, thì mọi chuyện sẽ khác!"]
+	quest.0573B6F1BE5110FD.title: "&e&lNhững con ong năng suất"
+	quest.05850541675B2493.quest_desc: ["Nó có. \n\nBạn đã tạo &6&lATM Star, điều đó có nghĩa là bạn đã đánh bại modpack!\n\nVậy tiếp theo là gì?"]
+	quest.05850541675B2493.quest_subtitle: "Điều này có nghĩa là bạn thắng?"
+	quest.05850541675B2493.title: "&6&lATM Sao"
+	quest.0848056FDD3F9BDA.quest_desc: ["Điểm &9 Điểm kỳ dị là một điểm được lý thuyết hóa về mật độ tối đa. Các nhà khoa học tin rằng Vũ trụ mà chúng ta đang sống từng là &9 Điểm kỳ dị. Mọi phân tử trong Vũ trụ của chúng ta, ở một điểm nhỏ hơn một hạt cát. \n\nTất nhiên, với sự phát triển của &l&bAE2 theo hướng khoa học lý thuyết, họ có &9 Điểm kỳ dị của riêng mình. \n\nCó 2 cách chế tạo nhưng mỗi cách yêu cầu cô đọng vô số Vật phẩm vào một điểm!"]
 	quest.0848056FDD3F9BDA.title: "&9Singularity"
 	quest.08CE14FFED813992.quest_subtitle: "13 Wet Dark Pink Blocks"
 	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Dry Pink Blocks"
-	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make. \\n\\nIf repetitive Crafting makes you hate &2&lMinecraft&r, then you might want to Craft the &2Blastproof Casing&r! \\n\\nWe'll need either 2 256M Portable Item Cells, 2 &2Blastproof Casings&r, or a mix of both to Craft the &3&lImprobable Probability Device&r."]
+	quest.0923C941A9696122.quest_desc: ["Trong trường hợp bạn phải mang theo 256 Million Items trong Chuyến phiêu lưu! \n\nBạn sẽ cần một số Vật phẩm đơn giản như &8MEGA Item Cell Housing&r, &Rương 5ME và &5Dense Energy Cell&r. \n\nVà sau đó chúng ta sẽ cần &d256M MEGA Storage Component&r... cái này khó chế tạo hơn nhiều. \n\nNếu việc Chế tạo lặp đi lặp lại khiến bạn ghét &2&lMinecraft, thì bạn có thể muốn Chế tạo &2&lVỏ chống nổ! \n\nChúng ta sẽ cần 2 256M Portable Item Cells, 2 &2Vỏ chống nổ hoặc kết hợp cả hai để chế tạo &3&lKhông thể tin được Probability Device&r."]
 	quest.0923C941A9696122.title: "256M Portable Item Cell"
-	quest.09D76E9B8CABC31E.quest_desc: ["For &5&lCreative Essence&r you'll need 4 &5Insanium Essence Blocks&r. Each Block is 9 &5Essence&r now let me do the math... \\n\\nYou'll need 9,216 &aInferium Essence&r to get just one of these Blocks. So you'll need 36,864 &aInferium Essence&r total!"]
-	quest.09D76E9B8CABC31E.title: "4&5Insanium Blocks"
-	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
+	quest.09D76E9B8CABC31E.quest_desc: ["Đối với &5&lCreative Essence, bạn sẽ cần 4 &5Insanium Essence Blocks&r. Each Block là 9 &5Essence bây giờ để mình làm phép tính nhé... \n\nBạn sẽ cần 9.216 &aInferium Essence để có được một trong những Khối này. Vì vậy, bạn sẽ cần tổng cộng 36.864 &aInferium Essence!"]
+	quest.09D76E9B8CABC31E.title: "Khối Insanium 4 & 5"
+	quest.0AE28C998A3BF136.quest_subtitle: "531.441 Địa ngục"
 	quest.0C7D96DB3573EF9C.quest_desc: [""]
-	quest.0C7D96DB3573EF9C.quest_subtitle: "&oAbility to create life."
-	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
+	quest.0C7D96DB3573EF9C.quest_subtitle: "&oKhả năng tạo ra sự sống."
+	quest.0C7D96DB3573EF9C.title: "&5&lBản chất sáng tạo"
 	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Dry Green Blocks"
 	quest.0F1CA44520BDEFEA.quest_subtitle: "6,561 Kim cương Blocks"
-	quest.103834774B57D611.quest_desc: ["The Mini End Portal will need quite a few &dEndshelves&r. These are the last tiers of Shelves you'll get from &5&lApotheosis&r. You'll need &dInfused Dragon's Breath&r to craft them. \\n\\nAfter that you'll just need Eyes of Ender which you'll need to have made them in order to actually get the &dEndshelves&r. \\n\\nIf you somehow got to &d&lThe End&r and got the Shelves without Eyes of Ender then I'm impressed!"]
-	quest.11374A3B5BD644F5.quest_desc: ["&lIndustrial Foregoing&r is a Tech Mod with tons of Machines and Tools. All following the same Color Code! \\n\\nYou'll need to start with Rubber and yes there is a Quest page for it!"]
-	quest.11374A3B5BD644F5.title: "&lIndustrial Foregoing"
-	quest.14B7EEBE0F6C2776.quest_desc: ["&dInfused Dragon's Breath&r is obtained by... well Infusing &dDragon's Breath&r. \\n\\nYou can use 2 &9Soul-Touched Sculkshelves&r, 3 &bHeart-Forged Seashelves&r, 8 Normal Bookshelves, and 1 &6Geode-Encased Bookshelf of Stability&r. \\n\\nIt'll also be needed for other recipes but we don't talk about that!"]
+	quest.103834774B57D611.quest_desc: ["Cổng Mini End sẽ cần khá nhiều &dEndshelf. Đây là bậc cuối cùng của Kệ mà bạn sẽ nhận được từ &5&lApotheosis. Bạn sẽ cần &dInfused Dragon's Breath để chế tạo chúng. \n\nSau đó, bạn sẽ chỉ cần Eyes of Ender mà bạn cần phải tạo ra để có thể thực sự có được &dEndshelf. \n\nNếu bằng cách nào đó bạn đến được &d&lThe End và nhận được Kệ không có Mắt của Ender thì tôi rất ấn tượng!"]
+	quest.11374A3B5BD644F5.quest_desc: ["&lCông nghiệp đã nói ở trên là Tech Mod với rất nhiều Máy móc và Công cụ. Tất cả đều theo sau Color Code! \n\nBạn sẽ cần phải bắt đầu với Rubber và vâng, có một trang Quest dành cho nó!"]
+	quest.11374A3B5BD644F5.title: "&lCông nghiệp nói trên"
+	quest.14B7EEBE0F6C2776.quest_desc: ["&dInfused Dragon's Breath&r có được bằng cách... well Infused &dDragon's Breath. \n\nBạn có thể sử dụng 2 &9Soul-Touched Sculkshelves&r, 3 &bHeart-Forged Seashelves&r, 8 Normal Bookshelves và 1 &6Geode-Encased Bookshelf của Độ ổn định. \n\nNó cũng sẽ cần thiết cho các công thức nấu ăn khác nhưng chúng tôi không nói về điều đó!"]
 	quest.14B7EEBE0F6C2776.title: "&dInfused Dragon's Breath"
-	quest.1682CED78D9D4BA7.quest_desc: ["&9&lTwilight Forest&r is one of the most well known and recognized Mods, and for good reason. It has practically defined Adventure Mods! \\n\\nTo get there simply have a 2x2 pool of Water, surround it with Flowers, and drop a Diamond into it! \\n\\nThen, your Portal shall open up, and you can enter the &l&9Twilight Forest&r. \\n\\nHere you'll need to follow a strict order of Bosses to kill and progress!"]
-	quest.1682CED78D9D4BA7.title: "&9&lTwilight Forest"
+	quest.1682CED78D9D4BA7.quest_desc: ["&9&lTwilight Forest là một trong những Mod nổi tiếng và được công nhận nhiều nhất vì lý do chính đáng. Nó thực tế đã được xác định Adventure Mods! \n\nĐể đến đó, chỉ cần có một bể Nước 2x2, bao quanh nó là Hoa và thả một viên Kim cương vào đó! \n\nSau đó, Cổng thông tin của bạn sẽ mở ra và bạn có thể vào &l&9Twilight Forest. \n\nTại đây, bạn sẽ phải tuân theo mệnh lệnh nghiêm ngặt của Boss để tiêu diệt và tiến bộ!"]
+	quest.1682CED78D9D4BA7.title: "&9&lKhu rừng Chạng vạng"
 	quest.174D18D9D732EC10.quest_subtitle: "8 Wet Green Blocks"
 	quest.17542D7633FBF098.quest_desc: [""]
-	quest.17542D7633FBF098.quest_subtitle: "&oToo bad SpongeBob isn't a Star."
+	quest.17542D7633FBF098.quest_subtitle: "&oThật tệ, SpongeBob không phải là Ngôi sao."
 	quest.17542D7633FBF098.title: "&d&lPatrick&aStar&r"
-	quest.17598C171E610752.quest_desc: ["I don't even know what to say for this. I'm getting lost looking through the recipes. I'd rather list out all the Family Trees for &l&2Productive Trees&r. \\n\\nGet &6Advanced Motors&r and combine them with &dTitanium Rods&r and a &9Processing Unit&r to make the &6Large Advanced Motor&r. \\nOr you can use a &6Mechanical Arm&r, but I can't promise you that those are easier to Craft!"]
-	quest.17598C171E610752.title: "&6Large Advanced Motor"
+	quest.17598C171E610752.quest_desc: ["Tôi thậm chí không biết phải nói gì về điều này. Tôi đang bị lạc khi xem qua các công thức nấu ăn. Tôi muốn liệt kê tất cả Family Trees cho &l&2Cây năng suất. \n\nNhận &6Advanced Motors và kết hợp chúng với &dTitanium Rods và &9Processing Unit để tạo ra &6Large Advanced Motor&r. \nHoặc bạn có thể sử dụng &6Cánh tay cơ khí, nhưng tôi không thể hứa với bạn rằng chúng dễ chế tạo hơn!"]
+	quest.17598C171E610752.title: "&6Lớn Advanced Motor"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
-	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
-	quest.1CE7B24E7E62C25B.title: "&d&lPulsating&8Black Hole"
-	quest.1EB04FE105ACA4BE.quest_desc: ["When a &9Warden&r dies it has a chance to drop a &9Heart of the Deep&r. \\n\\nThis can be used for the &6&lATM Star&r, or to activate the Portal in the Ancient City! \\n\\nThere can't be anything in the Portal to activate it, that includes &9Sculk&r!"]
-	quest.1EB04FE105ACA4BE.title: "&9Heart of the Deep"
-	quest.1FCC474860587169.quest_desc: ["To get later recipes you'll most likely need a &6Smelter Prism&r and don't worry we only need a Tier 1 Forge to get it! \\n\\nYou can check how much of each Stat in the Forge you need in JEI! Plus you'll need 4 &6Blaze Powder&r, 2 &8Coal&r, and an &bArcane Crystal&r. \\n\\nLastly, you'll need &9Elementarium&r which can be found in Jungle Temples, Desert Pyramids, and Underwater Ruins!"]
-	quest.1FCC474860587169.title: "&6Smelter Prism"
-	quest.215AD616E6847E9A.quest_desc: ["Each &5Insanium Gemstone&r is 2 &5Insanium Essence&r. So each &5Gemstone Block&r is 18 &5Insanium Essence&r. \\n\\nThat means we can take our 9,216 &aInferium Essence&r for the &5Insanium Blocks&r and double it to get 18,432 &aInferium Essence&r for just the 4 &5Insanium Gemstone Blocks&r."]
-	quest.215AD616E6847E9A.title: "4&5Insanium Gemstone Blocks"
-	quest.216DA9782EBDFF34.quest_desc: ["I think this Mod is unrealistic. I don't care what Books or Items you have, I don't think the Demonic will follow your every command and work as a slave for you. \\n\\nRegardless you can follow the Quests to do so."]
+	quest.1CE7B24E7E62C25B.quest_subtitle: "&oĐiều chưa biết nhưng đó là tất cả những gì chúng ta biết."
+	quest.1CE7B24E7E62C25B.title: "&d&lĐang rung&8Lỗ đen"
+	quest.1EB04FE105ACA4BE.quest_desc: ["Khi &9Warden chết, nó có cơ hội đánh rơi &9Heart of the Deep. \n\nĐiều này có thể được sử dụng cho Ngôi sao &6&lATM hoặc để kích hoạt Cổng trong Ancient City! \n\nKhông thể có bất cứ thứ gì trong Cổng để kích hoạt nó, bao gồm cả &9Sculk!"]
+	quest.1EB04FE105ACA4BE.title: "&9Trái tim vực sâu"
+	quest.1FCC474860587169.quest_desc: ["Để có được các công thức nấu ăn sau này, rất có thể bạn sẽ cần &6Smelter Prism và đừng lo, chúng tôi chỉ cần Lò rèn Cấp 1 để có được nó! \n\nBạn có thể kiểm tra xem bạn cần bao nhiêu chỉ số trong Lò rèn trong JEI! Ngoài ra, bạn sẽ cần 4 &6Blaze Powder, 2 &8Coal, và &bArcane Crystal. \n\nCuối cùng, bạn sẽ cần &9Elementarium có thể tìm thấy trong Jungle Temples, Desert Pyramids và Underwater Ruins!"]
+	quest.1FCC474860587169.title: "&6Lăng kính luyện kim"
+	quest.215AD616E6847E9A.quest_desc: ["Mỗi &5 Đá quý Insanium là 2 &5 Tinh chất Insanium. Vì vậy, mỗi &5 Khối đá quý là 18 &5 Tinh chất Insanium. \n\nĐiều đó có nghĩa là chúng ta có thể lấy 9,216 &aInferium Essence cho &5Insanium Blocks và nhân đôi nó để nhận được 18,432 &aInferium Essence cho chỉ 4 &5Insanium Gemstone Blocks&r."]
+	quest.215AD616E6847E9A.title: "4&5Sự điên rồ Gemstone Blocks"
+	quest.216DA9782EBDFF34.quest_desc: ["Tôi nghĩ Mod này không thực tế. Tôi không quan tâm bạn có Sách hay Vật phẩm gì, tôi không nghĩ Ác quỷ sẽ tuân theo mọi mệnh lệnh của bạn và làm nô lệ cho bạn. \n\nBất kể bạn có thể làm theo các Nhiệm vụ để làm như vậy."]
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
-	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&r may look small in JEI but I can promise you there's so much to it! \\n\\nRoots is all about using nature's gifts to make rituals.\\n\\nTrust me you'll find these items everywhere!"]
-	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
+	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic có thể trông nhỏ trong JEI nhưng tôi có thể hứa với bạn rằng nó có rất nhiều thứ! \n\nRoots là việc sử dụng những món quà của thiên nhiên để thực hiện các nghi lễ.\n\nHãy tin tôi đi, bạn sẽ tìm thấy những món đồ này ở khắp mọi nơi!"]
+	quest.2171DC0B13C4BD43.title: "&a&lRoots cổ điển"
 	quest.217DF3B66A07A8DE.quest_desc: [""]
-	quest.217DF3B66A07A8DE.quest_subtitle: "&oGarden of Eden in just a single Hạt giống."
+	quest.217DF3B66A07A8DE.quest_subtitle: "&oVườn Địa Đàng chỉ trong một hạt giống duy nhất."
 	quest.217DF3B66A07A8DE.title: "&3&lDimensional&2Hạt giống"
 	quest.2188C52C1F384DE4.quest_desc: [""]
-	quest.2188C52C1F384DE4.quest_subtitle: "&oEver burning fuel (not really)."
-	quest.2188C52C1F384DE4.title: "&c&lPhilosopher's Fuel"
-	quest.21AB14A8553896E9.quest_desc: ["Guys I think you didn't hear me right I said &e&lProductive Bees&r! Oh wait there's another Mod! \\n\\nThis one is related to &e&lProductive Bees&r as you'll need them for breeding Trees. \\n\\nNo, Trees do not use Wheat to breed, they use Bees. \\n\\n&oThe Trees and the Bees&r."]
-	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
-	quest.23254CE8487D2E68.quest_desc: ["The &8Wither Builder&r is one of the greatest Machines you can get from &lIndustrial Foregoing&r, and because of that it's expensive. \\n\\nFirst you will need the parts that make a &8Wither&r and a drop from the &8Wither&r. \\n\\nThen, you'll need a &6Supreme Machine Frame&r which you need &bEther Gas&r to make. Guess what you need for &bEther Gas&r? That's right! A &8Wither&r! You'll need a Laser Drill working on a &8Wither&r to get it. \\n\\n&8Withers&r like to leave and kill things so a Stasis Chamber would make milking them easier! "]
-	quest.23254CE8487D2E68.title: "&8Wither Builder"
-	quest.23AE395433AED3C0.quest_desc: ["The &6&lATM Star&r needs a few Blocks to hold together the different Items, and make its star shape! \\n\\nThe first Blocks are &5Unobtainium&r - &6Allthemodium&r &5Alloy&r &6Blocks&r. You need to use an Enchanting Apparatus from &d&lArs Nouveau&r to make them! To make 28 to be exact. \\n\\nFor 17 X3 Netherstar Blocks you'll need 111,537 Netherstars. (Please I am begging you use &l&bHNN&r just don't spawn and kill 111,537, please!)"]
-	quest.23AE395433AED3C0.title: "&6&lThe Star's&rCasing"
-	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lModern Industrialization&r is a mod as big as its name! \\n\\nIt has multiple tiers of machines and thankfully we don't need to go to the last one for the &6&lStar&r. \\n\\nInfact now, it is entirely optional! If you'd rather play with &6&lCreate&r to create (get it?) the &6&lATM Star&r you can!"]
-	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
-	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
+	quest.2188C52C1F384DE4.quest_subtitle: "&oKhông bao giờ đốt nhiên liệu (không hẳn vậy)."
+	quest.2188C52C1F384DE4.title: "&c&lNhiên liệu của triết gia"
+	quest.21AB14A8553896E9.quest_desc: ["Các bạn, tôi nghĩ các bạn không nghe thấy tôi nói đúng. Tôi đã nói &e&lNhững con ong năng suất! Ồ chờ đã có Mod khác! \n\nCái này liên quan đến &e&lOng Năng suất vì bạn sẽ cần chúng để nhân giống Cây. \n\nKhông, Cây không sử dụng Lúa mì để sinh sản mà sử dụng Ong. \n\n&oCây và những con ong."]
+	quest.21AB14A8553896E9.title: "&2&lCây năng suất"
+	quest.23254CE8487D2E68.quest_desc: ["&8Wither Builder là một trong những Máy tốt nhất mà bạn có thể nhận được từ &lIndustrial Foregoing, và do đó nó đắt tiền. \n\nTrước tiên, bạn sẽ cần các bộ phận tạo nên &8Wither và phần rơi ra từ &8Wither. \n\nSau đó, bạn sẽ cần &6Supreme Machine Frame mà bạn cần &bEther Gas để tạo. Đoán xem bạn cần gì cho &bEther Gas? Đúng vậy! A &8Héo! Bạn sẽ cần Laser Drill làm việc trên &8Wither để có được nó. \n\n&8Withers thích bỏ đi và giết chóc nên Stasis Chamber sẽ giúp việc vắt sữa chúng trở nên dễ dàng hơn!"]
+	quest.23254CE8487D2E68.title: "&8Người xây dựng khô héo"
+	quest.23AE395433AED3C0.quest_desc: ["Ngôi sao &6&lATM cần một vài Khối để giữ các Vật phẩm khác nhau lại với nhau và tạo thành hình ngôi sao của nó! \n\nCác Khối đầu tiên là &5Unobtainium's - &6Allthemodium's &5Alloy's &6Blocks&r. Bạn cần sử dụng Thiết bị mê hoặc từ &d&lArs Nouveau để chế tạo chúng! Để chính xác là 28. \n\nVới 17 X3 Netherstar Blocks bạn sẽ cần 111.537 Netherstars. (Làm ơn, tôi cầu xin bạn sử dụng &l&bHNN, đừng sinh sản và giết 111.537, làm ơn!)"]
+	quest.23AE395433AED3C0.title: "&6&lVỏ của ngôi sao"
+	quest.24F3E90C14BFD1B4.quest_desc: ["&7&lCông nghiệp hóa hiện đại là một mod lớn như tên gọi của nó! \n\nNó có nhiều tầng máy và rất may là chúng ta không cần phải đi đến tầng cuối cùng dành cho &6&lStar. \n\nThực tế bây giờ, nó hoàn toàn là tùy chọn! Nếu bạn muốn chơi với &6&lCreate&r để tạo (hiểu không?) &6&lATM Star thì bạn có thể!"]
+	quest.24F3E90C14BFD1B4.title: "&7&lCông nghiệp hóa hiện đại"
+	quest.263C9A0FC04472AB.quest_desc: ["Cái này có thể ăn &cLava như không có cái nào khác, hoặc được sử dụng cho &6&lStar. \n\nĐây là một điều khó khăn, tôi thích nhìn thấy &cLava biến mất thay vì đồ của tôi biến mất trong &cLava."]
 	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
-	quest.268EA2DEC8840D13.quest_desc: ["When working on &4Computers&r, especially Quantum ones, the Hammers and Pliers on the Crafting Table won't be able to craft us what we need, we'll need a &bCrystal Assembler&r. \\n\\nFor this one we'll need a whole bunch of &9Singularities&r!"]
+	quest.268EA2DEC8840D13.quest_desc: ["Khi làm việc trên &4Computers, đặc biệt là các máy Quantum, Búa và Kìm trên Bàn chế tạo sẽ không thể tạo ra những gì chúng ta cần, chúng ta sẽ cần một &bCrystal Assembler. \n\nĐối với cái này, chúng ta sẽ cần rất nhiều &9 Điểm kỳ dị!"]
 	quest.268EA2DEC8840D13.title: "&4Quantum Computer Multi-Threader"
-	quest.28DB59B20109D0D4.quest_desc: ["&6&lOritech&r is a Tech Mod (go figure!) known for lots of &lMultiblock Machines&r, Dangerous Blocks, and Colorful Titled Blocks! \\n\\nYou'll need a bunch of Machines, many different Alloys and Materials, and lots of time. \\n\\nYou'll need a &6Magnetic Coil&r to start, and good luck!"]
+	quest.28DB59B20109D0D4.quest_desc: ["&6&lOritech là một Tech Mod (hãy hình dung!) được biết đến với rất nhiều &lMultiblock Machines, Dangerous Blocks và Colorful Titled Blocks! \n\nBạn sẽ cần rất nhiều Máy móc, nhiều Hợp kim và Vật liệu khác nhau và rất nhiều thời gian. \n\nBạn sẽ cần một &6Cuộn dây từ để bắt đầu và chúc may mắn!"]
 	quest.28DB59B20109D0D4.title: "&6&lOritech"
-	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r is all about using Glyphs in Spellbooks to be able to cast them as Spells!"]
+	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau's tập trung vào việc sử dụng Glyph trong Sách Phép để có thể sử dụng chúng thành Phép thuật!"]
 	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
-	quest.2A444F4CCC72545D.quest_desc: ["The easiest Item we'll need for the &6&lATM Star&r from &4&lCataclysm&r is the &5Abyssal Sacrifice&r. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop them! \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
+	quest.2A444F4CCC72545D.quest_desc: ["Vật phẩm đơn giản nhất mà chúng ta cần cho &6&lATM Star từ &4&lCataclysm&r là &5Abyssal Sacrifice. \n\nVật phẩm cơ bản nhất cần có là Khối Thỏi và Thạch anh tím, chúng chỉ là Vật phẩm &2&lVanilla. \n\nSau đó, bạn sẽ cần Nautilus Shell và Trái tim của biển cả. Đây là những Vật phẩm của &2&lVanilla rất hiếm có được... trừ khi bạn giết &5Deeplings để có thể đánh rơi chúng! \n\nBạn cũng sẽ cần một Athame, một loại vũ khí được sử dụng bởi &5Deepling Warlocks &fand &5Priests&r và bị chúng đánh rơi khi chết. \nPhần cuối cùng cho chúng ta lựa chọn Crystallized Coral hoặc Coral Chunk. Cả hai đều rơi ra từ &5Coral Golem và &5Coralsus."]
 	quest.2A444F4CCC72545D.title: "&5Abyssal Sacrifice"
-	quest.2A72B262AF4F11C9.quest_desc: ["To get the &6Socotra Dragon&r Sapling you'll need to Breed &7Wenge&r with &4Cocobolo&r. \\n\\nTo get &7Wenge&r you'll need to Breed &4Cocobolo&r with &fBalsa&r. \\n\\nTo get &4Cocobolo&r you'll need to Breed Balsa with &8Dark Oak&r. \\n\\nTo get &fBalsa&r you'll need to Breed &cAcacia&r with &eTeak&r. \\n\\nTo get &fTeak&r you can Breed &2Jungle&r and &8Dark Oak&r."]
-	quest.2A72B262AF4F11C9.title: "&6Socotra Dragon&rSapling"
-	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r are a combination of multiple different Blast and Radiactive proof Alloys and of course radioactive Materials. \\n\\nThese will all come together to make a wonderful fuel for a reactor! Or &c&lPhilosphers Fuel&r!  \\n\\nOr you can just use a &cBlaze Burner&r... but come on that's no fun!"]
+	quest.2A72B262AF4F11C9.quest_desc: ["Để có được Cây con của &6Socotra Dragon, bạn sẽ cần Nhân giống &7Wenge với &4Cocobolo. \n\nĐể có được &7Wenge, bạn cần phải nhân giống &4Cocobolo với &fBalsa&r. \n\nĐể nhận được &4Cocobolo, bạn cần phải Breed Balsa với &8Dark Oak&r. \n\nĐể có được &fBalsa, bạn cần phải Nhân giống &cAcacia&r với &eTeak&r. \n\nĐể có được &fTeak, bạn có thể Nhân giống &2Jungle’s và &8Dark Oak&r."]
+	quest.2A72B262AF4F11C9.title: "&6Cây non của Rồng Socotra"
+	quest.2B0C3AAAA6D0B0D2.quest_desc: ["&aUranium Quad Fuel Rods&r là sự kết hợp của nhiều Hợp kim chống nổ và phóng xạ khác nhau và tất nhiên là cả Vật liệu phóng xạ. \n\nTất cả những thứ này sẽ kết hợp với nhau để tạo ra một loại nhiên liệu tuyệt vời cho lò phản ứng! Hoặc &c&lNhiên liệu của Philosphers!  \n\nHoặc bạn chỉ có thể sử dụng &cBlaze burner... nhưng thôi nào, điều đó chẳng thú vị gì cả!"]
 	quest.2B0C3AAAA6D0B0D2.title: "&aUranium Quad Fuel Rods"
-	quest.2B57C8D2F98A9279.quest_desc: ["&l&7Pocket Storage&r is a mod that adds simple handheld storage. \\n\\nRight Click to open it and you can put Items in. They will have a max count that it can hold, and anymore Items put in past it will be voided. It will also vacuum up Items on the ground that are the same as in it. \\n\\nThere's also ways you can dump it into Chests or take out of Chests quickly. \\n\\nThe different Tiers the higher the Slots and Max Items will be."]
-	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
-	quest.2CECCA9D05D3EF12.quest_desc: ["The &2Eternal Stella&r is quite expensive. You'll need a Tier 3 Forge first! \\n\\nThen, you'll need &7Stellarite Piece&r which you can mine for. And you have to get 3 &aXpetried Orbs&r which you can no longer mine for. Instead you'll have to feed a Black Hole &aEXP&r to get it! \\n\\nFinally, you'll need an &6AllTheModium Ingot&r to get the &2Eternal Stella&r. It makes sense why it is so expensive as it can be combined with any Tool to make it Invincibile!"]
-	quest.2CECCA9D05D3EF12.title: "&2Eternal Stella"
-	quest.2D474F8075E9DBD0.quest_desc: ["First you need to place down the Casting Altar and Standing Stones in the pattern specified in JEI. \\n\\nThen, you'll need to put a Diamond Block, a Stick, and Blaze Powder into the Altar. \\n\\nAfter that, place down 4 Incense Blaziers around the Altar, put the Block of Coal in one, Acacia Bark in another, Verdant Bark in the third, and Birch Bark in the last. And light them all up with a Flint and Steel! \\n\\nThen Shift Right Click the Altar to start the Ritual! If it didn't work check the pattern the Standing Stones are in."]
-	quest.2D64EF8D803AF9DA.quest_desc: ["The most expensive Portal we can make. First for &dDragon Eggs&r you don't have to keep milking the &dDragon&r you can use &l&bHNN&r or &l&2MA&r to get them or an Extrator to make more! \\n\\nThen, you'll need &dInfused Dragon's Breath&r from Enchanting. \\n\\nThere you'll need &9Soul-Touched Sculkshelves&r to Enchant it and to make the Portal. \\n\\nIf you are wondering why the Portal won't work, it's because you are already in the &2&lOverworld&r! Just kidding you can't use it!"]
-	quest.2E88CCBC7B97A1F0.quest_desc: ["If only that giant portal in the Ancient City did something! Oh wait with &9&lDeeper and Darker&r it can! \\n\\nYou only need a..."]
-	quest.2E88CCBC7B97A1F0.title: "&9&lDeeper và Darker"
-	quest.2F76D074AEA84A4D.quest_desc: ["By Right Clicking an &dEnder Dragon&r with an empty &bData Model&r, you can make the &dEnder Dragon &bData Model&r. \\n\\nThe Quest needs any version of it, but the &d&lDragon Soul&r needs the &bData Model&r to be &6Self Aware&r. \\n\\nIn order to get it &6Self Aware&r you need to keep killing the &dDragon&r or make a crap-ton of Predictions!"]
-	quest.2F76D074AEA84A4D.title: "&dEnder Dragon&bData Model"
-	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r is all about upgrading... well your Carts! \\n\\nWhat sort of upgrades? Pretty much everything but the kitchen sink! \\n\\nFrom Drills, to guns, to arcade machines! What more could you want with your Carts?"]
-	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
-	quest.30CC20E33EFA2EDA.quest_desc: ["The &cBlaze Burner&r is actually probably one of the easiest &6&lStar&r Ingrediants! \\n\\nFirst, we'll need an &cEmpty Blaze Burner&r. These are just 4 &7Iron Plates&r and a single &cNetherrack&r. \\n\\nThen, take your &cEmpty Blaze Burner&r and find a &cBlaze&r. You should know where they spawn but incase you don't: &cBlazes&r spawn in Structures in &c&lThe Nether&r. Just Right Click the &cBlaze&r with the &cEmpty Blaze Burner&r to capture it! \\n\\nOnce captured, it can be used in exchange for the &aUranium Quad Fuel Rods&r to make the &c&lPhilosopher's Fuel&r."]
-	quest.30CC20E33EFA2EDA.title: "&cBlaze Burner"
-	quest.3145B847A15F97F2.quest_desc: ["You can combine the Essences from &2&lMystical Agriculture&r to make... &8Coal&r. \\n\\nObviously it works as an amazing Fuel source but &5Insanium Coal&r seems a little too insane for me. "]
-	quest.3145B847A15F97F2.title: "&5Insanium Coal Block"
-	quest.31B0267C47DB9D98.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \\n\\nLuckily the only thing scary about &a&lExtreme Reactors&r is how confusing it can be to follow the recipes! \\n\\nNot the explody part they don't do that."]
-	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
-	quest.340CDF4357E22A43.quest_desc: ["Iron has blessed us with a very fun Exploration and Magic Mod! Fighting with and for Magic! Nothing is cooler than that! \\n\\nIt has a Quest Page which you are welcome for. "]
-	quest.340CDF4357E22A43.title: "&e&lSắt's Spells và Spellbooks"
+	quest.2B57C8D2F98A9279.quest_desc: ["&l&7Pocket Storage là một mod bổ sung thêm kho lưu trữ cầm tay đơn giản. \n\nRight Click để mở nó và bạn có thể đặt Vật phẩm vào. Chúng sẽ có số lượng tối đa mà nó có thể chứa và những Vật phẩm được đặt vào quá khứ sẽ bị vô hiệu. Nó cũng sẽ hút sạch các vật phẩm trên mặt đất giống như trong đó. \n\nNgoài ra còn có cách để bạn có thể đổ nó vào Rương hoặc lấy ra khỏi Rương một cách nhanh chóng. \n\nCác Cấp khác nhau thì Slots và Vật phẩm tối đa sẽ càng cao."]
+	quest.2B57C8D2F98A9279.title: "&l&7Bộ nhớ bỏ túi"
+	quest.2CECCA9D05D3EF12.quest_desc: ["&2Eternal Stella khá đắt. Trước tiên, bạn sẽ cần Lò rèn Cấp 3! \n\nSau đó, bạn sẽ cần &7Stellarite Piece để có thể khai thác. Và bạn phải nhận được 3 &aXpetried Orbs mà bạn không thể khai thác được nữa. Thay vào đó, bạn sẽ phải nạp Black Hole &aEXP&r để nhận được nó! \n\nCuối cùng, bạn sẽ cần &6AllTheModium Ingot để có được &2Eternal Stella. Thật dễ hiểu tại sao nó lại đắt đến vậy vì nó có thể được kết hợp với bất kỳ Công cụ nào để biến nó thành Bất khả chiến bại!"]
+	quest.2CECCA9D05D3EF12.title: "&2Stel vĩnh cửu"
+	quest.2D474F8075E9DBD0.quest_desc: ["Trước tiên, bạn cần đặt Bàn thờ đúc và Đá đứng theo mẫu được chỉ định trong JEI. \n\nSau đó, bạn sẽ cần đặt Diamond Block, Cây gậy và Blaze Powder vào Bàn thờ. \n\nSau đó, đặt 4 Incense Blaziers xung quanh Bàn thờ, đặt Khối Than vào một, Acacia Bark ở một cái khác, Verdant Bark ở cái thứ ba và Birch Bark ở cái cuối cùng. Và thắp sáng tất cả chúng bằng Flint and Steel! \n\nSau đó Shift Nhấp chuột phải vào Bàn thờ để bắt đầu Nghi lễ! Nếu nó không hoạt động, hãy kiểm tra kiểu dáng của các Viên đá Đứng."]
+	quest.2D64EF8D803AF9DA.quest_desc: ["Cổng thông tin đắt nhất mà chúng tôi có thể tạo ra. Đầu tiên, đối với &dDragon Eggs, bạn không cần phải tiếp tục vắt sữa &dDragon, bạn có thể sử dụng &l&bHNN&r hoặc &l&2MA&r để lấy chúng hoặc một Extrator để kiếm thêm! \n\nSau đó, bạn sẽ cần &dInfused Dragon's Breath&r từ Enchanting. \n\nỞ đó, bạn sẽ cần &9Soul-Touched Sculkshelves'r để Enchant nó và tạo Cổng. \n\nNếu bạn thắc mắc tại sao Cổng không hoạt động thì đó là vì bạn đã ở trong &2&lOverworld! Đùa thôi bạn không thể sử dụng nó!"]
+	quest.2E88CCBC7B97A1F0.quest_desc: ["Giá như cánh cổng khổng lồ trong Ancient City làm được điều gì đó! Ồ, hãy đợi với &9&lSâu hơn và tối hơn, nó có thể! \n\nBạn chỉ cần một..."]
+	quest.2E88CCBC7B97A1F0.title: "&9&lSâu hơn và tối hơn"
+	quest.2F76D074AEA84A4D.quest_desc: ["Bằng cách nhấp chuột phải vào &dEnder Dragon với một &bData Model trống, bạn có thể tạo &dEnder Dragon &bData Model. \n\nNhiệm vụ cần bất kỳ phiên bản nào của nó, nhưng &d&lDragon Soul cần &bData Model là &6Self Aware. \n\nĐể có được &6Tự Nhận Thức, bạn cần phải tiếp tục tiêu diệt &dDragon hoặc tạo ra vô số Dự đoán!"]
+	quest.2F76D074AEA84A4D.title: "&dEnder Dragon&bMô hình dữ liệu"
+	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts là về việc nâng cấp... à Xe đẩy của bạn! \n\nNhững loại nâng cấp? Khá nhiều thứ trừ bồn rửa nhà bếp! \n\nTừ máy khoan, súng đến máy trò chơi điện tử! Bạn còn muốn gì hơn nữa với Xe đẩy của mình?"]
+	quest.309B0B2898893B4E.title: "&l&bXe đẩy của Steve"
+	quest.30CC20E33EFA2EDA.quest_desc: ["&cBlaze burner thực sự có lẽ là một trong những Nguyên liệu dễ dàng nhất của &6&lStar! \n\nĐầu tiên, chúng ta cần một &cEmpty Blaze Burner&r. Đây chỉ là 4 &7Tấm sắt và một &cNetherrack. \n\nSau đó, lấy &cEmpty Blaze Burner của bạn và tìm &cBlaze. Bạn nên biết chúng sinh sản ở đâu nhưng trong trường hợp bạn không biết: &cBlazes sinh sản trong Cấu trúc ở &c&lThe Nether’s. Just Right Click &cBlaze cùng với &cEmpty Blaze Burner&r để nắm bắt nó! \n\nSau khi chiếm được, nó có thể được sử dụng để đổi lấy &aUranium Quad Fuel Rods&r để tạo ra &c&lNhiên liệu của Nhà triết học."]
+	quest.30CC20E33EFA2EDA.title: "&cLò đốt lửa"
+	quest.3145B847A15F97F2.quest_desc: ["Bạn có thể kết hợp Tinh chất từ ​​&2&lNông nghiệp huyền bí để tạo ra... &8Than. \n\nRõ ràng nó hoạt động như một nguồn Nhiên liệu tuyệt vời nhưng &5Insanium Coal có vẻ hơi quá điên rồ đối với tôi."]
+	quest.3145B847A15F97F2.title: "&5Sự điên rồ Coal Block"
+	quest.31B0267C47DB9D98.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors có thể khá đáng sợ đối với một số người, đặc biệt là với những tác động nguy hiểm của chúng! \n\nMay mắn thay, điều đáng sợ duy nhất về &a&lExtreme Reactors là việc làm theo các công thức nấu ăn có thể khó hiểu đến mức nào! \n\nKhông phải phần nổ họ không làm điều đó."]
+	quest.3331EBE1BB4BF64D.title: "&a&lLò phản ứng cực mạnh"
+	quest.340CDF4357E22A43.quest_desc: ["Iron đã ban phước cho chúng tôi với một cuộc Khám phá rất thú vị và Magic Mod! Chiến đấu bằng và vì phép thuật! Không có gì mát hơn thế! \n\nNó có Quest Page mà bạn được chào đón."]
+	quest.340CDF4357E22A43.title: "&e&lSắt Phép thuật và Sách Phép thuật"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Wet Light Green Blocks"
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
-	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
-	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
-	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r is one of the most popular Machine and Technology Mods. Quite frankly I have a hard time summarizing it as it has so much in it! \\n\\nIt has so much we even had to make 2 Quest Pages for it! \\n\\nThe stuff we need for the &6&lATM Star&r is in the Reactors page but you'll need to get through the Mekanism page to get there."]
+	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oSự thiếu khôn ngoan đã là chuyện quá khứ với điều này."
+	quest.36DF0D83EBC2B6A9.title: "&3&lKhông thể tin được Probability Device"
+	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism là một trong những Máy phổ biến nhất và Technology Mods. Thành thật mà nói, tôi gặp khó khăn khi tóm tắt nó vì nó có quá nhiều thứ trong đó! \n\nNó có nhiều đến mức chúng tôi thậm chí phải làm 2 Quest Pages cho nó! \n\nNhững thứ chúng tôi cần cho &6&lATM Star có trong trang Lò phản ứng nhưng bạn sẽ cần phải truy cập trang Mekanism để đến đó."]
 	quest.372B5BF416CA83A4.title: "&5&lMekanism"
 	quest.39B4F361EF611927.quest_desc: [""]
-	quest.39B4F361EF611927.quest_subtitle: "&oPower over Death itself."
-	quest.39B4F361EF611927.title: "&l&8Wither's Compass"
-	quest.39F9C825B03DA317.quest_desc: ["&8Aerial Interface&r works as a link between it's own internal storage and your Inventory. Basically whatever goes in it, goes to you. \\n\\nYou'll need a whole assembly line to craft it, the Quests should help you!"]
-	quest.39F9C825B03DA317.title: "&8Aerial Interface"
-	quest.3AAB71E9BDFD4C1E.quest_desc: ["No pressure! Well actually you'll need a lot of Pressure with using &4&lPneumaticCraft&r. \\n\\nThat's kinda what it's all about..."]
+	quest.39B4F361EF611927.quest_subtitle: "&oSức mạnh vượt qua chính cái chết."
+	quest.39B4F361EF611927.title: "&l&8La bàn của Wither"
+	quest.39F9C825B03DA317.quest_desc: ["&8Giao diện trên không hoạt động như một liên kết giữa bộ nhớ trong của chính nó và Kho của bạn. Về cơ bản bất cứ điều gì có trong đó, sẽ đến với bạn. \n\nBạn sẽ cần cả một dây chuyền lắp ráp để chế tạo nó, Nhiệm vụ sẽ giúp bạn!"]
+	quest.39F9C825B03DA317.title: "&8Giao diện trên không"
+	quest.3AAB71E9BDFD4C1E.quest_desc: ["Không có áp lực! Thực ra bạn sẽ cần rất nhiều Áp lực khi sử dụng &4&lPneumaticCraft. \n\nĐó là tất cả những gì về ..."]
 	quest.3AAB71E9BDFD4C1E.title: "&4&lPneumaticCraft"
 	quest.3BE5CD0C7CC4BCC6.quest_desc: [
-		"Soul Lava is a part of &6&lAllthemodium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\\n\\nWe'll need to take a Bucket of &9Soul Lava&r and pour it over a Ghostly Bee egg to make a &9Soul Lava Bee egg&r.\\n\\nThen, you'll need to squish them or poke them for it's DNA to make a Spawn Egg!\\n"
+		"Soul Lava là một phần của &6&lAllthemodium. Nó có thể được tìm thấy trong &b&lThe Other rất hiếm khi ở dưới lòng đất, hoặc phổ biến ở Piglich Villages!\n\nChúng ta sẽ cần lấy một Xô chứa &9Soul Lava và đổ nó lên quả trứng Ghostly Bee để tạo thành quả trứng &9Soul Lava Bee.\n\nSau đó, bạn sẽ cần phải bóp nát chúng hoặc chọc chúng để có được DNA để tạo thành Spawn Egg!"
+
 		"{image:atm:textures/questpics/soul_lava_process.png width:100 height:100 align:center}"
 	]
-	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&rSpawn Trứng"
-	quest.3C7C9EE57AD00A76.quest_desc: ["You can craft these?!?!?! I've always just looted for them. \\n\\nYou can change if they home in on targets or fly straight. When homing you can change between the settings of &cSpeed&r, &6Damage&r, and &aTurn Speed&r."]
+	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&rĐẻ trứng"
+	quest.3C7C9EE57AD00A76.quest_desc: ["Bạn có thể tạo ra những thứ này?!?!?! Tôi luôn cướp bóc vì họ. \n\nBạn có thể thay đổi nếu chúng tiếp cận mục tiêu hoặc bay thẳng. Khi về nhà, bạn có thể thay đổi giữa các cài đặt của &cSpeed&r, &6Damage&r và &aTurn Speed&r."]
 	quest.3C7C9EE57AD00A76.title: "&cMicromissiles"
-	quest.3CFD27F273B97FDD.quest_desc: ["The &5&lApothic&r mods have multiple cores, each changing different parts of &2&lMinecraft&r.\\n\\nThe Attributes and Enchanting mods are what you'll need to follow to get the &6&lATM Star&r!"]
+	quest.3CFD27F273B97FDD.quest_desc: ["Các mod của &5&lApothic có nhiều lõi, mỗi lõi thay đổi các phần khác nhau của &2&lMinecraft.\n\nCác thuộc tính và mod mê hoặc là những gì bạn cần tuân theo để nhận được &6&lATM Star!"]
 	quest.3CFD27F273B97FDD.title: "&5&lApothic&rMods"
-	quest.3F5B5D6B788E0A73.quest_desc: ["Blood, flesh, rituals, if it's evil you can bet it's from &4&lEvilCraft&r! "]
+	quest.3F5B5D6B788E0A73.quest_desc: ["Máu, thịt, nghi lễ, nếu là tà ác bạn có thể đặt cược nó đến từ &4&lEvilCraft!"]
 	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
-	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r is an Effect in &l&2Vanilla&r so of course we need our own way of using and abusing it! \\n\\nYou can Brew an Awkward Potion with a &8Wither Skeleton Skull&r to create it. Then you can craft Arrows with it!"]
-	quest.4195800B4D7631E2.quest_desc: ["Through the ritual of &6Eziveus' Spectral Compulsion&r we can combine a &7Wormhole Frame&r, 2 Quartz, and an &3Enderpearl&r to get our Wormhole!"]
-	quest.4195800B4D7631E2.title: "&6Stable Wormhole"
-	quest.42AF4EBDA5D6CC36.quest_desc: ["You can make &2Blastproof Alloy&r by combining the three strongest Metals available. &5Tungsten&r, &dTitanium&r, and &7Stainless Steel&r. Yes, stains matter apparently. \\n\\nWith these you can combine them to make the &2Casing&r. \\n\\nFor the &3&lImprobable Probablity Device&r we'll need either 2 &2Blastproof Casings&r, or 2 256M Portable Item Cells, or we can use a mix of both!"]
-	quest.42AF4EBDA5D6CC36.title: "&2Blastproof Casing"
-	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r isn't a Storage Mod, it is &lTHE&r Storage Mod. \\n\\nI personally don't know much about the Mod but the Quest page should help you learn it!"]
-	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.45D10F53CA18B8EE.quest_desc: ["Unfortunately you can't get &5Lightning&r Runes from a Mob drop, instead we'll need to craft them with &5Bottle O' Lightning&r. \\n\\nWe get &5Bottle O' Lightning&r from using an Empty Bottle on a Charged Creeper. \\n\\nDangerous I know..."]
+	quest.3F8AEBB994716318.quest_desc: ["&8Wither là một Hiệu ứng trong &l&2Vanilla nên tất nhiên chúng ta cần có cách riêng để sử dụng và lạm dụng nó! \n\nBạn có thể Pha Awkward Potion bằng &8Wither Skeleton Skull&r để tạo ra nó. Sau đó, bạn có thể chế tạo Mũi tên với nó!"]
+	quest.4195800B4D7631E2.quest_desc: ["Thông qua nghi thức &6Eziveus' Spectral Compulsion&r, chúng ta có thể kết hợp &7Wormhole Frame, 2 Quartz và &3Enderpearl để có được Wormhole!"]
+	quest.4195800B4D7631E2.title: "&6Hố giun ổn định"
+	quest.42AF4EBDA5D6CC36.quest_desc: ["Bạn có thể tạo &2Hợp kim chống nổ bằng cách kết hợp ba Kim loại mạnh nhất hiện có. &5Tungsten, &dTitanium, và &7Thép không gỉ. Vâng, vết bẩn rõ ràng là quan trọng. \n\nVới những thứ này, bạn có thể kết hợp chúng để tạo thành &2Casing. \n\nĐối với &3&lKhông thể cải thiện Probablity Device&r, chúng tôi sẽ cần 2 &2Vỏ chống nổ hoặc 2 256M Portable Item Cells hoặc chúng tôi có thể sử dụng kết hợp cả hai!"]
+	quest.42AF4EBDA5D6CC36.title: "&2Vỏ chống nổ"
+	quest.4485C4ABD57874EB.quest_desc: ["&b&lNăng lượng ứng dụng không phải là Storage Mod, mà là &lTHE Storage Mod. \n\nCá nhân tôi không biết nhiều về Mod nhưng trang Quest sẽ giúp bạn tìm hiểu nó!"]
+	quest.4485C4ABD57874EB.title: "&b&lNăng lượng ứng dụng"
+	quest.45D10F53CA18B8EE.quest_desc: ["Rất tiếc, bạn không thể lấy Ngọc thạch của &5Lightning từ Mob rơi ra, thay vào đó chúng ta sẽ cần chế tạo chúng bằng &5Bottle O' Lightning&r. \n\nChúng tôi nhận được &5Bottle O' Lightning& từ việc sử dụng Empty Bottle trên Charged Creeper. \n\nNguy hiểm lắm tôi biết..."]
 	quest.45D10F53CA18B8EE.title: "&5Lightning&rNâng cấp Orb"
-	quest.486B5A605D79EA10.quest_desc: ["The &cManhattan &aModule&r is a complicated Recipe. It needs &cTNT&r, &dPlutonium Pellets&r, and &5Heisenberg Compensators&r. Okay maybe 2/3 of it is complicated. \\n\\nTo make &dPlutonium Pellets&r, start by Energizing &5Amethyst Shards&r. This will make &5Fluxite&r, which can be used with &aUranium Dust&r in a &l&5Particle Accelerator&r to make &dPlutonium Dust&r. \\n\\n&dPlutonium Dust&r can be Crafted with Plastic Sheets and an Ingot to make our &dPellets&r. \\n\\nThe &5Heisenberg Compensator&r has 2 Recipes we can use. Each will need the &c&lAtomic Forge&r to &cEngrave&r them with &bAdamant Ingots&r. \\n\\n1. Is with &bUnholy Intelligence&r. Which is created by filling a &2Dubious Container&r with &5Strange Matter&r. &5Strange Matter&r is found by putting &cLava&r and an &3Enderic Compound&r through a &d&lFluid Refinery&r with 2 Extra Chambers attached to it. \\n\\n2. Is with the &eSuper AI Chip&r. AI in &2&lMinecraft&r? Yes, and it requires a Recipe Tree of &cEngraving&r, with the &c&lAtomic Forge&r, in order to Craft. Lots of &8Silicon&r for sure."]
+	quest.486B5A605D79EA10.quest_desc: ["&cManhattan &aModule là một Công thức phức tạp. Nó cần &cTNT, &dPlutonium Pellets, và &5Heisenberg Compensators. Được rồi có lẽ 2/3 của nó là phức tạp. \n\nĐể tạo ra &dPlutonium Pellets, hãy bắt đầu bằng Energizing &5Amethyst Shards. Điều này sẽ tạo ra &5Fluxite, có thể được sử dụng với &aUranium Dust trong &l&5Particle Accelerator để tạo ra &dPlutonium Dust. \n\n&dPlutonium Dust có thể được Chế tạo bằng Plastic Sheets và một Thỏi để tạo ra &dPellet của chúng tôi. \n\n&5Heisenberg Compensator có 2 Công thức mà chúng ta có thể sử dụng. Mỗi người sẽ cần &c&lAtomic Forge để &cKhắc chúng bằng &bAdamant Ingots. \n\n1. Là với &bTrí thông minh xấu xa. Nó được tạo ra bằng cách lấp đầy &5Strange Matter của &2Dubious Container. &5Strange Matter được tìm thấy bằng cách đặt &cLava và một &3Enderic Contract thông qua &d&lFluid Refinery với 2 Extra Chambers gắn liền với nó. \n\n2. Đi kèm với &eSuper AI Chip. AI trong &2&lMinecraft? Có, và nó yêu cầu Recipe Tree &cKhắc, với &c&lAtomic Forge của &c&lAtomic Forge, để Chế tạo. Chắc chắn có rất nhiều &8Silicon."]
 	quest.486B5A605D79EA10.title: "&cManhattan&aModule"
-	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
-	quest.49FDD8666356A3E7.title: "Either or&2Blastproof Casings&fvà 256M Portable Item Cells"
-	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
-	quest.4B12425E74C5E511.title: "&cExplosive Mycelial Generator"
-	quest.4B7D387CEFF9667E.quest_desc: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC. \\n\\nIf it has been so long that you don't remember how to use &6&lCreate&r, you can use &7&lModern Industrialization&r to Craft the &6&lATM Star&r."]
+	quest.49FDD8666356A3E7.quest_desc: ["Chúng ta có thể sử dụng một trong hai hoặc cả &2Vỏ chống nổ hoặc 256M Portable Item Cells để chế tạo &3&lKhông thể cải thiện Probability Device&r. \n\nĐợi đã, tôi đã nói một trong hai hay cả hai? \n\nVâng tôi đã làm vậy! Chúng ta có thể sử dụng 2 &2 Vỏ chống nổ hoặc 2 256M Portable Item Cells hoặc một trong số đó."]
+	quest.49FDD8666356A3E7.title: "Hoặc&2Vỏ chống nổ&fvà 256M Portable Item Cells"
+	quest.4B12425E74C5E511.quest_desc: ["&cExplosive Mycelial Generator thực hiện một công việc tuyệt vời trong việc hấp thụ các vụ nổ. \n\nChúng ta có thể sử dụng nó cho &d&lPulsating &8Black Hole!"]
+	quest.4B12425E74C5E511.title: "&cChất nổ Mycelial Generator"
+	quest.4B7D387CEFF9667E.quest_desc: ["Cuối cùng! &6&lTạo đã được cập nhật và nó chắc chắn đáng để bạn chờ đợi! \n\n&6&lTạo là tất cả về việc xoay và sử dụng Rotational Power... hầu như phù hợp với mọi thứ! Chế tạo, nghiền, trộn, ủ, ETC. \n\nNếu đã quá lâu mà bạn không nhớ cách sử dụng &6&lTạo, bạn có thể sử dụng &7&lCông nghiệp hóa hiện đại để chế tạo &6&lATM Star."]
 	quest.4B7D387CEFF9667E.title: "&6&lCreate"
-	quest.4BD203AD481DDE8F.quest_desc: ["The &4Meat Shredder&r is made from &4Witherite&r, which is a Drop from &4&lThe Harbringer&r. \\n\\nYou'll need to find the &4Ancient Factory&r which lies deep underground in the &2&lOverworld&r. \\n\\nThen you'll find the powered down &4&lHarbringer&r, to power it up we'll need to feed it a Nether Star! \\n\\nThen, after a very difficult and long boss fight, you can Craft the &4Meat Shredder&r!"]
+	quest.4BD203AD481DDE8F.quest_desc: ["Máy hủy tài liệu &4Meat được làm từ &4Witherite, là sản phẩm rớt ra từ &4&lThe Harbringer. \n\nBạn sẽ cần tìm &4Ancient Factory nằm sâu dưới lòng đất trong &2&lOverworld. \n\nSau đó, bạn sẽ tìm thấy &4&lHarbringer đã tắt nguồn, để bật nguồn, chúng ta cần cấp nguồn cho nó Nether Star! \n\nSau đó, sau một trận đấu trùm rất khó khăn và kéo dài, bạn có thể Chế tạo &4Máy hủy thịt!"]
 	quest.4BD203AD481DDE8F.title: "&4Meat Shredder"
-	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \\n\\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
-	quest.4D7D4C718837BCA5.quest_desc: ["The main part of the recipe for the Miniature Nether Portal is the &3Hellshelf of Masterful Sight&r. Usually it is used to see what Enchantments you'll get but we're here for the &6&lATM Star&r not for Enchantments. \\n\\nYou'll only need to enchant to an &4Infused Hellshelf&r which you can get from just a few Shelves. Then you need to craft with it to upgrade it even more! \\n\\nAfter that you can craft the Miniature Nether Portal, which no you can't walk through you're too big!"]
+	quest.4CB488E5CF10F3A4.quest_desc: ["Chỉ có Máy phát điện mạnh nhất và đắt tiền nhất từ ​​&c&lGenerator Galore. \n\nBạn sẽ cần một &9Echo Shard, một &bConduit và rất nhiều Netherstar Generators!"]
+	quest.4D7D4C718837BCA5.quest_desc: ["Phần chính của công thức làm Miniature Nether Portal là &3Hellshelf của Masterful Sight&r. Thông thường, nó được sử dụng để xem bạn sẽ nhận được Bùa nào nhưng chúng tôi ở đây vì &6&lATM Star chứ không phải dành cho Bùa. \n\nBạn sẽ chỉ cần mê hoặc &4Infused Hellshelf mà bạn có thể nhận được từ một vài Kệ. Sau đó, bạn cần phải chế tạo nó để nâng cấp nó hơn nữa! \n\nSau đó, bạn có thể chế tạo Miniature Nether Portal, không, bạn không thể đi qua vì nó quá lớn!"]
 	quest.4E82E843737045D9.quest_desc: [""]
-	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
-	quest.4E82E843737045D9.title: "&d&lDragon Soul"
-	quest.4E8C32CD6057A1AB.quest_desc: ["To make the &c&lPhilospher's Fuel&r we get a choice of whether we want to use &cBlaze Burners&r or &aUranium Quad Fuel Rods&r. \\n\\nWhichever you find easier to Craft! \\n\\n(AKA the &cBlaze Burner&r!)"]
-	quest.4E8C32CD6057A1AB.title: "&cBlaze Burner&for&aUranium Quad Fuel Rods"
-	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r is a Boss added by &6&lAllthemodium&r which lives in the Ancient Pyramid in &l&bThe Other&r. \\n\\nOn death he'll drop 1 of his Hearts! You'll need 9 of them dead to make a Block of it... \\n\\nThankfully there are ways to farm them!"]
+	quest.4E82E843737045D9.quest_subtitle: "&oBản chất của những sinh vật mạnh mẽ nhất."
+	quest.4E82E843737045D9.title: "&d&lLinh hồn rồng"
+	quest.4E8C32CD6057A1AB.quest_desc: ["Để tạo ra &c&lNhiên liệu của Philospher, chúng ta có quyền lựa chọn xem chúng ta muốn sử dụng &cBlaze Burners hay &aUranium Quad Fuel Rods&r. \n\nBất cứ điều gì bạn thấy dễ dàng hơn để chế tạo! \n\n(AKA &cBlaze burner!)"]
+	quest.4E8C32CD6057A1AB.title: "&cBlaze burner&cho&aUranium Quad Fuel Rods"
+	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r is a Boss được thêm bởi &6&lAllthemodium’s which live in Ancient Pyramid trong &l&bThe Other&r. \n\nKhi chết, anh ta sẽ đánh rơi 1 Trái tim của mình! Bạn sẽ cần 9 người trong số họ chết để tạo ra một Khối... \n\nRất may có nhiều cách để nuôi chúng!"]
 	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
-	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \\n\\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
+	quest.535525EA4DF4AB59.quest_desc: ["Bộ phát &cPlayer sẽ cung cấp năng lượng cho bất kỳ ai có Binded Card. Điều đó bao gồm năng lượng cho tất cả áo giáp, công cụ và vật phẩm trong kho của họ. \n\nCấp &cNitro là cần thiết cho cấp &6&lStar, tất nhiên đây là cấp cuối cùng và khó đạt được nhất."]
 	quest.535525EA4DF4AB59.title: "&cNitro Player Transmitter"
 	quest.54B1A876E9F6707A.quest_desc: [""]
-	quest.54B1A876E9F6707A.quest_subtitle: "&oPower và destruction like no other!"
-	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
-	quest.54BAF833344F0AAE.quest_desc: ["This ones a 2 parter! First, you'll need a &8Dark Tank&r. Simple recipe only needing &8Dark Gems&r, Iron, and Glass. \\n\\nNext, you'll need &7Eclipse Ember Fuel&r. That's not so simple... \\n\\nTo get it you can start, drop an &7Eclipse Ember&r into &3Liquid Voidflame Fuel&r to make it &7Unrefined Eclipse Ember&r. Then, you'll need &9Shadowpulse Goo&r to spread to it to make &7Eclipse Ember Fuel&r. \\n\\nBy the way you'll need 16 Buckets worth!"]
-	quest.54BAF833344F0AAE.title: "&8Dark Tank&rfull of&7Eclipse Ember Fuel"
-	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
-	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r are the greatest Drills we can attach to our Carts. \\n\\nBecause of its greatness, that also means crafting it will be more difficult... \\nLet's just say you'll need a lot of &3Stabilized Metal&r! Follow the recipes!"]
-	quest.55BF254B1831359B.title: "&5Galadorian Drills"
-	quest.5608C74936CA9E81.quest_desc: ["The &6Mechanical Arm&r is a very confusing but also very helpful Machine from &6&lCreate&r. Thank God, I don't need to explain how to use them, only how to Craft them! \\n\\nFirst, and simplest is the &8Andesite Alloy&r. That is just 2 &8Andesite Blocks&r and 2 &7Zinc/Iron Nuggets&r. \\n\\nNext, is the &eBrass Plates &fand &eCasing&r. Both obviously require &eBrass&r which is an Alloy made of &6Copper&r and &7Zinc&r! \\n\\nLast, is definitely the most difficult of these, the &ePrecision Mechanism&r. You'll need a whole set up of &6Deployers &fand &eBelts&r to keep moving our &eGold Plate&r to add more Items to it. \\n\\n1st step: is using the &6Deployer&r to add a &dCogwheel&r to our &eGold Plate&r. 2nd: is using similar to add a &dLarge Cogwheel&r to it. 3rd step: has us adding an &7Iron Nugget&r with the &6Deployer&r. \\n\\nWe'll need to repeat this 5 times to hopefully get our &ePrecision Mechanism&r! Yep, there is an 20% you won't get the Item in the end! \\n\\nHey, if you don't like all this work, you can always Craft the &6Large Advanced Motor&r."]
-	quest.5608C74936CA9E81.title: "&6Mechanical Arm"
-	quest.561B5FB009744D2B.quest_desc: ["To get &aInsanite Blocks&r you'll need 8 &aInsanite Ingots&r and 1 &cBlock of Inanite&r. Yes, I know it's confusing with only a single letter difference. \\n\\nTo get &aInsanite Ingots&r you'll need to reprocess &bBenitoite&r with &4Rossinite&r in a Reprocessor. \\n\\n&bBenitoite&r needs to be Mined in &c&lThe Nether&r. \\n\\n&cInanite Blocks&r are made by combining 8 &cInanite Ingots&r with a &cBlock of Netherite&r! &cInanite&r not &aInsanite&r. \\n\\nTo get Inanite Ingots you will need to reprocess &dRidiculite&r with &4Rossinite&r in a Reprocessor. \\n\\n&dRidiculite&r is another chain of recipes that quite frankly I'm tired of looking at!"]
-	quest.561B5FB009744D2B.title: "&aInsanite Blocks"
-	quest.5791F3000D18E2C9.quest_desc: ["The &8Wither&r has a tendency to break and blow up Blocks. \\n\\nMost players do not enjoy this, so the &8Witherproof Bricks&r are just what you are looking for! \\n\\nThey are just like &8Witherproof Blocks&r, just with a better design!"]
-	quest.5791F3000D18E2C9.title: "&8Witherproof Bricks"
-	quest.57F107892FFA1F52.quest_desc: ["To grow Nether Star Seeds you'll need a Crux below the Farmland. Yes growing Nether Stars needed to be made more expensive! \\n\\nTo make the Nether Star Crux you'll need &7Withering Souls&r which have a 1/3 chance drop from &8Withers&r."]
-	quest.5869E198DA416346.quest_desc: ["Late Game &5&lMekanism&r is just insane. For 1 &5Antimatter Pellet&r you need to crystallize 1,000mb &5Antimatter&r. \\n\\nFor 1mb of &5Antimatter&r you need to power 1,000mb of &3Polonium&r through the SPS. \\n\\nTo get 1mb of &3Polonium&r you'll need to activate the Neutrons of 5mb of &2Nuclear Waste&r. \\n\\nAnd &2Nuclear Waste&r you get from processing &9Fissile Fuel&r through a Fission Reactor!"]
-	quest.5869E198DA416346.title: "2&5Antimatter Pellets"
-	quest.59EC02C1FBCF14EA.quest_desc: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \\n\\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \\n\\nOr make the &6&lStar&r, your choice."]
-	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2&4Piercing Vengeance Focuses"
-	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nYou can get these mobs from killing a &9Lunar Monstrocity&r. "]
-	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
-	quest.5B2FD54E425D5C9D.quest_desc: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
+	quest.54B1A876E9F6707A.quest_subtitle: "&oSức mạnh và sự hủy diệt không giống ai!"
+	quest.54B1A876E9F6707A.title: "&5&lMảnh lãng quên"
+	quest.54BAF833344F0AAE.quest_desc: ["Đây là một phần 2! Đầu tiên, bạn sẽ cần một chiếc &8Dark Tank. Công thức đơn giản chỉ cần 8Dark Gems, Sắt và Thủy tinh. \n\nTiếp theo, bạn sẽ cần &7Eclipse Ember Fuel&r. Điều đó không đơn giản như vậy ... \n\nĐể có được nó, bạn có thể bắt đầu, thả &7Eclipse Ember vào &3Liquid Voidflame Fuel&r để tạo thành &7Unrefined Eclipse Ember&r. Sau đó, bạn sẽ cần &9Shadowpulse Goo để lan truyền nó để tạo ra &7Eclipse Ember Fuel&r. \n\nNhân tiện, bạn sẽ cần 16 Xô!"]
+	quest.54BAF833344F0AAE.title: "&8Dark Tank&đầy&7Nhật thực Ember Fuel"
+	quest.554F47A0AF7506EC.quest_subtitle: "59.049 End Stone"
+	quest.55BF254B1831359B.quest_desc: ["&5Máy khoan Galadorian là những Máy khoan tuyệt vời nhất mà chúng ta có thể gắn vào Xe đẩy của mình. \n\nVì sự vĩ đại của nó, điều đó cũng đồng nghĩa với việc việc chế tạo nó sẽ khó khăn hơn… \nGiả sử bạn sẽ cần rất nhiều &3Kim loại ổn định! Thực hiện theo các công thức nấu ăn!"]
+	quest.55BF254B1831359B.title: "&5Cuộc tập trận Galadorian"
+	quest.5608C74936CA9E81.quest_desc: ["&6Mechanical Arm là một cỗ máy rất khó hiểu nhưng cũng rất hữu ích của &6&lCreate. Thank God, tôi không cần giải thích cách sử dụng chúng, chỉ cần giải thích cách Chế tạo chúng! \n\nĐầu tiên và đơn giản nhất là &8Andesite Alloy. Đó chỉ là 2 &8 Khối Andesite và 2 &7Zinc/Iron Nuggets&r. \n\nTiếp theo là &eBrass Plates &fand &eCasing&r. Cả hai rõ ràng đều yêu cầu &eBrass's, một hợp kim được làm từ &6Copper và &7Zinc! \n\nCuối cùng, chắc chắn là khó khăn nhất trong số này, &Cơ chế chính xác. Bạn sẽ cần một bộ &6Deployers &fand &eBelts hoàn chỉnh để tiếp tục di chuyển &eGold Plate của chúng tôi nhằm thêm nhiều Vật phẩm vào đó. \n\nBước 1: sử dụng &6Deployer để thêm &dCogwheel vào &eGold Plate của chúng tôi. Thứ 2: sử dụng tương tự để thêm &dLarge Cogwheel vào đó. Bước thứ 3: yêu cầu chúng tôi thêm &7Iron Nugget với &6Deployer. \n\nChúng ta sẽ cần lặp lại điều này 5 lần để hy vọng có được &Cơ chế chính xác điện tử của mình! Đúng, có 20% cuối cùng là bạn sẽ không nhận được Vật phẩm! \n\nNày, nếu bạn không thích tất cả công việc này, bạn luôn có thể Chế tạo &6Large Advanced Motor&r."]
+	quest.5608C74936CA9E81.title: "&6Cánh tay cơ khí"
+	quest.561B5FB009744D2B.quest_desc: ["Để có được &aKhối Insanite, bạn sẽ cần 8 &aInsanite Ingots và 1 &cBlock Inanite. Vâng, tôi biết điều đó thật khó hiểu chỉ với một sự khác biệt duy nhất. \n\nĐể có được &aInsanite Ingots, bạn cần xử lý lại &bBenitoite&r bằng &4Rossinite’s trong Máy tái xử lý. \n\n&bBenitoite cần được khai thác ở &c&lThe Nether. \n\n&cKhối Inanite được tạo ra bằng cách kết hợp 8 &cInanite Ingot với một &cBlock Netherite! &cInsanite không phải &aInsanite. \n\nĐể có được Inanite Ingots bạn sẽ cần xử lý lại &dRidiculite bằng &4Rossinite trong Bộ tái xử lý. \n\n&dRidiculite là một chuỗi công thức nấu ăn khác mà thực sự mà nói thì tôi thấy chán ngấy!"]
+	quest.561B5FB009744D2B.title: "&aKhối điên rồ"
+	quest.5791F3000D18E2C9.quest_desc: ["&8Wither có xu hướng phá vỡ và làm nổ tung các Khối. \n\nHầu hết người chơi không thích điều này, vì vậy &8Gạch chống thấm chính là thứ bạn đang tìm kiếm! \n\nChúng giống như &8Witherproof Blocks, chỉ khác là có thiết kế tốt hơn!"]
+	quest.5791F3000D18E2C9.title: "&8Gạch chống thấm"
+	quest.57F107892FFA1F52.quest_desc: ["Để phát triển Nether Star Seeds bạn sẽ cần một Crux bên dưới Farmland. Có, Nether Stars đang phát triển cần phải đắt hơn! \n\nĐể tạo ra Nether Star Crux bạn sẽ cần &7Withering Souls có tỷ lệ giảm 1/3 so với &8Withers."]
+	quest.5869E198DA416346.quest_desc: ["Late Game &5&lChủ nghĩa Mekan thật điên rồ. Đối với 1 &5Phiên vật chất, bạn cần kết tinh 1.000mb &5Phản vật chất. \n\nĐể có 1mb &5Phản vật chất, bạn cần cấp nguồn cho 1.000mb &3Polonium thông qua SPS. \n\nĐể có được 1mb &3Polonium, bạn cần kích hoạt neutron có dung lượng 5mb của &2Nuclear Waste. \n\nVà &2Chất thải hạt nhân bạn nhận được từ quá trình xử lý &9Nhiên liệu phân hạch thông qua Fission Reactor!"]
+	quest.5869E198DA416346.title: "2&5Phiên phản vật chất"
+	quest.59EC02C1FBCF14EA.quest_desc: ["Bạn có thể nâng cấp &5Obsidian Generator của mình thành &3Ender Generator. \n\nSau đó, nó có thể sử dụng &3Ender Pearls hoặc &3Eyes of Ender’s để tạo ra Năng lượng! \n\nHoặc tạo &6&lStar, theo lựa chọn của bạn."]
+	quest.59EC02C1FBCF14EA.title: "&3Ender Máy Phát Điện"
+	quest.5A6831E0BD2F6AB5.quest_desc: ["Bạn sẽ cần rất nhiều &8Dark Gems!"]
+	quest.5A6831E0BD2F6AB5.title: "2&4Xỏ Vengeance Focuses"
+	quest.5A955C0F53AED3ED.quest_desc: ["&bChain of Souls hoạt động tương tự như Grappling Hook. \n\nBạn có thể Right Click để nó gửi &bChain và sẽ kéo bạn về phía Khối mà bạn bắn vào. Bạn có thể Right Click lần nữa để giải phóng nó. Ngoài ra, nó có Phạm vi 90 Khối cho hoặc lấy một ít. \n\nĐể làm được nó, bạn sẽ cần có &bLinh hồn bị bẫy, 2 &5 Dây leo ngoan cường và &9Cánh hoa ngoan cường. \n\nBạn có thể thu hút những mob này bằng cách tiêu diệt &9Lunar Monstrocity."]
+	quest.5A955C0F53AED3ED.title: "&bChuỗi linh hồn"
+	quest.5B2FD54E425D5C9D.quest_desc: ["Bây giờ cái này khó kiếm được... chúng ta sẽ cần phải giết 2 Boss và một Miniboss để có được mọi thứ cho &dVoid &cForge. \n\nĐầu tiên, chúng ta sẽ cần một &4Mechanical Fusion Anvil&r. Để có được nó, hãy ghé thăm &4Ancient Factory nằm bên dưới &2&lOverworld. \n\nSau đó, cho &4&lThe Harbringer ăn một Nether Star để tăng sức mạnh và tiêu diệt nó! &4&lThe Harbringer sẽ rơi ra &4Witherite để có thể Chế tạo &4Mechanical Fusion Anvil&r. \n\nTiếp theo, chúng ta sẽ cần &cInfernal Forge. Đó là Giọt nước từ &c&lNetherite Monstrosity. \n\nVào &c&lThe Nether’s để tìm cấu trúc của &cSoul Blacksmith. Sau đó, chiến đấu và tiêu diệt &c&lNetherite Monstrosity để có được &cInfernal Forge của bạn! \n\nCuối cùng và có lẽ là dễ dàng nhất là &dVoid Core. Rất may là nó không rơi ra từ Boss mà là Miniboss! \n\nHãy ghé thăm &5&lThe End’s để tìm &dRuined Citadel, bên trong bạn sẽ tìm thấy &dEnder Golem. Cái này sẽ đưa cho chúng ta &dVoid Core. \n\nKhi bạn đã có mọi thứ, hãy sử dụng &4Mechanical Fusion Anvil&r để kết hợp &cInfernal Forge và &dVoid Core để tạo &dVoid &cForge."]
 	quest.5B2FD54E425D5C9D.title: "&dVoid&cForge"
-	quest.5EC1B868720BF521.quest_desc: ["&8&lImmersive Engineering&r is all about Multiblock Machines, fun Tools, and of course engineering. \\n\\nDon't worry you won't need 4 years of college for this! But a Manual might help you get started."]
-	quest.5EC1B868720BF521.title: "&8&lImmersive Engineering"
-	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherite Ingots&r, 3 Wireless Boosters, and a bunch of &2fancy &eGears&r we can get an Infinity Range Booster! \\n\\nThe most confusing parts are the Gears. We can't make the Ingots directly we need to mix Dusts together then Smelt the result to get the Ingots.\\n\\nThis doesn't work across Dimensions sorry!"]
-	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\\n\\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\\n\\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\\n\\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\\n\\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\\n\\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
-	quest.616F9B78B16B42A5.title: "&6Tesla Coil"
+	quest.5EC1B868720BF521.quest_desc: ["&8&lKỹ thuật nhập vai là tất cả về Multiblock Machines, Công cụ thú vị và tất nhiên là kỹ thuật. \n\nĐừng lo lắng bạn sẽ không cần 4 năm đại học cho việc này! Nhưng Sách hướng dẫn có thể giúp bạn bắt đầu."]
+	quest.5EC1B868720BF521.title: "&8&lKỹ thuật nhập vai"
+	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherite Ingots, 3 Wireless Boosters và một loạt &2fancy &eGears chúng ta có thể nhận được Infinity Range Booster! \n\nPhần khó hiểu nhất là Gears. Chúng ta không thể trực tiếp tạo ra các Thỏi mà chúng ta cần trộn các Bụi lại với nhau sau đó Nấu chảy kết quả để có được Thỏi.\n\nXin lỗi, điều này không hoạt động trên các Thứ nguyên!"]
+	quest.616F9B78B16B42A5.quest_desc: ["Công thức của &6Tesla Coil có vẻ phức tạp, đặc biệt là trong cây công thức, nhưng chúng ta có thể chia nhỏ để đơn giản hơn!\n\n&7Tấm nhôm rất đơn giản, chỉ cần dùng Búa đập vào Thỏi hoặc Metal Press Multiblock.\n\n&8Iron Mechanical Component cũng rất đơn giản, chỉ một vài Iron Plates và &6Copper Ingot.\n\n&eElectrum Coil Block sẽ cần một loạt &eElectrum Thỏi được cắt thành Dây. &eElectrum là hợp kim của &eGold và Silver.\n\n&6Advanced Electronic Component&r là toàn bộ mảng sử dụng Engineers Workbench và &9Blueprints. It's Duroplast Sheet đòi hỏi phải tinh chế và lên men rất nhiều với Multiblock Machines!\n\nMục cuối cùng, &cHV Accumulator cần một số Vật phẩm đơn giản như &8Steel, &7Aluminum Plate, &cRedstone Acid, và &4Treated Wood. Nó cũng cần một Item phức tạp hơn tên là &8HOP Graphite Ingot&r."]
+	quest.616F9B78B16B42A5.title: "&6Cuộn dây Tesla"
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
-	quest.62DDE5B1287BEB36.quest_desc: ["Another part of the &6&lATM Star's&r juicy insides is the &6Awakened &5Unobtainium&f-&3Vibranium&r Alloy Block, which I am going to just called &6Awakened Alloy&r block. \\nTo get this you'll need a &6&lStar Altar&r multiblock, (check out Crafting the Star Quest for more info!) \\n\\nThere you'll need to input the &5Unobtainium&f-&3Vibranium&r Block, 4 Unbreaking I Books, 4 &6Awakened Supremium Gemstones&r, and 4 &6Awakened Supremium Essence&r. \\n\\nYou'll then need to give it 85 Million FE... After that, your Alloy should now be Awakened!"]
-	quest.62DDE5B1287BEB36.title: "&6Awakened&5Unobtainium&f-&3Vibranium&rAlloy Block"
-	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
-	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
-	quest.6877F33323910716.quest_desc: ["Tier 4 Pocket Storage has 64 Slots for Items and each hold 1,048,575 Items. That's 67,108,800 Items total. Move over Backpacks you've been replaced! \\n\\nIt only costs a few Nether Stars which in Modded honestly isn't expensive for what you get!"]
-	quest.6A12188E50EAEB78.quest_desc: ["The &zRainbow Furnaces&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &zRainbow Core&r which needs 2 &cNetherite Furnaces&r and all the colors of the &zrainbow&r in Glass! \\n\\nThen, you'll need &zRainbow Plating&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
-	quest.6A12188E50EAEB78.title: "2 &zRainbow Furnaces"
-	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf is a name synonymous with Modded Minecraft and &3&lJust Dire Things&r is one of his babies. \\n\\nIt revolves around Goo, yeah I know sounds enticing!"]
-	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
+	quest.62DDE5B1287BEB36.quest_desc: ["Một phần khác của phần bên trong hấp dẫn của &6&lATM Star là khối &6Awakened &5Unobtainium&f-&3Vibranium Alloy Block, mà tôi sẽ gọi là khối của &6Awakened Alloy. \nĐể có được điều này, bạn sẽ cần một khối đa khối của &6&lStar Altar, (xem Chế tạo Star Quest để biết thêm thông tin!) \n\nỞ đó, bạn sẽ cần nhập Khối &5Unobtainium&f-&3Vibranium, 4 Sách I chưa phá vỡ, 4 &6Awakened Supremium Gemstones&r, và 4 &6Awakened Supremium Essence&r. \n\nSau đó, bạn sẽ cần đưa cho nó 85 Triệu FE... Sau đó, Hợp kim của bạn bây giờ sẽ được Đánh thức!"]
+	quest.62DDE5B1287BEB36.title: "&6Awakened&5Unobtainium&f-&3Khối hợp kim của Vibranium"
+	quest.67C76EDD4BCCFF3F.quest_desc: ["Thông qua &bStrigeor's Higher Binding&r, chúng ta có thể tạo ra &bEmpty Soul Gem&r. \n\nNhững thứ này có thể được sử dụng để vận chuyển Mob một cách an toàn hoặc tạo ra &d&lLinh hồn Rồng. \n\nCá nhân tôi nghĩ chúng ta nên làm cả hai!"]
+	quest.67C76EDD4BCCFF3F.title: "&bTrống Soul Gem"
+	quest.6877F33323910716.quest_desc: ["Cấp 4 Pocket Storage có 64 Ô dành cho Vật phẩm và mỗi Ô chứa 1.048.575 Vật phẩm. Đó là tổng số 67.108.800 mặt hàng. Di chuyển qua Ba lô bạn đã được thay thế! \n\nNó chỉ tốn một vài Nether Stars mà trong Modded thực sự không đắt so với những gì bạn nhận được!"]
+	quest.6A12188E50EAEB78.quest_desc: ["&zRainbow Furnaces sẽ nấu chảy nhiều Vật phẩm cùng một lúc! \n\nĐể chế tạo nó, bạn sẽ cần một &zRainbow Core, cần 2 &cNetherite Furnaces và tất cả các màu của &zrainbow trong Glass! \n\nSau đó, bạn sẽ cần &zRainbow Plating mà bạn nhận được từ việc kết hợp hầu hết các Lò nung khác trong mod. Bạn sẽ cần 2 trong số chúng để chế tạo &3&lKhông thể cải thiện Probablility Device&r."]
+	quest.6A12188E50EAEB78.title: "2 &z Lò nung cầu vồng"
+	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf là cái tên đồng nghĩa với Modded Minecraft và &3&lJust Dire Things&r là một trong những đứa con của anh ấy. \n\nNó xoay quanh Goo, vâng tôi biết nghe có vẻ hấp dẫn!"]
+	quest.6A46A9F04D2A0748.title: "&3&lChỉ Dire Things"
 	quest.6CAD67D21E1EA861.quest_desc: [""]
-	quest.6CAD67D21E1EA861.quest_subtitle: "&oUniversal remote access."
-	quest.6CAD67D21E1EA861.title: "&7&lNexium Emitter"
-	quest.6D1E8399AD39FFC8.quest_desc: ["The &7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, will take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
-	quest.6D1E8399AD39FFC8.title: "&7Paradox Machine"
-	quest.6E3AD764A67829CB.quest_desc: ["Like its inferior brother, the &bInfusion Crystal&r, the &cMaster Infusion Crystal&r does everything the former can as well. \\n\\nThis one just has Infinite Uses and can upgrade 4 Blocks of Essence to the next one in Block form! \\n\\nIt does require &cSupremium&r to make it, but trust me it's worth it!"]
+	quest.6CAD67D21E1EA861.quest_subtitle: "&oTruy cập từ xa phổ quát."
+	quest.6CAD67D21E1EA861.title: "&7&lBộ phát Nexium"
+	quest.6D1E8399AD39FFC8.quest_desc: ["Chiếc lon &7Paradox Machine, với mức giá rất cao Năng lượng và &aChất lỏng thời gian, sẽ chụp Ảnh nhanh các khối và thực thể trong khu vực được chỉ định; sau đó nó có thể nhân đôi nó. \n\nRất nhiều Khối và Thực thể bị liệt vào danh sách đen theo cấu hình nên không có Ong trùng lặp!"]
+	quest.6D1E8399AD39FFC8.title: "&7Cỗ máy nghịch lý"
+	quest.6E3AD764A67829CB.quest_desc: ["Giống như người anh em kém hơn của nó, &bInfusion Crystal, &cMaster Infusion Crystal&r cũng làm được mọi thứ mà trước đây có thể. \n\nCái này chỉ có Infinite Uses và có thể nâng cấp 4 Khối Tinh hoa lên khối tiếp theo ở dạng Khối! \n\nNó đòi hỏi &cSupremium để tạo ra nó, nhưng hãy tin tôi rằng nó đáng giá!"]
 	quest.6E3AD764A67829CB.title: "&cMaster Infusion Crystal"
-	quest.6FC55CF56BE22866.quest_subtitle: "531,441 Dirt"
+	quest.6FC55CF56BE22866.quest_subtitle: "531.441 Bụi bẩn"
 	quest.70CCE558E03227AB.quest_desc: [
-		"The &6&lRunic Star Altar&r is a Multiblock made by our very own &3Drack.ion&r via &7&lModern Industrialization&r! \\n\\nIt is a 15x8x15 Structure which starts with the &5Runic Star Altar Block&r. Place it down then use a &eWrench&r (from &7&lModern Industrialization&r) on it. Doing so will give you highlights you can follow to build the Mulitblock. \\n\\nAfter you've built it (with help from the 2nd Page of the Quest or &eWrench&r) on each side of the &6&lAltar&r you can replace the &9Polished Darkstone&r next to the &6Arcane Polished Darkstone&r with Hatches. These are needed for the actual &6&lStar&r Crafting. \\n\\nUse Item Input Hatches (all from &l&7Modern Industrialization&r), these are where the Recipe will be placed into. Item Output Hatches are where &6&lThe Star&r will come from. And Energy Inputs are needed to power the &6&lAltar&r! \\nTalking about Energy, the &6&lStar Altar&r will need a boost for getting enough FE/t. To get that we can use stacks of Upgrades from &7&lModern Industrialization&r. These are placed into the &5Altar Block&r and when we Hold Shift when viewing the Item, we can see how much it boosts the &6&lAltar&r! \\n\\nYou can check the &5Altar Block&r to start Recipes with the &6&lAltar&r or if it is not built correctly, it will tell you. \\n\\n(BTW the Loot Bag used in its recipe is from the &5&lLunar Monstrosity&r. Also the direction of blocks like &9Stairs&r or &6Pillars&r do not matter for the &6Altar&r)."
+		"&6&lRunic Star Altar&r là một Multiblock được tạo bởi &3Drack.ion của chính chúng tôi thông qua &7&lCông nghiệp hóa hiện đại! \n\nĐó là Cấu trúc 15x8x15 bắt đầu bằng &5Runic Star Altar Block&r. Đặt nó xuống rồi sử dụng &eWrench's (từ &7&lModern Industrialization's) trên đó. Làm như vậy sẽ cung cấp cho bạn những điểm nổi bật mà bạn có thể làm theo để xây dựng Mulitblock. \n\nSau khi bạn xây dựng nó (với sự trợ giúp từ Trang thứ 2 của Nhiệm vụ hoặc &eWrench&r) ở mỗi bên của &6&lAltar, bạn có thể thay thế &9Polished Darkstone bên cạnh &6Arcane Polished Darkstone&r bằng Hatches. Những thứ này cần thiết cho quá trình Chế tạo thực tế của &6&lStar. \n\nSử dụng các ô nhập vật phẩm (tất cả từ &l&7Công nghiệp hóa hiện đại), đây là nơi Công thức sẽ được đặt vào. Item Output Hatches là nơi &6&lThe Star sẽ đến. Và cần có Năng lượng đầu vào để cung cấp năng lượng cho &6&lAltar! \nNói về Năng lượng, &6&lStar Altar sẽ cần được tăng cường để có đủ FE/t. Để đạt được điều đó, chúng ta có thể sử dụng nhiều bản Nâng cấp từ &7&lCông nghiệp hóa hiện đại. Chúng được đặt vào &6&lAltar Block và khi chúng ta Hold Shift khi xem Vật phẩm, chúng ta có thể thấy nó tăng sức mạnh cho &6&lAltar! \n\nBạn có thể kiểm tra &5Altar Block để bắt đầu Công thức nấu ăn với &6&lAltar hoặc nếu nó không được xây dựng chính xác, nó sẽ cho bạn biết. \n\n(BTW Loot Bag được sử dụng trong công thức của nó là từ &5&lLunar Monstrosity. Ngoài ra, hướng của các khối như &9Stairs's hoặc &6Pillars's không quan trọng đối với &6Altar's)."
+
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:125 height:75 align:center}"
-		"1st Layer is just &9Polished Darkstone&r, &9Polished Darkstone Stairs&r, and &6Arcane Polished Darkstone&r, along with the &5Altar Block&r."
+		"Lớp 1 chỉ có &9Polished Darkstone, &9Polished Darkstone Stairs&r, và &6Arcane Polished Darkstone&r, cùng với &5Altar Block."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:125 height:75 align:center}"
-		"2nd Layer is more &9Polished Darkstone&r, &9Stairs&r, and now &6Gilded Chiseled Polished Darkstone&r."
+		"Lớp thứ 2 có thêm &9Đá đen bóng, &9Cầu thang, và bây giờ là &6Được mạ vàng Chiseled Polished Darkstone&r."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:125 height:100 align:center}"
-		"3rd adds &bArcane Crystal Obelisks&r, &7Rune Blocks&r, &6Arcane Chiseled Polished Darkstone&r, and &9Polished Darkstone Slabs&r!"
+		"Lần thứ 3 thêm &bArcane Crystal Obelisks&r, &7Rune Blocks&r, &6Arcane Chiseled Polished Darkstone&r, và &9Polished Darkstone Slabs&r!"
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:125 height:100 align:center}"
-		"The 4th Layer is where we have our &6Darkstone Pedestals&r, a &7Magnetized Darkstone Pedestal&r in the middle, and &6Arcane Polished Darkstone Pillars&r."
+		"Lớp thứ 4 là nơi chúng ta có &6Bệ đá đen, &7Magnetized Darkstone Pedestal&r ở giữa và &6Arcane Polished Darkstone Pillars&r."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer5.png width:125 height:100 align:center}"
-		"5th Layer is pretty simple, just some more &6Pillars&r."
+		"Lớp thứ 5 khá đơn giản, chỉ cần thêm một số &6 Trụ cột nữa."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer6.png width:125 height:100 align:center}"
-		"6th Layer needs more &6Pillars&r plus a &7Quantum Injector&r above the &7Magnetized Darkstone Pedestal&r."
+		"Lớp thứ 6 cần thêm &6 Trụ cột cộng với &7Đầu phun lượng tử phía trên &7Magnetized Darkstone Pedestal&r."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer7.png width:100 height:100 align:center}"
-		"7th is very simple as well, just more &6Pillars&r!"
+		"Thứ 7 cũng rất đơn giản, chỉ cần thêm &6Pillars!"
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer8.png width:100 height:100 align:center}"
-		"The last Layer, needs more &6Pillars&r of course, in addition with more &7Rune Blocks&r and &bArcane Crystal Blocks&r."
+		"Lớp cuối cùng, tất nhiên cần thêm &6Pillars, ngoài ra còn có thêm &7Rune Blocks và &bArcane Crystal Blocks&r."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer9.png width:125 height:100 align:center}"
-		"Now we can add our Utrem Jars! The &5Altar Block&r seemed pissy when the Jars weren't full..."
+		"Bây giờ chúng ta có thể thêm Utrem Jars của mình! Khối &5Altar có vẻ khó chịu khi các lọ không đầy..."
+
 		"{image:atm:textures/questpics/chap2/atmstar_layer10.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/chap2/atmstar_layer11.png width:200 height:100 align:center}"
-		"Last thing we need to do to start the &6&lAltar&r, is adding our Hatches. Place them on the outside of the &6Arcane Polished Darkstone&r like shown, you'll need some Item Inputs, Outputs, and Energy Inputs."
+		"Điều cuối cùng chúng ta cần làm để bắt đầu &6&lAltar, là thêm các Hatch. Đặt chúng ở bên ngoài &6Arcane Polished Darkstone như được hiển thị, bạn sẽ cần một số Item Inputs, Đầu ra và Energy Inputs."
+
 	]
-	quest.70CCE558E03227AB.quest_subtitle: "Crafting the&l&6ATM Star"
+	quest.70CCE558E03227AB.quest_subtitle: "Chế tạo ngôi sao&l&6ATM"
 	quest.70CCE558E03227AB.title: "&l&6Runic Star Altar"
-	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r is a mod added specifically by the &6AllTheMods Team&r to add more content after Netherite! \\n\\nYou'll need to adventure through it to get some Items needed for the &6&lATM Star&r. \\n\\nThere is a Quest page now that you can follow for it!"]
+	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium’s là một mod được thêm vào đặc biệt bởi &6AllTheMods Team để thêm nhiều nội dung hơn sau Netherite! \n\nBạn sẽ cần phải phiêu lưu xuyên qua nó để có được một số Vật phẩm cần thiết cho &6&lATM Star. \n\nBây giờ có một trang Quest mà bạn có thể theo dõi!"]
 	quest.7154D73516548149.title: "&l&6Allthemodium"
-	quest.71581992E8E4C43E.quest_desc: ["Throw a few &8Wither Skeleton Skulls&r and an &dAbjuration Essence&r to make a &8Wither &3Glyph&r! \\n\\nIf it didn't work you might need more &aEXP&r."]
-	quest.71581992E8E4C43E.title: "&3Glyph of&8Wither"
-	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture&r is a mod about agriculture, but what are you farming for?\\n\\nPretty much anything, from Honey to Steel to Wither Skeletons.\\n\\nYou'll need to do a lot of farming with this mod to make the &6&lATM Star&r!"]
-	quest.7377C657CED885AC.title: "&2&lMystical Agriculture"
-	quest.73BE1EB3E69814E9.quest_desc: ["First and easiest part of this recipe is &5Evil Sticks&r. Just need &8Dark Gems&r which you Mine for, and &cUndead Planks&r which you get from &cUndead Trees&r. \\n\\nNext, is the &5Empowered Inverted Potentia&r. It's not that hard to make simply craft an &7Inverted Potentia&r then keep it in an &aEnviromental Accumulator&r and have it get struck with Lightning! \\n\\nLast part has a huge line of &aEmpty Promises&r; you'll be infusing a whole lot. \\n\\nHope you got plenty of &4Blood&r! Speak of the devil you'll also need to fill the &5Mace&r with &4Blood&r."]
-	quest.73BE1EB3E69814E9.title: "&5Mace of Destruction"
+	quest.71581992E8E4C43E.quest_desc: ["Ném một vài &8Wither Skeleton Skulls&r và một &dAbjuration Essence để tạo thành &8Wither &3Glyph&r! \n\nNếu nó không hiệu quả, bạn có thể cần thêm &aEXP&r."]
+	quest.71581992E8E4C43E.title: "&3Glyph của&8Héo"
+	quest.7377C657CED885AC.quest_desc: ["&2&lMystical Agriculture là một mod về nông nghiệp, nhưng bạn trồng trọt để làm gì?\n\nKhá nhiều thứ, từ Mật ong đến Thép đến Wither Skeletons.\n\nBạn sẽ cần phải làm rất nhiều công việc canh tác với bản mod này để tạo nên &6&lATM Star!"]
+	quest.7377C657CED885AC.title: "&2&lNông nghiệp huyền bí"
+	quest.73BE1EB3E69814E9.quest_desc: ["Phần đầu tiên và dễ dàng nhất của công thức này là &5Evil Sticks. Chỉ cần &8Dark Gems mà bạn khai thác được và &cUndead Plank mà bạn nhận được từ &cUndead Trees. \n\nTiếp theo là &5Được trao quyền Inverted Potentia&r. Không khó lắm để tạo ra một &7 Điện thế đảo ngược sau đó giữ nó trong &aBộ tích lũy môi trường và cho nó bị sét đánh! \n\nPhần cuối có một dòng lớn &aLời hứa trống rỗng&r; bạn sẽ truyền tải rất nhiều. \n\nHy vọng bạn có nhiều &4Blood! Nói về ma quỷ, bạn cũng sẽ cần phải lấp đầy &5Mace bằng &4Blood."]
+	quest.73BE1EB3E69814E9.title: "&5Chùy hủy diệt"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Wet Pink Blocks"
-	quest.750B6316267CF574.quest_desc: ["When your Hives are vacant and in the dark you may find a little Bee visitor, the Skeletal Bee. \\n\\nYou can then feed your new visitor a &8Wither Rose&r to make them a &8Withered Bee&r. "]
-	quest.750B6316267CF574.title: "&8Withered Comb Block"
-	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
-	quest.752DD0BF36B70D88.title: "&7&lSắt Furnaces"
-	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
+	quest.750B6316267CF574.quest_desc: ["Khi Tổ của bạn bị bỏ trống và trong bóng tối, bạn có thể tìm thấy một con Ong nhỏ đang ghé thăm, Skeletal Bee. \n\nSau đó, bạn có thể cho khách truy cập mới của mình một &8Wither Rose để biến họ thành &8Withered Bee."]
+	quest.750B6316267CF574.title: "&8Héo Comb Block"
+	quest.752DD0BF36B70D88.quest_desc: ["Lò nung không đủ nhanh trong &2&lMinecraft thông thường, vậy bạn nghĩ chúng sẽ hoạt động như thế nào trong Modded!?\n\nRất may &7&lIron Furnaces đã giúp chúng tăng tốc rất nhiều! \n\nNó cũng có một trang Quest, nó chỉ được chia phòng cùng với &c&lGenerator Galore."]
+	quest.752DD0BF36B70D88.title: "&7&lLò nung tắt"
+	quest.75EE965CBA598FEA.quest_desc: ["Công thức có thể trông khó hiểu nhưng tin tôi đi, nó khá dễ dàng. Chế tạo bất kỳ &dThiết bị đầu cuối không dây nào sau đó chế tạo chúng lại với nhau để tạo thành &dUniversal Wireless Terminal&r. \n\nNó cũng sẽ giữ lại mọi thứ bạn có trên &dTerminal như Extended Patterns, điều này rất hữu ích khi sử dụng &b&lAE2 nhưng không thành vấn đề đối với &6&lATM Star!"]
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
-	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \\n\\nSome can even be combined with each other to be more powerful. \\n\\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
-	quest.76C63670624C3C56.title: "&c&lGenerator Galore"
-	quest.7766E66A14643F4D.quest_desc: ["&6Awakening&r is a relatively new addition to &2&lMystical Agriculture&r. Through the &6Awakening Ritual&r you can make &6Awakened Essence&r. \\n\\nThen you can combine those with Ingots to get this Block!"]
-	quest.7766E66A14643F4D.title: "&6Awakened Supremium Ingot Block"
-	quest.779CA0C49F93C4F9.quest_subtitle: "59,049 Obsidian"
-	quest.77F2271C45DB49BA.quest_desc: ["This Module, when put into the &aMekaSuit&r Chestplate, will give you Creative Flight. \\nYou only need some of the most expensive Items in the game to craft it!"]
-	quest.792990DC06DB98F9.quest_desc: ["Around the &2&lOverworld&r you can find &5&lEternal Starlight&r Portal Ruins. There you can challenge the Gatekeeper to a fight! \\n\\nIf you win he'll give you some Items and with them you can enter the Portal to a whole new world to explore!"]
-	quest.792990DC06DB98F9.title: "&5&lEternal Starlight"
-	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r is all about simulating Mobs for farming their Loot! \\n\\nNot much else to it."]
-	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
-	quest.7B140A034DF1291C.quest_desc: ["The &7&lNexium Emitter&r needs something to move it around, that can be either the &6Mechanical Arm&f or &6Large Advanced Motor&r! \\n\\nBoth move, so either work!"]
-	quest.7B140A034DF1291C.title: "&6Mechanical Arm&for&6Large Advanced Motor"
-	quest.7BC616DDB5933479.quest_desc: ["This one can be created with a &5Blood Vial&r and normal ingrediants for Scrolls. \\nYou will need to make sure it is Level 10 and &6Legendary&r which you can upgrade it to."]
-	quest.7BC616DDB5933479.title: "&4Wither Skull Scroll"
-	quest.7D1A27CBF1508712.quest_desc: ["The &3Snow Queen&r lives in the &bAurora Palace&r within the Glacier Biome. \\n\\nYou'll need to kill the Alpha Yeti in order to enter the Glacier Biome. \\n\\nOnce usurped, she will drop a ton of loot, Trophy included!"]
-	quest.7D1A27CBF1508712.title: "&3Snow Queen&eTrophy"
-	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r is an adventure Mod that is all about adding new Bosses! And everything from and around them! \\n\\nYou'll find the Structures all around the &2&lOverworld&r, &4&lThe Nether&r, and &5&lThe End&r. \\n\\nWithin will be new Mobs, Minibosses, and very difficult Bosses. You can kill them all to get new Weapons, Armor, and Items!"]
+	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore cung cấp cho chúng ta rất nhiều Power Generators hữu ích và đơn giản! \n\nMột số thậm chí có thể được kết hợp với nhau để mạnh hơn. \n\nCó một trang Nhiệm vụ dành cho họ, đó chỉ là những người bạn cùng phòng với &7&lIron Furnaces."]
+	quest.76C63670624C3C56.title: "&c&lCó rất nhiều máy phát điện"
+	quest.7766E66A14643F4D.quest_desc: ["&6Awakening là một phần bổ sung tương đối mới cho &2&lNông nghiệp huyền bí. Thông qua Nghi thức &6Thức tỉnh, bạn có thể tạo ra &6Tinh chất thức tỉnh. \n\nSau đó, bạn có thể kết hợp chúng với Thỏi để có được Khối này!"]
+	quest.7766E66A14643F4D.title: "&6Thức tỉnh Supremium Ingot Block"
+	quest.779CA0C49F93C4F9.quest_subtitle: "59.049 Obsidian"
+	quest.77F2271C45DB49BA.quest_desc: ["Mô-đun này khi được đặt vào Tấm giáp ngực của &aMekaSuit sẽ mang lại cho bạn Creative Flight. \nBạn chỉ cần một số Vật phẩm đắt tiền nhất trong trò chơi để chế tạo nó!"]
+	quest.792990DC06DB98F9.quest_desc: ["Xung quanh &2&lOverworld, bạn có thể tìm thấy Portal Ruins của &5&lEternal Starlight. Ở đó bạn có thể thách đấu Người gác cổng! \n\nNếu bạn thắng, anh ấy sẽ đưa cho bạn một số Vật phẩm và với chúng, bạn có thể vào Cổng dẫn đến một thế giới hoàn toàn mới để khám phá!"]
+	quest.792990DC06DB98F9.title: "&5&lÁnh sao vĩnh cửu"
+	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r tập trung vào việc mô phỏng Mob để canh tác Chiến lợi phẩm của chúng! \n\nKhông có gì khác với nó."]
+	quest.7A579E233C69871F.title: "&b&lThù địch Neural Networks"
+	quest.7B140A034DF1291C.quest_desc: ["&7&lNexium Emitter cần thứ gì đó để di chuyển nó, đó có thể là &6Mechanical Arm&f hoặc &6Large Advanced Motor&r! \n\nCả hai đều di chuyển, nên một trong hai đều hoạt động!"]
+	quest.7B140A034DF1291C.title: "&6Cánh tay cơ khí&cho&6Lớn Advanced Motor"
+	quest.7BC616DDB5933479.quest_desc: ["Cái này có thể được tạo bằng &5Blood Vial và các nguyên liệu thông thường dành cho Cuộn giấy. \nBạn sẽ cần đảm bảo rằng nó ở Cấp 10 và &6Huyền thoại để bạn có thể nâng cấp nó lên."]
+	quest.7BC616DDB5933479.title: "&4Héo Skull Scroll"
+	quest.7D1A27CBF1508712.quest_desc: ["&3Nữ hoàng Tuyết sống trong &bAurora Palace trong Glacier Biome. \n\nBạn sẽ cần phải tiêu diệt Alpha Yeti để vào Glacier Biome. \n\nSau khi bị chiếm đoạt, cô ấy sẽ đánh rơi rất nhiều chiến lợi phẩm, bao gồm cả Cúp!"]
+	quest.7D1A27CBF1508712.title: "&3Nữ hoàng tuyết&eTrophy"
+	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm's là một Mod phiêu lưu tập trung vào việc bổ sung thêm các Boss mới! Và tất cả mọi thứ từ và xung quanh họ! \n\nBạn sẽ tìm thấy các Cấu trúc xung quanh &2&lOverworld’s, &4&lThe Nether’s, và &5&lThe End&r. \n\nBên trong sẽ có các Mob, Miniboss mới và các Boss rất khó. Bạn có thể tiêu diệt tất cả chúng để nhận Vũ khí, Giáp và Vật phẩm mới!"]
 	quest.7D359283625C1869.title: "&4&lCataclysm"
-	quest.7D972A3C4211EB26.quest_desc: ["&zRainbow Coal&r is obtained by blowing up a &zRainbow Furnace&r."]
-	quest.7D972A3C4211EB26.title: "&zRainbow Coal"
-	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \\n\\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
+	quest.7D972A3C4211EB26.quest_desc: ["&zThan Cầu vồng có được bằng cách cho nổ &zLò cầu vồng."]
+	quest.7D972A3C4211EB26.title: "&zThan cầu vồng"
+	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah là về sức mạnh! Tạo ra Sức mạnh như FE để sử dụng Máy từ các Mod khác như &5&lMekanism’s hoặc &lIndustrial Foregoing&r! \n\nCó nhiều Cấp độ khác nhau mà bạn sẽ phải nâng cấp và tất nhiên chúng tôi sẽ cần cấp độ cuối cùng cho &6&lStar!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
 	task.662F6B4EF078E3A2.title: "AllRightsReserved"
