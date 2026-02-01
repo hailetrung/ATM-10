@@ -1,61 +1,62 @@
 {
-	quest.1568CBFA09827137.quest_desc: ["Same thing as Logic Programmer, only this one can be used anywhere."]
-	quest.1B5C86AE05678420.quest_desc: ["When you right-click on an interface, it brings up several options, here's what they all do:\\n\\n&lSet Side&r: At the top of the screen, you can set the side that the interface \\"acts\\" like it's on. It can be useful for machines with specific input/output sides.\\n\\n&lTicks/Operation&r: If an interface is set to 10 ticks/operation, it will import/export once every 10 ticks (0.5 seconds).\\n\\n&lPriority&r: Sends items to the inventory with the higher priority interface on it.\\n\\n&lItem/Energy Channels&r: This will split your system into multiple channels. You can push and pull from different places in your network."]
-	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds can be used to automate Menril Berries, Menril Logs and Menril Saplings."]
-	quest.232A06C9FF0EE7B2.quest_subtitle: "Automating Menril"
-	quest.2F37E284BB83BFF6.quest_desc: ["The Wrench is used to rotate or destroy certain blocks, shift right-click in the air to change modes."]
-	quest.33F4A7613764A016.quest_desc: ["Works like Importers do, only they export instead."]
+	quest.1568CBFA09827137.quest_desc: ["Tương tự như Logic Programmer, chỉ có cái này có thể được sử dụng ở bất cứ đâu."]
+	quest.1B5C86AE05678420.quest_desc: ["Khi bạn nhấp chuột phải vào một giao diện, nó sẽ hiển thị một số tùy chọn, đây là những gì chúng thực hiện:\n\n&lĐặt bên: Ở đầu màn hình, bạn có thể đặt bên để giao diện \"hoạt động\" giống như đang bật. Nó có thể hữu ích cho các máy có mặt đầu vào/đầu ra cụ thể.\n\n&lTicks/Operation: Nếu giao diện được đặt thành 10 tích tắc/thao tác, giao diện sẽ nhập/xuất cứ sau 10 tích tắc (0,5 giây).\n\n&lƯu tiên: Gửi vật phẩm vào kho có giao diện có mức độ ưu tiên cao hơn trên đó.\n\n&lItem/Energy Channels&r: Thao tác này sẽ chia hệ thống của bạn thành nhiều kênh. Bạn có thể đẩy và kéo từ những nơi khác nhau trong mạng của mình."]
+	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds có thể được sử dụng để tự động hóa Menril Berries, Menril Logs và Menril Saplings."]
+	quest.232A06C9FF0EE7B2.quest_subtitle: "Tự động hóa Menril"
+	quest.2F37E284BB83BFF6.quest_desc: ["Cờ lê dùng để xoay hoặc phá hủy các khối nhất định, shift chuột phải vào không khí để thay đổi chế độ."]
+	quest.33F4A7613764A016.quest_desc: ["Hoạt động giống như Nhà nhập khẩu, chỉ có điều họ xuất khẩu thay thế."]
 	quest.33F4A7613764A016.quest_subtitle: "Exporting"
-	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
-	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
-	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
-	quest.437F4945AFBE0825.quest_desc: ["When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \\"+\\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send &dINFINITE&r items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings."]
-	quest.44DA091B53473723.quest_desc: ["The Mechanical Squeezer uses energy to squeeze."]
-	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cread&r whatever they're looking at. You can think of this like an &bAE2&r Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?"]
+	quest.3BC94B0B922C0708.quest_desc: ["Đây là những nguyên liệu chế tạo cho những thứ được nhập khẩu, cho dù đó là vật phẩm, chất lỏng hay năng lượng."]
+	quest.3C9539083BCC145C.quest_desc: ["Menril Bees có thể được sử dụng để tự động hóa Crystallized Menril Chunks."]
+	quest.3C9539083BCC145C.quest_subtitle: "Tự động hóa Menril"
+	quest.437F4945AFBE0825.quest_desc: ["Khi bạn nhấp chuột phải vào Nhà nhập khẩu hoặc Nhà xuất khẩu, nó sẽ hiển thị một menu. Menu chủ yếu để lọc, giả sử bạn đã đặt Variable Card thành Cobblestone, Nhà xuất khẩu của bạn sẽ chỉ gửi Cobblestone.\n\nCó một dấu \"+\" nhỏ ở bên trái các biến khi bạn chèn chúng, nhấp vào nó sẽ mở ra một GUI khác. Tại đây, bạn có thể thay đổi tốc độ truyền để có thể gửi vật phẩm/chất lỏng/năng lượng của &dINFINITE, cũng như có thể thực hiện một số nội dung khác.\n\nỞ trên cùng bên trái, chúng tôi có các cài đặt, phần lớn các cài đặt này giống với cài đặt giao diện."]
+	quest.44DA091B53473723.quest_desc: ["Máy ép cơ sử dụng năng lượng để ép."]
+	quest.450EDE68EC992A5A.quest_desc: ["Giao diện và bánh mì là bất cứ thứ gì họ đang xem. Bạn có thể coi điều này giống như Storage Bus của &bAE2.\n\nBạn không biết đó là gì? Đây là một ví dụ: Một chiếc rương chứa 100 Cobblestone có một giao diện trên đó, điều này có nghĩa là mạng ID của bạn có 100 Cobblestone trong hệ thống của nó, khá đơn giản phải không?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
-	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril trees can be found in Meneglin biomes.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth."]
-	quest.499CF9F39CED8899.quest_subtitle: "Growing Menril"
-	quest.499CF9F39CED8899.title: "&bIntegrated Dynamics"
-	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables are different from other cables. Other Cables act as Hoppers, the items move from 1 Inventory, into the cable, then into the 2nd inventory. Logic Cables just skip the middle man which also skips a lotta lag.\\n\\nThey are just for connecting Importers and Interfaces."]
-	quest.4A05C037C0EE40BD.quest_subtitle: "Making Networks"
+	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics (ID) là một mod hậu cần có thể được sử dụng để lưu trữ, chuyển vật phẩm/sức mạnh/chất lỏng và hơn thế nữa!\n\nCây Menril có thể được tìm thấy trong quần xã Meneglin.\n\nCác nhiệm vụ này sẽ bao gồm một số khái niệm cơ bản của mod, hãy đọc sách hướng dẫn được đưa ra như một phần thưởng cho nhiệm vụ này nếu bạn muốn đi sâu hơn."]
+	quest.499CF9F39CED8899.quest_subtitle: "Trồng Menril"
+	quest.499CF9F39CED8899.title: "&bĐộng lực học tích hợp"
+	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables khác với các loại cáp khác. Other Cables đóng vai trò là Người vận chuyển, các vật phẩm di chuyển từ Kho 1, vào cáp, sau đó vào Kho thứ 2. Logic Cables chỉ cần bỏ qua người trung gian cũng bỏ qua rất nhiều độ trễ.\n\nChúng chỉ để kết nối Nhà nhập khẩu và Giao diện."]
+	quest.4A05C037C0EE40BD.quest_subtitle: "Tạo mạng"
 	quest.4A05C037C0EE40BD.title: "Logic Cables"
-	quest.4D4152032F0410D2.quest_desc: ["The Logic Programmer lets you set the value of variables. This can be set to to items and fluids for filtering, or even values. \\n\\nLet me give you a simple example: Select &bItem&r from the left side, place an item of choice into the center slot of the GUI that pops up, and place a &bVariable Card&r in the bottom right slot. If you then put that variable card in an importer/exporter, it will only import/export that block!"]
-	quest.4D4152032F0410D2.quest_subtitle: "Getting Advanced"
-	quest.4D62C62B523C69EC.quest_desc: ["The Generator generates FE using burnable fuels like Coal."]
-	quest.4D62C62B523C69EC.quest_subtitle: "Providing Energy!"
-	quest.56BF647EA84FFF7E.quest_desc: ["Shows which crafting recipes are happening at any time."]
+	quest.4D4152032F0410D2.quest_desc: ["Lập trình viên logic cho phép bạn đặt giá trị của các biến. Điều này có thể được đặt thành các mục và chất lỏng để lọc hoặc thậm chí các giá trị. \n\nĐể tôi cho bạn một ví dụ đơn giản: Chọn &bItem từ phía bên trái, đặt một vật phẩm bạn chọn vào ô giữa của GUI bật lên và đặt &bVariable Card vào ô dưới cùng bên phải. Sau đó, nếu bạn đặt thẻ biến đó vào nhà nhập/xuất, nó sẽ chỉ nhập/xuất khối đó!"]
+	quest.4D4152032F0410D2.quest_subtitle: "Nâng cao"
+	quest.4D62C62B523C69EC.quest_desc: ["Máy phát điện tạo ra FE sử dụng nhiên liệu có thể đốt được như Than."]
+	quest.4D62C62B523C69EC.quest_subtitle: "Cung cấp năng lượng!"
+	quest.56BF647EA84FFF7E.quest_desc: ["Hiển thị công thức chế tạo nào đang diễn ra bất cứ lúc nào."]
 	quest.56BF647EA84FFF7E.quest_subtitle: "Shows Recipes"
-	quest.60D9F04E91171D16.quest_desc: ["This can act as a Chest for your Variables, or can actually be used in an advanced network.\\n\\nIf you want advanced networks, make sure to read about them in the &eDynamics of Integration&r."]
-	quest.62B4A37CFDECA679.quest_desc: ["The Menril Resin will go to 2 sides of the Squeezer. Placing a Drying Basin next to the Squeezer will make the Drying Basin pick up the Menril Resin.\\n\\nAfter 7.5 seconds the Menril Resin will turn into a Block of Crystallized Menril."]
-	quest.65D89991A45BC042.quest_desc: ["Place a Crafting Interfaces on a crafting table and right-click on it, this will give you some slots for &bVariable Cards&r. \\n\\nUsing the Logic Programmer, search for &eRecipe&r in the top left, and create one for autocrafting, then save it to a &bVariable Card&r. If a recipe &c&lrequires&r items that need to be crafted, create a recipe for each of those, then put everything in the Crafting Interface."]
+	quest.60D9F04E91171D16.quest_desc: ["Cái này có thể hoạt động như một Rương cho các Biến của bạn hoặc thực sự có thể được sử dụng trong mạng nâng cao.\n\nNếu bạn muốn có mạng nâng cao, hãy nhớ đọc về chúng trong &eDynamics of Integration."]
+	quest.62B4A37CFDECA679.quest_desc: ["Nhựa Menril sẽ đi về 2 mặt của Máy ép. Đặt một Chậu sấy bên cạnh Máy ép sẽ làm cho Chậu sấy nhận được Menril Resin.\n\nSau 7,5 giây, Menril Resin sẽ biến thành Khối Crystallized Menril."]
+	quest.65D89991A45BC042.quest_desc: ["Đặt Giao diện chế tạo trên bàn chế tạo và nhấp chuột phải vào nó, thao tác này sẽ cung cấp cho bạn một số vị trí cho &bThẻ biến đổi. \n\nSử dụng Logic Programmer, tìm kiếm &eRecipe ở trên cùng bên trái và tạo một cái để chế tạo tự động, sau đó lưu nó vào &bThẻ biến. Nếu một công thức &c&lr yêu cầu các vật phẩm cần được chế tạo, hãy tạo một công thức cho từng món đó, sau đó đặt mọi thứ vào Giao diện Chế tạo."]
 	quest.65D89991A45BC042.quest_subtitle: "&l&cA&6U&eT&aO&bC&dR&9A&3F&0T"
-	quest.65FA86357BC60573.quest_desc: ["It's time to move stuff from one place to another. Here are the steps:\\n\\n&l1.&r Place an interface on an inventory (like a Chest or a Tank)\\n\\n&l2.&r Place an Importer or an Exporter on another inventory, depending on whether you want to pull or send stuff to it.\\n\\n&l3.&r Hook the both up with Cables, place a Variable Card into the Importer or Exporter, and there you go!"]
-	quest.65FA86357BC60573.quest_subtitle: "Moving Stuff!"
-	quest.68498ADEF9765F81.quest_desc: ["To make Crystallized Menril Chunks you first need to place some Menril Logs in a Squeezer. Jump on the Squeezer to turn them into Menril Resin.\\n\\nYou can empty the Squeezer by giving it a Redstone signal."]
-	quest.6ABDBE41880CFDA9.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries give you Night Vision for a short amount of time when eaten."]
-	quest.6D75CF34957ECCD9.quest_desc: ["The Energy Battery lets you store FE. To transfer it, you will need &6Energy Interfaces&r."]
-	quest.6D75CF34957ECCD9.quest_subtitle: "Storing Energy"
-	quest.72F57D77C3FB366D.quest_desc: ["Blocks of Crystallized Menril can be crafted into Crystallized Menril Chunks. These chunks are the main crafting ingredient of ID."]
-	quest.72F57D77C3FB366D.quest_subtitle: "The Main Crafting Ingredient"
+	quest.65FA86357BC60573.quest_desc: ["Đã đến lúc phải di chuyển đồ đạc từ nơi này sang nơi khác. Dưới đây là các bước:\n\n&l1.&r Đặt giao diện trên kho đồ (như Rương hoặc Xe tăng)\n\n&l2.&r Đặt Nhà nhập khẩu hoặc Nhà xuất khẩu trên một kho hàng khác, tùy thuộc vào việc bạn muốn kéo hay gửi hàng tới đó.\n\n&l3.&R Kết nối cả hai bằng Cáp, đặt Variable Card vào Nhà nhập khẩu hoặc Nhà xuất khẩu, và thế là xong!"]
+	quest.65FA86357BC60573.quest_subtitle: "Công cụ di chuyển!"
+	quest.68498ADEF9765F81.quest_desc: ["Để tạo Crystallized Menril Chunks trước tiên bạn cần đặt một số Menril Logs vào Máy ép. Nhảy lên Squeezer để biến chúng thành Menril Resin.\n\nBạn có thể làm trống Squeezer bằng cách cho nó tín hiệu Redstone."]
+	quest.6ABDBE41880CFDA9.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.6C9191DA4B1039D6.quest_desc: ["Menril Berries cho bạn Night Vision trong một khoảng thời gian ngắn khi ăn."]
+	quest.6D75CF34957ECCD9.quest_desc: ["Pin Năng lượng cho phép bạn lưu trữ FE. Để chuyển nó, bạn sẽ cần &6Energy Interfaces."]
+	quest.6D75CF34957ECCD9.quest_subtitle: "Lưu trữ năng lượng"
+	quest.72F57D77C3FB366D.quest_desc: ["Các khối Crystallized Menril có ​​thể được chế tạo thành Crystallized Menril Chunks. Những khối này là thành phần chế tạo chính của ID."]
+	quest.72F57D77C3FB366D.quest_subtitle: "Nguyên liệu chế tạo chính"
 	quest.72F57D77C3FB366D.title: "Crystallized Menril Chunks"
 	quest.73EA326304C01C3B.quest_desc: [
-		"Put an Importer onto the inventory you want stuff pulled from. Next, put the Interface on the second inventory and connect them with Logic Cables. Then, put in the Variable Card into the Importer and change it as you please.\\n\\nIt can be changed to import things at the Integer Limit (Over 2 billion)."
+		"Đặt Nhà nhập khẩu vào kho hàng mà bạn muốn lấy nội dung từ đó. Tiếp theo, đặt Giao diện trên kho thứ hai và kết nối chúng với Logic Cables. Sau đó, nhập Variable Card vào Trình nhập và thay đổi theo ý muốn.\n\nCó thể đổi sang nhập đồ ở mức Integer Limit (Hơn 2 tỷ)."
+
 		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.73EA326304C01C3B.quest_subtitle: "Importing"
-	quest.7413BB136EF9D6C5.quest_desc: ["The Mechanical Drying Basin uses energy to dry"]
-	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them.\\n\\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card.\\n\\nIf you're just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
+	quest.7413BB136EF9D6C5.quest_desc: ["Chậu sấy cơ học sử dụng năng lượng để làm khô"]
+	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards là cần thiết để bắt đầu Tương tác như Nhập vật phẩm. Bạn sẽ đặt chúng vào một trong các vị trí của Nhà nhập khẩu để thêm chúng.\n\nTừ đó bạn có thể chỉnh sửa mọi thứ thông qua Nút +. Bạn có thể thay đổi số tiền Nhà nhập khẩu, Item Slot, Kênh nào, thực tế là mọi thứ chỉ với Thẻ đó.\n\nNếu bạn chỉ muốn di chuyển các vật phẩm, không có gì quá cầu kỳ, chỉ cần đặt nó vào và có thể thay đổi Giới hạn về số lượng được di chuyển."]
 	quest.79C1105A84B8BF8F.title: "Variable Cards"
 	task.166BA23E49F6DCD6.title: "Importers"
 	task.1C045BB5FAFCF4D3.title: "Interfaces"
 	task.1C7C0F345759111C.title: "Exporters"
-	task.22CCBBC66D509404.title: "Networks!"
+	task.22CCBBC66D509404.title: "Mạng!"
 	task.238B5BA2FAE9785B.title: "AllRightsReserved"
 	task.2656ACB55A33D4FE.title: "Interface GUI"
 	task.267CE316E1F8FA83.title: "AllRightsReserved"
-	task.4209A06A392362DB.title: "Importer \\& Exporter GUI"
+	task.4209A06A392362DB.title: "Nhà nhập khẩu \\& Nhà xuất khẩu GUI"
 	task.5DD862CF56AF7BF9.title: "Menril Logs"
 }
