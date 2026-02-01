@@ -5,26 +5,26 @@
 	quest.232A06C9FF0EE7B2.quest_subtitle: "Tự động hóa Menril"
 	quest.2F37E284BB83BFF6.quest_desc: ["Cờ lê dùng để xoay hoặc phá hủy các khối nhất định, shift chuột phải vào không khí để thay đổi chế độ."]
 	quest.33F4A7613764A016.quest_desc: ["Hoạt động giống như Nhà nhập khẩu, chỉ có điều họ xuất khẩu thay thế."]
-	quest.33F4A7613764A016.quest_subtitle: "Exporting"
+	quest.33F4A7613764A016.quest_subtitle: "Xuất vật phẩm"
 	quest.3BC94B0B922C0708.quest_desc: ["Đây là những nguyên liệu chế tạo cho những thứ được nhập khẩu, cho dù đó là vật phẩm, chất lỏng hay năng lượng."]
 	quest.3C9539083BCC145C.quest_desc: ["Menril Bees có thể được sử dụng để tự động hóa Crystallized Menril Chunks."]
 	quest.3C9539083BCC145C.quest_subtitle: "Tự động hóa Menril"
 	quest.437F4945AFBE0825.quest_desc: ["Khi bạn nhấp chuột phải vào Nhà nhập khẩu hoặc Nhà xuất khẩu, nó sẽ hiển thị một menu. Menu chủ yếu để lọc, giả sử bạn đã đặt Variable Card thành Cobblestone, Nhà xuất khẩu của bạn sẽ chỉ gửi Cobblestone.\n\nCó một dấu \"+\" nhỏ ở bên trái các biến khi bạn chèn chúng, nhấp vào nó sẽ mở ra một GUI khác. Tại đây, bạn có thể thay đổi tốc độ truyền để có thể gửi vật phẩm/chất lỏng/năng lượng của &dINFINITE, cũng như có thể thực hiện một số nội dung khác.\n\nỞ trên cùng bên trái, chúng tôi có các cài đặt, phần lớn các cài đặt này giống với cài đặt giao diện."]
 	quest.44DA091B53473723.quest_desc: ["Máy ép cơ sử dụng năng lượng để ép."]
 	quest.450EDE68EC992A5A.quest_desc: ["Giao diện và bánh mì là bất cứ thứ gì họ đang xem. Bạn có thể coi điều này giống như Storage Bus của &bAE2.\n\nBạn không biết đó là gì? Đây là một ví dụ: Một chiếc rương chứa 100 Cobblestone có một giao diện trên đó, điều này có nghĩa là mạng ID của bạn có 100 Cobblestone trong hệ thống của nó, khá đơn giản phải không?"]
-	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
+	quest.450EDE68EC992A5A.quest_subtitle: "Giao diện có GUI!"
 	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics (ID) là một mod hậu cần có thể được sử dụng để lưu trữ, chuyển vật phẩm/sức mạnh/chất lỏng và hơn thế nữa!\n\nCây Menril có thể được tìm thấy trong quần xã Meneglin.\n\nCác nhiệm vụ này sẽ bao gồm một số khái niệm cơ bản của mod, hãy đọc sách hướng dẫn được đưa ra như một phần thưởng cho nhiệm vụ này nếu bạn muốn đi sâu hơn."]
 	quest.499CF9F39CED8899.quest_subtitle: "Trồng Menril"
 	quest.499CF9F39CED8899.title: "&bĐộng lực học tích hợp"
 	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables khác với các loại cáp khác. Other Cables đóng vai trò là Người vận chuyển, các vật phẩm di chuyển từ Kho 1, vào cáp, sau đó vào Kho thứ 2. Logic Cables chỉ cần bỏ qua người trung gian cũng bỏ qua rất nhiều độ trễ.\n\nChúng chỉ để kết nối Nhà nhập khẩu và Giao diện."]
 	quest.4A05C037C0EE40BD.quest_subtitle: "Tạo mạng"
-	quest.4A05C037C0EE40BD.title: "Logic Cables"
+	quest.4A05C037C0EE40BD.title: "Cáp Logic"
 	quest.4D4152032F0410D2.quest_desc: ["Lập trình viên logic cho phép bạn đặt giá trị của các biến. Điều này có thể được đặt thành các mục và chất lỏng để lọc hoặc thậm chí các giá trị. \n\nĐể tôi cho bạn một ví dụ đơn giản: Chọn &bItem từ phía bên trái, đặt một vật phẩm bạn chọn vào ô giữa của GUI bật lên và đặt &bVariable Card vào ô dưới cùng bên phải. Sau đó, nếu bạn đặt thẻ biến đó vào nhà nhập/xuất, nó sẽ chỉ nhập/xuất khối đó!"]
 	quest.4D4152032F0410D2.quest_subtitle: "Nâng cao"
 	quest.4D62C62B523C69EC.quest_desc: ["Máy phát điện tạo ra FE sử dụng nhiên liệu có thể đốt được như Than."]
 	quest.4D62C62B523C69EC.quest_subtitle: "Cung cấp năng lượng!"
 	quest.56BF647EA84FFF7E.quest_desc: ["Hiển thị công thức chế tạo nào đang diễn ra bất cứ lúc nào."]
-	quest.56BF647EA84FFF7E.quest_subtitle: "Shows Recipes"
+	quest.56BF647EA84FFF7E.quest_subtitle: "Hiển thị công thức"
 	quest.60D9F04E91171D16.quest_desc: ["Cái này có thể hoạt động như một Rương cho các Biến của bạn hoặc thực sự có thể được sử dụng trong mạng nâng cao.\n\nNếu bạn muốn có mạng nâng cao, hãy nhớ đọc về chúng trong &eDynamics of Integration."]
 	quest.62B4A37CFDECA679.quest_desc: ["Nhựa Menril sẽ đi về 2 mặt của Máy ép. Đặt một Chậu sấy bên cạnh Máy ép sẽ làm cho Chậu sấy nhận được Menril Resin.\n\nSau 7,5 giây, Menril Resin sẽ biến thành Khối Crystallized Menril."]
 	quest.65D89991A45BC042.quest_desc: ["Đặt Giao diện chế tạo trên bàn chế tạo và nhấp chuột phải vào nó, thao tác này sẽ cung cấp cho bạn một số vị trí cho &bThẻ biến đổi. \n\nSử dụng Logic Programmer, tìm kiếm &eRecipe ở trên cùng bên trái và tạo một cái để chế tạo tự động, sau đó lưu nó vào &bThẻ biến. Nếu một công thức &c&lr yêu cầu các vật phẩm cần được chế tạo, hãy tạo một công thức cho từng món đó, sau đó đặt mọi thứ vào Giao diện Chế tạo."]
@@ -46,16 +46,16 @@
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
-	quest.73EA326304C01C3B.quest_subtitle: "Importing"
+	quest.73EA326304C01C3B.quest_subtitle: "Nhập vật phẩm"
 	quest.7413BB136EF9D6C5.quest_desc: ["Chậu sấy cơ học sử dụng năng lượng để làm khô"]
 	quest.79C1105A84B8BF8F.quest_desc: ["Variable Cards là cần thiết để bắt đầu Tương tác như Nhập vật phẩm. Bạn sẽ đặt chúng vào một trong các vị trí của Nhà nhập khẩu để thêm chúng.\n\nTừ đó bạn có thể chỉnh sửa mọi thứ thông qua Nút +. Bạn có thể thay đổi số tiền Nhà nhập khẩu, Item Slot, Kênh nào, thực tế là mọi thứ chỉ với Thẻ đó.\n\nNếu bạn chỉ muốn di chuyển các vật phẩm, không có gì quá cầu kỳ, chỉ cần đặt nó vào và có thể thay đổi Giới hạn về số lượng được di chuyển."]
-	quest.79C1105A84B8BF8F.title: "Variable Cards"
+	quest.79C1105A84B8BF8F.title: "Thẻ biến (Variable Cards)"
 	task.166BA23E49F6DCD6.title: "Importers"
 	task.1C045BB5FAFCF4D3.title: "Interfaces"
 	task.1C7C0F345759111C.title: "Exporters"
 	task.22CCBBC66D509404.title: "Mạng!"
 	task.238B5BA2FAE9785B.title: "AllRightsReserved"
-	task.2656ACB55A33D4FE.title: "Interface GUI"
+	task.2656ACB55A33D4FE.title: "GUI của Giao diện"
 	task.267CE316E1F8FA83.title: "AllRightsReserved"
 	task.4209A06A392362DB.title: "Nhà nhập khẩu \\& Nhà xuất khẩu GUI"
 	task.5DD862CF56AF7BF9.title: "Menril Logs"
