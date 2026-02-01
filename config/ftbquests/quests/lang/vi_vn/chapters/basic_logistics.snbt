@@ -160,13 +160,13 @@
 	quest.76CECFB244F39F18.title: "&3Energy Importing"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["Chúng chỉ được sử dụng để Kết nối &cLaser Nodes&r với nhau và với các Trình kết nối. Không quá quan trọng, tôi chỉ muốn giữ lại chủ đề Cờ lê. \n\nNó hoạt động như một Cờ lê cho các Cấu hình khác!"]
 	quest.7EE27C3908008E20.quest_desc: ["Nếu bạn cần xâu chuỗi &cLaser Nodes&r của mình ở một khoảng cách xa, hãy thử sử dụng Trình kết nối! Chỉ cần sử dụng Cờ lê như bình thường."]
-	task.2BA7FC10243AA011.title: "Pressurized Tubes"
-	task.337725ECA2C04090.title: "Logical Transporters"
-	task.4448DE84ABA737BE.title: "Universal Cables"
-	task.48A30B08A090BD75.title: "Wrenches"
-	task.48CF7A7622423DEA.title: "Pipe Upgrades"
+	task.2BA7FC10243AA011.title: "Ống bị tăng áp"
+	task.337725ECA2C04090.title: "Máy vận chuyển logic"
+	task.4448DE84ABA737BE.title: "Cáp phổ quát"
+	task.48A30B08A090BD75.title: "Cờ lê"
+	task.48CF7A7622423DEA.title: "Nâng cấp ống"
 	task.4CCB830CFDD43B5E.title: "AllRightsReserved"
-	task.5B7926B511000F1F.title: "Mechanical Pipes"
+	task.5B7926B511000F1F.title: "Ống cơ học"
 	task.5E4B74F97BDED243.title: "AllRightsReserved"
-	task.79E961F671475850.title: "Thermodynamic Conductors"
+	task.79E961F671475850.title: "Dẫn nhiệt động lực"
 }

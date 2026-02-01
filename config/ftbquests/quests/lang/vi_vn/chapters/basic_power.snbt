@@ -123,14 +123,14 @@
 	quest.7FE969CB4B419FC6.quest_desc: ["Chỉ cần nghiên cứu một chút về Mekanism, chiếc máy này cho phép bạn truyền tải mọi thứ không dây.\n\nBạn có thể đặt các kênh cụ thể để chuyển từng vật phẩm, năng lượng hoặc thậm chí là khí từ Mekanism. Nó khá tuyệt."]
 	quest.7FE969CB4B419FC6.quest_subtitle: "Không chỉ có tác dụng với Power"
 	quest.7FE969CB4B419FC6.title: "&9Chủ nghĩa cơ học:&6Quantum Entangloporter"
-	task.098F1B932F851616.title: "Pipe Upgrades"
+	task.098F1B932F851616.title: "Nâng cấp ống"
 	task.0F7D7AE91E20F778.title: "Coal Generators"
 	task.2D0212699F99459F.title: "Mạng đầu tiên"
 	task.35C1DBD4544C9BB0.title: "Induction Cells"
 	task.3D721B55E8D33FE8.title: "Mạng thông lượng UI"
 	task.44C02386C9B8E0D3.title: "Induction Providers"
 	task.59DE118DD6597A4E.title: "Renewable Mekanism Energy Generators"
-	task.6C4B8A2662030CB0.title: "Universal Cables"
+	task.6C4B8A2662030CB0.title: "Cáp phổ quát"
 	task.76378687551A79C3.title: "Energy Cubes"
 	task.7CA8741CA073C1DA.title: "Powercells"
 }

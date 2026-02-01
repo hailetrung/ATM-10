@@ -31,7 +31,7 @@
 
 		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
 	]
-	quest.0584073A7383E0EA.title: "Mite Fortress"
+	quest.0584073A7383E0EA.title: "Pháo đài Mite"
 	quest.05A4496705B6C6AF.quest_desc: [
 		"Beehemoth là những &6B&8e&6e&8s&r độc nhất giống với Wild Flying Horse hơn. \n\nChúng có thể được thuần hóa bằng cách cho chúng ăn Chất lỏng &6Mật ong&r trong Chai hoặc Xô. \n\nHọ có một mức độ tình bạn quyết định xem họ có được bạn thuần hóa hay không và họ đi nhanh như thế nào cũng như lượng máu của họ! Cho chúng ăn sẽ khiến cấp độ tăng cao hơn trong khi nếu chúng nhận sát thương thì cấp độ sẽ giảm xuống. \n\nKhi mức độ tình bạn đạt đến mức tối đa, họ sẽ trở thành &5Queen Beehemoth&r! \n\nHọ sẽ làm theo &6Honey Buckets&r như Cows to Wheat, (đồng thời thử sử dụng Royal Jelly với họ)."
 
@@ -45,13 +45,13 @@
 
 		"{image:atm:textures/questpics/bumblezone/bumble_candle.png width:200 height:100 align:center}"
 	]
-	quest.0980661B2F7FBC10.title: "Candle Parkour"
+	quest.0980661B2F7FBC10.title: "Parkour nến"
 	quest.0B0BDC37185AF9EC.quest_desc: [
 		"Ancient Hoops là những tòa tháp cao được làm bằng Ancient Wax. \n\nỞ trên cùng có thể có các Hoop với Windy Air chảy qua chúng. \n\nĐó cũng là nơi bạn sẽ tìm thấy Cocoons! \n\nCó vẻ như là một nơi tuyệt vời để sử dụng Elytra!"
 
 		"{image:atm:textures/questpics/bumblezone/bumble_hoops.png width:200 height:100 align:center}"
 	]
-	quest.0B0BDC37185AF9EC.title: "Ancient Hoops"
+	quest.0B0BDC37185AF9EC.title: "Vòng cổ xưa"
 	quest.0BE2E7C9454058C3.quest_desc: [
 		"Một phần của &d&lFloral Meadow&r xinh đẹp là &dCherry Tree&r cũ hơn và lớn hơn nhiều so với phần còn lại. \n\n&6B&8e&6e&8s&r có vẻ thích những &dCây&r này và đã thiết lập mini &eHives&r bên cạnh chúng đầy con non!"
 
@@ -68,15 +68,15 @@
 	quest.0E32DB6B8E023764.quest_desc: ["&6&lProductive Bees&r? Bạn đang làm gì ở đây? \n\nĐôi khi dọc theo &6&lHive Walls&r hoặc &6&lPillars&r bạn có thể tìm thấy tiền gửi Lược từ &l&6Productive Bees&r! \n\nGiống như khai thác quặng trong &2Overworld&r."]
 	quest.0E32DB6B8E023764.title: "Vượt qua?"
 	quest.0F5549B02D1B383B.quest_desc: ["Giết 16 Cave Spiders. \n\nĐừng lo lắng, có rất nhiều thứ từ &6&lBumblezone&r để trợ giúp về Poison."]
-	quest.1207E5C3E7BD0584.title: "Bee Banner Pattern"
+	quest.1207E5C3E7BD0584.title: "Mẫu biểu ngữ ong"
 	quest.12EF38830108D02B.quest_desc: ["Giết 32 con nhện bình thường."]
-	quest.13681866CE6A831C.title: "Swords Banner Pattern"
+	quest.13681866CE6A831C.title: "Mẫu biểu ngữ kiếm"
 	quest.13E3DE157B89E847.quest_desc: [
 		"Một cấu trúc rất đơn giản, một số &6B&8e&6e&8s&r và những thứ khác bị đóng băng thành một que kem."
 
 		"{image:atm:textures/questpics/bumblezone/bumble_ice.png width:200 height:100 align:center}"
 	]
-	quest.13E3DE157B89E847.title: "Ice Monolith"
+	quest.13E3DE157B89E847.title: "Một khối đá băng"
 	quest.14F6ED7F0C1DC503.quest_desc: ["Uống 8 &6Chai mật ong&r. \n\nĐây là điều khó nhất đối với tôi. Tôi không thể chịu được tiếng ồn của việc uống rượu &6Honey Bottles&r."]
 	quest.1A67F4F87B3D456C.quest_desc: [
 		"Pháo &6B&8e&6e&r Pháo có thể được Chế tạo, tìm thấy trong các công trình hoặc được trao đổi với &5Bee Queen&r. \n\nKhá đơn giản: Right Click a &6B&8e&6e&r để nạp, và Hold Right Click sau đó thả tay ra bắn &6B&8e&6e&r! \n\nHọ sẽ không cảm thấy thù địch khi bị bắn, đừng lo lắng, thực ra tôi nghĩ họ thích điều đó."
@@ -234,7 +234,7 @@
 		"\"The Vengabus is coming\\nAnd everybody's jumping\\nNew York to San Francisco\\nAn intercity disco\\nThe wheels of steel are turning\\nAnd traffic lights are burning\\nSo if you like to party\\nGet on and move your body\".\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_dance.png width:200 height:100 align:center}"
 	]
-	quest.4A5F84912C755688.title: "Dance Floor"
+	quest.4A5F84912C755688.title: "Sàn nhảy"
 	quest.4F144E5F70932C7D.quest_desc: [
 		"Một cấu trúc nổi khác! (Tôi nghĩ rằng tôi đang nhận thấy một mô hình ở đây). \n\nTại đây, bạn sẽ tìm thấy hàng tấn Chiến lợi phẩm trong Kén và dưới Tinh thể Mật ong Lấp lánh. \n\nBạn cũng sẽ tìm thấy rất nhiều Phantom ở đây, do đó có tên như vậy! Có thể muốn một cái gì đó để ngăn ngừa thiệt hại do rơi..."
 
