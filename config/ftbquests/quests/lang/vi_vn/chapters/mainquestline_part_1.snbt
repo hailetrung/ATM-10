@@ -8,7 +8,7 @@
 
 		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
 	]
-	quest.0F3D51FFD2FE8DCB.title: "&cĐến The Nether!"
+	quest.0F3D51FFD2FE8DCB.title: "&c Đến Nether!"
 	quest.110BF3A2BE85F911.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
 	quest.1E1EB7DC19DDCFB7.quest_desc: ["Để tạo ra các công cụ và áo giáp Netherite, bạn cần tìm &6Mẫu rèn Netherite trong các rương bên trong Bastions.\n\nNhững thứ này có thể được kết hợp với thỏi &cNetherite và công cụ Kim cương hoặc mảnh áo giáp trong &aSmithing Table để nâng cấp nó lên &cNetherite.\n\nMẹo: Đừng sử dụng tất cả các mẫu của bạn cùng một lúc! Bạn có thể tạo các bản sao bằng cách sử dụng công thức để tạo một bản sao khác."]
 	quest.1E1EB7DC19DDCFB7.title: "&6Mẫu Netherite&"
@@ -84,7 +84,7 @@
 	quest.698A959C9E449592.quest_desc: ["Bước tiến triển tiếp theo là tạo Iron Pickaxe.\n\nCái cuốc này có thể khai thác một số loại quặng hiếm hơn trong trò chơi, bao gồm cả Kim cương!"]
 	quest.698A959C9E449592.title: "An&aSắt&rPick"
 	quest.69A517AB8A801939.quest_desc: ["&5Wither là một trong những tên trùm khó giết nhất trong Minecraft. Chủ yếu là vì nó bay. Và phát nổ. Và nhanh chóng. Bạn có được hình ảnh.\n\nĐể triệu hồi nó, hãy đặt 4 Soul Sand theo hình chữ T. Đặt 3 Wither Skeleton Skulls lên trên chữ 'T' và &5Wither sẽ xuất hiện.\n\nMẹo: Nó phát nổ. Nhiều. Đừng làm điều này gần căn cứ của bạn."]
-	quest.69A517AB8A801939.title: "&6Giết The&5Héo"
+	quest.69A517AB8A801939.title: "&6Giết Thế&5Héo"
 	quest.6D09511D64DDC282.quest_desc: ["&dWarden có thể được triệu tập bằng cách kích hoạt Cảm biến &5Sculk ở gần &3Sculk Shrieker ít nhất 3 lần.\n\nFun Fact: Quản ngục bị mù! Nó chỉ có thể tìm thấy bạn nếu nó nghe thấy bạn, vì vậy hãy bay xung quanh hoặc lẻn!\n\nMẹo: Việc bạn sử dụng đòn tấn công tầm xa hay cận chiến đều không thành vấn đề vì nó sẽ tìm thấy bạn. Và nó sẽ đánh bạn. Nếu bạn đi quá xa, nó sẽ chui xuống đất và bò lên cạnh bạn! Chúc may mắn :D"]
 	quest.6D09511D64DDC282.title: "&5Giết người cai ngục"
 	quest.6EDAB29FBD3C60A3.quest_desc: ["Quần xã này đã được giới thiệu trong Wild Update!\n\nHãy cẩn thận! Bạn có thể vô tình triệu tập một người bạn mới.\n\ntái bút - He's không thân thiện."]
@@ -123,7 +123,7 @@
 	task.44CEA28EBD6C0898.title: "AllRightsReserved"
 	task.539C6F64C251543B.title: "Coal"
 	task.6CAD0E4CF3577BEB.title: "Giết 1 cai ngục"
-	task.76C41881A02F2098.title: "Giết 1 Wither"
+	task.76C41881A02F2098.title: "Giết 1 héo"
 	task.7C6F7EF2B3AC2824.title: "AllRightsReserved"
 	task.7C88F80D05E62AC7.title: "Sắt Furnaces"
 }
