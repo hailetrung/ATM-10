@@ -13,14 +13,14 @@
 	quest.020E6AF37A0421C8.title: "Nước Tank"
 	quest.032B654201E71618.quest_desc: ["Những &cTrack Kits này dùng để sử dụng các thực thể với &7Carts (Thực thể hay còn gọi là Mobs) của bạn. \n\n&cEmbarking Kit sẽ nhặt bất kỳ Mob nào ở gần và đặt chúng vào &7Cart. \nBộ công cụ &cDisembarking Kit sẽ dỡ Mob khỏi &7Carts. \nBộ &cDumping Kit sẽ thả mob vào &7Carts bên dưới &6tracks của nó."]
 	quest.032B654201E71618.title: "&cBộ công cụ theo dõi dành cho các thực thể chuyển động"
-	quest.035C52EF63AD23A7.quest_desc: ["Do đó, tên của mod, &lRailCraft’s, và nội dung của nó, &5Trains’s, &6Rails’s khá quan trọng. \n\nNhững cái của &2Vanilla hoạt động được với rất nhiều thứ trong số này nhưng thôi nào tất cả chúng ta đều biết chúng rất tệ. Những người được nâng cấp sẽ cần một số vật phẩm đặc biệt hơn cho công thức nấu ăn của họ! Hãy chế tạo chúng! (Họ có thể yêu cầu sử dụng máy móc để chế tạo các vật phẩm, vì vậy hãy xem phần đó của nhiệm vụ!)"]
+	quest.035C52EF63AD23A7.quest_desc: ["Do đó, tên của mod, &lRailchế tạo’s, và nội dung của nó, &5Trains’s, &6Rails’s khá quan trọng. \n\nNhững cái của &2Vanilla hoạt động được với rất nhiều thứ trong số này nhưng thôi nào tất cả chúng ta đều biết chúng rất tệ. Những người được nâng cấp sẽ cần một số vật phẩm đặc biệt hơn cho công thức nấu ăn của họ! Hãy chế tạo chúng! (Họ có thể yêu cầu sử dụng máy móc để chế tạo các vật phẩm, vì vậy hãy xem phần đó của nhiệm vụ!)"]
 	quest.035C52EF63AD23A7.title: "&6&lRails!"
 	quest.068294A7C21DE550.quest_desc: ["&cTrack Kits được sử dụng để chế tạo với &6rails nhằm tạo ra &6rails đặc biệt. \n\nNhững &6đường ray này sẽ hữu ích cho mọi thứ khôn ngoan của &5Train như: dừng &5Train, di chuyển &5Train và phát ra đá đỏ."]
 	quest.068294A7C21DE550.title: "&c&lBản nhạc!"
 	quest.08457BEED799E600.quest_desc: ["Những &7Carts mới này chủ yếu dùng để đặt &6Tracks.\n\nLớp &7Track đặt xuống &6Tracks trong khi &7Track Remover xóa &6Tracks.\n\n&7Track Relayer thay thế &6Tracks bằng các khối khác và &7Track UnderCutter thay thế các khối bên dưới &6Tracks."]
 	quest.08457BEED799E600.title: "&7Carts&rvà&6Tracks"
 	quest.0A43FD0B5C76C1C5.quest_desc: [
-		"&l&7RailCraft thêm một khối đa năng Blast Furnace để chúng ta biến Sắt thành Thép! \n\nĐể xây dựng nó, bạn sẽ cần 34 Blast Furnace Bricks. Nó sẽ rộng 3 khối, dài 3 khối và cao 4 khối. Hai khối ở chính giữa cần phải rỗng. Bạn sẽ biết nó đã hoàn thành khi tất cả được hình thành cùng nhau và cho phép bạn truy cập GUI của nó. \n\nỞ đó bạn có thể đặt Sắt, dưới mọi hình thức, để lấy Thép và Granulated Sand."
+		"&l&7Railchế tạo thêm một khối đa năng Blast Furnace để chúng ta biến Sắt thành Thép! \n\nĐể xây dựng nó, bạn sẽ cần 34 Blast Furnace Bricks. Nó sẽ rộng 3 khối, dài 3 khối và cao 4 khối. Hai khối ở chính giữa cần phải rỗng. Bạn sẽ biết nó đã hoàn thành khi tất cả được hình thành cùng nhau và cho phép bạn truy cập giao diện của nó. \n\nỞ đó bạn có thể đặt Sắt, dưới mọi hình thức, để lấy Thép và Granulated Sand."
 
 		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
 	]
@@ -40,10 +40,10 @@
 	]
 	quest.170118E3C3C072E5.title: "&6Đường nối"
 	quest.175D943160C10646.quest_desc: [
-		"&l&7RailCraft sử dụng nhiều máy móc cho nhiều mục đích khác nhau nhưng chủ yếu là tạo ra tài nguyên."
+		"&l&7Railchế tạo sử dụng nhiều máy móc cho nhiều mục đích khác nhau nhưng chủ yếu là tạo ra tài nguyên."
 
 		""
-		"Tất cả đều bắt đầu bằng Iron Ingots!"
+		"Tất cả đều bắt đầu bằng Iron thỏi!"
 
 	]
 	quest.175D943160C10646.title: "&l&7Machines"
@@ -71,20 +71,20 @@
 	quest.2A30595DC6DDBFF7.title: "&6Đường ray điện"
 	quest.2AB0FA084739827A.quest_desc: ["Để thực sự sử dụng &9Tunnel Bore, bạn sẽ cần &9Tunnel Bore Head&r. \n\nChúng có 4 kiểu dáng khác nhau và được khai thác tùy thuộc vào &9Bore ​​Head. \n\nNó có thể được phù phép và có độ bền nên bạn sẽ muốn phù phép nó!"]
 	quest.2AB0FA084739827A.title: "&9Khoang đường hầm, Bore Head"
-	quest.2D00F85379A4D591.quest_desc: ["Trình tải vật phẩm là bộ phân phối cơ bản nhất của RailCraft. Nó phải ở phía trên &6Track và có thể được cấu hình theo những gì bạn muốn tải vào &7Carts bên dưới."]
+	quest.2D00F85379A4D591.quest_desc: ["Trình tải vật phẩm là bộ phân phối cơ bản nhất của Railchế tạo. Nó phải ở phía trên &6Track và có thể được cấu hình theo những gì bạn muốn tải vào &7Carts bên dưới."]
 	quest.2D00F85379A4D591.title: "Item Loader"
-	quest.31094CC16E710040.quest_desc: ["&4Crowbar là công cụ chính của RailCraft. \n\nKhi được sử dụng trên &5Locomotive, nó sẽ thay đổi hướng mà nó hướng tới. \n\nKhi nhấn shift, bạn có thể kết nối &5Locomotives và &7Carts. \n\nKhi vừa sử dụng trên &7Carts, chúng sẽ đẩy nhẹ chúng. \n\nVà khi được sử dụng trên các bản nhạc đặc biệt, chúng sẽ thay đổi chế độ. \n\nCác &4Crowbars khác nhau chỉ mang lại vẻ ngoài và sức sát thương khác nhau."]
+	quest.31094CC16E710040.quest_desc: ["&4Crowbar là công cụ chính của Railchế tạo. \n\nKhi được sử dụng trên &5Locomotive, nó sẽ thay đổi hướng mà nó hướng tới. \n\nKhi nhấn shift, bạn có thể kết nối &5Locomotives và &7Carts. \n\nKhi vừa sử dụng trên &7Carts, chúng sẽ đẩy nhẹ chúng. \n\nVà khi được sử dụng trên các bản nhạc đặc biệt, chúng sẽ thay đổi chế độ. \n\nCác &4Crowbars khác nhau chỉ mang lại vẻ ngoài và sức sát thương khác nhau."]
 	quest.31094CC16E710040.quest_subtitle: "\"Cái gì, cậu định cướp tôi à?\""
 	quest.365D4B1DC953D406.quest_desc: ["Bộ phân phối &7Cart sẽ hoạt động đúng như tên gọi của nó. Nó có thể phân phối bất kỳ &7Carts nào vào &6Tracks ở phía trước nó. Cần tín hiệu Redstone để phân phối."]
 	quest.365D4B1DC953D406.title: "&7Cart&rDispenser"
 	quest.38451B61E3FC075B.quest_desc: [
-		"Đợi đã, chúng ta lại có Thép, điều đó có nghĩa là chúng ta sẽ lấy lại được Coke (Than) của mình phải không? Đúng! \nĐể có được Coke (Than), bạn sẽ cần Coke Oven. Để tạo một cái, bạn sẽ cần 26 Coke Oven Bricks và đặt chúng theo kích thước 3x3x3 với 1 khối rỗng ở giữa. Bạn sẽ biết mọi việc đã hoàn tất khi bạn có thể truy cập GUI và tất cả chỉ có một kết cấu. \n\nPlace Coal hoặc Coal Blocks để nhận (Than) Coke và Liquid Creosote! Bạn luôn có thể đăng nhập bất kỳ để nhận Than và Creasote."
+		"Đợi đã, chúng ta lại có Thép, điều đó có nghĩa là chúng ta sẽ lấy lại được Coke (Than) của mình phải không? Đúng! \nĐể có được Coke (Than), bạn sẽ cần Coke Oven. Để tạo một cái, bạn sẽ cần 26 Coke Oven Bricks và đặt chúng theo kích thước 3x3x3 với 1 khối rỗng ở giữa. Bạn sẽ biết mọi việc đã hoàn tất khi bạn có thể truy cập giao diện và tất cả chỉ có một kết cấu. \n\nPlace Coal hoặc Coal Blocks để nhận (Than) Coke và Liquid Creosote! Bạn luôn có thể đăng nhập bất kỳ để nhận Than và Creasote."
 
 		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
 	]
 	quest.38451B61E3FC075B.title: "Coke Oven"
-	quest.3E75AFE3482834C5.quest_desc: ["&lRailCraft's là một mod hoàn chỉnh dựa trên &5Trains's! \n\nTừ &7Minecarts đến &e Electric Locomotives đến &9Tunnel Bores! Nó có tất cả mọi thứ và phụ kiện của 5Train! Traffic Lights, Steam Boilers để cung cấp năng lượng cho &5Trains và tự động hóa tất cả. \n\nMod mô hình dành cho những người yêu thích Model &5Train!"]
-	quest.3E75AFE3482834C5.title: "&7&lRailCraft"
+	quest.3E75AFE3482834C5.quest_desc: ["&lRailchế tạo's là một mod hoàn chỉnh dựa trên &5Trains's! \n\nTừ &7Minecarts đến &e Electric Locomotives đến &9Tunnel Bores! Nó có tất cả mọi thứ và phụ kiện của 5Train! Traffic Lights, Steam Boilers để cung cấp năng lượng cho &5Trains và tự động hóa tất cả. \n\nMod mô hình dành cho những người yêu thích Model &5Train!"]
+	quest.3E75AFE3482834C5.title: "&7&lRailchế tạo"
 	quest.3E8C2E7769DFBF35.quest_desc: [
 		"Không giống như &3Đầu máy hơi nước, bạn sẽ không cần phải đặt bất cứ thứ gì vào &Đầu máy điện. \n\nNó cạn kiệt nguồn điện từ &eFrames bên dưới &6Electric Tracks. \n\nCó, nó chỉ có thể được chạy trên &6Đường ray điện."
 
@@ -111,7 +111,7 @@
 	]
 	quest.425E375A9EC127EB.title: "&6Rãnh gia cố"
 	quest.475E307844E3AF7F.quest_desc: [
-		"Nồi hơi nước là một số loại máy hữu ích nhất của &l&7RailCraft. Họ cần một chiếc Fuel Firebox và một loại nồi hơi nào đó bên trên. Hộp cứu hỏa có nhiên liệu có thể là 1x1 2x2 hoặc 3x3. Kích thước của Firebox thay đổi mức độ lớn của Boiler ở trên cùng. Đối với Firebox 1x1, nó chỉ có thể có Nồi hơi 1x1. Đối với Hộp cứu hỏa 2x2, nó có thể là Nồi hơi 2x2x3. Đối với Firebox 3x3, nó có thể là 3x3x4. Nhiên liệu lỏng sẽ lấy Creosote làm nóng lên. Đối với Solid Firebox, nó sẽ sử dụng bất cứ thứ gì mà lò nung có thể sử dụng."
+		"Nồi hơi nước là một số loại máy hữu ích nhất của &l&7Railchế tạo. Họ cần một chiếc Fuel Firebox và một loại nồi hơi nào đó bên trên. Hộp cứu hỏa có nhiên liệu có thể là 1x1 2x2 hoặc 3x3. Kích thước của Firebox thay đổi mức độ lớn của Boiler ở trên cùng. Đối với Firebox 1x1, nó chỉ có thể có Nồi hơi 1x1. Đối với Hộp cứu hỏa 2x2, nó có thể là Nồi hơi 2x2x3. Đối với Firebox 3x3, nó có thể là 3x3x4. Nhiên liệu lỏng sẽ lấy Creosote làm nóng lên. Đối với Solid Firebox, nó sẽ sử dụng bất cứ thứ gì mà lò nung có thể sử dụng."
 
 		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
 	]
@@ -141,7 +141,7 @@
 	quest.541D270451DA4320.quest_desc: ["Sẽ cần có Đường chuyển đổi để di chuyển các làn đường giữa các Đường đặc biệt & 6Đường khác nhau. Mũi tên trên đó hiển thị đi đâu."]
 	quest.54F2CB52D3A7BA87.quest_desc: ["Trình dỡ vật phẩm ngược lại với Item Loader. Nó sẽ lấy vật phẩm từ &7Carts. Cái này cũng phải ở trên &6Track."]
 	quest.54F2CB52D3A7BA87.title: "Item Unloader"
-	quest.55D7CD0FA8F1AE48.quest_desc: ["Lý do tất cả chúng ta có mặt ở đây, &5Trains. Bản mod có tên &l&7RailCraft, đừng tỏ ra ngạc nhiên. \n\nCó 2 &5Trains chính khác nhau và 1 khai thác đặc biệt &5Train. \n\nBản thân những &5Trains này có thể hơi nhàm chán, vậy tại sao không gắn &7Carts vào chúng! Kết nối &7Carts với &7Carts&r và với &5Trains được gọi là Coupling, và hủy kết nối chúng là Depair. Để ghép nối &5Trains và &7Carts, hãy sử dụng &4Crowbar hoặc &6Track với Coupling &cTrack Kit."]
+	quest.55D7CD0FA8F1AE48.quest_desc: ["Lý do tất cả chúng ta có mặt ở đây, &5Trains. Bản mod có tên &l&7Railchế tạo, đừng tỏ ra ngạc nhiên. \n\nCó 2 &5Trains chính khác nhau và 1 khai thác đặc biệt &5Train. \n\nBản thân những &5Trains này có thể hơi nhàm chán, vậy tại sao không gắn &7Carts vào chúng! Kết nối &7Carts với &7Carts&r và với &5Trains được gọi là Coupling, và hủy kết nối chúng là Depair. Để ghép nối &5Trains và &7Carts, hãy sử dụng &4Crowbar hoặc &6Track với Coupling &cTrack Kit."]
 	quest.55D7CD0FA8F1AE48.title: "&7&lXe đẩy&5&lTàu hỏa!"
 	quest.5820EDEF71340A1A.quest_desc: [
 		"&6Các bản nhạc bị bỏ rơi phù hợp với những người có giá rẻ và có tính thẩm mỹ. Chúng có thể được sử dụng để bắc cầu qua một vài khối nhà mà không cần hỗ trợ. Chúng chỉ có thể cách các khối đi cùng hướng 2 khối hoặc một khối từ hướng ngược lại. Tuy nhiên, chúng có nguy cơ bị trật bánh, về cơ bản &7Cart của bạn sẽ bị văng ra khỏi &6rails."

@@ -9,16 +9,16 @@
 	quest.026A71F98A52E3A5.quest_desc: ["Trong các ngôi làng, có những dân làng thú vị tình cờ lại là dân làng của Người Sói.\n\nViệc tiêu diệt những con thú này sẽ mang lại cho bạn Thịt Người Sói."]
 	quest.066438B01655D866.quest_desc: ["Mặc dù bản chất của chúng rất hữu ích nhưng chúng ta cũng có thể thu thập những Tinh linh này để sử dụng sau này. Điều đó nghe có vẻ ác phải không?\n\nĐể trở thành Spirit Hunter, trước tiên bạn cần tạo &dVengeance Focus. Điều này được sử dụng để &aFreeze Spirits vào đúng vị trí, sau đó bạn đặt &9Box của Eternal Closure&r gần Spirits. Điều này sau đó sẽ hút Thánh Linh vào để sử dụng sau này."]
 	quest.066438B01655D866.title: "Capturing&dSpirits"
-	quest.0B9F2B443813F43C.quest_desc: ["Bạn đã bao giờ muốn có thể tấn công mọi thứ bằng Xẻng và khiến nó bị thương chưa? Tôi sẽ hỏi tại sao, nhưng đây là EvilCraft.\n\nVâng, không cần tìm đâu xa! Thứ này vừa là vũ khí vừa là công cụ để phá vỡ những thứ mềm mại!"]
-	quest.0BB0DF36B079558F.quest_desc: ["Khi &6Entangled Chalice được đặt vào thế giới, nó có thể bơm máu. Khi được kích hoạt trong kho của bạn, nó sẽ cố gắng lấp đầy các vật phẩm sử dụng &cBlood làm tài nguyên.\n\nNếu bạn muốn tạo thêm Chén thánh bằng cùng một mạng, chỉ cần sử dụng công thức chế tạo sử dụng Chén thánh thay vì Gold Ingot"]
+	quest.0B9F2B443813F43C.quest_desc: ["Bạn đã bao giờ muốn có thể tấn công mọi thứ bằng Xẻng và khiến nó bị thương chưa? Tôi sẽ hỏi tại sao, nhưng đây là Evilchế tạo.\n\nVâng, không cần tìm đâu xa! Thứ này vừa là vũ khí vừa là công cụ để phá vỡ những thứ mềm mại!"]
+	quest.0BB0DF36B079558F.quest_desc: ["Khi &6Entangled Chalice được đặt vào thế giới, nó có thể bơm máu. Khi được kích hoạt trong kho của bạn, nó sẽ cố gắng lấp đầy các vật phẩm sử dụng &cBlood làm tài nguyên.\n\nNếu bạn muốn tạo thêm Chén thánh bằng cùng một mạng, chỉ cần sử dụng công thức chế tạo sử dụng Chén thánh thay vì Gold thỏi"]
 	quest.0BB0DF36B079558F.title: "&6Chiếc cốc vướng víu"
-	quest.0EAF01037BB20BCB.quest_subtitle: "Summons Zombies"
+	quest.0EAF01037BB20BCB.quest_subtitle: "Summons Zombie"
 	quest.10EF30B919EBA5C6.quest_desc: ["Đó là một cái cuốc có hình Fortune V trên đó. Thế thôi.\n\nChắc chắn sẽ không triệu hồi linh hồn khi bạn khai thác. &o&5&lChắc chắn là không&r."]
 	quest.12F3A604329EC604.quest_subtitle: "Tăng hiệu quả của máy móc"
 	quest.199E7C89584C3DB1.quest_subtitle: "Removes Bad Potion Effects"
 	quest.1D794DE95C9FF6C7.quest_subtitle: "Tăng tốc độ của máy móc"
 	quest.1DA0A87C471A38AC.quest_desc: [
-		"&cEvilCraft có Mob Farm của riêng mình!\n\nĐể bắt đầu việc này, bạn cần chế tạo ít nhất 33 &cTối Blood Bricks&r. Với những thứ này, chúng ta sẽ xây dựng một cấu trúc đủ mạnh để chứa các linh hồn được triệu hồi.\n\nBạn cũng sẽ cần một linh hồn bị mắc kẹt trong &9Hộp của Eternal Closure&r. Điều này sẽ xác định số giọt bạn sẽ nhận được.\n\nĐể xây dựng cái này, bạn cần xây dựng một cấu trúc hình khối có đủ chỗ cho mob sinh sản. Kích thước tối thiểu là 3x4x3, đủ chỗ để sinh ra mob như Zombie. Đảm bảo đặt &9Spirit Furnace trên một trong các mặt để bạn có thể tương tác với cấu trúc.\n\nNếu bạn muốn sinh ra đám đông lớn hơn, bạn sẽ cần tạo ra một cấu trúc lớn hơn."
+		"&cEvilchế tạo có Mob Farm của riêng mình!\n\nĐể bắt đầu việc này, bạn cần chế tạo ít nhất 33 &cTối Blood Bricks&r. Với những thứ này, chúng ta sẽ xây dựng một cấu trúc đủ mạnh để chứa các linh hồn được triệu hồi.\n\nBạn cũng sẽ cần một linh hồn bị mắc kẹt trong &9Hộp của Eternal Closure&r. Điều này sẽ xác định số giọt bạn sẽ nhận được.\n\nĐể xây dựng cái này, bạn cần xây dựng một cấu trúc hình khối có đủ chỗ cho mob sinh sản. Kích thước tối thiểu là 3x4x3, đủ chỗ để sinh ra mob như Zombie. Đảm bảo đặt &9Spirit Furnace trên một trong các mặt để bạn có thể tương tác với cấu trúc.\n\nNếu bạn muốn sinh ra đám đông lớn hơn, bạn sẽ cần tạo ra một cấu trúc lớn hơn."
 
 		"{image:atm:textures/questpics/evilcraft/evilcraft_spiritfurnace.png width:125 height:150 align:1}"
 	]
@@ -33,18 +33,18 @@
 	quest.290FAB3DE8FD04E7.quest_desc: ["Giữ chuột phải sẽ nạp năng lượng cho Mace để thực hiện đòn tấn công AoE bằng cách sử dụng &cBlood. Nhấp chuột phải sẽ thay đổi mức năng lượng.\n\nCấp sức mạnh càng cao thì sát thương sẽ càng cao với chi phí Máu cao hơn.\n\nBạn sẽ cần một chiếc sạc đầy để chế tạo Ngôi sao &6ATM."]
 	quest.2CB69634F6A6E53E.quest_desc: ["&0Dark Temples rất khó bị bỏ lỡ vì chúng có chùm ánh sáng khổng lồ phát ra từ trung tâm.\n\nỞ trung tâm của &9Dark Temple là &aEnvironmental Accumulator.\n\nChúng ta có thể sử dụng điều này để tăng sức mạnh và tạo ra một số vật phẩm mà chúng ta sẽ cần trong quá trình thực hiện, bao gồm cả &dBom Sét!"]
 	quest.2CB69634F6A6E53E.title: "&l&0Ngôi đền tối"
-	quest.31FD9EA513E0D010.quest_desc: ["&cEvilCraft's là một mod ma thuật dựa trên những thứ có phần xấu xa. Thu thập máu của kẻ thù và khai thác sức mạnh của nguồn gốc tà ác cổ xưa!\n\nMọi thứ trong bản mod này có thể được tìm thấy trong sách hướng dẫn &aOrigins of Darkness.\n\nĐể bắt đầu, hãy tìm cho mình một số &9Dark Gems."]
-	quest.31FD9EA513E0D010.title: "&aChào mừng đến với&cEvilCraft!"
-	quest.35FA55BE8DF49EE8.quest_desc: ["Sử dụng sức mạnh của &9Vengeance Spirit đã bị giết, chúng ta có thể sử dụng Blood Infuser để tạo ra &dGarmonbozia.\n\nĐây là &dPain và &dSorrow được hiện thực hóa. Nó cũng là vật liệu chế tạo cao cấp cho các công cụ và vật phẩm mạnh mẽ trong EvilCraft."]
+	quest.31FD9EA513E0D010.quest_desc: ["&cEvilchế tạo's là một mod ma thuật dựa trên những thứ có phần xấu xa. Thu thập máu của kẻ thù và khai thác sức mạnh của nguồn gốc tà ác cổ xưa!\n\nMọi thứ trong bản mod này có thể được tìm thấy trong sách hướng dẫn &aOrigins of Darkness.\n\nĐể bắt đầu, hãy tìm cho mình một số &9Dark Gems."]
+	quest.31FD9EA513E0D010.title: "&aChào mừng đến với&cEvilchế tạo!"
+	quest.35FA55BE8DF49EE8.quest_desc: ["Sử dụng sức mạnh của &9Vengeance Spirit đã bị giết, chúng ta có thể sử dụng Blood Infuser để tạo ra &dGarmonbozia.\n\nĐây là &dPain và &dSorrow được hiện thực hóa. Nó cũng là vật liệu chế tạo cao cấp cho các công cụ và vật phẩm mạnh mẽ trong Evilchế tạo."]
 	quest.35FA55BE8DF49EE8.title: "&dGarmonbozia"
-	quest.40888A2C17D8FFF6.quest_desc: ["Bằng cách sử dụng Blood Infuser, bạn có thể tạo &cCây Con Bất Tử phát triển thành &dCây Bất Tử.\n\nCác khúc gỗ và tấm ván rất hữu ích cho việc tạo ra một số công cụ và vật phẩm trong EvilCraft."]
+	quest.40888A2C17D8FFF6.quest_desc: ["Bằng cách sử dụng Blood Infuser, bạn có thể tạo &cCây Con Bất Tử phát triển thành &dCây Bất Tử.\n\nCác khúc gỗ và tấm ván rất hữu ích cho việc tạo ra một số công cụ và vật phẩm trong Evilchế tạo."]
 	quest.40888A2C17D8FFF6.title: "Undead Trees"
 	quest.4978A9B616362CCE.title: "&aHạng 2: Thêm&cMáu"
 	quest.4D7B6842B9F53459.quest_desc: ["Vòng Effortless giúp bạn tăng tốc độ và chiều cao bước!"]
 	quest.4DF7E2149F4BD8CC.quest_desc: ["Để đưa lọ thuốc mong muốn vào, chỉ cần nhấp chuột phải vào Mặt dây chuyền &2Primed trong tay để mở kho đồ của nó."]
 	quest.4DF7E2149F4BD8CC.quest_subtitle: "Applies Potion Effects"
 	quest.4EBED8ABC8C863A4.title: "&aHạng 3: Thậm chí nhiều hơn&cMáu"
-	quest.51B24CC5E9332C1E.quest_desc: ["Đôi khi khi bạn tiêu diệt một mob, &dVengeance Spirit sẽ xuất hiện.\n\n&dEssence của họ dường như rất hữu ích trong việc chế tạo các vật phẩm cao cấp hơn trong EvilCraft.\n\nKhông tìm thấy nhiều Tinh linh? Tạo một &9Vengeance Ring và bật nó lên để thu hút nhiều Tinh linh hơn trong các trận chiến của bạn."]
+	quest.51B24CC5E9332C1E.quest_desc: ["Đôi khi khi bạn tiêu diệt một mob, &dVengeance Spirit sẽ xuất hiện.\n\n&dEssence của họ dường như rất hữu ích trong việc chế tạo các vật phẩm cao cấp hơn trong Evilchế tạo.\n\nKhông tìm thấy nhiều Tinh linh? Tạo một &9Vengeance Ring và bật nó lên để thu hút nhiều Tinh linh hơn trong các trận chiến của bạn."]
 	quest.51B24CC5E9332C1E.title: "Sự trả thù của&dSpirit"
 	quest.525517F1625A9BCB.quest_desc: ["Có phải đám đông đã đập xuống sàn quá mạnh và máu của nó văng khắp nơi không? Ồ không!\n\nBạn có thể sử dụng &cSanguinary Bệ để hấp thụ &cMáu quý giá đó để sử dụng sau này!\n\nBạn muốn tự động hóa việc thu thập máu? Đặt một Tấm &9Spike lên trên Bệ, sau đó đặt mob đứng trên đó."]
 	quest.525517F1625A9BCB.title: "&aThu thập&cVết máu"
@@ -56,16 +56,16 @@
 	quest.600F66B13B29708B.quest_desc: ["Bằng thịt của &aNgười chơi hoặc &dNgười sói, bạn có thể tạo ra &aInfinite Food Source&r bằng sức mạnh của Garmonbozia!"]
 	quest.62A262A706CFCAF0.quest_desc: ["Chúng tôi sẽ không tạo Dark Power Gems bằng vũng máu nữa.\n\nThay vào đó, chúng ta có thể yêu cầu &9Blood Infuser thực hiện tất cả những công việc lộn xộn đó cho chúng ta. Điều này cho phép bạn truyền máu trực tiếp vào vật phẩm!\n\nNhững thứ này cũng có thể được nâng cấp bằng cách sử dụng &6Promises. Đây là một trong những cỗ máy chính được sử dụng để tiến triển!"]
 	quest.62A262A706CFCAF0.title: "&a&cMáy truyền máu"
-	quest.62CE0FFAF6352287.quest_desc: ["Máy EvilCraft có thể được nâng cấp bằng cách sử dụng &6Promises. Each Promise sẽ có các hiệu ứng khác nhau, nhưng trước tiên, chúng tôi muốn nâng cấp Blood Infuser của mình để mở khóa nhiều công thức nấu ăn hơn.\n\nĐể làm điều này, chúng ta cần tạo &6Lời hứa về độ bền: Cấp 1&r. Nói chung, điều này chỉ làm tăng dung lượng lưu trữ của máy. Đối với Blood Infuser, điều này sẽ mở khóa nhiều công thức nấu ăn hơn!"]
+	quest.62CE0FFAF6352287.quest_desc: ["Máy Evilchế tạo có thể được nâng cấp bằng cách sử dụng &6Promises. Each Promise sẽ có các hiệu ứng khác nhau, nhưng trước tiên, chúng tôi muốn nâng cấp Blood Infuser của mình để mở khóa nhiều công thức nấu ăn hơn.\n\nĐể làm điều này, chúng ta cần tạo &6Lời hứa về độ bền: Cấp 1&r. Nói chung, điều này chỉ làm tăng dung lượng lưu trữ của máy. Đối với Blood Infuser, điều này sẽ mở khóa nhiều công thức nấu ăn hơn!"]
 	quest.62CE0FFAF6352287.title: "&aNâng cấp máy"
 	quest.63AE4568375DD1BF.quest_desc: ["Với &dGarmonbozia, giờ đây chúng ta có thể tạo &aBộ tích lũy môi trường của riêng mình."]
-	quest.63AE4568375DD1BF.quest_subtitle: "Your Own Environmental Accumulator"
+	quest.63AE4568375DD1BF.quest_subtitle: "Environmental Accumulator của bạn"
 	quest.63AE4568375DD1BF.title: "Sanguinary Environmental Accumulator"
 	quest.64EC182B81BD8B86.quest_desc: ["Để tiếp tục, chúng ta cần tạo &5Dark Power Gem&r đầu tiên.\n\nĐể làm điều này, bạn cần thu thập ít nhất 5 thùng máu trong &aBlood Extractor của mình. Sau khi thu thập, hãy tạo một cái lỗ có ít nhất 5 khối không gian, sau đó đổ đầy máu vào đó.\n\nKhi bạn đã tạo xong bể máu của mình, hãy ném &9Ngọc ​​hắc ám vào để truyền vào."]
 	quest.64EC182B81BD8B86.title: "&dTruyền đá quý bằng&r&cMáu"
 	quest.674E2690D66ECD6E.quest_desc: ["Khi có giông bão, việc ném &aThùng chứa thời tiết vào &aBộ tích lũy môi trường sẽ khai thác sức mạnh của cơn bão.\n\nBằng cách này, chúng ta có thể tạo ra những vật phẩm cho phép chúng ta điều khiển Lightning theo ý muốn.\n\nBạn sẽ cần Bom Sét để chế tạo Ngôi sao &6ATM."]
 	quest.674E2690D66ECD6E.title: "&aBạn Đã &9Sét đánh"
-	quest.68318811CCC28320.quest_desc: ["Kết hợp &cHardened Blood Shards&r với &9Dark Power Gems&r sẽ tạo ra Blood Infusion Cores.\n\n&9Blood Infusion Cores là thành phần chế tạo chính của một số máy móc trong EvilCraft."]
+	quest.68318811CCC28320.quest_desc: ["Kết hợp &cHardened Blood Shards&r với &9Dark Power Gems&r sẽ tạo ra Blood Infusion Cores.\n\n&9Blood Infusion Cores là thành phần chế tạo chính của một số máy móc trong Evilchế tạo."]
 	quest.68318811CCC28320.title: "&aLõi truyền"
 	quest.6CA1D90CCE17097D.quest_subtitle: "Quyền trượng sét sử dụng một lần"
 	quest.74B0308336F5E017.quest_desc: ["&cBlood Chest có thể được sử dụng để sửa chữa các vật phẩm bằng &cBlood.\n\nTuy nhiên, các vật phẩm được sửa chữa có thể trở thành &dCursed..."]
@@ -76,10 +76,10 @@
 	quest.77B5B23A2C01ED7E.quest_desc: ["&9Kineticator hoạt động giống như một thỏi nam châm hút vật phẩm và trải nghiệm.\n\nThay vào đó, &eReverse Kineticator sẽ đẩy lùi vật phẩm và kinh nghiệm."]
 	quest.77B5B23A2C01ED7E.quest_subtitle: "Magnets"
 	quest.77B5B23A2C01ED7E.title: "Kineticators"
-	quest.7A93F07BE2E6EC97.quest_desc: ["Khi trời mưa, việc ném một &aWeather Container vào sẽ tận dụng được sức mạnh của mưa.\n\nVới điều này, bạn có thể tạo &9Infinite Water Bucket&r hoặc &9Infinite Water Source Block&r. Đây đều là những vật phẩm cực kỳ hữu ích cần có!\n\nBạn cũng có thể làm điều này để thoát khỏi cơn mưa!"]
+	quest.7A93F07BE2E6EC97.quest_desc: ["Khi trời mưa, việc ném một &aBình chứa thời tiết vào sẽ tận dụng được sức mạnh của mưa.\n\nVới điều này, bạn có thể tạo &9Infinite Water Bucket&r hoặc &9Infinite Water Source Block&r. Đây đều là những vật phẩm cực kỳ hữu ích cần có!\n\nBạn cũng có thể làm điều này để thoát khỏi cơn mưa!"]
 	quest.7A93F07BE2E6EC97.title: "&aDừng lại&9Mưa!"
 	quest.7B524DAD8A33BF85.quest_desc: ["Cần thêm máu từ kẻ thù của bạn? Tất nhiên là có!\n\n&dVein Sword cho phép bạn thu thập nhiều máu hơn, cũng như nhiều giọt máu hơn khi có Looting kèm theo!"]
-	quest.7E79F52147B606F9.quest_desc: ["Để bắt đầu thu thập máu, chúng ta cần chế tạo &cBlood Extractor.\n\nMiễn là bạn có thứ này trong kho của mình, việc tiêu diệt mob sẽ thu thập máu vào máy chiết. &cMáu là một nguồn tài nguyên quan trọng trong EvilCraft.\n\nCần tăng dung lượng lưu trữ của Extractor? Đơn giản chỉ cần tạo một cái khác và sau đó kết hợp chúng trong một lưới chế tạo!\n\nNhững thứ này cũng có thể được sử dụng để lấy máu từ &cBlood Stains mà bạn tìm thấy (hoặc tạo ra) trên mặt đất.\n\nCuối cùng, khi đã dự trữ đủ máu, bạn có thể lén chuột phải xuống đất để đặt xô máu xuống."]
+	quest.7E79F52147B606F9.quest_desc: ["Để bắt đầu thu thập máu, chúng ta cần chế tạo &cBlood Extractor.\n\nMiễn là bạn có thứ này trong kho của mình, việc tiêu diệt mob sẽ thu thập máu vào máy chiết. &cMáu là một nguồn tài nguyên quan trọng trong Evilchế tạo.\n\nCần tăng dung lượng lưu trữ của Extractor? Đơn giản chỉ cần tạo một cái khác và sau đó kết hợp chúng trong một lưới chế tạo!\n\nNhững thứ này cũng có thể được sử dụng để lấy máu từ &cBlood Stains mà bạn tìm thấy (hoặc tạo ra) trên mặt đất.\n\nCuối cùng, khi đã dự trữ đủ máu, bạn có thể lén chuột phải xuống đất để đặt xô máu xuống."]
 	quest.7E79F52147B606F9.title: "&aCollecting&r&cBlood"
 	task.293B86458729C26E.title: "AllRightsReserved"
 	task.7DE03D4A420D1028.title: "Hãy ghé thăm Dark Temple"

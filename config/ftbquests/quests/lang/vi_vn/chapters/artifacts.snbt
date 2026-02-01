@@ -1,5 +1,5 @@
 {
-	quest.010607466D565B53.quest_desc: ["Hãy liên hệ với Mother Nature người đàn ông. \n\nVới &aRooted Boots&r thiên nhiên chính là Người Bạn Thân Nhất của bạn! Khi đứng trên Cỏ bạn sẽ Regenerate Hearts. Ngoài ra, khi bạn Eat Food đứng trên Cỏ, nó sẽ hoạt động như thể bạn đã đập nát nó."]
+	quest.010607466D565B53.quest_desc: ["Hãy liên hệ với Mẹ Thiên Nhiên người đàn ông. \n\nVới &aRooted Boots&r thiên nhiên chính là Người Bạn Thân Nhất của bạn! Khi đứng trên Cỏ bạn sẽ hồi tim. Ngoài ra, khi bạn ăn đồ ăn đứng trên Cỏ, nó sẽ hoạt động như thể bạn đã đập nát nó."]
 	quest.010607466D565B53.quest_subtitle: "Feet"
 	quest.010607466D565B53.title: "&aRooted Boots"
 	quest.0A1D4228271DECA3.quest_desc: ["Bạn đã đi đâu vậy?\n\nỒ, bạn chỉ bằng một nửa kích thước trước đây của bạn. Đủ nhỏ để vừa với khoảng cách 1 Khối."]
@@ -11,7 +11,7 @@
 	quest.11C5F17C6BB1237B.quest_desc: ["Khi đeo &5Withered Bracelet&r Melee Attacks có cơ hội tặng Wither Effect.\n\nNgười dùng Sorry Bow!"]
 	quest.11C5F17C6BB1237B.quest_subtitle: "Cổ tay (Bàn tay)"
 	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet&r"
-	quest.122E6E7CABCB17E7.quest_desc: ["Vì lý do nào đó Creepers sợ Mèo. Dây leo cũng cực kỳ ngu ngốc và tin rằng Mèo rằng &7Dép&r của bạn trông giống như thật. \n\nAll Creepers sẽ chạy trốn khỏi bạn và sẽ không thù địch khi những &7Dép&r này bị mòn. \n\nĐồng thời tạo ra tiếng mèo kêu khi bạn nhận sát thương! (Tuy nhiên, không thể đảm bảo với bạn rằng bạn sẽ luôn tiếp đất bằng đôi chân của mình)."]
+	quest.122E6E7CABCB17E7.quest_desc: ["Vì lý do nào đó Creeper sợ Mèo. Dây leo cũng cực kỳ ngu ngốc và tin rằng Mèo rằng &7Dép&r của bạn trông giống như thật. \n\nAll Creeper sẽ chạy trốn khỏi bạn và sẽ không thù địch khi những &7Dép&r này bị mòn. \n\nĐồng thời tạo ra tiếng mèo kêu khi bạn nhận sát thương! (Tuy nhiên, không thể đảm bảo với bạn rằng bạn sẽ luôn tiếp đất bằng đôi chân của mình)."]
 	quest.122E6E7CABCB17E7.quest_subtitle: "Feet"
 	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers&r"
 	quest.145E7D1A88B83DDD.quest_desc: ["Bạn đã đi đâu vậy?"]
@@ -23,10 +23,10 @@
 	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r cung cấp cho bạn một lượng nhỏ Water Breathing khi bạn nhập &9Water&r. Tương tự như Turtle Helmet! Cẩn thận dù nó sắp hết."]
 	quest.16255FB20F35A9D9.quest_subtitle: "Head"
 	quest.16255FB20F35A9D9.title: "&3Snorkel"
-	quest.19B393433FB0C62F.quest_desc: ["Bí mật của Người Sải Bước để đi trên &cLava&r nằm ở trong Chân của họ. Vì vậy, chúng tôi đã tháo Chân của họ ra và để bạn sử dụng chúng thay thế! \n\nWhen Sneaking bạn có thể đi bộ an toàn trên đỉnh &cLava&r! Tuy nhiên, khi bạn dừng Lén lút, bạn sẽ rơi vào &cLava&r. Những thứ này cũng cho phép bạn đi qua các khối Magma và các khối nóng khác một cách an toàn!"]
+	quest.19B393433FB0C62F.quest_desc: ["Bí mật của Người Sải Bước để đi trên &cLava&r nằm ở trong Chân của họ. Vì vậy, chúng tôi đã tháo Chân của họ ra và để bạn sử dụng chúng thay thế! \n\nKhi Sneaking bạn có thể đi bộ an toàn trên đỉnh &cLava&r! Tuy nhiên, khi bạn dừng Lén lút, bạn sẽ rơi vào &cLava&r. Những thứ này cũng cho phép bạn đi qua các khối Magma và các khối nóng khác một cách an toàn!"]
 	quest.19B393433FB0C62F.quest_subtitle: "Feet"
 	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
-	quest.1E40ACF3E69A4100.quest_desc: ["Bạn có phải uống nó không? Tôi không biết nó chỉ ở đó và hoạt động ... \n\nVới &6Antidote Vessel&r, các Hiệu ứng tiêu cực (như Héo hoặc Ngộ độc) sẽ bị cắt ngắn thời lượng! Rất hữu ích khi đối mặt với Phù thủy hoặc Wither Skeletons."]
+	quest.1E40ACF3E69A4100.quest_desc: ["Bạn có phải uống nó không? Tôi không biết nó chỉ ở đó và hoạt động ... \n\nVới &6Antidote Vessel&r, các Hiệu ứng tiêu cực (như Héo hoặc Ngộ độc) sẽ bị cắt ngắn thời lượng! Rất hữu ích khi đối mặt với Phù thủy hoặc Wither Skeleton."]
 	quest.1E40ACF3E69A4100.quest_subtitle: "Belt"
 	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel&r"
 	quest.2215FB0777D7029D.quest_desc: ["Gai, Cleats, Crampons bất kể chúng là gì! \n\n&7Steadfast Boots&r giúp bạn đứng vững trên đôi chân của mình. Bạn sẽ không bị đẩy lùi sau các cuộc tấn công và bạn sẽ không bị trượt trên Băng nữa."]
@@ -65,7 +65,7 @@
 	quest.3E0643EA9183CDAE.quest_desc: ["'Đó là Hat Mr Krabs của anh ấy! Anh ấy là Số 1!' \n\nThực hiện tương tự như &6Mũ uống nước&r bình thường, trông ngầu hơn nhiều!"]
 	quest.3E0643EA9183CDAE.quest_subtitle: "Head"
 	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
-	quest.3E1A3BC8642390B3.quest_desc: ["'I'm Marry Poppins được rồi!' \n\n&4The Umbrella&r là một công cụ rất hữu ích được thêm bởi &l&3Artifacts&r! Nó có thể được giữ trước mặt bạn để hoạt động như một Tấm khiên bằng cách giữ Right Click. Hoặc nó có thể được sử dụng để làm chậm cú rơi của bạn bằng cách giữ nó!"]
+	quest.3E1A3BC8642390B3.quest_desc: ["'I'm Marry Poppins được rồi!' \n\n&4The Umbrella&r là một công cụ rất hữu ích được thêm bởi &l&3Artifacts&r! Nó có thể được giữ trước mặt bạn để hoạt động như một Tấm khiên bằng cách giữ nhấp chuột phải. Hoặc nó có thể được sử dụng để làm chậm cú rơi của bạn bằng cách giữ nó!"]
 	quest.3E1A3BC8642390B3.quest_subtitle: "Unique"
 	quest.3E1A3BC8642390B3.title: "&4Umbrella&r"
 	quest.3EC8A0B89788D079.quest_desc: ["Tôi không có Tay, tôi có &9Flippers&r. \n\n&9Flippers&r sẽ hoạt động tốt hơn nhiều Depth Strider. Bạn có thể Bơi và Đi bộ qua &9Water&r nhanh hơn nhiều!"]
@@ -100,7 +100,7 @@
 	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
 	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r là một Mod tuyệt vời bổ sung &l&3Artifacts&r sẽ giúp trải nghiệm Minecraft của bạn dễ dàng hơn và thú vị hơn nhiều!\n\nTất cả &l&3Artifacts&r có thể được tìm thấy từ việc khám phá, khảo cổ học hoặc tiêu diệt Mimic!\n\nMô phỏng được tìm thấy ở các Khu cắm trại dưới lòng đất, trông giống như Rương bình thường! Nhưng một khi bạn đến quá gần, chúng sẽ tấn công!"]
 	quest.5CE44C58A470E48E.title: "&l&3Artifacts"
-	quest.5DE7C4FD5FA29236.quest_desc: ["Bạn có ghét khi bạn chuẩn bị giết một Endermen và nó dịch chuyển đi không? Vâng, bạn không ghét bạn, bạn yêu nó! Bạn chỉ giận vì bạn ghen tị thôi! Bạn muốn nó! \n\nVà với &5Chorus Belt&r bạn có thể có được nó! Bạn sẽ dịch chuyển tức thời khỏi một cú đánh có thể giết chết bạn."]
+	quest.5DE7C4FD5FA29236.quest_desc: ["Bạn có ghét khi bạn chuẩn bị giết một Enderman và nó dịch chuyển đi không? Vâng, bạn không ghét bạn, bạn yêu nó! Bạn chỉ giận vì bạn ghen tị thôi! Bạn muốn nó! \n\nVà với &5Chorus Belt&r bạn có thể có được nó! Bạn sẽ dịch chuyển tức thời khỏi một cú đánh có thể giết chết bạn."]
 	quest.5DE7C4FD5FA29236.quest_subtitle: "Belt"
 	quest.5DE7C4FD5FA29236.title: "&5Chorus Belt&r"
 	quest.5EB7CE3A1DCD3E9B.quest_desc: ["Đó là &cNam châm&r."]
@@ -113,7 +113,7 @@
 	quest.623796B1D7981E59.quest_desc: ["'Cũng hãy thử Terraria!'\n\nKhi trang bị bạn sẽ có thêm 5 Trái tim! Hoặc toàn bộ 10 điểm Sức khỏe! Thêm tối đa 30 Sức khỏe theo mặc định."]
 	quest.623796B1D7981E59.quest_subtitle: "Belt"
 	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
-	quest.62622137648A4F56.quest_desc: ["Bạn có ghét việc phải khai thác rồi nấu chảy quặng của mình bằng hai vật phẩm khác nhau không? Bây giờ bạn có thể lười biếng hơn bao giờ hết với &7Pickaxe Heater&r!\n\nKhi đeo &7Pickaxe Heater&r, Quặng mà bạn khai thác sẽ tự động được nấu chảy!\n\nCó thể bạn muốn cẩn thận với nó nếu bạn muốn Ore Processing."]
+	quest.62622137648A4F56.quest_desc: ["Bạn có ghét việc phải khai thác rồi nấu chảy quặng của mình bằng hai vật phẩm khác nhau không? Bây giờ bạn có thể lười biếng hơn bao giờ hết với &7Pickaxe Heater&r!\n\nKhi đeo &7Pickaxe Heater&r, Quặng mà bạn khai thác sẽ tự động được nấu chảy!\n\nCó thể bạn muốn cẩn thận với nó nếu bạn muốn Chế biến quặng."]
 	quest.62622137648A4F56.quest_subtitle: "Hands"
 	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
 	quest.6A452BFC8A967C39.quest_desc: ["Đeo những chiếc &aClaws&r này chỉ khiến bạn cảm thấy theo một cách nhất định. Adrenaline bơm, suy nghĩ không còn, sức mạnh tăng lên không giống ai! \n\nVới &aFeral Claws&r bạn sẽ tấn công nhanh hơn nhiều bằng Vũ khí hoặc Nắm đấm của mình."]
@@ -131,9 +131,9 @@
 	quest.72D6265E35814927.quest_desc: ["Hầu hết các trò chơi có hệ thống Sức khỏe và Sát thương đều có Invincibility Frames. Sau khi nhận sát thương, bạn sẽ có một ít Invincibility Frames vì vậy 1. Bạn không chết ngay lập tức chỉ bằng một đòn tấn công đơn giản và 2. Cho bạn thời gian để chống trả. \n\nVới &eCross Necklace&r bạn sẽ nhận được thêm một vài Invincibility Frames. Có nghĩa là phải đánh trả thêm vài lần nữa!"]
 	quest.72D6265E35814927.quest_subtitle: "Necklace"
 	quest.72D6265E35814927.title: "&eCross Necklace&r"
-	quest.73B73870B29DFAD9.quest_desc: ["Một người trong chúng ta! Một người trong chúng ta! \n\n&eVillager Hat&r khiến Dân làng tin rằng bạn đến từ cùng một Thị trấn nên họ loại bỏ Out-of-Towners Tax. Villager Trades rẻ hơn."]
+	quest.73B73870B29DFAD9.quest_desc: ["Một người trong chúng ta! Một người trong chúng ta! \n\n&elàngr Hat&r khiến Dân làng tin rằng bạn đến từ cùng một Thị trấn nên họ loại bỏ Out-of-Towners Tax. làngr Trades rẻ hơn."]
 	quest.73B73870B29DFAD9.quest_subtitle: "Head"
-	quest.73B73870B29DFAD9.title: "&eVillager Hat"
+	quest.73B73870B29DFAD9.title: "&elàngr Hat"
 	quest.73FC51144FC2DA52.quest_desc: ["Với &7Glove&r này, bạn sẽ cướp đi mạng sống của bất kỳ kẻ thù nào mà bạn đánh trúng!\n\nỒ vâng xin lỗi tôi quên mất... bleh bleh blehhh!"]
 	quest.73FC51144FC2DA52.quest_subtitle: "Hands"
 	quest.73FC51144FC2DA52.title: "&7Vampiric Glove&r"

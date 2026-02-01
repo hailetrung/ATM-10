@@ -46,7 +46,7 @@
 	quest.1CC4F8570A7A99EB.quest_desc: ["&dEssence là điểm khởi đầu cho tất cả các nhu cầu ngày càng tăng của bạn trong Mystical Agriculture.\n\n&eInferium Essence là cấp độ cơ bản của tất cả các tinh chất. Bạn có thể nhận được điều này từ việc khai thác, tiêu diệt mob hoặc bằng cách tạo hạt giống để trồng chúng! \n\nĐể tạo ra tinh chất lớn hơn và tốt hơn, bạn sẽ cần tạo &9 Pha lê truyền dịch."]
 	quest.1CC4F8570A7A99EB.quest_subtitle: "Cấp:&e1"
 	quest.1CC4F8570A7A99EB.title: "&aInferium"
-	quest.1CF8263756EE8F2A.quest_desc: ["&eDust đặc biệt này rơi ra từ Wither và Ender Dragon khi bị giết bởi &dEssence Weapon's được yểm phép &dMystical Enlightenment."]
+	quest.1CF8263756EE8F2A.quest_desc: ["&eBụi đặc biệt này rơi ra từ Wither và Rồng Ender khi bị giết bởi &dEssence Weapon's được yểm phép &dMystical Enlightenment."]
 	quest.1CF8263756EE8F2A.title: "&5Bụi nhận thức"
 	quest.1E0F92F07FDD162E.quest_desc: ["Bạn sẽ cần &bProsperity Seed Bases&r để tạo ra các loại cây trồng tài nguyên."]
 	quest.1E0F92F07FDD162E.quest_subtitle: "Tôi là tất cả về điều đó (Hạt giống)"
@@ -138,7 +138,7 @@
 	quest.3EA2578C3A56FAE8.quest_desc: ["Soul Extractor cho phép bạn lấp đầy Soul Jars bằng cách nhét một cái lọ vào và sử dụng vật phẩm của mob để lấp đầy chúng. Ví dụ: việc thêm Rotten Flesh sẽ tạo ra một phần của Zombie Soul."]
 	quest.404AA0F5557D7E35.quest_desc: ["Unobtainium Seeds yêu cầu Magical Soil được đặt bên dưới để chúng phát triển."]
 	quest.404AA0F5557D7E35.quest_subtitle: "Cấp:&bMa thuật"
-	quest.408D8B1CFBA22BAF.quest_desc: ["Witherproof Blocks, Witherproof Bricks và Witherproof Glass có khả năng chống nổ rất cao và không thể bị phá hủy bởi Wither hoặc Ender Dragon."]
+	quest.408D8B1CFBA22BAF.quest_desc: ["Witherproof Blocks, Witherproof Bricks và Witherproof Glass có khả năng chống nổ rất cao và không thể bị phá hủy bởi Wither hoặc Rồng Ender."]
 	quest.408D8B1CFBA22BAF.title: "&0Khối khô héo"
 	quest.409A92D40F539485.quest_subtitle: "Cấp:&e1"
 	quest.40B13424FA523E11.quest_subtitle: "Cấp:&a2"
@@ -258,7 +258,7 @@
 	quest.77C6667B4C37589C.quest_desc: ["Machine Upgrades được sử dụng để tăng tốc máy móc của &aNông nghiệp huyền bí."]
 	quest.780E0163033CCD9B.quest_subtitle: "Cấp:&b4"
 	quest.787E714014EC2C02.quest_subtitle: "Cấp:&63"
-	quest.7A103577EAE7B3F1.quest_desc: ["Đây là Cấp 5 - Awakened Essence, được tạo ra bằng cách kết hợp 4 Cognizant Dust, mỗi loại 10 Elemental Essence và 1 Supremium Block với nhau trong một Sự thay đổi Thức tỉnh."]
+	quest.7A103577EAE7B3F1.quest_desc: ["Đây là Cấp 5 - Awakened Essence, được tạo ra bằng cách kết hợp 4 Cognizant Bụi, mỗi loại 10 Elemental Essence và 1 Supremium Block với nhau trong một Sự thay đổi Thức tỉnh."]
 	quest.7A103577EAE7B3F1.quest_subtitle: "Cấp:&c5 - Awakened"
 	quest.7A103577EAE7B3F1.title: "&6Tối cao thức tỉnh"
 	quest.7A89560F303A8BE6.quest_subtitle: "Cấp:&63"

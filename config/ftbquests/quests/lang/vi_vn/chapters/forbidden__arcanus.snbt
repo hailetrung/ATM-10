@@ -1,9 +1,9 @@
 {
 	quest.02F2DF9D9DA7833A.quest_desc: ["Để có được &9 Linh hồn hư hỏng, chúng ta cần thực hiện một số &5Enchanting! \n\nChúng tôi đang tìm kiếm Bùa mê cướp bóc &5Soul. Nó xuất hiện trên Vũ khí và mỗi khi bạn tiêu diệt một Mob, nó có cơ hội sinh ra &9Linh hồn hư hỏng. \n\nNhững thứ này sau đó có thể bị giết để lấy chúng làm Vật phẩm. Hãy cố gắng làm thật nhanh vì chúng thích bay đi. \n\nCó lẽ họ biết bạn muốn giết họ?"]
 	quest.02F2DF9D9DA7833A.title: "&5Bùa mê cướp linh hồn"
-	quest.03C54B07106091DD.quest_desc: ["&cSmelter Prism có lẽ là Vật phẩm được sử dụng nhiều nhất trong các Nghi lễ này, giống như mức độ cần thiết của nó đối với Ngôi sao &6&lATM! \n\nBạn sẽ cần 4 &cBlaze Powder, 2 &8Coal, và một khối &bArcane Crystal để tạo ra nó. Và đừng quên Thánh tích của &3Elementarium! \nRõ ràng và thứ mà bạn có thể muốn có &cSmelter Prism nhất là &6&lATM Star. Nó cũng có thể được sử dụng với Công cụ để nấu chảy các vật phẩm mà chúng phá vỡ: Raw Ore thành Thỏi, Gỗ thành Than, Cát thành Thủy tinh. \n\nBạn cũng có thể sử dụng nó cho Furnace Fuel, nhưng nó hơi tệ. Điều đó thật ngu ngốc vì cái tên cho thấy nó sẽ tốt hơn!"]
-	quest.03C54B07106091DD.title: "&cSmelter Prism"
-	quest.0447551EF7FB171B.quest_desc: ["Không cần xử lý nữa, đây không phải là Xét nghiệm &4Blood, nó chỉ là nhiên liệu! \n\nJust Pipe &4Bedestal đến &c&lForge và xem &4Blood chảy vào!"]
+	quest.03C54B07106091DD.quest_desc: ["&cnunger Prism có lẽ là Vật phẩm được sử dụng nhiều nhất trong các Nghi lễ này, giống như mức độ cần thiết của nó đối với Ngôi sao &6&lATM! \n\nBạn sẽ cần 4 &cBlaze Powder, 2 &8Coal, và một khối &bArcane Crystal để tạo ra nó. Và đừng quên Thánh tích của &3Elementarium! \nRõ ràng và thứ mà bạn có thể muốn có &cnunger Prism nhất là &6&lATM Star. Nó cũng có thể được sử dụng với Công cụ để nấu chảy các vật phẩm mà chúng phá vỡ: Raw Ore thành Thỏi, Gỗ thành Than, Cát thành Thủy tinh. \n\nBạn cũng có thể sử dụng nó cho Furnace Fuel, nhưng nó hơi tệ. Điều đó thật ngu ngốc vì cái tên cho thấy nó sẽ tốt hơn!"]
+	quest.03C54B07106091DD.title: "&cnunger Prism"
+	quest.0447551EF7FB171B.quest_desc: ["Không cần xử lý nữa, đây không phải là Xét nghiệm &4Blood, nó chỉ là nhiên liệu! \n\nChỉ cần Pipe &4Bedestal đến &c&lForge và xem &4Blood chảy vào!"]
 	quest.0447551EF7FB171B.title: "&4Blood"
 	quest.050CD33E92601651.quest_desc: [
 		"&c&lCấp 1 chưa đủ với bạn? Sau đó, bạn sẽ cần phải nâng cấp nó! \n\nĐặt Edelwood Plank vào Khe giữa của &6&lForge và đặt 4 &bArcane Crystals và 4 Spawner Scrap lên Bệ. \n\nĐập nó bằng Búa và &c&lCấp 1 của bạn sẽ nâng cấp thành &3&lCấp 2 &6Forge&r! \n\nGiờ đây, các Nghi thức mới sẽ có sẵn, &6&lForge có thể chứa nhiều Tinh chất hơn và bạn có thể sử dụng Thánh tích thứ hai!"
@@ -14,13 +14,13 @@
 	quest.07BEE6FEC14765DC.quest_desc: ["Công thức khá đơn giản cần Đất sét, Sắt, Slimeball, v.v... \n\nTốt nhất là bạn nên cướp lấy đá nam châm, các Mod sẽ thêm chúng vào Loot Pools trên khắp &c&lThe Nether, vì vậy đừng chế tạo đá mà chỉ cần tìm một đá thôi! \n\nSáp là một Vật phẩm mới được thêm vào bởi &6&lForbidden \\& Arcanus’s, là sự kết hợp giữa Chai Mật ong và Slimeballs! \n\nBạn có thể sử dụng nó trên &6Bệ đá đen để có được &7Bệ từ tính hoạt động cùng với Phễu (và Vật phẩm giống như Phễu như Ống). \n\nBạn cũng có thể sử dụng nó với Giày để tăng mức độ tiếp cận Vật phẩm để kéo vào Kho của bạn!"]
 	quest.092BB595F75D5536.quest_desc: ["Chào mừng đến với &6&lForbidden \\&Arcanus&r! \n\nĐể bắt đầu Bản Mod này, chúng ta cần bắt đầu Khai thác dưới lòng đất... sâu dưới lòng đất. \n\nGiống như Y cấp 1 trở xuống."]
 	quest.092BB595F75D5536.title: "&6&lBị cấm \\&Arcanus"
-	quest.0AC8FE3B59D1B09D.quest_desc: ["Công cụ bắt lượng tử là một Công cụ rất hữu ích để di chuyển Mob. \n\nSimply Right Click một Mob để \"bắt\" chúng, sau đó Right Click lần nữa để thả chúng đi. \n\nTuy nhiên, bạn sẽ cần một lượng &bAureal nhất định để sử dụng nó, điều này phụ thuộc vào Sức khỏe của Mob. Nhiều sức khỏe hơn, cần nhiều &bAureal hơn! Tuy nhiên, sẽ không tốn bất kỳ chi phí nào để thả Mob, điều đó hoàn toàn miễn phí. \n\nĐợi đã, có lẽ tôi nên cho bạn biết cách Chế tạo nó! Bạn sẽ cần một &7Lõi lượng tử được chế tạo bằng &7Runes, &cMundabitur Dust và &8Flint! \n\nPhế liệu sinh sản là những mảnh rơi ra từ việc Khai thác một sinh vật không có Silk Touch, vì vậy nó sẽ phá vỡ Sinh vật sinh sản."]
-	quest.0BCC79C1D002F532.quest_desc: ["Để biến &bArcane Crystal Dust thành &bLiquid Aureal, chúng ta sẽ cần chất lỏng! Thực tế là chúng ta sẽ cần THE Chất lỏng... là &9Water! \n\nChỉ cần ống &9Water từ ống &9Sink, nó là vô hạn."]
+	quest.0AC8FE3B59D1B09D.quest_desc: ["Công cụ bắt lượng tử là một Công cụ rất hữu ích để di chuyển Mob. \n\nSimply nhấp chuột phải một Mob để \"bắt\" chúng, sau đó nhấp chuột phải lần nữa để thả chúng đi. \n\nTuy nhiên, bạn sẽ cần một lượng &bAureal nhất định để sử dụng nó, điều này phụ thuộc vào Sức khỏe của Mob. Nhiều sức khỏe hơn, cần nhiều &bAureal hơn! Tuy nhiên, sẽ không tốn bất kỳ chi phí nào để thả Mob, điều đó hoàn toàn miễn phí. \n\nĐợi đã, có lẽ tôi nên cho bạn biết cách Chế tạo nó! Bạn sẽ cần một &7Lõi lượng tử được chế tạo bằng &7Runes, &cMundabitur Bụi và &8Flint! \n\nPhế liệu sinh sản là những mảnh rơi ra từ việc Khai thác một sinh vật không có Silk Touch, vì vậy nó sẽ phá vỡ Sinh vật sinh sản."]
+	quest.0BCC79C1D002F532.quest_desc: ["Để biến &bArcane Crystal Bụi thành &bLiquid Aureal, chúng ta sẽ cần chất lỏng! Thực tế là chúng ta sẽ cần thứ chất lỏng... là &9Water! \n\nChỉ cần ống &9Water từ ống &9Sink, nó là vô hạn."]
 	quest.0BCC79C1D002F532.title: "Vô hạn&9Nước&r!!!"
-	quest.0C25F73C0E0FB22A.quest_desc: ["Another Essence cần thiết cho &c&lLò rèn tự động của chúng tôi là &aTrải nghiệm! Vâng, đó là &aFluid XP&r từ &3&lJust Dire Things&r. \n\nĐể nhận &aXP Fluid, chúng ta cần có &aNgười giữ trải nghiệm, những người này có thể được đặt để thu thập &aXP trong một khu vực nhất định với tùy chọn Thu thập XP. \n\nĐừng lo lắng, Mob bị giết bởi &7Spike Plates vẫn sẽ rơi ra &aXP, vì vậy hãy đặt những thứ này bên cạnh Trang trại của bạn! \n\nBạn cũng có thể gửi các dạng &aFluid XP khác vào đó hoặc thậm chí theo cấp độ &aXP của riêng bạn!"]
+	quest.0C25F73C0E0FB22A.quest_desc: ["Thêm một Tinh chất nữa cần thiết cho &c&lLò rèn tự động của chúng tôi là &aTrải nghiệm! Vâng, đó là &aFluid XP&r từ &3&lJust Dire Things&r. \n\nĐể nhận &aXP Fluid, chúng ta cần có &aNgười giữ trải nghiệm, những người này có thể được đặt để thu thập &aXP trong một khu vực nhất định với tùy chọn Thu thập XP. \n\nĐừng lo lắng, Mob bị giết bởi &7Spike Plates vẫn sẽ rơi ra &aXP, vì vậy hãy đặt những thứ này bên cạnh Trang trại của bạn! \n\nBạn cũng có thể gửi các dạng &aFluid XP khác vào đó hoặc thậm chí theo cấp độ &aXP của riêng bạn!"]
 	quest.0C25F73C0E0FB22A.title: "Auto&aExperience"
 	quest.0D61473D7A09CD48.quest_desc: [
-		"Một trong những &lMutliblocks&r quan trọng nhất, chủ yếu là vì chúng ta cần nó cho &lMultiblocks&r khác. \n\nỞ đây bạn sẽ cần &bFluid Input&r (mỗi &bInput&r chỉ có thể chứa 1 loại &bFluid&r nên bạn sẽ cần nhiều), &cEnergy Input&r, và &eItem Input&r và Output Hatches. \n\nBằng cách sử dụng các Hatch đó, chúng ta có thể nhập tất cả &eItems&r, &bFluids&r và &cEnergy&r và nó sẽ chế tạo các Vật phẩm của chúng ta, giống như các vật phẩm khác &5Multiblock Controllers&r! \n\nHoặc chế tạo các Vật phẩm cần thiết cho &6Star Parts&r! Bạn sẽ cần rất nhiều &4Máu&f, &bAureal&f, Linh hồn và &cNăng lượng&r cho chúng!"
+		"Một trong những &lMutliblocks&r quan trọng nhất, chủ yếu là vì chúng ta cần nó cho &lđa khốis&r khác. \n\nỞ đây bạn sẽ cần &bFluid Input&r (mỗi &bInput&r chỉ có thể chứa 1 loại &bFluid&r nên bạn sẽ cần nhiều), &cEnergy Input&r, và &eVật phẩm Input&r và Output Hatches. \n\nBằng cách sử dụng các Hatch đó, chúng ta có thể nhập tất cả &eVật phẩm&r, &bFluids&r và &cEnergy&r và nó sẽ chế tạo các Vật phẩm của chúng ta, giống như các vật phẩm khác &5đa khối Controllers&r! \n\nHoặc chế tạo các Vật phẩm cần thiết cho &6Star Parts&r! Bạn sẽ cần rất nhiều &4Máu&f, &bAureal&f, Linh hồn và &cNăng lượng&r cho chúng!"
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
@@ -47,25 +47,25 @@
 		"Để bắt đầu chế tạo Lò rèn của bạn, hãy đặt &9Polished Darkstone, &6Arcane Polished Darkstone&r và &6Gilded Chiseled Polished Darkstone&r của chúng tôi theo mẫu này."
 
 		"{image:atm:textures/questpics/forbidden/forbidden_forge2.png width:100 height:100 align:center}"
-		"\"Next place our Smithing Table on the inner &6Gilded Chiseled Polished Darkstone&r and smack it with &cMundabitur Dust&r, you'll get the &6&lHephaestus Forge&r!\\n\\nLastly place our &6Darkstone Pedestals&r on top of the 8 outside &6Gilded Chiseled Polished Darkstone&r!\""
+		"\"Tiếp theo, đặt Smithing Table của bạn lên khối &6Gilded Chiseled Polished Darkstone&r ở phía trong và đập nó bằng &cMundabitur Bụi&r để nhận &6&lHephaestus Forge&r!\\n\\nCuối cùng, đặt &6Darkstone Pedestals&r của bạn lên trên 8 khối &6Gilded Chiseled Polished Darkstone&r ở vòng ngoài!\""
 	]
 	quest.0FD638380EECFFBD.title: "Xây dựng&6&lForge"
 	quest.12256A90B1CE3F90.quest_desc: ["Mặc dù có, bạn có thể sử dụng Mỏ đá hoặc Void Miners để lấy Quặng nhưng nếu bạn thực sự muốn cách tốt nhất để tự động hóa &bArcane Crystals thì bạn sẽ cần &6&lBees! \n&bChính xác hơn là Diamond Bees. Đơn giản chỉ cần cho &bDiamond Bee ăn một &bKhối Arcane Crystals&r và chúng sẽ trở thành &bArcanus Bee! \n\n&bArcanus Bees cũng cần &bBlocks của Arcane Crystals làm Khối ra hoa, sau đó họ sẽ tạo ra &bArcanus Comb! Có thể chế tạo thành &bArcane Crystals."]
 	quest.12256A90B1CE3F90.title: "Tự động hóa&bTinh thể bí ẩn"
 	quest.15849165CA8C00F9.quest_desc: [
-		"&6&lForge mạnh nhất cuối cùng nên tất nhiên điều đó có nghĩa là nó đắt nhất! \n\nBạn sẽ cần 2 &5Dark Nether Stars được tạo ra từ việc kết hợp 4 &5Obsidiansteel và Nether Star. \n\n2 &dRồng Rồng rơi ra khi &dEnder Dragon chết. \n\n4 &3Sculk Catalysts rơi ra từ &3Warden, hoặc có thể được Silk-Touched trong Deep Dark. \n\nVà &2Khối Stellarite chỉ gồm 9 &2 Mảnh Stellarite! \n\nĐiều này cho phép nhiều Tinh chất hơn và End Game Recipes."
+		"&6&lForge mạnh nhất cuối cùng nên tất nhiên điều đó có nghĩa là nó đắt nhất! \n\nBạn sẽ cần 2 &5Dark Nether Stars được tạo ra từ việc kết hợp 4 &5Obsidiansteel và Nether Star. \n\n2 &dRồng Rồng rơi ra khi &dRồng Ender chết. \n\n4 &3Sculk Catalysts rơi ra từ &3Warden, hoặc có thể được Silk-Touched trong Deep Dark. \n\nVà &2Khối Stellarite chỉ gồm 9 &2 Mảnh Stellarite! \n\nĐiều này cho phép nhiều Tinh chất hơn và End Game Recipes."
 
 		"{image:atm:textures/questpics/forbidden/forbidden_tier5.png width:100 height:100 align:center}"
 	]
 	quest.15849165CA8C00F9.title: "&l&9Lò rèn Cấp 5&6"
 	quest.185DBBDD252CBA0C.quest_desc: [
-		"&6&lForge là Khối quan trọng nhất trong &6&lForbidden \\& Arcanus&r! Bây giờ bạn đã tạo Multiblock, bạn có thể phá khối &6&lForge và di chuyển nó, mặc dù nó chỉ hoạt động khi ở trên Mutliblock. \n\nBạn sẽ cần phải lấp đầy nó bằng cả 4 Tinh chất: &bAureal’s, Souls, &4Blood&r và &aExperience’s! \n\nSau đó, đặt Relics nếu cần thiết. \n\nSau đó, đặt Vật phẩm trung tâm vào Công thức, vào Khe giữa của &6&lForge, và các Vật phẩm bên ngoài trên &6Pedestals."
+		"&6&lForge là Khối quan trọng nhất trong &6&lForbidden \\& Arcanus&r! Bây giờ bạn đã tạo đa khối, bạn có thể phá khối &6&lForge và di chuyển nó, mặc dù nó chỉ hoạt động khi ở trên Mutliblock. \n\nBạn sẽ cần phải lấp đầy nó bằng cả 4 Tinh chất: &bAureal’s, Souls, &4Blood&r và &aExperience’s! \n\nSau đó, đặt Relics nếu cần thiết. \n\nSau đó, đặt Vật phẩm trung tâm vào Công thức, vào Khe giữa của &6&lForge, và các Vật phẩm bên ngoài trên &6Pedestals."
 
 		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier3.png width:100 height:100 align:center}"
 	]
 	quest.185DBBDD252CBA0C.title: "&l&cLò rèn Cấp 1&6"
-	quest.198E9E90CC9606C4.quest_desc: ["Chúng ta đã có Vật phẩm trên Bệ, chúng ta có &bAureal, Linh hồn, &4Blood, và &aExperience... và nó vẫn chưa kết thúc sao? Tại sao nó chưa hoàn thiện? \n\nĐể thực sự hoàn thành Nghi thức, chúng ta sẽ cần sử dụng Búa! \n\nNó hoạt động giống như một cái cuốc nhưng nó cũng có một số công dụng hạn chế để hoàn thành Nghi lễ, chỉ cần Right Click &6&lForge đi kèm với nó!"]
+	quest.198E9E90CC9606C4.quest_desc: ["Chúng ta đã có Vật phẩm trên Bệ, chúng ta có &bAureal, Linh hồn, &4Blood, và &aExperience... và nó vẫn chưa kết thúc sao? Tại sao nó chưa hoàn thiện? \n\nĐể thực sự hoàn thành Nghi thức, chúng ta sẽ cần sử dụng Búa! \n\nNó hoạt động giống như một cái cuốc nhưng nó cũng có một số công dụng hạn chế để hoàn thành Nghi lễ, chỉ cần nhấp chuột phải &6&lForge đi kèm với nó!"]
 	quest.198E9E90CC9606C4.title: "Hoàn tất nghi lễ"
 	quest.1D94F59F13667DCF.quest_desc: ["Để nhận được Unrefined Liquid Souls, chúng ta cần sử dụng Fluid Extractor trên Soul Tree Logs! \n\nSoul Tree Saplings không thể nhân giống được, chúng là Cây Con quý giá. Bạn sẽ cần tìm Cây non trong &dEnd Cities."]
 	quest.1D94F59F13667DCF.title: "Unrefined Liquid Souls"
@@ -73,9 +73,9 @@
 	quest.2002AB7D061007FA.title: "&6Di tích thủ công"
 	quest.22F5F931D38E5187.quest_desc: ["Crimson Stones được tìm thấy trong Pillager Outposts, chúng hơi hiếm nhưng không giúp ích được gì khi chúng chỉ cung cấp cho chúng ta 2 Rương! \n\nChúng không được sử dụng cho Công thức nấu ăn mới thay vào đó chúng sẽ giảm mức sử dụng Linh hồn trong &6&lForge."]
 	quest.22F5F931D38E5187.title: "&cĐá đỏ thẫm"
-	quest.230EEE4671B46D0C.quest_desc: ["&9Darkstone xuất hiện sâu dưới lòng đất gần Lava Lakes, giống như ở Cấp Y -54. \n\nĐây là Khối được sử dụng nhiều nhất cho &6&lForbidden \\& Arcanus, tất cả các Multiblock sẽ sử dụng chúng làm căn cứ của chúng. \nHãy chắc chắn để lấy một tấn trong số họ!"]
+	quest.230EEE4671B46D0C.quest_desc: ["&9Darkstone xuất hiện sâu dưới lòng đất gần Lava Lakes, giống như ở Cấp Y -54. \n\nĐây là Khối được sử dụng nhiều nhất cho &6&lForbidden \\& Arcanus, tất cả các đa khối sẽ sử dụng chúng làm căn cứ của chúng. \nHãy chắc chắn để lấy một tấn trong số họ!"]
 	quest.230EEE4671B46D0C.title: "&9Darkstone"
-	quest.29434DB0CC2E30E6.quest_desc: ["Kết hợp &cMundabitur Dust, &bArcane Crystal Dust&r, &8Charcoal&r và &eGold Ingot, chúng ta sẽ có được Hợp kim đầu tiên! Thỏi &6Deorum! \n\nĐây là Thỏi nền tảng của &6&lForbidden \\& Arcanus, bạn sẽ cần hàng tá nó! \n\nNó đặc biệt được sử dụng cho Khối xây dựng cho Multiblock Machines của chúng tôi."]
+	quest.29434DB0CC2E30E6.quest_desc: ["Kết hợp &cMundabitur Bụi, &bArcane Crystal Bụi&r, &8Charcoal&r và &eGold thỏi, chúng ta sẽ có được Hợp kim đầu tiên! Thỏi &6Deorum! \n\nĐây là Thỏi nền tảng của &6&lForbidden \\& Arcanus, bạn sẽ cần hàng tá nó! \n\nNó đặc biệt được sử dụng cho Khối xây dựng cho đa khối Machines của chúng tôi."]
 	quest.29434DB0CC2E30E6.title: "&6Deorum"
 	quest.2ADA491A2485061C.quest_desc: [
 		"&aKinh nghiệm là Ô thứ 4 và là nguyên liệu cần thiết cho &6&lRèn luyện. \n\nĐể thêm &aTrải nghiệm, bạn cần đặt 1 trong 3 thứ vào &aKhe trải nghiệm. \n\n1. &aQuả cầu hóa đá, những quả cầu này mang lại nhiều &aEXP nhất. \n\n2. &aBottle 'O Enchanting's, mang lại một chút &aEXP nhưng dễ dàng nhận được! \n\n3. &5Vật phẩm Enchanted, &6&lForge sẽ loại bỏ &5Enchantments khỏi nó và giữ nó là &aEXP!"
@@ -83,8 +83,8 @@
 		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
 	]
 	quest.2ADA491A2485061C.title: "&aExperience"
-	quest.2D3C8905B783A212.quest_desc: ["Với một số Mob Drops cộng với &bArcane Crystal Dust, bạn có thể tạo &cMundabitur Dust! \n\nĐây là một phần rất quan trọng trong việc chế tạo và chế tạo Multiblocks! \n\nVà bạn có thể tìm thấy nó ở &dEnd Cities, nơi hầu hết mọi người đều làm..."]
-	quest.2D3C8905B783A212.title: "&cMundabitur Dust"
+	quest.2D3C8905B783A212.quest_desc: ["Với một số Mob Drops cộng với &bArcane Crystal Bụi, bạn có thể tạo &cMundabitur Bụi! \n\nĐây là một phần rất quan trọng trong việc chế tạo và chế tạo đa khốis! \n\nVà bạn có thể tìm thấy nó ở &dEnd Cities, nơi hầu hết mọi người đều làm..."]
+	quest.2D3C8905B783A212.title: "&cMundabitur Bụi"
 	quest.31AD9826FB036C98.quest_desc: ["&7Runes có thể sinh ra từ Bedrock đến Y Cấp 2. Bao gồm gần &9Darkstone! \n\nChúng hữu ích hơn &2Stellarite nhưng kém hữu ích hơn &bArcane Crystals."]
 	quest.31AD9826FB036C98.quest_subtitle: "Những thứ này từng là&5Purple!"
 	quest.31AD9826FB036C98.title: "&7Runes"
@@ -93,7 +93,7 @@
 	quest.356102D5B5F3CA1E.quest_desc: ["Một hợp kim được thêm bởi &6&lForbidden \\& Arcanus&r là &5Obsidiansteel&r. \n\nNó được tạo trong &l&bClibano, bằng cách kết hợp Raw Iron và &5Obsidian’s. \n\nBạn sẽ cần Artisan Relic để thực sự tạo ra Hợp kim! \n\nNgoài ra, bạn sẽ nhận được &6Copper's dưới dạng cặn, điều này có lẽ sẽ không xảy ra..."]
 	quest.356102D5B5F3CA1E.title: "&5Obsidiansteel&r"
 	quest.3999AE0921641E60.quest_desc: [
-		"&8Dark Matter được tạo ra bởi Smelting Edelwood. \n\n&5Corrupti Dust được làm bằng &5Obsidiansteel và một số Mob Drops. \n\nNém cả hai thứ này xuống đất cùng nhau và &8Hố đen sẽ xuất hiện! \n\n&8Hố đen sẽ vô hiệu hóa mọi Vật phẩm hoặc Đạn đến gần, nhưng thứ chúng tôi muốn cung cấp cho nó là &aKinh nghiệm! \n\nKhi bạn cho nó đủ EXP, nó sẽ trả lại một &aXhóa đá Quả cầu."
+		"&8Dark Matter được tạo ra bởi nunging Edelwood. \n\n&5Corrupti Bụi được làm bằng &5Obsidiansteel và một số Mob Drops. \n\nNém cả hai thứ này xuống đất cùng nhau và &8Hố đen sẽ xuất hiện! \n\n&8Hố đen sẽ vô hiệu hóa mọi Vật phẩm hoặc Đạn đến gần, nhưng thứ chúng tôi muốn cung cấp cho nó là &aKinh nghiệm! \n\nKhi bạn cho nó đủ EXP, nó sẽ trả lại một &aXhóa đá Quả cầu."
 
 		"{image:atm:textures/questpics/forbidden/forbidden_blackhole.png width:150 height:100 align:center}"
 	]
@@ -123,10 +123,10 @@
 		"{image:atm:textures/questpics/forbidden/forbidden_pedestal.png width:100 height:100 align:center}"
 	]
 	quest.3C5A5432E6B1EF9E.title: "Auto&4Blood&r"
-	quest.3D82C6639A6371CB.quest_desc: ["4 &7Lõi lượng tử và &cMundabitur Dust và bạn có thể nhận được &7Quantum Injector. \n\n&7Đầu phun lượng tử không được sử dụng nhiều ở giai đoạn này nhưng sẽ cần thiết sau này!"]
+	quest.3D82C6639A6371CB.quest_desc: ["4 &7Lõi lượng tử và &cMundabitur Bụi và bạn có thể nhận được &7Quantum Injector. \n\n&7Đầu phun lượng tử không được sử dụng nhiều ở giai đoạn này nhưng sẽ cần thiết sau này!"]
 	quest.3D82C6639A6371CB.title: "&7Đầu phun lượng tử"
 	quest.3DF1435A15515DA9.quest_desc: [
-		"Để tự động nhận được Linh hồn, chúng tôi sẽ cần một vài Máy từ &3&lJust Dire Things&r. \nChúng ta sẽ cần một Block Placer, được đặt ở vị trí Soul Sand. \n\nSau đó, chúng ta sẽ cần một Advanced Clicker với Soul Extractor được đặt ở vị trí Soul Sand mà chúng ta sẽ đặt. Clicker cần được định cấu hình thành Hold Click cho khá nhiều Ticks. \n\nCuối cùng, chúng ta sẽ cần một bộ Advanced Block Placer để phá vỡ vị trí của Soul Sand. Hãy nhớ đặt bộ lọc của nó ở chế độ chỉ phá vỡ Soulless Sand và trang bị cho nó một Công cụ! \n\nTất cả các máy này sẽ cần Nguồn (ngoài Block Placer nếu bạn sử dụng phiên bản bình thường) và Advanced Breaker và Advanced Clicker sẽ cần các công cụ có Độ bền."
+		"Để tự động nhận được Linh hồn, chúng tôi sẽ cần một vài Máy từ &3&lJust Dire Things&r. \nChúng ta sẽ cần một Block Placer, được đặt ở vị trí Soul Sand. \n\nSau đó, chúng ta sẽ cần một Advanced Clicker với Soul Extractor được đặt ở vị trí Soul Sand mà chúng ta sẽ đặt. Clicker cần được định cấu hình thành Giữ Click cho khá nhiều Ticks. \n\nCuối cùng, chúng ta sẽ cần một bộ Advanced Block Placer để phá vỡ vị trí của Soul Sand. Hãy nhớ đặt bộ lọc của nó ở chế độ chỉ phá vỡ Soulless Sand và trang bị cho nó một Công cụ! \n\nTất cả các máy này sẽ cần Nguồn (ngoài Block Placer nếu bạn sử dụng phiên bản bình thường) và Advanced Breaker và Advanced Clicker sẽ cần các công cụ có Độ bền."
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/forbidden/forbidden_autosoul.png width:150 height:100 align:center}"
@@ -140,7 +140,7 @@
 		"{image:atm:textures/questpics/forbidden/forbidden_blood.png width:135 height:100 align:center}"
 	]
 	quest.40B757772D0FBAC9.title: "&4Blood"
-	quest.414A35A72AFB5FF5.quest_desc: ["Cái này có lẽ là một trong những thứ khó chế tạo nhất, nó cần &bPrismarine, &2Turtle Scute, &9Lapis, và &3Heart of the Sea. \n\nHy vọng bạn thích &2&lMA&r! \n\nNó kết hợp với Mũ bảo hiểm... rất có thể sẽ tạo ra Hô hấp hoặc Aqua Affinity, nhưng tôi không thể làm cho nó hoạt động được..."]
+	quest.414A35A72AFB5FF5.quest_desc: ["Cái này có lẽ là một trong những thứ khó chế tạo nhất, nó cần &bPrismarine, &2Turtle Scute, &9Lapis, và &3Heart of   Sea. \n\nHy vọng bạn thích &2&lMA&r! \n\nNó kết hợp với Mũ bảo hiểm... rất có thể sẽ tạo ra Hô hấp hoặc Aqua Affinity, nhưng tôi không thể làm cho nó hoạt động được..."]
 	quest.414A35A72AFB5FF5.title: "&9Sea Prism"
 	quest.46567ED894E9883C.quest_desc: [
 		"Đây là nơi nó trở nên thú vị! \n\nSử dụng 4 &6 Thỏi Deorum, 4 &bTinh thể Arcane và &9Chiseled Polished Darkstone&r để nâng cấp từ &3&lCấp 2 lên &e&lCấp 3&r. \n\nGiờ đây chúng ta có thể nắm giữ nhiều Tinh chất hơn, nhiều Thánh tích hơn và thậm chí nhiều Bí quyết hơn nữa!"
@@ -149,7 +149,7 @@
 	]
 	quest.46567ED894E9883C.title: "&e&lLò rèn Cấp 3&6"
 	quest.4707FB01F15F6E1F.quest_desc: [
-		"&b&lClibano là một Multiblock mới hoạt động giống như Jumbo Furnace! Để thực hiện nó hãy làm theo các bước sau!"
+		"&b&lClibano là một đa khối mới hoạt động giống như Jumbo Furnace! Để thực hiện nó hãy làm theo các bước sau!"
 
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano1.png width:100 height:100 align:center}"
 		"Lớp đầu tiên là Khu vực 3x3, với các góc được làm bằng &9Polished Darkstone và phần còn lại được lấp đầy bằng &9Polished Darkstone Bricks&r."
@@ -161,16 +161,16 @@
 		"Lớp cuối cùng giống như lớp đầu tiên... ngay phía trên hai lớp còn lại!"
 
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano4.png width:100 height:100 align:center}"
-		"Finally Right Click Multiblock với &cMundabitur Dust để hoàn thành nó!"
+		"Cuối cùng nhấp chuột phải đa khối với &cMundabitur Bụi để hoàn thành nó!"
 
 	]
 	quest.4707FB01F15F6E1F.title: "&b&lClibano"
 	quest.487C70679535DDDB.quest_desc: ["Bạn có ghét những giới hạn ngu ngốc đó trên Quantum Catcher của mình không? Không thể đưa Wardens vào căn cứ bạn bè của bạn! \n\nGiờ thì đừng lo lắng vì chúng ta có thể nâng cấp Quantum Catcher của mình với 3 &2 Mảnh Stellarite và Nether Star để tạo ra Boss Catcher. \n\nBây giờ chúng ta có thể vận chuyển Boss của mình đến bất cứ nơi nào chúng ta muốn!"]
-	quest.49D0B6D3ED3DCCCD.quest_desc: ["&bArcane Crystal Dust&r khá đơn giản, chỉ cần Smelt &bArcane Crystals và bùng nổ! \n\nBạn cũng có thể sử dụng Clibano Multiblock để nhận được một vài mảnh sau &bArcane Crystals!"]
-	quest.49D0B6D3ED3DCCCD.title: "&bPhép thuật Crystal Dust"
-	quest.4A564E8FE587C7E4.quest_desc: ["Cách tốt nhất để nhận được Linh hồn là thông qua Soul Extractor! \n\nĐối với một số Nether Items và Khối và Utrem Jar (cần Edelwood để chế tạo), bạn có thể đưa công cụ của mình vào Tìm kiếm Linh hồn! \n\nHold Right Click khi bật Soul Sand và nó sẽ lấy Linh hồn ra khỏi đó. \n\nCứ để nó là Sand... không chờ đã, Soulless Sand... cái quái gì vậy Soulless Sand?!?!?!"]
+	quest.49D0B6D3ED3DCCCD.quest_desc: ["&bArcane Crystal Bụi&r khá đơn giản, chỉ cần nung &bArcane Crystals và bùng nổ! \n\nBạn cũng có thể sử dụng Clibano đa khối để nhận được một vài mảnh sau &bArcane Crystals!"]
+	quest.49D0B6D3ED3DCCCD.title: "&bPhép thuật Crystal Bụi"
+	quest.4A564E8FE587C7E4.quest_desc: ["Cách tốt nhất để nhận được Linh hồn là thông qua Soul Extractor! \n\nĐối với một số Nether Items và Khối và Utrem Jar (cần Edelwood để chế tạo), bạn có thể đưa công cụ của mình vào Tìm kiếm Linh hồn! \n\nGiữ nhấp chuột phải khi bật Soul Sand và nó sẽ lấy Linh hồn ra khỏi đó. \n\nCứ để nó là Sand... không chờ đã, Soulless Sand... cái quái gì vậy Soulless Sand?!?!?!"]
 	quest.4BE209D5DAF1F321.quest_desc: [
-		"&bAureal là Slot đầu tiên và quan trọng nhất trong &6&lForge&r. \n\nBạn có thể tự động hóa nó bằng &bArcane Crystal Obelisks&r hoặc gửi &bAureal Chai&f/&bPotions&r! \n\nBạn có thể tìm thấy &bAureal Chai trong Rương ở hầu hết các Công trình hoặc bạn có thể chế tạo chúng bằng &bArcane Crystal Dust&r và Thuốc tái sinh II."
+		"&bAureal là Slot đầu tiên và quan trọng nhất trong &6&lForge&r. \n\nBạn có thể tự động hóa nó bằng &bArcane Crystal Obelisks&r hoặc gửi &bAureal Chai&f/&bPotions&r! \n\nBạn có thể tìm thấy &bAureal Chai trong Rương ở hầu hết các Công trình hoặc bạn có thể chế tạo chúng bằng &bArcane Crystal Bụi&r và Thuốc tái sinh II."
 
 		"{image:atm:textures/questpics/forbidden/forbidden_aureal.png width:135 height:100 align:center}"
 	]
@@ -198,7 +198,7 @@
 
 	]
 	quest.580148D1141446A6.title: "Lost Souls"
-	quest.5A6FF0D4BA894306.quest_desc: ["Con đẻ của &6&lForbidden \\& Arcanus’s, &aEternal Stella&r. \n\nVới 1 &6Allthemodium's Ingot, 3 &aXpetrified Orbs, và &2Stellarite Piece, chúng ta có thể tạo ra một trong những Vật phẩm mạnh nhất trong Modpack này! \n\nBạn có thể sử dụng &aEternal Stella với một Vật phẩm và Apply Item Modifier để làm cho Vật phẩm mất Độ bền. Không, chờ đã, ý tôi là họ không cần đến Độ bền nữa! Basically Indestructible Items. \n\nĐiều này có thể được sử dụng trên hầu hết mọi Vật phẩm có Độ bền từ &bDiamond Axe, đến Cần câu, thậm chí là &eRefined Glowstone Armor&r! \n\nCó một số hạn chế, nó chỉ hoạt động với các Vật phẩm có Độ bền không sử dụng: như Infusion Crystals hoặc Năng lượng: như Meka-Tool!"]
+	quest.5A6FF0D4BA894306.quest_desc: ["Con đẻ của &6&lForbidden \\& Arcanus’s, &aEternal Stella&r. \n\nVới 1 &6Allthemodium's thỏi, 3 &aXpetrified Orbs, và &2Stellarite Piece, chúng ta có thể tạo ra một trong những Vật phẩm mạnh nhất trong Modpack này! \n\nBạn có thể sử dụng &aEternal Stella với một Vật phẩm và Apply Item Modifier để làm cho Vật phẩm mất Độ bền. Không, chờ đã, ý tôi là họ không cần đến Độ bền nữa! Basically Indestructible Items. \n\nĐiều này có thể được sử dụng trên hầu hết mọi Vật phẩm có Độ bền từ &bDiamond Axe, đến Cần câu, thậm chí là &eRefined Glowstone Armor&r! \n\nCó một số hạn chế, nó chỉ hoạt động với các Vật phẩm có Độ bền không sử dụng: như Infusion Crystals hoặc Năng lượng: như Meka-Tool!"]
 	quest.5A6FF0D4BA894306.title: "&aEternal Stella"
 	quest.5CD0E6F349F2F32D.quest_desc: ["Đừng sợ, đây không phải là một trò đùa ngớ ngẩn, nó là một cây Edelwood đã trưởng thành hoàn toàn! \n\nCây sẽ có Carved Edelwood Log ở trên và Edelwood Branches xuất phát từ nó, những thứ này có thể bị phá vỡ trong Edelwood Sticks. \n\nCác khúc gỗ rỗng ở bên trong, có không gian tương tự như một cái vạc. Thật buồn cười là nó còn có thể chứa nước như một cái vạc!"]
 	quest.5ED0DA95BAE43D88.quest_desc: ["Lăng kính cuối cùng, đây là &dCrystal nhưng bạn hiểu ý rồi đấy! \n\nTrước tiên, bạn sẽ cần Thánh tích của &eDivine Pact, được tìm thấy trong &b&lThe Other&r. \n\nSau đó, bạn sẽ cần &3Enderpearl Fragments, &5Amethyst&r và Nether Quartz. Đừng lo lắng nó sẽ khó hơn! \n\nBây giờ chúng ta sẽ cần mọi loại Linh hồn. Tôi đã dạy bạn cách nhận được Linh hồn và &9 Linh hồn hư hỏng trong các Nhiệm vụ khác. Bây giờ tôi sẽ dạy bạn về &dLinh hồn bị mê hoặc. \n\nTìm một Lost Soul bay vòng quanh thế giới của bạn, sau đó ném &bSplash Potion of Aureal vào chúng! Sau đó, chúng sẽ trở thành &dLost Enchanted Soul&r, hãy giết chúng! \n\nVới điều đó, giờ đây bạn có thể tạo &dCrystal, có thể áp dụng cho Công cụ và Áo giáp để mang lại Linh hồn. Điều này có nghĩa là khi bạn chết, bạn vẫn sẽ hồi sinh với những Vật phẩm này trong Kho của mình."]
@@ -210,9 +210,9 @@
 	quest.63C95FDAA447CA47.title: "&7Terrastomp Prism"
 	quest.66FE4552E09B5EFF.quest_desc: ["Lăng kính rất quan trọng đối với nhiều công thức nấu ăn của &6&lForbidden \\& Arcanus và các Mod khác sau này! \n\nĐể chế tạo chúng, chúng ta cần &3Elementarium, có trong Jungle Temples, Desert Pyramids, và Underwater Ruins. \n\nTôi nghĩ sẽ dễ dàng hơn nếu cho chúng tôi biết nơi bạn không thể tìm thấy nó!"]
 	quest.66FE4552E09B5EFF.title: "&3Elementarium"
-	quest.67258590FA14BE44.quest_desc: ["Với 250mB &9Water và 2 &bArcane Crystal Dust&r, trong &b&lRunic Crucible&r, chúng ta có thể nhận được 250mB &bLiquid Aureal! \n\nTuy nhiên, bạn sẽ cần 1000 &dSource để bắt đầu..."]
+	quest.67258590FA14BE44.quest_desc: ["Với 250mB &9Water và 2 &bArcane Crystal Bụi&r, trong &b&lRunic Crucible&r, chúng ta có thể nhận được 250mB &bLiquid Aureal! \n\nTuy nhiên, bạn sẽ cần 1000 &dSource để bắt đầu..."]
 	quest.67258590FA14BE44.title: "&bÂm thanh lỏng"
-	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact là khó lấy nhất, bạn sẽ cần tìm kiếm Piglin Villages và Ancient Pyramids trong &b&lThe Other&r để tìm chúng! \n\nNó được dùng để chế tạo Soul Binding Crystal và End Game Multiblocks!"]
+	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact là khó lấy nhất, bạn sẽ cần tìm kiếm Piglin làngs và Ancient Pyramids trong &b&lThe Other&r để tìm chúng! \n\nNó được dùng để chế tạo Soul Binding Crystal và End Game đa khốis!"]
 	quest.67CCEFEBA4D79429.title: "&eHiệp ước thần thánh"
 	quest.692183ACBB2AABF7.quest_desc: ["Di tích là những vật hiếm được tìm thấy xung quanh Thế giới &2&lMinecraft của bạn! \n\nChúng có thể được sử dụng trong &6&lForge của bạn, trong các ô vuông xung quanh ô trung tâm, những ô này càng mở ra khi bạn nâng cấp Cấp độ càng nhiều! \n\nHoặc bạn có thể sử dụng chúng trong &l&bClibano. \n\nMột số chỉ có Creative Mode, đừng lo lắng, chúng tôi biết bạn yêu thích các mặt hàng OP của mình đến mức nào và sẽ tìm cách thêm chúng!"]
 	quest.692183ACBB2AABF7.title: "&lRelics"
@@ -224,10 +224,10 @@
 	quest.6BA2BC09E23B34A9.title: "&l&dLò rèn Cấp 4&6"
 	quest.6F57BE412A7BE84E.quest_desc: ["&9Những linh hồn hư hỏng được sử dụng cho 2 việc! \n\n1. Công thức chế tạo với &l&dTier 4 &6Forge&r, hiện tại chúng ta không cần phải lo lắng về điều đó. \n\n2. Trồng gỗ Edelwood! \n\nTrồng Edelwood đóng vai trò là Cây non cho Edelwood, đây là cách duy nhất để có được Edelwood hiện nay."]
 	quest.6F57BE412A7BE84E.title: "&9Những linh hồn hư hỏng"
-	quest.7671AFAA1EFD287F.quest_desc: ["Bạn muốn tự động hóa dần dần &bAureal cho &6&lForge của mình? Sau đó, bạn sẽ cần 2 &bArcane Crystal Blocks&r, &6Arcane Polished Darkstone&r, và &cMundabitur Dust&r! \n\nĐặt &6Arcane Polished Darkstone&r xuống, sau đó đặt cả &bArcane Crystal Blocks&r lên trên nó. \n\nKhi bạn có được Cấu trúc 1x3x1 này, hãy Right Click nó với &cMundabitur Dust để tạo ra &bObelisk! \n\nBạn có thể đặt những thứ này, nơi các Bệ thường đặt, trong &6&lForge Multiblock để tự động hóa &bAureal!"]
+	quest.7671AFAA1EFD287F.quest_desc: ["Bạn muốn tự động hóa dần dần &bAureal cho &6&lForge của mình? Sau đó, bạn sẽ cần 2 &bArcane Crystal Blocks&r, &6Arcane Polished Darkstone&r, và &cMundabitur Bụi&r! \n\nĐặt &6Arcane Polished Darkstone&r xuống, sau đó đặt cả &bArcane Crystal Blocks&r lên trên nó. \n\nKhi bạn có được Cấu trúc 1x3x1 này, hãy nhấp chuột phải nó với &cMundabitur Bụi để tạo ra &bObelisk! \n\nBạn có thể đặt những thứ này, nơi các Bệ thường đặt, trong &6&lForge đa khối để tự động hóa &bAureal!"]
 	quest.7671AFAA1EFD287F.title: "&bPhép thuật Crystal Obelisk"
 	quest.798B592E956AD28C.quest_desc: [
-		"&b&lRunic Crucible là một Multiblock, đây sẽ là cách để chúng tôi nhận được một nửa số Tinh chất tự động: Liquid Souls và &bLiquid Aureal! \n\nHãy xem trang tiếp theo trong Quest Description để biết cách xây dựng nó! \n\nChúng ta sẽ cần dẫn Vật phẩm và Chất lỏng vào Cổng, sau đó đổ đầy &dSource vào để nó bắt đầu hoạt động. Both Liquid Souls và &bLiquid Aureal chúng ta sẽ cần nhập Vật phẩm và Chất lỏng. \n\n&b&lRunic Crucible cũng có thể được dùng để chế tạo &9Corrupt Souls, &dEnchanted Souls, và &5Obsidiansteel!"
+		"&b&lRunic Crucible là một đa khối, đây sẽ là cách để chúng tôi nhận được một nửa số Tinh chất tự động: Liquid Souls và &bLiquid Aureal! \n\nHãy xem trang tiếp theo trong Quest Description để biết cách xây dựng nó! \n\nChúng ta sẽ cần dẫn Vật phẩm và Chất lỏng vào Cổng, sau đó đổ đầy &dSource vào để nó bắt đầu hoạt động. Both Liquid Souls và &bLiquid Aureal chúng ta sẽ cần nhập Vật phẩm và Chất lỏng. \n\n&b&lRunic Crucible cũng có thể được dùng để chế tạo &9Corrupt Souls, &dEnchanted Souls, và &5Obsidiansteel!"
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:100 height:100 align:center}"

@@ -1,5 +1,5 @@
 {
-	quest.0000A88BB40B2149.quest_desc: ["Bây giờ trước khi bạn đến Chaos Island Tôi khuyên bạn nên chuẩn bị, anh ấy có thể trông giống Ender Dragon nhưng cái này khó hơn nhiều. Bạn sẽ muốn Draconic Weapons hoặc Công cụ gây ra nhiều thiệt hại vì những công cụ đó sẽ giúp việc này trở nên dễ dàng hơn. Anh ta cũng sẽ tạo ra rất nhiều loại Áo giáp có khả năng sát thương tốt như Unobtainium hoặc Meka-Suit sẽ được khuyên dùng. (Ngoài ra, tác dụng Tái sinh, Hấp thụ và Kháng cự sẽ giúp bạn sống sót}. Đừng lo lắng, bạn luôn có thể quay lại chiến đấu vào ngày khác nếu chưa sẵn sàng."]
+	quest.0000A88BB40B2149.quest_desc: ["Bây giờ trước khi bạn đến Đảo Hỗn Mang Tôi khuyên bạn nên chuẩn bị, anh ấy có thể trông giống Rồng Ender nhưng cái này khó hơn nhiều. Bạn sẽ muốn Draconic Weapons hoặc Công cụ gây ra nhiều thiệt hại vì những công cụ đó sẽ giúp việc này trở nên dễ dàng hơn. Anh ta cũng sẽ tạo ra rất nhiều loại Áo giáp có khả năng sát thương tốt như Unobtainium hoặc Meka-Suit sẽ được khuyên dùng. (Ngoài ra, tác dụng Tái sinh, Hấp thụ và Kháng cự sẽ giúp bạn sống sót}. Đừng lo lắng, bạn luôn có thể quay lại chiến đấu vào ngày khác nếu chưa sẵn sàng."]
 	quest.0000A88BB40B2149.quest_subtitle: ""
 	quest.0000A88BB40B2149.title: "Thật khó khăn bạn sẽ cần phải chuẩn bị"
 	quest.01612963DBBAC9A1.quest_desc: ["Hy vọng điều này sẽ bảo vệ bạn."]
@@ -8,12 +8,12 @@
 	quest.04695DA1BD3BF1B2.title: "Chaotic Damage Module"
 	quest.0499A372F55D04C8.title: "Draconic Projectile Velocity Module"
 	quest.04BF68E4554D69AA.quest_desc: [
-		"Cuối cùng và tốt nhất Cấp 8! Bạn sẽ cần 378 Awakened Draconium Blocks và 786 Draconium Ingot Blocks! Nó có đáng không?"
+		"Cuối cùng và tốt nhất Cấp 8! Bạn sẽ cần 378 Awakened Draconium Blocks và 786 Draconium thỏi Blocks! Nó có đáng không?"
 
 		"{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
 	]
-	quest.04BF68E4554D69AA.quest_subtitle: "Stores: Near Vô hạn"
+	quest.04BF68E4554D69AA.quest_subtitle: "Lưu trữ: Gần như Vô hạn"
 	quest.04BF68E4554D69AA.title: "Cấp 8"
 	quest.052E261F934AB439.quest_desc: ["Cũng có thể tạo ra Con đường!"]
 	quest.052E261F934AB439.title: "Chaotic Shovel"
@@ -41,7 +41,7 @@
 	quest.12BDE512C734D19A.quest_desc: ["Draconium Cores là Nguyên liệu quan trọng trong nhiều công thức nấu ăn ở Draconic Evolution. Đặc biệt đối với các mặt hàng Basic Tier."]
 	quest.12BDE512C734D19A.title: "Lõi cơ bản (Draconium)"
 	quest.131AA933D59D3017.quest_desc: [
-		"Cấp 5 cần 90 Draconium Ingot Blocks và 80 Redstone Blocks, cùng với 4 Advanced Stabilizers hoặc 36 Bộ ổn định."
+		"Cấp 5 cần 90 Draconium thỏi Blocks và 80 Redstone Blocks, cùng với 4 Advanced Stabilizers hoặc 36 Bộ ổn định."
 
 		"{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
@@ -62,11 +62,11 @@
 	quest.1A53B6544782442E.title: "Wyvern Shield Control Module"
 	quest.1C8210712349A2E3.quest_desc: ["Tiền đề khá đơn giản, Rìu và Kiếm có thể gây nhiều sát thương hơn. Vâng, nó xếp chồng lên nhau!"]
 	quest.1C8210712349A2E3.title: "Basic Damage Module"
-	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion Crafting có ​​Cấp độ được xác định bởi Người tiêm. Các bậc xếp theo thứ tự tăng dần: Draconium (tôi gọi nó là Cơ bản để giúp phân biệt), Wyvern, Draconic và Chaotic. Cần đặt Vòi phun ở Bên trái và Bên phải của Fusion Crafting Core, cách nó vài dãy nhà. Chúng có thể được đặt theo hình chữ thập với tối đa 5 cái ở mỗi bên của Crafting Core. Để cung cấp cho họ Rơle truyền năng lượng IO Các tinh thể kết nối với chúng sẽ hoạt động, hãy xem Crystak Binding để tìm hiểu thêm."]
+	quest.1D3E2363CFD4C5E0.quest_desc: ["Fusion chế tạoing có ​​Cấp độ được xác định bởi Người tiêm. Các bậc xếp theo thứ tự tăng dần: Draconium (tôi gọi nó là Cơ bản để giúp phân biệt), Wyvern, Draconic và Chaotic. Cần đặt Vòi phun ở Bên trái và Bên phải của Fusion chế tạoing Core, cách nó vài dãy nhà. Chúng có thể được đặt theo hình chữ thập với tối đa 5 cái ở mỗi bên của chế tạoing Core. Để cung cấp cho họ Rơle truyền năng lượng IO Các tinh thể kết nối với chúng sẽ hoạt động, hãy xem Crystak Binding để tìm hiểu thêm."]
 	quest.1D3E2363CFD4C5E0.title: "Basic Tier"
 	quest.1E41A5071854DEC8.title: "Wyvern Damage Module"
 	quest.1F7D147C9AF6A4FC.quest_desc: [
-		"Cấp 4 thì khác. Đầu tiên, nó cần 26 Redstone Blocks bao bọc Core. Sau đó phía trên Redstone cần 56 Draconium Ingot Blocks."
+		"Cấp 4 thì khác. Đầu tiên, nó cần 26 Redstone Blocks bao bọc Core. Sau đó phía trên Redstone cần 56 Draconium thỏi Blocks."
 
 		"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
@@ -80,7 +80,7 @@
 	quest.22D383BAEF8A2B39.title: "Draconic Staff"
 	quest.236C936FE3BA8396.title: "Chaotic Flight Module"
 	quest.265D0DB0E8CED73B.title: "Mô-đun Draconic Projectile Gravity Compensation"
-	quest.26DF1427AC3966DE.quest_desc: ["Chào mừng bạn đến với Draconic Evolution, một bản mod OP rất thú vị và! Để bắt đầu, bạn cần khai thác Draconic Ore để nhận được Draconic Dust. Nó sinh ra ở tất cả các Thứ nguyên (Vanilla) nhưng nhiều nhất là ở Thứ nguyên cuối cùng!"]
+	quest.26DF1427AC3966DE.quest_desc: ["Chào mừng bạn đến với Draconic Evolution, một bản mod OP rất thú vị và! Để bắt đầu, bạn cần khai thác Draconic Ore để nhận được Draconic Bụi. Nó sinh ra ở tất cả các Thứ nguyên (Vanilla) nhưng nhiều nhất là ở Thứ nguyên cuối cùng!"]
 	quest.26DF1427AC3966DE.title: "Draconic Evolution"
 	quest.285656AF1F870AF8.quest_desc: ["1 trong 2 Basic Tier Infusions nhưng đừng đánh giá thấp Draconic Chest. Nó chứa nhiều không gian hơn một chiếc rương đôi, nó có thể nấu chảy và chế tạo các vật phẩm, và điều tuyệt vời nhất là nó có thể thay đổi màu sắc! Dễ dàng Rương yêu thích của tôi trong bất kỳ mod nào!"]
 	quest.285656AF1F870AF8.title: "Draconium Chest"
@@ -96,7 +96,7 @@
 	quest.2D9AF97C03C5AEC7.quest_desc: ["Đối với Cấp 5-8, bạn sẽ cần Advanced Stabilizers. Advanced Stabilizer là gì? Đó là 9 Bộ ổn định, tất cả đều nằm trong Khu vực 3x1x3. Khi thực hiện đúng, nó sẽ biến thành hình tròn! Chỉ cần làm tương tự như cách bạn làm với 1 Bộ ổn định."]
 	quest.2D9AF97C03C5AEC7.title: "Advanced Stabilizers"
 	quest.2DB2A4A1182FE0BB.quest_desc: [
-		"Cấp 6 cần 150 Draconium Ingot Blocks và 178 Redstone Blocks (Đừng quên 36 Chất ổn định)."
+		"Cấp 6 cần 150 Draconium thỏi Blocks và 178 Redstone Blocks (Đừng quên 36 Chất ổn định)."
 
 		"{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
@@ -115,7 +115,7 @@
 	quest.34D3F6D54F5B26C2.quest_desc: ["Một chiếc cuốc được nâng cấp, vậy có phải chỉ là một quý cô xinh đẹp và dễ thương không?"]
 	quest.34D3F6D54F5B26C2.title: "Draconic Hoe"
 	quest.35767977FB9E0B1B.quest_desc: [
-		"Cấp 2 cần 6 Draconium Ingot Blocks, 1 ở mỗi bên của Lõi. Sau đó, rõ ràng là 4 Bộ ổn định sẽ được thực hiện."
+		"Cấp 2 cần 6 Draconium thỏi Blocks, 1 ở mỗi bên của Lõi. Sau đó, rõ ràng là 4 Bộ ổn định sẽ được thực hiện."
 
 		"{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
@@ -160,7 +160,7 @@
 	quest.39AF9B1A996DA949.quest_desc: ["Nó giống như Netherite Sword nhưng tốt hơn và ngầu hơn nhiều!"]
 	quest.39AF9B1A996DA949.title: "Chaotic Sword"
 	quest.3B4CEE8A8CE0D6CB.quest_desc: [
-		"Hầu như ở đó! Cấp 7. 210 Draconium Ingots và 328 Redstone Blocks!"
+		"Hầu như ở đó! Cấp 7. 210 Draconium thỏi và 328 Redstone Blocks!"
 
 		"{image:atm:textures/questpics/draconic/draconic_core_7off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_7on.png width:100 height:100 align:1}"
@@ -176,13 +176,13 @@
 	quest.3FD19A001899D8C6.title: "Draconic Flight Module"
 	quest.40F34EBE09DA7752.quest_desc: ["Auto-Feed sẽ tự động cho bạn ăn bất kỳ thực phẩm nào trong Inventory khi đói. Tuy nhiên, nó có dung lượng lưu trữ tối đa Food Point, mỗi thanh đầy đủ là 2 Food Points. Vì vậy, loại Cơ bản chỉ có thể chứa được 8 Bít tết."]
 	quest.40F34EBE09DA7752.title: "Basic Auto Feed Module"
-	quest.41BD497108CA109F.quest_desc: ["Awakened Draconium đến từ Fusion Crafting các khối. Các khối có thể được chế tạo thành 9 Thỏi. Đây là các Thỏi quan trọng thứ hai trong Draconic Evolution và rất cần thiết cho Wyvern và Draconic Tiers."]
+	quest.41BD497108CA109F.quest_desc: ["Awakened Draconium đến từ Fusion chế tạoing các khối. Các khối có thể được chế tạo thành 9 Thỏi. Đây là các Thỏi quan trọng thứ hai trong Draconic Evolution và rất cần thiết cho Wyvern và Draconic Tiers."]
 	quest.41BD497108CA109F.title: "Awakened Draconium"
 	quest.421954D7D46FAAD6.quest_desc: ["Energy Core Stabilizers... ổn định chưa? Cốt lõi. Đối với 4 Cấp lõi đầu tiên, bạn chỉ cần 4 Bộ ổn định xung quanh nó. Bạn cũng có thể truy cập GUi của Core thông qua Bộ ổn định. Nếu chúng được đặt quá gần Lõi hoặc sai vị trí, nó sẽ cho bạn biết nó không chính xác."]
 	quest.421954D7D46FAAD6.title: "Energy Core Stabilizers"
 	quest.43C2B07AB25C708E.quest_desc: ["Phiên bản nâng cấp của Wyvern Bow."]
 	quest.43C2B07AB25C708E.title: "Draconic Bow"
-	quest.45EE60207C466D6C.quest_desc: ["Để vào Draconic Evolution bạn cần có Chaos Shards. Chaos Shards ở trong Chaos Islands được bảo vệ bởi Chaos Guardians ở phần cuối. Đi đến Cuối ở tọa độ X/Z là bội số của 10k. 10k, 10k/10k, 20k/20k, 20k v.v."]
+	quest.45EE60207C466D6C.quest_desc: ["Để vào Draconic Evolution bạn cần có Chaos Shards. Chaos Shards ở trong Đảo Hỗn Mangs được bảo vệ bởi Chaos Guardians ở phần cuối. Đi đến Cuối ở tọa độ X/Z là bội số của 10k. 10k, 10k/10k, 20k/20k, 20k v.v."]
 	quest.45EE60207C466D6C.quest_subtitle: "Tìm đảo hỗn loạn"
 	quest.45EE60207C466D6C.title: "Anh ấy ở đâu?"
 	quest.4638F21544D6D337.title: "Phân vùng-Entangled Quantum Energy Tunnel"
@@ -194,22 +194,22 @@
 	quest.4AAADEC52D16461A.title: "Hill Step Module"
 	quest.4AB564420C48579B.quest_desc: ["Draconic Evolution không thấy cần thiết phải bao phủ toàn bộ cơ thể trong bộ giáp thảm hại khi bạn có thể sử dụng một Tấm giáp ngực duy nhất có tấm chắn tích hợp. Đợi đã, chúng không được tích hợp sẵn, bạn cần có Mô-đun cho chúng... xin lỗi."]
 	quest.4AB564420C48579B.title: "Wyvern Chestplate"
-	quest.4ABEF61DADBD0640.quest_desc: ["Most Bows là Bán tự động. Bạn phải rút dây, thả ra và đặt một Mũi tên khác vào cung và lặp lại. Thay vào đó hãy bỏ qua tất cả những việc đó để Cung tự động bắn mỗi khi nó được rút ra hoàn toàn. Chỉ cần giữ Right Click và xem nó diễn ra như thế nào!"]
+	quest.4ABEF61DADBD0640.quest_desc: ["Most Bows là Bán tự động. Bạn phải rút dây, thả ra và đặt một Mũi tên khác vào cung và lặp lại. Thay vào đó hãy bỏ qua tất cả những việc đó để Cung tự động bắn mỗi khi nó được rút ra hoàn toàn. Chỉ cần giữ nhấp chuột phải và xem nó diễn ra như thế nào!"]
 	quest.4ABEF61DADBD0640.title: "Auto Fire Module"
-	quest.4B7840F1A8CF1378.quest_desc: ["Fusion Crafting là cách tạo ra hầu hết (ít nhất là những món đồ thú vị). Để bắt đầu, bạn cần có Fusion Crafting Core, đặt nó xuống cách mặt đất khoảng một khối. Phần Cốt lõi là nơi các công thức nấu ăn có thể được tự động đặt vào từ JEI, nơi đặt vật phẩm ở giữa và nơi đặt vật phẩm cuối cùng. Nó sẽ cần các Vòi phun đặt cách nó vài khối nhìn về phía Lõi ở hai bên của nó. Kiểm tra Nhiệm vụ tiếp theo để tìm hiểu thêm về những điều đó. Người tiêm cũng sẽ cần Năng lượng, điều này sẽ được giải thích thêm trong Crystal Binding Quest."]
-	quest.4B7840F1A8CF1378.title: "Fusion Crafting"
+	quest.4B7840F1A8CF1378.quest_desc: ["Fusion chế tạoing là cách tạo ra hầu hết (ít nhất là những món đồ thú vị). Để bắt đầu, bạn cần có Fusion chế tạoing Core, đặt nó xuống cách mặt đất khoảng một khối. Phần Cốt lõi là nơi các công thức nấu ăn có thể được tự động đặt vào từ JEI, nơi đặt vật phẩm ở giữa và nơi đặt vật phẩm cuối cùng. Nó sẽ cần các Vòi phun đặt cách nó vài khối nhìn về phía Lõi ở hai bên của nó. Kiểm tra Nhiệm vụ tiếp theo để tìm hiểu thêm về những điều đó. Người tiêm cũng sẽ cần Năng lượng, điều này sẽ được giải thích thêm trong Crystal Binding Quest."]
+	quest.4B7840F1A8CF1378.title: "Fusion chế tạoing"
 	quest.4B9FF9E972B0E530.quest_desc: ["Rõ ràng là Energy Link hoặc Đường hầm càng tốt thì nó càng có thể chuyển được nhiều OP hơn, nhưng bạn cũng có thể nhận thấy thiếu thứ gì đó với Energy Link. Nó không hoạt động giữa các chiều! Rất may là những cái tốt hơn có thể làm được, chỉ cần đảm bảo rằng phía bên kia đã được tải nhiều dữ liệu."]
 	quest.4B9FF9E972B0E530.title: "Quantum Energy Tunnel"
 	quest.4CD2ADD3601B8191.quest_desc: ["Bạn muốn Khiên của bạn quay trở lại chứ không phải chỉ khi bạn gần như chết? Sau đó, bạn sẽ cần Recovery Modules. Càng nhiều Mô-đun thì nó phục hồi càng nhanh."]
 	quest.4CD2ADD3601B8191.title: "Wyvern Shield Recovery Module"
 	quest.4E27182763DA83DC.quest_desc: ["Phiên bản nâng cấp của Wyvern Chestplate."]
 	quest.4E27182763DA83DC.title: "Draconic Chestplate"
-	quest.4EFFE300EC781C3E.quest_desc: ["Các mô-đun rất quan trọng đối với các mặt hàng DE của chúng tôi. Điều quan trọng là họ không làm việc nếu không có chúng! Most Modules được tạo từ Module Core hoặc Mô-đun trước đó. Giữ một mục rồi nhấn Shift và C để mở Module Menu. Ở đó bạn sẽ thấy một số khe và nút! Khe là nơi Mô-đun thực sự sẽ đi tới và Lưới là thứ quyết định số lượng Mô-đun có thể đi tới. Khi Mô-đun cho biết 1x1, nó sẽ chỉ mất 1 Vị trí, trong khi mô-đun có nội dung 2z2 sẽ chiếm tối đa 4 vị trí. Nút thấp nhất bên phải sẽ hiển thị những Mô-đun nào có thể áp dụng cho Vật phẩm bạn đang cầm. Phần còn lại chỉ thay đổi giao diện của GUI."]
+	quest.4EFFE300EC781C3E.quest_desc: ["Các mô-đun rất quan trọng đối với các mặt hàng DE của chúng tôi. Điều quan trọng là họ không làm việc nếu không có chúng! Most Modules được tạo từ Module Core hoặc Mô-đun trước đó. Giữ một mục rồi nhấn Shift và C để mở Module Menu. Ở đó bạn sẽ thấy một số khe và nút! Khe là nơi Mô-đun thực sự sẽ đi tới và Lưới là thứ quyết định số lượng Mô-đun có thể đi tới. Khi Mô-đun cho biết 1x1, nó sẽ chỉ mất 1 Vị trí, trong khi mô-đun có nội dung 2z2 sẽ chiếm tối đa 4 vị trí. Nút thấp nhất bên phải sẽ hiển thị những Mô-đun nào có thể áp dụng cho Vật phẩm bạn đang cầm. Phần còn lại chỉ thay đổi giao diện của giao diện."]
 	quest.4EFFE300EC781C3E.title: "Mô-đun!"
 	quest.4F6A9F1AEFD535F5.title: "Mô-đun Draconic Large Shield Capacity"
 	quest.50013DD7370F8EDB.title: "Chaotic Jump Module"
 	quest.5021D159A5EC2315.title: "Draconic Energy Module"
-	quest.51CF09EC333DB1A3.quest_desc: ["Để thăng cấp trong Draconic Evolution Fusion Crafting, Bộ phun cần thiết cho một công thức ít nhất phải có Cấp độ trở lên. Giống như nếu bạn muốn tạo Wyvern Axe bạn cần ít nhất 6 Wyvern Injectors, với 3 cái ở mỗi bên. Đừng lo lắng Crafting Core vẫn giữ nguyên!"]
+	quest.51CF09EC333DB1A3.quest_desc: ["Để thăng cấp trong Draconic Evolution Fusion chế tạoing, Bộ phun cần thiết cho một công thức ít nhất phải có Cấp độ trở lên. Giống như nếu bạn muốn tạo Wyvern Axe bạn cần ít nhất 6 Wyvern Injectors, với 3 cái ở mỗi bên. Đừng lo lắng chế tạoing Core vẫn giữ nguyên!"]
 	quest.51CF09EC333DB1A3.title: "Wyvern Tier"
 	quest.529123A789D790E3.title: "Wyvern Jump Module"
 	quest.52C301DF1776E0D8.title: "Chaotic Projectile Damage Module"
@@ -217,7 +217,7 @@
 	quest.52C3F61D678B00F5.title: "Chaotic Hoe"
 	quest.52EA9793A7100E75.title: "Chaotic Undying Module"
 	quest.542AD6FD1927C3E6.title: "Draconic Undying Module"
-	quest.5443E15E226DFC86.quest_desc: ["Giá treo là cách bạn đưa OP vào và ra khỏi Energy Core. Đặt chúng ít nhất gần Core, 2 trong số đó 1 cho đầu vào và 1 cho đầu ra (bạn có thể sử dụng nhiều hơn). Sau đó, đặt Kính lên trên chúng và chúng sẽ được lắp ráp tự động nhắm mục tiêu Energy Core gần nhất. Right Click các quả bóng mới được hình thành trên các Giá treo để thay đổi xem chúng là Đầu vào hay Đầu ra (bạn sẽ biết từ các mũi tên và thiết kế của chúng). Sau đó, bạn có thể gắn Pha lê vào chúng để di chuyển OP ra vào!"]
+	quest.5443E15E226DFC86.quest_desc: ["Giá treo là cách bạn đưa OP vào và ra khỏi Energy Core. Đặt chúng ít nhất gần Core, 2 trong số đó 1 cho đầu vào và 1 cho đầu ra (bạn có thể sử dụng nhiều hơn). Sau đó, đặt Kính lên trên chúng và chúng sẽ được lắp ráp tự động nhắm mục tiêu Energy Core gần nhất. nhấp chuột phải các quả bóng mới được hình thành trên các Giá treo để thay đổi xem chúng là Đầu vào hay Đầu ra (bạn sẽ biết từ các mũi tên và thiết kế của chúng). Sau đó, bạn có thể gắn Pha lê vào chúng để di chuyển OP ra vào!"]
 	quest.5443E15E226DFC86.title: "Quyền lực đến và đi qua những điều này"
 	quest.54F78C9A945CF0E7.title: "Chaotic Energy Module"
 	quest.574E5806D1A98FE5.quest_desc: ["Energy Modules là các Mô-đun quan trọng nhất và cần thiết để sử dụng các vật phẩm DE. Số lượng trong chúng xác định số lượng OP một vật phẩm có thể chứa và nạp vào, hãy xem Energy Infuser để tìm hiểu thêm về cách sạc. Cấp Energy Module càng muộn thì càng có nhiều vật phẩm OP có thể chứa và sử dụng. Điều này rất quan trọng vì khi vật phẩm được nâng cấp, chúng sẽ sử dụng nhiều OP hơn cho mỗi lần sử dụng."]
@@ -228,7 +228,7 @@
 	quest.5ADFC45B03BAB852.quest_desc: ["Đây chính là mục đích của Draconic Cores."]
 	quest.5ADFC45B03BAB852.title: "Draconic Tier"
 	quest.5BC6CC3C09F512A7.quest_desc: [
-		"Lõi lò phản ứng là phần quan trọng nhất của Lò phản ứng, IE Lõi! Đặt nó cách Đầu phun và Bộ ổn định 5 khối trở lên và bạn có thể nhấp chuột phải vào nó để xem nó là GUI ở đây bạn sẽ tìm thấy một vài thanh, quả bóng, nút và khe. Các thanh đi từ trái sang phải: Heat, Containment Field, Energy Saturation và Fuel Conversion. Bạn đã tìm hiểu về Trường và Năng lượng và bạn sẽ tìm hiểu về Nhiên liệu trong nhiệm vụ tiếp theo. Vì vậy, Nhiệt độ khá quan trọng vì khi khởi động nó sẽ tăng lên 2000C trước khi sẵn sàng kích hoạt. Hãy chắc chắn rằng nó không lên quá cao, nếu không... sẽ tan chảy! Ball là hình ảnh Core của bạn, hiện tại mình đang gặp lỗi là Core không có họa tiết nên chưa giải thích được nhiều. Các Nút thay đổi hình thức của GUI, để kích hoạt hoặc tắt Lò phản ứng và sạc nó."
+		"Lõi lò phản ứng là phần quan trọng nhất của Lò phản ứng, IE Lõi! Đặt nó cách Đầu phun và Bộ ổn định 5 khối trở lên và bạn có thể nhấp chuột phải vào nó để xem nó là giao diện ở đây bạn sẽ tìm thấy một vài thanh, quả bóng, nút và khe. Các thanh đi từ trái sang phải: Heat, Containment Field, Energy Saturation và Fuel Conversion. Bạn đã tìm hiểu về Trường và Năng lượng và bạn sẽ tìm hiểu về Nhiên liệu trong nhiệm vụ tiếp theo. Vì vậy, Nhiệt độ khá quan trọng vì khi khởi động nó sẽ tăng lên 2000C trước khi sẵn sàng kích hoạt. Hãy chắc chắn rằng nó không lên quá cao, nếu không... sẽ tan chảy! Ball là hình ảnh Core của bạn, hiện tại mình đang gặp lỗi là Core không có họa tiết nên chưa giải thích được nhiều. Các Nút thay đổi hình thức của giao diện, để kích hoạt hoặc tắt Lò phản ứng và sạc nó."
 
 		"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
@@ -241,7 +241,7 @@
 		"{image:atm:textures/questpics/draconic/draconic_guardian.png width:150 height:100 align:1}"
 	]
 	quest.5C2CF51D28F84CBE.title: "Giết Chaos Guardian"
-	quest.5D87088E8D71DB9B.quest_desc: ["Các tinh thể IO hoạt động như các khối có thể kết nối với nhau và truyền sức mạnh cho nhau. Để liên kết chúng Shift Right Click với Crystal Binder để đặt một rồi nhấp chuột phải vào bất kỳ Tinh thể nào bạn muốn kết nối. Khi bạn nhìn vào Crystal, nó sẽ hiển thị Đầu vào từ khối hoặc Đầu ra thành khối. Đầu vào là thứ bạn muốn đưa OP từ và Đầu ra đến nơi bạn muốn."]
+	quest.5D87088E8D71DB9B.quest_desc: ["Các tinh thể IO hoạt động như các khối có thể kết nối với nhau và truyền sức mạnh cho nhau. Để liên kết chúng Shift + nhấp chuột phải với Crystal Binder để đặt một rồi nhấp chuột phải vào bất kỳ Tinh thể nào bạn muốn kết nối. Khi bạn nhìn vào Crystal, nó sẽ hiển thị Đầu vào từ khối hoặc Đầu ra thành khối. Đầu vào là thứ bạn muốn đưa OP từ và Đầu ra đến nơi bạn muốn."]
 	quest.5D87088E8D71DB9B.title: "Đang di chuyển OP"
 	quest.5E0D78B7B2CF1729.quest_desc: ["Tôi biết đó là Wyvern Tier vậy tại sao lại có vật phẩm Draconic ở đây? Để đến được Draconic Tier bạn cần có Draconic Injectors. Để nhận được Draconic Injectors bạn cần có Draconic Cores. Hãy xem tại sao họ lại ở đây vào lúc này?"]
 	quest.5E0D78B7B2CF1729.title: "Draconic Core"
@@ -252,10 +252,10 @@
 	quest.607337D8AA20FA18.title: "Wyvern Tree Harvester"
 	quest.60C27206F1414DD6.quest_desc: ["Nhờ Newton mà chúng ta biết rằng mọi hành động đều có phản ứng bằng nhau và ngược chiều. Về cơ bản, khi Mũi tên chạm vào mob, lực của Mob tác dụng lên Mũi tên sẽ làm nó chậm lại. Trừ khi bạn có Mô-đun này. Nó không hoạt động như thể mọi mob đều là giấy, nó hoạt động như thể mọi mob không cản đường. Mũi tên sẽ không chậm lại sau khi xuyên qua mục tiêu."]
 	quest.60C27206F1414DD6.title: "Projectile Immunity Cancellation Module"
-	quest.61419D230687CBB5.quest_desc: ["Vận tốc là tốc độ của một vật thể theo một hướng nhất định. Vì Mũi tên của chúng tôi không có trong Guardians of the Galaxy nên về cơ bản nó chỉ có nghĩa là Tốc độ của Mũi tên. Với mỗi lần nâng cấp, Mũi tên sẽ mất ít thời gian hơn để đi từ Cung đến Mục tiêu của bạn. Đi kèm với chi phí của một chút không chính xác."]
+	quest.61419D230687CBB5.quest_desc: ["Vận tốc là tốc độ của một vật thể theo một hướng nhất định. Vì Mũi tên của chúng tôi không có trong Guardians of   Galaxy nên về cơ bản nó chỉ có nghĩa là Tốc độ của Mũi tên. Với mỗi lần nâng cấp, Mũi tên sẽ mất ít thời gian hơn để đi từ Cung đến Mục tiêu của bạn. Đi kèm với chi phí của một chút không chính xác."]
 	quest.61419D230687CBB5.title: "Wyvern Projectile Velocity Module"
 	quest.655BE42CD5BB9D82.title: "Draconic Area-Của-Effect Module"
-	quest.6601ACCDDF6CA5FF.quest_desc: ["Lò phản ứng chỉ có thể chứa 1 tỷ OP và mặc dù đó có vẻ là một con số xa nhưng nó sẽ không tồn tại được lâu. When Energy Saturation đạt 100%% nó sẽ tăng Nhiệt lên rất nhiều và có thể dẫn đến Meltdown. Nó sẽ cần 500.000.000 OP để kích hoạt và Flux Gate sẽ giúp hạn chế số lượng OP ra vào. (BTW 1 RF = 1 OP) Họ cần Redstone để kích hoạt và có thể được sử dụng cho cả việc thêm OP và lấy ra OP. Bạn sẽ cần tiêu hao Năng lượng để không bị Meltdown, hãy thử đặt nó vào Energy Core!"]
+	quest.6601ACCDDF6CA5FF.quest_desc: ["Lò phản ứng chỉ có thể chứa 1 tỷ OP và mặc dù đó có vẻ là một con số xa nhưng nó sẽ không tồn tại được lâu. Khi Energy Saturation đạt 100%% nó sẽ tăng Nhiệt lên rất nhiều và có thể dẫn đến Meltdown. Nó sẽ cần 500.000.000 OP để kích hoạt và Flux Gate sẽ giúp hạn chế số lượng OP ra vào. (BTW 1 RF = 1 OP) Họ cần Redstone để kích hoạt và có thể được sử dụng cho cả việc thêm OP và lấy ra OP. Bạn sẽ cần tiêu hao Năng lượng để không bị Meltdown, hãy thử đặt nó vào Energy Core!"]
 	quest.6601ACCDDF6CA5FF.title: "Khởi đầu nhảy vọt"
 	quest.6616A62426ED4D15.quest_desc: ["Bộ phun cần phải ở phía khác của tất cả các Bộ ổn định và phải dùng chung Trục với Lõi. Đây là nơi OP sẽ cần được bơm vào từ đó! Để kích hoạt và tạo OP, Energy Saturation cần được nâng lên một chút. Energy Saturation là Năng lượng được lưu trữ và sắp được tạo thành Năng lượng."]
 	quest.6616A62426ED4D15.title: "Reactor Energy Injector"
@@ -277,7 +277,7 @@
 	quest.710C7FEFAA6C0979.quest_desc: ["Phiên bản nâng cấp của Wyvern Sword."]
 	quest.710C7FEFAA6C0979.title: "Draconic Sword"
 	quest.713D3B3954E58C4A.quest_desc: [
-		"Cấp 3 cần 26 Draconium Ingot Blocks xung quanh nó, bao bọc hoàn toàn Lõi để được tạo ra."
+		"Cấp 3 cần 26 Draconium thỏi Blocks xung quanh nó, bao bọc hoàn toàn Lõi để được tạo ra."
 
 		"{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
@@ -292,7 +292,7 @@
 	quest.731A70C25C2C7281.title: "Ender Collection Module"
 	quest.7496B2380A23FDC6.title: "Chaotic Tree Harvester"
 	quest.74C715F8F24B8BAE.quest_desc: ["Cùng một thỏa thuận nhưng với các tùy chọn lọc."]
-	quest.74C715F8F24B8BAE.title: "Filterable Ender Collection Module"
+	quest.74C715F8F24B8BAE.title: "bộ lọcable Ender Collection Module"
 	quest.75F0405FFAB9C080.quest_desc: ["Điều này sẽ cần thiết cho Cấp cuối cùng, Chaotic Tier. Hy vọng rằng bạn đã theo dõi nhánh nhiệm vụ giải thích cách nhận được Chaos Shards!"]
 	quest.75F0405FFAB9C080.title: "Chaotic Core"
 	quest.76064465104B1C28.title: "Draconic Shield Capacity Module"
@@ -321,7 +321,7 @@
 	quest.7EB1C1AE52A0027F.title: "Mô-đun Chaotic Projectile Gravity Compensation"
 	quest.7EB97C0DDE60DED4.quest_desc: ["Best Bow từ Draconic Evolution, cũng có nhiều khe cắm Mô-đun hơn!"]
 	quest.7EB97C0DDE60DED4.title: "Chaotic Bow"
-	quest.7F757CD6F8C57733.quest_desc: ["Lõi Năng lượng là một trong những ngân hàng Năng lượng lớn nhất trong Minecraft. Và tất cả bắt đầu với Core. Đây là phần giữa và trái tim của Energy Core Multiblock (đảm bảo nó hơi lệch khỏi mặt đất). Khi đặt nó xuống, bạn có thể thấy nó là GUI cùng với: Build Guide, Tier Down, Tier Up và Assemble Core. Các Cấp xác định mức độ lớn và mạnh mẽ của Cốt lõi. Hướng dẫn xây dựng chỉ cho bạn cách lắp ráp Cấp cốt lõi này. Nếu bạn có tất cả các khối cần thiết, bạn có thể nhấn Assemble Core và nó sẽ tự động tạo thành khối đó!"]
+	quest.7F757CD6F8C57733.quest_desc: ["Lõi Năng lượng là một trong những ngân hàng Năng lượng lớn nhất trong Minecraft. Và tất cả bắt đầu với Core. Đây là phần giữa và trái tim của Energy Core đa khối (đảm bảo nó hơi lệch khỏi mặt đất). Khi đặt nó xuống, bạn có thể thấy nó là giao diện cùng với: Build Guide, Tier Down, Tier Up và Assemble Core. Các Cấp xác định mức độ lớn và mạnh mẽ của Cốt lõi. Hướng dẫn xây dựng chỉ cho bạn cách lắp ráp Cấp cốt lõi này. Nếu bạn có tất cả các khối cần thiết, bạn có thể nhấn Assemble Core và nó sẽ tự động tạo thành khối đó!"]
 	quest.7F757CD6F8C57733.quest_subtitle: "Draconic Power Storage"
 	quest.7F757CD6F8C57733.title: "Energy Core Mulitblock"
 	task.1EFD3D7C04F9682A.title: "Nhiệm vụ của AllTheMods"

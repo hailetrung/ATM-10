@@ -1,6 +1,6 @@
 {
 	quest.034F2CDF0830254B.quest_desc: [
-		"Hoạt động giống như Item Importer, đặt &eFluid Importer&r vào Thùng chứa Chất lỏng. Sau đó, &eFluid Interface&r ở nơi bạn muốn nó đi đến và kết nối với Logic Cables. Finally Variable Card giống như trước đây! \n\nCũng có thể kéo Chất lỏng ở Integer Limit. \n\nKhông đặt hoặc lấy Fluid Sources từ thế giới, nó chỉ di chuyển Chất lỏng từ Bể này sang Bể khác."
+		"Hoạt động giống như Item Importer, đặt &eFluid Importer&r vào Thùng chứa Chất lỏng. Sau đó, &eFluid Interface&r ở nơi bạn muốn nó đi đến và kết nối với Logic Cables. Cuối cùng Variable Card giống như trước đây! \n\nCũng có thể kéo Chất lỏng ở Integer Limit. \n\nKhông đặt hoặc lấy Fluid Sources từ thế giới, nó chỉ di chuyển Chất lỏng từ Bể này sang Bể khác."
 
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 	]
@@ -8,7 +8,7 @@
 	quest.03C40D6A5D722543.quest_desc: ["Variable Cards là cần thiết để bắt đầu Tương tác như Nhập vật phẩm. Bạn sẽ đặt chúng vào một trong các vị trí của Nhà nhập khẩu để thêm chúng. \n\nTừ đó bạn có thể chỉnh sửa mọi thứ thông qua Nút +. Bạn có thể thay đổi số tiền Nhà nhập khẩu, Item Slot, Kênh nào, thực tế là mọi thứ chỉ với Thẻ đó. \n\nNếu bạn giống tôi chỉ muốn di chuyển các vật phẩm, không có gì quá cầu kỳ, chỉ cần đặt nó vào và có thể thay đổi Giới hạn về số lượng được di chuyển."]
 	quest.046C417B2ADF3AA7.quest_desc: ["Thẻ có giới hạn của chúng. Item Extration chỉ có thể trích xuất 8 mục cho mỗi Thao tác. Fluid Extract chỉ với 5 Xô. Chúa biết với Hóa học và Năng lượng. \n\nĐây là Đã sửa đổi &2&lMinecraft&r những giới hạn này sẽ không đủ, chúng ta cần ép xung chúng. \n\nNém một số Người ép xung vào phía trên bên phải của Thẻ và nó sẽ nâng cấp giới hạn mà họ có thể chuyển!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Tối đa: 4"
-	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... đâu đó cũng có số 4. \n\nĐể đặt Số, đặt Mục vào sau đó bạn có thể Trái hoặc Right Click để thay đổi số lượng. Shift và làm tương tự để tăng thêm 10 giây. Khi bạn đã đặt Số thông qua nó thành Thẻ! \n\nSau đó, nó sẽ đợi cho đến khi có đủ Số lượng Vật phẩm đó để bắt đầu lấy Vật phẩm. Nó cũng sẽ để lại số tiền đó trong Kho đầu tiên."]
+	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... đâu đó cũng có số 4. \n\nĐể đặt Số, đặt Mục vào sau đó bạn có thể Trái hoặc nhấp chuột phải để thay đổi số lượng. Shift và làm tương tự để tăng thêm 10 giây. Khi bạn đã đặt Số thông qua nó thành Thẻ! \n\nSau đó, nó sẽ đợi cho đến khi có đủ Số lượng Vật phẩm đó để bắt đầu lấy Vật phẩm. Nó cũng sẽ để lại số tiền đó trong Kho đầu tiên."]
 	quest.0BB562FB44B0AAA7.quest_desc: ["Thẻ không phải là thẻ duy nhất có giới hạn, vì vậy chúng cũng không phải là thẻ duy nhất có Người ép xung! \n\nChúng đi vào chính &cNode&r ở dưới cùng bên phải và tăng tốc độ Hoạt động của nó."]
 	quest.0BB562FB44B0AAA7.quest_subtitle: "Tối đa: 8"
 	quest.1834B5C1F8435D7A.quest_desc: [
@@ -34,16 +34,16 @@
 
 	]
 	quest.2329AA0AFBEF1E13.title: "&l&ePipez"
-	quest.2A6900E87DE8BAE0.quest_desc: ["Mod Filter là một Bộ lọc khá cơ bản khác. Cái này bạn đặt Mục vào và nó sẽ hoạt động tương tự với Danh sách trắng hoặc Danh sách đen. Nhưng thay vì chỉ là Item đó thì nó sẽ là bất kỳ Item nào từ Mod đó. \n\nApotheosis Gem sẽ chỉ cho phép Apotheosis Items. Mekanism Alloy sẽ chỉ cho phép Mekanism Items. Và vân vân."]
-	quest.2A976D41F79C34B1.quest_desc: ["&e&lPipez&r có cách Lọc Mục riêng, tuy nhiên, bạn cần ít nhất một Advanced Upgrade để có được nó. Khi có Advanced Upgrade, bạn có thể nhấp vào nút Thêm để thêm Bộ lọc. \nSau đó, bạn có thể thêm: Mục, Thẻ hoặc NBT trong Bộ lọc. \n\nỞ đó bạn cũng có thể thêm bộ Destination Filter. Để thiết lập nó, Shift Right Click một Kho đồ với nó. \n\nBạn cũng sẽ phải đặt nó thành Danh sách trắng Bộ lọc hoặc Danh sách đen, do đó chỉ Bộ lọc hoặc mọi thứ trừ Bộ lọc."]
+	quest.2A6900E87DE8BAE0.quest_desc: ["Mod bộ lọc là một Bộ lọc khá cơ bản khác. Cái này bạn đặt Mục vào và nó sẽ hoạt động tương tự với Danh sách trắng hoặc Danh sách đen. Nhưng thay vì chỉ là Item đó thì nó sẽ là bất kỳ Item nào từ Mod đó. \n\nApotheosis Gem sẽ chỉ cho phép Apotheosis Items. Mekanism Alloy sẽ chỉ cho phép Mekanism Items. Và vân vân."]
+	quest.2A976D41F79C34B1.quest_desc: ["&e&lPipez&r có cách Lọc Mục riêng, tuy nhiên, bạn cần ít nhất một Advanced Upgrade để có được nó. Khi có Advanced Upgrade, bạn có thể nhấp vào nút Thêm để thêm Bộ lọc. \nSau đó, bạn có thể thêm: Mục, Thẻ hoặc NBT trong Bộ lọc. \n\nỞ đó bạn cũng có thể thêm bộ Destination bộ lọc. Để thiết lập nó, Shift + nhấp chuột phải một Kho đồ với nó. \n\nBạn cũng sẽ phải đặt nó thành Danh sách trắng Bộ lọc hoặc Danh sách đen, do đó chỉ Bộ lọc hoặc mọi thứ trừ Bộ lọc."]
 	quest.2F4458E9921DEB86.quest_desc: [
 		"Những &e&lPipez&r này chủ yếu là do &5&lChủ nghĩa cơ khí&r. &5&lMekanism&r thêm trạng thái cuối cùng của vật chất dưới dạng &aKhí&r. &aGas&r không thể di chuyển bằng bất kỳ loại nào khác &e&lPipez&r vì vậy nếu bạn cần di chuyển Hydro hoặc Lithium, bạn sẽ cần &aGas Pipez&r. \n\n(Tôi luôn gặp vấn đề khi biết liệu mục &5&lMekanism&r là &aGas&r, &bFluid&r hay thậm chí là Loại Truyền. Khi nó ở trong Máy, nó có thể cho biết &aGas&r hoặc &bFluid&r, điều này có thể giúp hướng dẫn bạn. Nếu không, bạn có thể kiểm tra JEI để biết các công thức nấu ăn khác có thể liên quan đến nó!)"
 
 		"{image:atm:textures/questpics/logistics/pipez_gas.png width:200 height:50 align:center}"
 	]
 	quest.2F4458E9921DEB86.title: "&aGas Pipez&r"
-	quest.3065EA195D0A36BA.quest_desc: ["Thẻ là một phần rất quan trọng trong việc nhóm các Vật phẩm trong Minecraft. Vì vậy tất nhiên chúng ta có thể tận dụng điều đó cho Filters! \n\nBạn có thể cho Item vào và chọn Tag hoặc nếu biết thì tự gõ vào. \n\nThực sự hữu ích cho những người muốn đưa Gear ra khỏi hệ thống bằng cách sử dụng Tag for Tools. \n\n(Bạn cũng có thể tìm thấy Thẻ bằng cách thực hiện /kubejs để tìm Thẻ của Vật phẩm trong tay bạn là gì.)"]
-	quest.308935C85364B04D.quest_desc: ["Với mỗi Thẻ chứa dữ liệu riêng của mình, việc liên tục thay đổi cài đặt của từng Thẻ có thể khá khó chịu. Vì vậy, thay vào đó hãy sao chép chúng! \n\nLeft Click Thẻ có Máy sao chép để sao chép Dữ liệu của nó, sau đó Right Click Thẻ để cung cấp Dữ liệu đó!"]
+	quest.3065EA195D0A36BA.quest_desc: ["Thẻ là một phần rất quan trọng trong việc nhóm các Vật phẩm trong Minecraft. Vì vậy tất nhiên chúng ta có thể tận dụng điều đó cho bộ lọcs! \n\nBạn có thể cho Item vào và chọn Tag hoặc nếu biết thì tự gõ vào. \n\nThực sự hữu ích cho những người muốn đưa Gear ra khỏi hệ thống bằng cách sử dụng Tag for Tools. \n\n(Bạn cũng có thể tìm thấy Thẻ bằng cách thực hiện /kubejs để tìm Thẻ của Vật phẩm trong tay bạn là gì.)"]
+	quest.308935C85364B04D.quest_desc: ["Với mỗi Thẻ chứa dữ liệu riêng của mình, việc liên tục thay đổi cài đặt của từng Thẻ có thể khá khó chịu. Vì vậy, thay vào đó hãy sao chép chúng! \n\nnhấp chuột trái Thẻ có Máy sao chép để sao chép Dữ liệu của nó, sau đó nhấp chuột phải Thẻ để cung cấp Dữ liệu đó!"]
 	quest.30DE4F5BC3EDB555.quest_desc: [
 		"Logical Transporters là những gì &5&lMeka&r sử dụng để di chuyển Vật phẩm và Khối theo khoảng cách. \n\nChúng sẽ cần được cấu hình để Kéo hoặc Đẩy vào Kho như Rương hoặc Ngăn kéo."
 
@@ -66,7 +66,7 @@
 		"&5&lMekanism&r là một Tech Mod rất lớn và phổ biến, vì vậy tất nhiên nó có &lLogistics&r đi kèm."
 
 		""
-		"Các Máy khác nhau rất kén chọn Cấu hình và sẽ cần được thay đổi trong GUI của chúng để di chuyển vật phẩm đúng cách. Sau đó, bạn có thể sử dụng &5&lMeka Pipes&r để di chuyển bất cứ thứ gì bạn cần di chuyển!"
+		"Các Máy khác nhau rất kén chọn Cấu hình và sẽ cần được thay đổi trong giao diện của chúng để di chuyển vật phẩm đúng cách. Sau đó, bạn có thể sử dụng &5&lMeka Pipes&r để di chuyển bất cứ thứ gì bạn cần di chuyển!"
 
 		""
 		"Nhưng chờ đã, không phải chỉ &5&lMekanism&r những thứ này mới có tác dụng! Chúng cũng hoạt động cho nhiều máy khác! Chỉ cần được cấu hình bằng cờ lê để đẩy và kéo."
@@ -77,11 +77,11 @@
 	]
 	quest.34CFE1439262AA72.title: "&5&lMekanism"
 	quest.36836AD948F96B9F.quest_desc: [
-		"Đơn giản nhất trong số đơn giản nhất là &e&lPipes&r, &eItem Pipe&r. \n\nNó sẽ di chuyển các Vật phẩm từ Kho này sang Kho khác. Có thể từ Rương này sang Rương khác, có thể là Trang trại đến Hệ thống hoặc thậm chí là Mỏ đá đến Lò luyện kim. \n\nRất đơn giản, chỉ cần kết nối &ePipes&r với thứ bạn muốn di chuyển và sử dụng Cờ lê để định cấu hình nó Kéo từ phía nào."
+		"Đơn giản nhất trong số đơn giản nhất là &e&lPipes&r, &eVật phẩm Pipe&r. \n\nNó sẽ di chuyển các Vật phẩm từ Kho này sang Kho khác. Có thể từ Rương này sang Rương khác, có thể là Trang trại đến Hệ thống hoặc thậm chí là Mỏ đá đến Lò luyện kim. \n\nRất đơn giản, chỉ cần kết nối &ePipes&r với thứ bạn muốn di chuyển và sử dụng Cờ lê để định cấu hình nó Kéo từ phía nào."
 
 		"{image:atm:textures/questpics/logistics/pipez_item.png width:200 height:50 align:center}"
 	]
-	quest.36836AD948F96B9F.title: "&eItem Pipez"
+	quest.36836AD948F96B9F.title: "&eVật phẩm Pipez"
 	quest.47768B1FFD57D56E.quest_desc: ["Chẳng phải bạn ghét &4Redstone&r phải nối dây đến mọi nơi sao? Nếu chúng ta có thể có Wireless FE tại sao không có Wireless &4Redstone&r? Cuối cùng chúng ta có thể cảm ơn &c&lLaserIO&r. Bạn có thể Nhập &4Redstone Signal&r bằng &4Card&r sau đó sử dụng &4Output Card&r để xuất ra &4Signal&r ở một nơi khác!"]
 	quest.47768B1FFD57D56E.title: "&4Redstone Card"
 	quest.47A2BEFB11F4D581.quest_desc: ["Bộ lọc cơ bản khá... dễ sử dụng! Đơn giản chỉ cần đặt các Mục vào đó và chúng sẽ được lọc. \n\nBạn có thể thay đổi nó để nó nằm trong Danh sách trắng/chỉ cho phép các Mục đó hoặc Danh sách đen/chỉ từ chối các Mục đó. \n\nBạn cũng có thể có nó để nó khớp với dữ liệu NBT hoặc không. Khớp NBT Dữ liệu có nghĩa là có cùng Bùa mê, Độ bền hoặc thậm chí Mob bên trong bất kỳ Vật phẩm nào. Nếu được chọn không khớp, nó sẽ thực hiện bất kỳ Mục nào trong số đó bất kể NBT."]
@@ -92,7 +92,7 @@
 	]
 	quest.493D04D954E4FBA0.quest_subtitle: "Energy"
 	quest.4BC2D7FCDD792DBA.quest_desc: [
-		"Bởi vì &2&lMinecraft&r Vật phẩm, Khối và Chất lỏng thông thường là không đủ. Và Nhiệt và Năng lượng được thêm vào cũng không. \n\nPhần còn lại của &5&lMekanism&r được di chuyển bằng Pressurized Tubes. Khí là những chất chính vì nếu bạn đang sử dụng &5&lMekanism&r bạn sẽ sử dụng các loại Khí như Hydro và Oxy. \nInfuse Types tương tự như Coal Infuse và Redstone Infuse. Chất bùn được sử dụng với Ore Processing. \nVà Sắc tố nhuộm là bản chất của Màu sắc, bất kỳ vật phẩm nào được Nhuộm đều có thể được thay đổi bằng phần đó của &5&lMekanism&r."
+		"Bởi vì &2&lMinecraft&r Vật phẩm, Khối và Chất lỏng thông thường là không đủ. Và Nhiệt và Năng lượng được thêm vào cũng không. \n\nPhần còn lại của &5&lMekanism&r được di chuyển bằng Pressurized Tubes. Khí là những chất chính vì nếu bạn đang sử dụng &5&lMekanism&r bạn sẽ sử dụng các loại Khí như Hydro và Oxy. \nInfuse Types tương tự như Coal Infuse và Redstone Infuse. Chất bùn được sử dụng với Chế biến quặng. \nVà Sắc tố nhuộm là bản chất của Màu sắc, bất kỳ vật phẩm nào được Nhuộm đều có thể được thay đổi bằng phần đó của &5&lMekanism&r."
 
 		"{image:atm:textures/questpics/logistics/meka_tube.png width:200 height:50 align:center}"
 	]
@@ -100,7 +100,7 @@
 	quest.4C41FD926F31180B.quest_desc: ["Để di chuyển &2Items&r với &c&lLaserIO&r bạn sẽ cần một số &2Item Cards&r. \n\nĐặt một cái thành Trích xuất và đặt nó ở bên cạnh &cLaser Node&r mà bạn muốn Nhập từ đó. Sau đó đặt cái còn lại là Insert và đặt nó sang bên mà bạn muốn các Mục cần xuất sang. \n\nCó nhiều cài đặt mà bạn có thể thay đổi với Trích xuất theo thứ tự nơi bạn muốn các Mục đi đến nếu có nhiều nơi để Trích xuất. Round Robin sẽ làm cho nó Trích xuất các mục theo thứ tự thay vì Kho gần nhất trước."]
 	quest.4C41FD926F31180B.title: "&2Item Card"
 	quest.4FBAB3A0FBF8CE2F.quest_desc: [
-		"Tại sao phải lo lắng về những gì đang được di chuyển khi bạn có thể di chuyển mọi thứ! &5Universal Pipez&r thậm chí còn ít phân biệt đối xử hơn &cEnergy Pipez&r. Họ có thể di chuyển &eItems&r, &bChất lỏng&r hoặc &cNăng lượng&r."
+		"Tại sao phải lo lắng về những gì đang được di chuyển khi bạn có thể di chuyển mọi thứ! &5Universal Pipez&r thậm chí còn ít phân biệt đối xử hơn &cEnergy Pipez&r. Họ có thể di chuyển &eVật phẩm&r, &bChất lỏng&r hoặc &cNăng lượng&r."
 
 		"{image:atm:textures/questpics/logistics/pipez_universal.png width:200 height:50 align:center}"
 	]
@@ -113,7 +113,7 @@
 		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
 	]
 	quest.53EC96FA0E7C4ED4.title: "&cEnergy Pipez"
-	quest.5C0F6B1C93A52113.quest_desc: ["Bây giờ đây là Trái tim thực sự của &c&lLaserIO&r! &cLaser Nodes&r là nơi các Thẻ thực tế sẽ đi vào để hoạt động. \n\nHọ sẽ di chuyển Vật phẩm từ bất kỳ Kho đồ liền kề nào trong 4 Cardinal Directions và Lên và Xuống. Để di chuyển đến Farther Inventories bạn sẽ cần &cNode&r thứ hai và Kết nối chúng với Cờ lê bằng Shift Right Clicking 1 và Right Clicking thứ 2. \n\nBạn sẽ đặt các Thẻ vào các Khe theo đúng Hướng và bạn cũng có thể đặt Node Overclockers vào đó để làm cho nó hoạt động nhanh hơn."]
+	quest.5C0F6B1C93A52113.quest_desc: ["Bây giờ đây là Trái tim thực sự của &c&lLaserIO&r! &cLaser Nodes&r là nơi các Thẻ thực tế sẽ đi vào để hoạt động. \n\nHọ sẽ di chuyển Vật phẩm từ bất kỳ Kho đồ liền kề nào trong 4 Cardinal Directions và Lên và Xuống. Để di chuyển đến Farther Inventories bạn sẽ cần &cNode&r thứ hai và Kết nối chúng với Cờ lê bằng Shift + nhấp chuột phảiing 1 và nhấp chuột phảiing thứ 2. \n\nBạn sẽ đặt các Thẻ vào các Khe theo đúng Hướng và bạn cũng có thể đặt Node Overclockers vào đó để làm cho nó hoạt động nhanh hơn."]
 	quest.5F1218CF8EFC607B.quest_desc: [
 		"&c&lLaserIO&r là sự tiếp nối của DireWolf đối với &a&lEnderIO&r của &lLogistics&r."
 
@@ -129,8 +129,8 @@
 	quest.617695A9CA45D88F.quest_desc: ["Khi sử dụng &c&lLaserIO&r cho &lLogistics&r bạn có thể nhận được Thẻ MANY. Với mỗi lần chiếm một vị trí trong Kho của bạn, nó có thể trở nên khá chật chội. Tôi ước gì họ có một nơi lưu trữ Thẻ... ồ chờ đã, đó là Card Holder! \n\nBạn có thể lưu trữ nhiều Thẻ trong đó và khi bạn mở Laser Node thì Card Holder sẽ mở ra giống như Kho đồ thứ hai. Rất hữu ích!"]
 	quest.6718043D0F2D1830.quest_desc: ["DireWolf được yêu cầu bổ sung các Thẻ của mình để hoạt động với &5&lMekanism&r và... các trạng thái vật chất khác của nó. Mọi thứ Ống điều áp có thể di chuyển, những thẻ này cũng có thể. Khí, Infuse Types và Bột màu."]
 	quest.6718043D0F2D1830.title: "&5Chemical Card"
-	quest.6A962535CD68713E.quest_desc: ["&e&lPipez&r di chuyển nhiều hơn nữa! \n\nAll Upgrades tăng số lượng di chuyển &e&lPipez&r nhưng mỗi lần di chuyển đều cấp nhiều tùy chọn hơn để sử dụng với &e&lPipe&r. \n\nBasic Upgrade cho phép Redstone Activation với &e&lPipez&r.\n\nImproved Upgrade cho phép bạn thay đổi cách phân phối:Closest First, Farthest First, Vòng quay hoặc Ngẫu nhiên.\n\nAdvanced Upgrade cung cấp cho bạn tùy chọn để thêm Bộ lọc.\n\nUltimate không cấp bất cứ điều gì mới, nó chỉ di chuyển rất nhiều!"]
-	quest.6CD60A9D88227005.quest_desc: ["Ever wanted to fit a pipe between blocks? Allow me to introduce you to &3Transfer Labels&r. &3Transfer Labels&r can be used for items and fluids.\\n\\n&lHow to use&r\\n\\nYou can place &3Labels&r on blocks by sneak right clicking onto blocks.\\nYou can interact with the &3Label&r by holding another &3Label&r or a &#FFAC3BLabel Accessor&r and right clicking the placed &3Label&r.\\nYou can remove the placed &3Label&r by left clicking the &3Label&r while holding another &3Label&r or a &#FFAC3BLabel Accessor&r.\\nYou can access &3Labels&r through blocks using the &#FFAC3BLabel Accessor&r.\\n\\\\n&lAcceleration&r\\n\\nYou can accelerate the &3Labels&r by adding the same type of &3Label&r in the amount or speed slots."]
+	quest.6A962535CD68713E.quest_desc: ["&e&lPipez&r di chuyển nhiều hơn nữa!\n\nTất cả Upgrades đều tăng lượng truyền của &e&lPipez&r, nhưng mỗi cấp cũng mở thêm nhiều tùy chọn để dùng với &e&lPipe&r.\n\nBasic Upgrade cho phép kích hoạt bằng Redstone với &e&lPipez&r.\n\nImproved Upgrade cho phép bạn thay đổi kiểu phân phối: Closest First, Farthest First, Vòng quay hoặc Ngẫu nhiên.\n\nAdvanced Upgrade cho bạn tùy chọn thêm Bộ lọc.\n\nUltimate không thêm tính năng mới, nó chỉ truyền cực nhiều!"]
+	quest.6CD60A9D88227005.quest_desc: ["Bạn đã từng muốn nhét một đường ống giữa các khối chưa? Giới thiệu: &3Transfer Labels&r. &3Transfer Labels&r có thể dùng cho vật phẩm và chất lỏng.\\n\\n&lCách dùng&r\\n\\nBạn có thể đặt &3Labels&r lên khối bằng cách lén (sneak) + nhấp chuột phải lên khối.\\nBạn có thể tương tác với &3Label&r bằng cách cầm một &3Label&r khác hoặc &#FFAC3BLabel Accessor&r rồi nhấp chuột phải vào &3Label&r đã đặt.\\nBạn có thể gỡ &3Label&r đã đặt bằng cách nhấp chuột trái vào &3Label&r khi đang cầm một &3Label&r khác hoặc &#FFAC3BLabel Accessor&r.\\nBạn có thể truy cập &3Labels&r xuyên qua khối bằng &#FFAC3BLabel Accessor&r.\\n\\\\n&lTăng tốc&r\\n\\nBạn có thể tăng tốc &3Labels&r bằng cách thêm cùng loại &3Label&r vào ô số lượng hoặc ô tốc độ."]
 	quest.6CD60A9D88227005.quest_subtitle: "Khi bạn phải lắp một đường ống giữa các khối nhà của mình"
 	quest.6CD60A9D88227005.title: "&3&lTransfer Labels"
 	quest.6CD7D99AA102A5C3.quest_desc: ["&n&f&lHậu cần&r: \nMột hệ thống di chuyển, quản lý và lưu trữ các vật phẩm hoặc tài nguyên. \n\nTrong Modded Minecraft, việc di chuyển các vật phẩm cũng khá giống nhau! Với Modded, bạn sẽ cần các vật phẩm và hàng nghìn vật phẩm, nếu bạn muốn &6&lStar&r thì nó sẽ có hàng triệu! Vì vậy bạn sẽ cần phải di chuyển vật phẩm từ nhà máy, máy móc, trang trại và đặc biệt là rương. Đó chính là mục đích của &l&fLogistics&r."]

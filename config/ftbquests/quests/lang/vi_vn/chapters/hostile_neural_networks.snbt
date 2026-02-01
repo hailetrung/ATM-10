@@ -3,14 +3,14 @@
 	quest.104EBBC08B4733F5.title: "&aMô phỏng cái chết"
 	quest.10E8BC20D406D9FB.quest_subtitle: "Tạo ra nhiều loại Nether Materials"
 	quest.12AE2856444996F6.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
-	quest.14B3542ECB59869C.quest_desc: ["&5Loot Fabricator của là cỗ máy mang lại cho bạn những chiến lợi phẩm ngọt ngào từ Mob Predictions.\n\nKhi được cấp sức mạnh và Mob Prediction thành công, bạn sẽ có thể chọn vật phẩm bạn muốn nhận từ Data Model của đám đông đó. Máy sẽ ghi nhớ lựa chọn của bạn nên có thể tự động hóa.\n\nVí dụ về Mob Predictions:\n\n- &dEnder Dragons cho &dTrứng Rồng\n - &2Zombies dành cho Sắt\n - &0Withers's dành cho &5Nether Stars"]
+	quest.14B3542ECB59869C.quest_desc: ["&5Loot Fabricator của là cỗ máy mang lại cho bạn những chiến lợi phẩm ngọt ngào từ Mob Predictions.\n\nKhi được cấp sức mạnh và Mob Prediction thành công, bạn sẽ có thể chọn vật phẩm bạn muốn nhận từ Data Model của đám đông đó. Máy sẽ ghi nhớ lựa chọn của bạn nên có thể tự động hóa.\n\nVí dụ về Mob Predictions:\n\n- &dRồng Enders cho &dTrứng Rồng\n - &2Zombie dành cho Sắt\n - &0Withers's dành cho &5Nether Stars"]
 	quest.14B3542ECB59869C.title: "Creating&dLoot"
 	quest.14F7F256DA863280.quest_subtitle: "Tạo ra nhiều loại Twilight Forest Materials"
 	quest.2559201BCF5D497C.quest_subtitle: "Tạo ra nhiều loại Overworld Materials"
 	quest.34CD54347E9821B5.quest_desc: ["Sau khi tạo Data Model đầu tiên, bạn sẽ cần nâng cấp để nó trở nên hữu ích.\n\nData Models bắt đầu ở cấp đầu tiên: &7Faulty&r. Ít nhất bạn cần phải nâng nó lên mức &aBasic nếu bạn muốn chạy một số mô phỏng trên đó!\n\nSau khi được đặt bên trong Deep Learner, HUD sẽ cho bạn biết cần phải tiêu diệt bao nhiêu lần để tăng cấp cho nó. Bạn cũng có thể xem thông tin này trong chú giải công cụ của chính Mô hình."]
 	quest.34CD54347E9821B5.title: "Tăng cấp mô hình dữ liệu"
 	quest.37EBB8E0D6E5F821.quest_desc: [
-		"&6Hostile Neural Networks&r (HNN for short) is a mod based around simulating mob kills for loot!\\n\\nTo do this, you will be collecting \"data\" on mobs, then running simulations from the data to create their drops!\\n"
+		"&6Hostile Neural Networks&r (viết tắt HNN) là mod xoay quanh việc mô phỏng giết mob để lấy loot!\\n\\nĐể làm được điều này, bạn sẽ thu thập \"data\" của mob, sau đó chạy simulation từ data đó để tạo ra drops của chúng!\\n"
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
 	quest.37EBB8E0D6E5F821.title: "Chào mừng đến với&9Hostile Neural Networks&r!"

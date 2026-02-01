@@ -1,68 +1,68 @@
 {
-	quest.05E668CE6687AC64.quest_desc: ["The &bToken of Joy&r is the first Token you should craft, tokens are important crafting materials for items in &aNature's Aura&r."]
-	quest.05E668CE6687AC64.title: "&bToken of Joy"
-	quest.0B6D35F5B3A11FD2.quest_desc: ["The &9Aura Cache&r can be used to store &aAura&r!"]
-	quest.0B6D35F5B3A11FD2.quest_subtitle: "Caching in!"
+	quest.05E668CE6687AC64.quest_desc: ["&bToken of Joy&r là Token đầu tiên bạn nên chế tạo; Tokens là nguyên liệu chế tạo quan trọng cho các vật phẩm trong &aNature's Aura&r."]
+	quest.05E668CE6687AC64.title: "&bToken của Niềm vui"
+	quest.0B6D35F5B3A11FD2.quest_desc: ["&9Aura Cache&r có thể dùng để lưu trữ &aAura&r!"]
+	quest.0B6D35F5B3A11FD2.quest_subtitle: "Cất Aura vào kho!"
 	quest.0B6D35F5B3A11FD2.title: "&9Aura Cache"
-	quest.0EFD0A4AE82153E8.quest_desc: ["You will need to craft these Tokens too for other items."]
-	quest.0EFD0A4AE82153E8.title: "Other Tokens"
-	quest.0FD26FD88E801C0E.quest_desc: ["You can make a large number of vanilla mobs with the &2Altar of Birthing&r. &dSpirits of Birthing&r are made by breeding animals in areas with large amounts of aura. "]
-	quest.0FD26FD88E801C0E.quest_subtitle: "Makin' Babies with Magic"
-	quest.0FD26FD88E801C0E.title: "&2Altar of Birthing"
-	quest.12D3C7FC4B3DAB23.quest_desc: ["The &bEnvironmental Eye&r can be made using the &aRitual of the Forest&r and can be worn in your Charm slot to monitor the aura levels in the top left corner of the screen."]
-	quest.12D3C7FC4B3DAB23.quest_subtitle: "An Eye on the environment"
-	quest.1ABEC7DE47BD6286.quest_desc: ["&5Ender Crates&r are &5Ender Chests&r that can be used to transport items.\\n\\n&5Ender Oculars&r are handheld versions of &5Ender Crates&r."]
+	quest.0EFD0A4AE82153E8.quest_desc: ["Bạn cũng sẽ cần chế tạo các Token này cho những vật phẩm khác."]
+	quest.0EFD0A4AE82153E8.title: "Các Token khác"
+	quest.0FD26FD88E801C0E.quest_desc: ["Bạn có thể tạo ra rất nhiều mob vani bằng &2Altar of Birthing&r. &dSpirits of Birthing&r được tạo ra bằng cách cho động vật sinh sản ở khu vực có lượng aura lớn."]
+	quest.0FD26FD88E801C0E.quest_subtitle: "Sinh sản bằng ma thuật"
+	quest.0FD26FD88E801C0E.title: "&2Altar Sinh nở"
+	quest.12D3C7FC4B3DAB23.quest_desc: ["&bEnvironmental Eye&r có thể được tạo bằng &aRitual of   Forest&r và có thể đeo ở ô Charm để theo dõi mức aura ở góc trên bên trái màn hình."]
+	quest.12D3C7FC4B3DAB23.quest_subtitle: "Theo dõi môi trường"
+	quest.1ABEC7DE47BD6286.quest_desc: ["&5Ender Crates&r là &5Ender Chests&r có thể dùng để vận chuyển vật phẩm.\\n\\n&5Ender Oculars&r là phiên bản cầm tay của &5Ender Crates&r."]
 	quest.1ABEC7DE47BD6286.quest_subtitle: "Here và There!"
 	quest.1ABEC7DE47BD6286.title: "&5Ender Crates và Oculars"
-	quest.1D39634260A47C9A.quest_desc: ["If you use &2Infused Iron Ingots&r or &6Tainted Gold Ingots&r on the Offering Table you will get &bIngots of the Skies&r."]
-	quest.1D39634260A47C9A.title: "&bIngots of the Skies"
-	quest.20F9EF925DB1CE05.quest_desc: ["The &2Natural Altar&r is a multiblock structure made from 1 &2Natural Altar&r, 20 Planks, 16 Stone Bricks, 8 &eGolden Stone Bricks&r and 4 Chiseled Stone Bricks.\\n\\nThe Natural Altar will use up aura for each recipe and is needed to continue progressing in the mod.\\n\\nThe image to the right of this quest shows the multiblock setup."]
-	quest.20F9EF925DB1CE05.title: "&2Natural Alter"
-	quest.22ADCF96AE3E609B.quest_desc: ["&dAncient Saplings&r are created using the &aRitual of the Forest&r. When they are grown, the trees attempt to maintain normal levels of aura (not too high or too low).\\n\\nIf the aura drops, the leaves will start to decay and reverse the process."]
-	quest.22ADCF96AE3E609B.quest_subtitle: "Not those Ancient Saplings"
-	quest.22ADCF96AE3E609B.title: "Ancient Trees"
-	quest.24599D45F5D1606E.quest_desc: ["The &bAura Trove&r is an upgraded version of the &9Aura Cache&r."]
-	quest.24599D45F5D1606E.quest_subtitle: "A Treasure Trove!"
+	quest.1D39634260A47C9A.quest_desc: ["Nếu bạn dùng &2Infused Iron thỏi&r hoặc &6Tainted Gold thỏi&r trên Offering Table, bạn sẽ nhận được &bthỏi of   Skies&r."]
+	quest.1D39634260A47C9A.title: "&bThỏi của Bầu trời"
+	quest.20F9EF925DB1CE05.quest_desc: ["&2Natural Altar&r là một cấu trúc đa khối được tạo từ 1 &2Natural Altar&r, 20 Planks, 16 Stone Bricks, 8 &eGolden Stone Bricks&r và 4 Chiseled Stone Bricks.\\n\\nNatural Altar sẽ tiêu tốn aura cho mỗi công thức và là thứ cần thiết để tiếp tục tiến triển trong mod.\\n\\nHình bên phải nhiệm vụ này cho thấy cách xây cấu trúc đa khối."]
+	quest.20F9EF925DB1CE05.title: "&2Natural Altar"
+	quest.22ADCF96AE3E609B.quest_desc: ["&dAncient Saplings&r được tạo bằng &aRitual of   Forest&r. Khi lớn lên, cây sẽ cố duy trì mức aura \"bình thường\" (không quá cao hoặc quá thấp).\\n\\nNếu aura giảm, lá sẽ bắt đầu mục rữa và đảo ngược quá trình."]
+	quest.22ADCF96AE3E609B.quest_subtitle: "Không phải Ancient Saplings đó đâu"
+	quest.22ADCF96AE3E609B.title: "Cây cổ xưa"
+	quest.24599D45F5D1606E.quest_desc: ["&bAura Trove&r là phiên bản nâng cấp của &9Aura Cache&r."]
+	quest.24599D45F5D1606E.quest_subtitle: "Kho báu lớn!"
 	quest.24599D45F5D1606E.title: "&bAura Trove"
-	quest.2B4D4E741D855B5A.quest_desc: ["Combining 2 &bIngots of the Skies&r, 2 &6Tainted Gold Ingots&r and 1 &5Netherite Scrap&r together in a crafting grid will make &dIngots of the Depths&r."]
-	quest.2B4D4E741D855B5A.title: "&dIngots of the Depths"
-	quest.34ABEF75AE1E5A0F.quest_desc: ["The Staff of Ancient Knowledge uses Aura to highlight nearby &5Ancient Debris&r."]
-	quest.34ABEF75AE1E5A0F.quest_subtitle: "Netherite Finder"
-	quest.3C2F5AB815A6C949.quest_desc: ["To make an &2Infused Iron Ingot&r place an Iron Ingot on the &2Natural Altar&r.\\n\\nThis process will be quicker than with &6Tainted Gold."]
-	quest.3EC90ADA4E322B14.quest_desc: ["To make a &6Tainted Gold Ingot&r place a &eGold Ingot&r on the &2Natural Altar&r.\\n\\nThis process will take longer than with &2Infused Iron&r."]
-	quest.3EC90ADA4E322B14.quest_subtitle: "Taint that Gold!"
+	quest.2B4D4E741D855B5A.quest_desc: ["Kết hợp 2 &bthỏi of   Skies&r, 2 &6Tainted Gold thỏi&r và 1 &5Netherite Scrap&r trong lưới chế tạo sẽ tạo ra &dthỏi of   Depths&r."]
+	quest.2B4D4E741D855B5A.title: "&dThỏi của Vực sâu"
+	quest.34ABEF75AE1E5A0F.quest_desc: ["Staff of Ancient Knowledge sử dụng Aura để làm nổi bật &5Ancient Debris&r ở gần."]
+	quest.34ABEF75AE1E5A0F.quest_subtitle: "Dò Netherite"
+	quest.3C2F5AB815A6C949.quest_desc: ["Để tạo &2Infused Iron thỏi&r, hãy đặt Iron thỏi lên &2Natural Altar&r.\\n\\nQuá trình này sẽ nhanh hơn so với &6Tainted Gold."]
+	quest.3EC90ADA4E322B14.quest_desc: ["Để tạo &6Tainted Gold thỏi&r, hãy đặt &eGold thỏi&r lên &2Natural Altar&r.\\n\\nQuá trình này sẽ lâu hơn so với &2Infused Iron&r."]
+	quest.3EC90ADA4E322B14.quest_subtitle: "Nhiễm bẩn vàng!"
 	quest.3EC90ADA4E322B14.title: "&6Tainted Gold"
-	quest.3F8A5CBEAE024748.quest_desc: ["The Eye of the Pillager, Eye of the Blaze and Eye of the Shulker are each used to locate specific structures."]
-	quest.3F8A5CBEAE024748.quest_subtitle: "I've got my Eyes on you"
-	quest.3F8A5CBEAE024748.title: "Structure Finders"
+	quest.3F8A5CBEAE024748.quest_desc: ["Eye of   Pillager, Eye of   Blaze và Eye of   Shulker được dùng để định vị các cấu trúc cụ thể."]
+	quest.3F8A5CBEAE024748.quest_subtitle: "Tôi đang để mắt đến bạn"
+	quest.3F8A5CBEAE024748.title: "Dò cấu trúc"
 	quest.497AE687B7E95DE8.quest_desc: [
-		"The &aRitual of the Forest&r can be done by creating a multiblock structure using 8 Wooden Stands, 16 &eGold Powder&r and either an Oak or a Jungle Sapling, depending on the recipe.\\n\\nTo start a ritual place the items needed for the recipe on the Wooden Stands and Grow the Sapling needed in the middle. The &eGold Powder&r is consumed in the recipe, so you'll need a lot."
+		"&aRitual of   Forest&r có thể được thực hiện bằng cách tạo một cấu trúc đa khối gồm 8 Wooden Stands, 16 &eGold Powder&r và một Oak hoặc Jungle Sapling (tùy công thức).\\n\\nĐể bắt đầu nghi thức, đặt các vật phẩm cần cho công thức lên Wooden Stands và trồng Sapling cần thiết ở giữa. &eGold Powder&r sẽ bị tiêu hao trong công thức, nên bạn sẽ cần rất nhiều."
 		"{image:atm:textures/questpics/natures_aura/forest_ritual.png width:295 height:150 align:center}"
 	]
-	quest.497AE687B7E95DE8.title: "&aRitual of the Forest"
-	quest.4AD4FDF70B9BFCC9.quest_desc: ["Using your Tokens on the Offering Table will upgrade them. These upgraded Tokens will be needed for more advanced crafting recipes."]
-	quest.4AD4FDF70B9BFCC9.title: "Upgraded Tokens"
-	quest.4F03B152479C4AC0.quest_desc: ["The &bStaff of Riches&r uses aura to highlight all storage containers in a 64 block raidius for about 1 minute.\\n\\nThis can be very useful if you're looking for loot chests or if you put a chest in a mine somewhere."]
-	quest.4F03B152479C4AC0.title: "&bStaff of Riches"
-	quest.4F9D6109EEA5D26A.quest_desc: ["Breaking &eGolden Leaves&r has a high chance to drop a &eGold Leaf&r, which is needed for &eGold Powder&r. "]
-	quest.4F9D6109EEA5D26A.quest_subtitle: "Aura with Fireflies"
+	quest.497AE687B7E95DE8.title: "&aNghi thức của Rừng"
+	quest.4AD4FDF70B9BFCC9.quest_desc: ["Dùng Tokens của bạn lên Offering Table sẽ nâng cấp chúng. Các Token đã nâng cấp sẽ cần cho những công thức chế tạo nâng cao hơn."]
+	quest.4AD4FDF70B9BFCC9.title: "Token đã nâng cấp"
+	quest.4F03B152479C4AC0.quest_desc: ["&bStaff of Riches&r sử dụng aura để làm nổi bật tất cả các khối chứa đồ trong bán kính 64 khối trong khoảng 1 phút.\\n\\nRất hữu ích nếu bạn đang tìm rương chiến lợi phẩm, hoặc nếu bạn từng đặt một cái rương đâu đó trong mỏ."]
+	quest.4F03B152479C4AC0.title: "&bTrượng của Tài lộc"
+	quest.4F9D6109EEA5D26A.quest_desc: ["Phá &eGolden Leaves&r có tỉ lệ cao rơi ra &eGold Leaf&r, thứ cần để làm &eGold Powder&r."]
+	quest.4F9D6109EEA5D26A.quest_subtitle: "Aura cùng đom đóm"
 	quest.4F9D6109EEA5D26A.title: "&eGold Leaves"
-	quest.54F7AD64A403C9BF.quest_desc: ["These Catalysts can be added as pillar toppers to your &2Natural Altar&r. They allow you to turn more items into other items or to break them down.\\n\\nThe Crumbling Catalyst allows you to turn each Gold Leaf into 4 Gold Powder instead of 2! "]
-	quest.54F7AD64A403C9BF.title: "Catalysts"
-	quest.5A011CE8EEA3F9D8.quest_desc: ["Aura can be bottled up by right-clicking in the air with a Bottle and Cork. Aura takes different forms depending on where it's collected.\\n\\nIn the Overworld it is bottled as &aSunlight&r, in the Nether it's &4Ghosts&r and in the End it's &0Darkness&r.\\n\\nIf the area you used the Bottle and Cork in has a severe lack of aura, you will get &0Bottled Vacuum&r."]
-	quest.5A011CE8EEA3F9D8.quest_subtitle: "Bottling up Aura"
-	quest.5A011CE8EEA3F9D8.title: "Bottles of Aura"
-	quest.5A0EB2ADEBC7EE2B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.54F7AD64A403C9BF.quest_desc: ["Các Catalyst này có thể được gắn lên đỉnh cột của &2Natural Altar&r. Chúng cho phép bạn biến đổi nhiều vật phẩm thành vật phẩm khác hoặc phân rã chúng.\\n\\nCrumbling Catalyst cho phép biến mỗi Gold Leaf thành 4 Gold Powder thay vì 2!"]
+	quest.54F7AD64A403C9BF.title: "Catalyst"
+	quest.5A011CE8EEA3F9D8.quest_desc: ["Bạn có thể đóng chai Aura bằng cách nhấp chuột phải vào không khí với Bottle and Cork. Aura sẽ có dạng khác nhau tùy nơi thu thập.\\n\\nỞ Overworld nó được đóng chai thành &aSunlight&r, ở Nether là &4Ghosts&r và ở End là &0Darkness&r.\\n\\nNếu khu vực bạn dùng Bottle and Cork thiếu aura nghiêm trọng, bạn sẽ nhận được &0Bottled Vacuum&r."]
+	quest.5A011CE8EEA3F9D8.quest_subtitle: "Đóng chai Aura"
+	quest.5A011CE8EEA3F9D8.title: "Chai Aura"
+	quest.5A0EB2ADEBC7EE2B.quest_desc: ["Nhiệm vụ này được biên soạn bởi &6AllTheMods Staff&r hoặc một &2người đóng góp từ cộng đồng&r để sử dụng trong các modpack AllTheMods.\\n\\nVì tất cả các gói &6AllTheMods&r được cấp phép theo &eAll Rights Reserved&r, nhiệm vụ này không được phép sử dụng trong bất kỳ modpack công khai nào không do &6AllTheMods Team&r phát hành nếu không có sự cho phép rõ ràng.\\n\\nNhiệm vụ này được cố ý ẩn; nếu bạn đang thấy nó, bạn đang ở chế độ chỉnh sửa."]
 	quest.5C990F7E5D345A6F.quest_desc: [
-		"The Offering to the Gods is a multiblock structure made from 1 Offering Table and 36 Flowers. To make an offering you need Spirits of Calling.\\n"
+		"Offering to   Gods là một cấu trúc đa khối được tạo từ 1 Offering Table và 36 Flowers. Để thực hiện một lễ vật, bạn cần Spirits of Calling.\\n"
 		"{image:atm:textures/questpics/natures_aura/offering.png width:295 height:150 align:center}"
 	]
-	quest.5C990F7E5D345A6F.quest_subtitle: "Offering the gods a Birdbath in a Forest of Flowers"
-	quest.71B6F013C8A60EB6.quest_desc: ["The &2Canopy Diminisher&r and the &2Herbivorous Absorber&r are both simple and easy ways of generating aura."]
-	quest.71B6F013C8A60EB6.quest_subtitle: "More Aura!"
-	quest.71B6F013C8A60EB6.title: "Aura Creation"
-	quest.7DAED14CEC4CDA51.quest_desc: ["&aNature's Aura&r is a magic mod about using and replenishing &aAura&r. These quests will just go over some of the basics.\\n\\nTo get started, make some &eBrilliant Fiber&r which is made with &eGold Nuggets&r, &aLeaves&r and &aGrass&r. Right-clicking on any leaves with &eBrilliant Fiber&r will turn them into &eGolden Leaves&r.\\n\\nMake sure to read the &aBook of Natural Aura&r, you can also use it to show how to make the multiblocks in &aNature's Aura&r."]
-	quest.7DAED14CEC4CDA51.title: "&eWelcome to&aNature's Aura"
+	quest.5C990F7E5D345A6F.quest_subtitle: "Dâng lễ giữa rừng hoa"
+	quest.71B6F013C8A60EB6.quest_desc: ["&2Canopy Diminisher&r và &2Herbivorous Absorber&r đều là những cách đơn giản và dễ dàng để tạo aura."]
+	quest.71B6F013C8A60EB6.quest_subtitle: "Thêm Aura!"
+	quest.71B6F013C8A60EB6.title: "Tạo Aura"
+	quest.7DAED14CEC4CDA51.quest_desc: ["&aNature's Aura&r là một mod ma thuật xoay quanh việc sử dụng và bổ sung &aAura&r. Chuỗi nhiệm vụ này sẽ đi qua một số kiến thức cơ bản.\\n\\nĐể bắt đầu, hãy tạo &eBrilliant Fiber&r (từ &eGold Nuggets&r, &aLeaves&r và &aGrass&r). Nhấp chuột phải lên bất kỳ lá cây nào bằng &eBrilliant Fiber&r sẽ biến chúng thành &eGolden Leaves&r.\\n\\nHãy nhớ đọc &aBook of Natural Aura&r; bạn cũng có thể dùng nó để xem cách xây các cấu trúc đa khối trong &aNature's Aura&r."]
+	quest.7DAED14CEC4CDA51.title: "&eChào mừng đến với &aNature's Aura"
 	task.0CA0B32D52395A39.title: "Planks"
 	task.15698B55CCAD2433.title: "AllRightsReserved"
 	task.2E97226C40818239.title: "Flowers"

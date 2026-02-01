@@ -13,7 +13,7 @@
 	quest.054F3A0499F8A0D8.quest_subtitle: "Sweet Chestnut + Capoazu"
 	quest.056E1E3B1ED14917.quest_subtitle: "Teak + Dark Oak"
 	quest.05F428C34DD00B61.quest_subtitle: "Blue Yonder + Rippling Willow"
-	quest.0661E9669E639621.quest_desc: ["Some saplings can't be pollinated. These saplings have a random chance to grow into another tree.\\n\\nFor example if you want to get a &4Red Crepe Myrtle Sapling&r, first grow a Purple Crepe Myrtle Sapling. You will have a chance to get a &4Red Crepe Myrtle Tree&r from that."]
+	quest.0661E9669E639621.quest_desc: ["Một số sapling không thể được thụ phấn. Những sapling này có tỉ lệ ngẫu nhiên lớn lên thành một loại cây khác.\\n\\nVí dụ: nếu bạn muốn có &4Red Crepe Myrtle Sapling&r, trước tiên hãy trồng Purple Crepe Myrtle Sapling. Từ đó bạn sẽ có cơ hội nhận được &4Red Crepe Myrtle Tree&r."]
 	quest.0661E9669E639621.quest_subtitle: "Self Breeding?"
 	quest.06EA86F9F6C9DECF.quest_subtitle: "Plum + Peach"
 	quest.0813CEDCC201216A.quest_subtitle: "Kapok + Old Fustic"
@@ -36,8 +36,8 @@
 	quest.16FA120455D36B58.quest_subtitle: "Orange + Mangrove"
 	quest.1815661333016983.quest_subtitle: "Date Palm + Black Cherry"
 	quest.18601369F049D10D.quest_subtitle: "Ceylon Ebony + Purple Crepe Myrtle"
-	quest.18A2F6BA778D96B1.quest_desc: ["These can be found in chests inside Bastions."]
-	quest.18A2F6BA778D96B1.quest_subtitle: "Bastion Chests"
+	quest.18A2F6BA778D96B1.quest_desc: ["Bạn có thể tìm thấy chúng trong chest ở Bastion."]
+	quest.18A2F6BA778D96B1.quest_subtitle: "Chest ở Bastion"
 	quest.18D4BE3AF7869DE2.quest_subtitle: "Ceylon Ebony + Persimmon"
 	quest.19C22C5B247F4D7D.quest_subtitle: "Ceylon Ebony + Kapok"
 	quest.1A09AF508EFAE0EC.quest_subtitle: "Citron + Key Lime"
@@ -51,17 +51,17 @@
 	quest.1F1B4948FCC14BB4.quest_subtitle: "Silver Fir + Spruce"
 	quest.20DDAC076A2479A8.quest_subtitle: "Purple Spiral + Sparkle Cherry"
 	quest.21B8116BDADD7476.quest_subtitle: "Papaya + Cacao"
-	quest.22151D56616559CB.quest_desc: ["These can be found in chests inside Shipwrecks."]
-	quest.22151D56616559CB.quest_subtitle: "Shipwreck Chests"
+	quest.22151D56616559CB.quest_desc: ["Bạn có thể tìm thấy chúng trong chest ở Shipwreck."]
+	quest.22151D56616559CB.quest_subtitle: "Chest ở Shipwreck"
 	quest.227BEFEF59977CC4.quest_subtitle: "Rosewood + Teak"
 	quest.23A5F5C9BC7B5CC7.quest_subtitle: "Plum + Walnut"
 	quest.257D8912FC58DB59.quest_subtitle: "Brazilwood + Mahogany"
-	quest.25D8BE0280B6E7F1.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.25D8BE0280B6E7F1.quest_desc: ["Nhiệm vụ này được biên soạn bởi &6AllTheMods Staff&r hoặc một &2người đóng góp từ cộng đồng&r để sử dụng trong các modpack AllTheMods. \\n\\nVì tất cả các gói &6AllTheMods&r được cấp phép theo &eAll Rights Reserved&r, nhiệm vụ này không được phép sử dụng trong bất kỳ modpack công khai nào không do &6AllTheMods Team&r phát hành nếu không có sự cho phép rõ ràng. \\n\\nNhiệm vụ này được cố ý ẩn; nếu bạn đang thấy nó, bạn đang ở chế độ chỉnh sửa."]
 	quest.25F4D4A723B298A4.quest_subtitle: "Red Delicious Apple + Birch"
 	quest.263FBD9ED2756190.quest_subtitle: "Walnut + Coconut"
 	quest.268768465119632A.quest_subtitle: "Aspen + Alder"
-	quest.289B30DAC960BFF2.quest_desc: ["These can be found in chests inside End Cities."]
-	quest.289B30DAC960BFF2.quest_subtitle: "End City Chests"
+	quest.289B30DAC960BFF2.quest_desc: ["Bạn có thể tìm thấy chúng trong chest ở End City."]
+	quest.289B30DAC960BFF2.quest_subtitle: "Chest ở End City"
 	quest.28FB4B9DCC268404.quest_subtitle: "Plum + Cherry"
 	quest.291EE514A1602C46.quest_subtitle: "Balsa + Flowering Azalea"
 	quest.298437197EA5680D.quest_subtitle: "Black Cherry + Cacao"
@@ -92,8 +92,8 @@
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.419C808FE10DB496.quest_subtitle: "Balsa + Wenge"
 	quest.427B9C6D95885DE2.quest_subtitle: "Red Delicious Apple + Flowering Azalea"
-	quest.4281BCDCE233F65B.quest_desc: ["These can be found in chests inside Ancient Cities."]
-	quest.4281BCDCE233F65B.quest_subtitle: "Ancient City Chests"
+	quest.4281BCDCE233F65B.quest_desc: ["Bạn có thể tìm thấy chúng trong chest ở Ancient City."]
+	quest.4281BCDCE233F65B.quest_subtitle: "Chest ở Ancient City"
 	quest.43265FEF45846357.quest_subtitle: "Pomelo + Citron"
 	quest.44FEE957BD333241.quest_subtitle: "Silver Lime + Sour Cherry"
 	quest.4510FD92BACF00FF.quest_subtitle: "Plum + Sweet Chestnut"
@@ -105,8 +105,8 @@
 	quest.48BA8ACFADE3C8CE.quest_subtitle: "Citron + Wild Cherry"
 	quest.4AEB4BF7624ABA0F.quest_subtitle: "Firecracker + Soul Tree"
 	quest.4AFA3CB55F6C10C2.quest_subtitle: "Pandanus + Coconut"
-	quest.4C3B7BAEA653587B.quest_desc: ["These can be found in chests inside Desert Pyramids."]
-	quest.4C3B7BAEA653587B.quest_subtitle: "Desert Pyramid Chests"
+	quest.4C3B7BAEA653587B.quest_desc: ["Bạn có thể tìm thấy chúng trong chest ở Desert Pyramid."]
+	quest.4C3B7BAEA653587B.quest_subtitle: "Chest ở Desert Pyramid"
 	quest.4D562F5D72038083.quest_subtitle: "Alder + European Larch"
 	quest.4E802144C6E40D43.quest_subtitle: "Ceylon Ebony + Cherry"
 	quest.4E802144C6E40D43.title: "Purple Crepe Myrtle Sapling"
@@ -120,11 +120,11 @@
 	quest.53292D808E8F5218.quest_subtitle: "Blackthorn + Luck"
 	quest.53BA0C64804ADD24.quest_subtitle: "Pomelo + Wild Cherry"
 	quest.53BDD0459F7B1D60.quest_subtitle: "Coffea + Teak"
-	quest.543F00603790AD3E.quest_desc: ["The (Log) Stripper strips Logs automatically using Axes put in the machine."]
+	quest.543F00603790AD3E.quest_desc: ["(Log) Stripper sẽ tự động lột vỏ Logs bằng rìu được đặt trong máy."]
 	quest.543F00603790AD3E.quest_subtitle: "Please don't"
 	quest.543F00603790AD3E.title: "Stripping"
 	quest.54E7967B45B20F36.quest_subtitle: "Holly + Purple Crepe Myrtle"
-	quest.5577F49A93ADB19C.quest_desc: ["&lProductive Trees&r is a sister Mod to &lProductive Bees&r.\\n\\nIn order to get the different Trees you will need Pollinated Leaves. To get Pollinated Leaves you need Pollen. For Pollen you need Bees.\\n\\nBees flowering near the Trees will automatically Pollinate Leaves, or you can use a Pollen Sieve Upgrade in the Hive to get and use Pollen yourself! Have one on the house!"]
+	quest.5577F49A93ADB19C.quest_desc: ["&lProductive Trees&r là mod \"chị em\" của &lProductive Bees&r.\\n\\nĐể có các loại cây khác nhau, bạn sẽ cần Pollinated Leaves. Để có Pollinated Leaves, bạn cần Pollen. Và để có Pollen, bạn cần Bees.\\n\\nBees khi thụ phấn gần cây sẽ tự động pollinate lá, hoặc bạn có thể dùng Pollen Sieve Upgrade trong Hive để tự lấy và dùng Pollen! Nên làm một cái sớm!"]
 	quest.5577F49A93ADB19C.title: "Productive Trees"
 	quest.5753E0138A072A3F.quest_subtitle: "Cherry + Oak/Dark Oak"
 	quest.577A5FC500E14C05.quest_subtitle: "Lawson Cypress + Oak"
@@ -164,9 +164,9 @@
 	quest.74CD3FC35F245DF2.quest_subtitle: "Blue Yonder + Flickering Sun"
 	quest.75CE67D3AA75C798.quest_subtitle: "Red Delicious Apple + Granny Smith Apple"
 	quest.762C54C261ED5D29.quest_subtitle: "Teak + Mahogany"
-	quest.768C07D1B5EB1FEB.quest_desc: ["These can be found in Suspicious Sand and Gravel inside Cold Ocean Ruins."]
+	quest.768C07D1B5EB1FEB.quest_desc: ["Bạn có thể tìm thấy chúng trong Suspicious Sand/Gravel ở Cold Ocean Ruins."]
 	quest.768C07D1B5EB1FEB.quest_subtitle: "Cold Ocean Ruin Sus Blocks"
-	quest.76A0592F4C294545.quest_desc: ["The Sawmill cuts Logs into Sawdust and more Planks than you would get from crafting. Sawdust can be used to make Paper.\\n\\n - Fustic Logs will also give you Fustic.\\n - Brazilwood Logs and Logwood Logs will also give you Haematoxylin."]
+	quest.76A0592F4C294545.quest_desc: ["Sawmill cắt Logs thành Sawdust và cho nhiều Planks hơn so với chế tạo thường. Sawdust có thể dùng để làm Paper.\\n\\n - Fustic Logs cũng sẽ cho bạn Fustic.\\n - Brazilwood Logs và Logwood Logs cũng sẽ cho bạn Haematoxylin."]
 	quest.76A0592F4C294545.quest_subtitle: "I Wood too"
 	quest.76A0592F4C294545.title: "Sawing"
 	quest.77D3546953550E39.quest_subtitle: "Bull Pine + Spruce"

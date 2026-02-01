@@ -1,85 +1,86 @@
 {
-	quest.088CA7B6D4899846.quest_desc: ["The &#65C2A6Packer&r is used to create &#53E67BDouble Ingots&r, &#53E67BBlades&r and &#53E67BCables&r. Along with this there are many other uses for the machine but these will be the main ones for you."]
+	quest.088CA7B6D4899846.quest_desc: ["&#65C2A6Packer&r dùng để tạo &#53E67BDouble thỏi&r, &#53E67BBlades&r và &#53E67BCables&r. Ngoài ra máy còn nhiều công dụng khác, nhưng đây sẽ là những phần chính bạn cần."
+	]
 	quest.0DAF5D42694EA8C9.quest_desc: [
-		"&#6E6D6D&nForge Hammer&r is the beginning of your journey. It has a lot of uses like getting a &#B53A3Abetter output&r out of your ores to making &#DBD25Acomponents&r for future crafts."
+		"&#6E6D6D&nForge Hammer&r là khởi đầu cho hành trình của bạn. Nó có rất nhiều công dụng, từ việc cho &#B53A3Asản lượng tốt hơn&r khi xử lý quặng cho tới tạo ra &#DBD25Acomponents&r cho các công thức về sau."
 		""
-		"The &7Hammer&r you crafted is not required for a recipe but it will give you a better output on the &#DBD25Acomponents&r you craft."
+		"Cây &7Hammer&r bạn chế tạo không bắt buộc cho công thức, nhưng nó sẽ cho sản lượng tốt hơn khi bạn tạo các &#DBD25Acomponents&r."
 	]
 	quest.0DAF5D42694EA8C9.title: "&#949494Forge Hammer"
-	quest.1036837C9AD3F301.quest_desc: ["The &#6E6D6DForge Hammer&r will allow you to easily crush &#FFAC3BCopper&r Ingots or Ore forms into its Dusts."]
+	quest.1036837C9AD3F301.quest_desc: ["&#6E6D6DForge Hammer&r cho phép bạn dễ dàng nghiền &#FFAC3BCopper&r (dạng ingot hoặc quặng) thành dust."]
 	quest.12F9705ACB8FB300.quest_desc: [
-		"The &#EDD653&nCutting Machine&r enables you to do a lot of crafts. The important ones are the Bolts. "
+		"&#EDD653&nCutting Machine&r mở ra rất nhiều công thức chế tạo. Quan trọng nhất là Bolts. "
 		""
-		"&#EDD653&nCutting machine&r works with &#E3993DLubricant&r which is obtained by using the &#EDD653&nMixer&r."
+		"&#EDD653&nCutting Machine&r dùng &#E3993DLubricant&r, thứ có thể lấy bằng &#EDD653&nMixer&r."
 	]
 	quest.12FB3990CA1653A4.quest_desc: [
-		"The &#DBA15ASteam Drill&r will be your best friend for early game mining. It is able to do a &53 by 3&r mining area as well as have a &#EEF768toggle-able silk touch&r."
+		"&#DBA15ASteam Drill&r sẽ là người bạn thân nhất khi khai thác giai đoạn đầu. Nó có thể đào vùng &53x3&r và có &#EEF768silk touch có thể bật/tắt&r."
 		""
-		"You can toggle &53 by 3&r mining by pressing the keybind \"Toggle 3x3 Mining\" which is default set to &7'Y'&r."
+		"Bạn có thể bật/tắt chế độ đào &53x3&r bằng phím \"Toggle 3x3 Mining\" (mặc định là &7'Y'&r)."
 		""
-		"&#EEF768Silk Touch&r can be toggled by &7Sneak Right-Clicking&r the Steam Drill"
+		"&#EEF768Silk Touch&r có thể bật/tắt bằng cách &7sneak + chuột phải&r với Steam Drill"
 		""
-		"To fill the &#DBA15ASteam Drill&r, you can hold the drill over a &6fuel&r in your inventory and &7Right-Click&r. &9Water&r can be either &7Right-Clicked&r in world or you can carry a water bucket around."
+		"Để nạp &#DBA15ASteam Drill&r, hãy để drill trỏ vào một &6fuel&r trong túi đồ và &7chuột phải&r. &9Water&r có thể chuột phải trực tiếp trong thế giới hoặc bạn có thể mang theo một water bucket."
 	]
-	quest.1C9D3FC67D58AC02.quest_desc: ["The &#EDD653&nMixer&r will allow us to combine items and fluids. They can be used to dye items or even duplicate them."]
+	quest.1C9D3FC67D58AC02.quest_desc: ["&#EDD653&nMixer&r cho phép kết hợp vật phẩm và chất lỏng. Nó có thể dùng để nhuộm vật phẩm hoặc thậm chí nhân bản chúng."]
 	quest.1E4E462928F2A71C.quest_desc: [
-		"The &7&nCoke Oven&r will be used to convert &#787777Coal&r to &#696464Coke&r. &#696464Coke&r is 4 times as effective as a fuel than &#787777Coal&r. "
+		"&7&nCoke Oven&r dùng để chuyển &#787777Coal&r thành &#696464Coke&r. &#696464Coke&r hiệu quả làm nhiên liệu gấp 4 lần so với &#787777Coal&r. "
 		""
-		"The multiblock can be previewed by holding a &#D1D15Ewrench&r in your off or main hand. Holding &#B4D95Dhatches&r in your hand will tell you the possible positions for them."
+		"Bạn có thể xem trước multiblock bằng cách cầm &#D1D15Ewrench&r ở tay chính hoặc tay phụ. Khi cầm &#B4D95Dhatches&r trên tay, game sẽ hiển thị các vị trí có thể đặt chúng."
 		""
-		"The &7&nCoke Oven&r is a hollow multiblock made up of mostly bricks."
+		"&7&nCoke Oven&r là một multiblock rỗng, chủ yếu làm từ bricks."
 	]
 	quest.21A4FE1741E4E78C.quest_desc: [
-		"The &#65C2A6Quarry&r is a multiblock to generate resources. It requires &aDrills&r and &7Steam&r to function."
+		"&#65C2A6Quarry&r là một multiblock để tạo tài nguyên. Nó cần &aDrills&r và &7Steam&r để hoạt động."
 		""
-		"Every iteration has a chance of consuming the &aDrill&r. Better &aDrills&r give better resources."
+		"Mỗi chu kỳ chạy đều có khả năng tiêu hao &aDrill&r. &aDrill&r tốt hơn sẽ cho tài nguyên tốt hơn."
 		""
-		"Steam Quarry can only use &#DEA14BCopper&r and &#DE9531Bronze Drills&r. It can also use &#8A5C1EDirt&r to generate Stones."
+		"Steam Quarry chỉ có thể dùng &#DEA14BCopper&r và &#DE9531Bronze Drills&r. Nó cũng có thể dùng &#8A5C1EDirt&r để tạo Stones."
 	]
-	quest.21A4FE1741E4E78C.quest_subtitle: "Vô hạn Resources"
-	quest.23708582B1064C9D.quest_desc: ["A &#46DBBBCircuit&r will require some of these basic components to function, automating parts of these will be useful in the future."]
+	quest.21A4FE1741E4E78C.quest_subtitle: "Tài nguyên vô hạn"
+	quest.23708582B1064C9D.quest_desc: ["Một &#46DBBBCircuit&r sẽ cần một số linh kiện cơ bản này để hoạt động; tự động hóa một phần các thứ này sẽ rất hữu ích về sau."]
 	quest.23708582B1064C9D.title: "Capacitance và Resistance"
-	quest.24285F25F9563B02.quest_desc: ["The &#467FDB&nAnalog Circuit&r, ah! you finally made it. Usually other people took half as much time as you but I won't hold this against you..."]
-	quest.24285F25F9563B02.quest_subtitle: "Basics of Electronics"
-	quest.253822C64BBBB1EB.quest_desc: ["The &#6E6D6DForge Hammer&r will allow you to easily crush &#9AD5EDTin&r Ingots or Ore forms into its Dusts."]
-	quest.357DDE894EB512F7.quest_desc: ["The &#65C2A6Wiremill&r is able to apply just the right amount of force to make &#53E67BWires&r for us. Shocking!! I know..."]
-	quest.3AA4D1B60E4E71A5.quest_desc: ["All &cmultiblocks&r are defined by the &ehatches&r put in them. Upgrading these &ehatches&r in the &cmultiblocks&r will upgrade the machine as a whole."]
-	quest.41877F44CD3D1EDB.quest_desc: ["The &#E3BC19Bronze Furnace&r acts just like a regular one, only major difference is it runs on steam and is twice as fast."]
-	quest.458BFDB636F8B495.quest_desc: ["Combining the Coke dust with Iron will give Uncooked Steel Dust. Cooking it in the Steam Blast Furnace will yield you Steel Ingots required for future progression."]
-	quest.478C1AF86610A8B7.quest_desc: ["The &#EDD653&nCompressor&r is used to make &#53EDAAPlates&r, &#53EDAACurved Plates&r and &#53EDAARings&r."]
-	quest.48F77A0BE1F33B29.quest_desc: ["Using the newly constructed &#65C2A6Wiremill&r, we can now make &#53E67BWires&r and &#53E67BFine Wires&r which will lead us into electrics."]
+	quest.24285F25F9563B02.quest_desc: ["&#467FDB&nAnalog Circuit&r, à! cuối cùng bạn cũng làm ra rồi. Thường thì người khác chỉ mất một nửa thời gian của bạn, nhưng thôi tôi sẽ không trách đâu..."]
+	quest.24285F25F9563B02.quest_subtitle: "Kiến thức điện tử cơ bản"
+	quest.253822C64BBBB1EB.quest_desc: ["&#6E6D6DForge Hammer&r cho phép bạn dễ dàng nghiền &#9AD5EDTin&r (dạng ingot hoặc quặng) thành dust."]
+	quest.357DDE894EB512F7.quest_desc: ["&#65C2A6Wiremill&r có thể tác dụng vừa đủ lực để tạo &#53E67BWires&r cho chúng ta. Thật \"giật mình\" đúng không..."]
+	quest.3AA4D1B60E4E71A5.quest_desc: ["Tất cả &cmultiblock&r được xác định bởi các &ehatches&r bạn đặt vào. Nâng cấp các &ehatches&r trong &cmultiblock&r cũng sẽ nâng cấp toàn bộ máy."]
+	quest.41877F44CD3D1EDB.quest_desc: ["&#E3BC19Bronze Furnace&r hoạt động giống lò thường; khác biệt chính là nó chạy bằng steam và nhanh gấp đôi."]
+	quest.458BFDB636F8B495.quest_desc: ["Kết hợp Coke dust với Iron sẽ cho Uncooked Steel Bụi. Nung nó trong Steam Blast Furnace sẽ cho Steel thỏi cần cho tiến trình về sau."]
+	quest.478C1AF86610A8B7.quest_desc: ["&#EDD653&nCompressor&r dùng để tạo &#53EDAAPlates&r, &#53EDAACurved Plates&r và &#53EDAARings&r."]
+	quest.48F77A0BE1F33B29.quest_desc: ["Với &#65C2A6Wiremill&r vừa chế tạo, giờ bạn có thể làm &#53E67BWires&r và &#53E67BFine Wires&r để tiến vào kỷ nguyên điện."]
 	quest.48F77A0BE1F33B29.title: "Dire Wire"
-	quest.4E69C6ABFE467C25.quest_desc: ["The &#65C2A6Alloy Smelter&r comes from &#3187C4Extended Industrialization&r. It combines the task of &#4C4BDEMixer&r and &#954BDEFurnace&r into one, hence making the job less tedious."]
+	quest.4E69C6ABFE467C25.quest_desc: ["&#65C2A6lò luyện hợp kim&r đến từ &#3187C4Extended Industrialization&r. Nó gộp chức năng của &#4C4BDEMixer&r và &#954BDEFurnace&r vào một máy, giúp công việc đỡ lặp lại hơn."]
 	quest.55C6BBC996B51838.quest_desc: [
-		"&#ED9553Bronze Boiler&r converts &9water&r into steam. Steam will act as fuel for your machines to work in the &7&nSteam Age&r."
+		"&#ED9553Bronze Boiler&r chuyển &9water&r thành steam. Steam sẽ đóng vai trò nhiên liệu để máy móc hoạt động trong &7&nSteam Age&r."
 		""
-		"To use the machine, simply provide it with &9water&r and any &#ED5353furnace fuel&r. This will raise the temperature of the machine, at maximum temperature it will be able to handle 4 machines simultaneously."
+		"Để dùng máy, chỉ cần cung cấp &9water&r và bất kỳ &#ED5353furnace fuel&r nào. Việc này sẽ tăng nhiệt độ của máy; ở nhiệt độ tối đa, nó có thể chạy đồng thời 4 máy."
 	]
 	quest.55C6BBC996B51838.quest_subtitle: "Boiling Nước"
-	quest.589DFDB8FB7211AA.quest_desc: ["Production of &7Rubber&r for your move into &#C1DB46&nThe Electric Age&r is trivial. Automating it at the earliest will take you further than you believe."]
+	quest.589DFDB8FB7211AA.quest_desc: ["Việc sản xuất &7Rubber&r để tiến vào &#C1DB46&nThe Electric Age&r khá đơn giản. Tự động hóa nó càng sớm càng giúp bạn đi xa hơn bạn nghĩ."]
 	quest.589DFDB8FB7211AA.title: "Rubber và Circuit Board"
 	quest.5CCF92238B23EDC9.quest_desc: [
-		"&#A0DE45&nModern Industrialization&r is a mod which is similar to &#D93D3DIC2&r and &#D93D3DGregTech&r in its nature but you must progress differently than those 2 mods."
+		"&#A0DE45&nModern Industrialization&r là một mod có bản chất tương tự &#D93D3DIC2&r và &#D93D3DGregTech&r, nhưng cách tiến triển sẽ khác so với hai mod đó."
 		""
-		"Through these quests, I will guide you to making parts required for the &#E8C843AllTheMods Star&r and later on &#43E898Infinity Armor&r."
+		"Thông qua chuỗi nhiệm vụ này, bạn sẽ được hướng dẫn chế tạo các bộ phận cần cho &#E8C843AllTheMods Star&r và về sau là &#43E898Infinity Armor&r."
 	]
-	quest.5CCF92238B23EDC9.quest_subtitle: "Reading will help"
-	quest.5CCF92238B23EDC9.title: "&#A0DE45Welcome to Modern Industrialization"
-	quest.5E191081662C2F1A.quest_desc: ["The &#6E6D6DForge Hammer&r acts as the workstation block for the &#A0DE45Modern Industrialization&r villager. This villager will give you a wide variety of useful trades."]
+	quest.5CCF92238B23EDC9.quest_subtitle: "Đọc sẽ giúp ích"
+	quest.5CCF92238B23EDC9.title: "&#A0DE45Chào mừng đến với Modern Industrialization"
+	quest.5E191081662C2F1A.quest_desc: ["&#6E6D6DForge Hammer&r là khối workstation của villager &#A0DE45Modern Industrialization&r. làngr này sẽ cho bạn rất nhiều giao dịch hữu ích."]
 	quest.68EAB0248989FC97.quest_desc: [
-		"The &#EDD653&nSteam Blast Furnace&r unlocks new horizons of progression. This will be a key multiblock in your future endeavours."
+		"&#EDD653&nSteam Blast Furnace&r mở ra những bước tiến mới trong tiến trình. Đây sẽ là một multiblock sau đó chốt cho chặng đường sau này."
 		""
-		"Not only will this multiblock allow you to make &7Steel Ingots&r but also it allows processing of &#696E60Raw Synthetic Oil&r to &#494D43Synthetic Oil&r which will be used later for &#36472ARubber&r and more things."
+		"đa khối này không chỉ giúp bạn làm &7Steel thỏi&r mà còn cho phép xử lý &#696E60Raw Synthetic Oil&r thành &#494D43Synthetic Oil&r, dùng sau này cho &#36472ARubber&r và nhiều thứ khác."
 	]
-	quest.7282DCB1547CEB63.quest_desc: ["&#ED9553Bronze&r will act as the building block of the &7&nSteam Age&r. Cooking this dust will get you the &#ED9553Bronze Ingots&r we'll further use."]
+	quest.7282DCB1547CEB63.quest_desc: ["&#ED9553Bronze&r sẽ là vật liệu nền tảng của &7&nSteam Age&r. Nung loại dust này sẽ cho bạn &#ED9553Bronze thỏi&r để dùng tiếp về sau."]
 	quest.7282DCB1547CEB63.title: "&#EDD653Bronze"
-	quest.7A873E48E38B5C0E.quest_desc: ["Steel Machines use twice as much steam as the Bronze ones but they also make up for it with the twice the speed increase."]
+	quest.7A873E48E38B5C0E.quest_desc: ["Steel Machines dùng lượng steam gấp đôi so với Bronze, nhưng bù lại tốc độ cũng tăng gấp đôi."]
 	quest.7D220876E8FF7AED.quest_desc: [
-		"The &#65C2A6Unpacker&r has a lot of uses from being able to unpack &#53E67BBlock into Ingots&r and more to &#53E67Brecycling parts&r of machines."
+		"&#65C2A6Unpacker&r có rất nhiều công dụng: từ việc tách &#53E67BBlock thành thỏi&r cho tới &#53E67Btái chế linh kiện&r của máy móc."
 		""
-		"&oYou can even get easier Silicon Ingots from it.&r"
+		"&oBạn thậm chí có thể lấy Silicon thỏi dễ hơn nhờ nó.&r"
 	]
-	task.198A217D6A4C951C.title: "Villager Trades"
+	task.198A217D6A4C951C.title: "làngr Trades"
 	task.31BE41B971794377.title: "Steel Age"
-	task.45C5CAC94406DF41.title: "Multiblock Levels"
+	task.45C5CAC94406DF41.title: "đa khối Levels"
 }

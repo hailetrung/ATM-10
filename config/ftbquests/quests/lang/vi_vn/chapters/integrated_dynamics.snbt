@@ -9,17 +9,17 @@
 	quest.3BC94B0B922C0708.quest_desc: ["Đây là những nguyên liệu chế tạo cho những thứ được nhập khẩu, cho dù đó là vật phẩm, chất lỏng hay năng lượng."]
 	quest.3C9539083BCC145C.quest_desc: ["Menril Bees có thể được sử dụng để tự động hóa Crystallized Menril Chunks."]
 	quest.3C9539083BCC145C.quest_subtitle: "Tự động hóa Menril"
-	quest.437F4945AFBE0825.quest_desc: ["Khi bạn nhấp chuột phải vào Nhà nhập khẩu hoặc Nhà xuất khẩu, nó sẽ hiển thị một menu. Menu chủ yếu để lọc, giả sử bạn đã đặt Variable Card thành Cobblestone, Nhà xuất khẩu của bạn sẽ chỉ gửi Cobblestone.\n\nCó một dấu \"+\" nhỏ ở bên trái các biến khi bạn chèn chúng, nhấp vào nó sẽ mở ra một GUI khác. Tại đây, bạn có thể thay đổi tốc độ truyền để có thể gửi vật phẩm/chất lỏng/năng lượng của &dINFINITE, cũng như có thể thực hiện một số nội dung khác.\n\nỞ trên cùng bên trái, chúng tôi có các cài đặt, phần lớn các cài đặt này giống với cài đặt giao diện."]
+	quest.437F4945AFBE0825.quest_desc: ["Khi bạn nhấp chuột phải vào Nhà nhập khẩu hoặc Nhà xuất khẩu, nó sẽ hiển thị một menu. Menu chủ yếu để lọc, giả sử bạn đã đặt Variable Card thành Cobblestone, Nhà xuất khẩu của bạn sẽ chỉ gửi Cobblestone.\n\nCó một dấu \"+\" nhỏ ở bên trái các biến khi bạn chèn chúng, nhấp vào nó sẽ mở ra một giao diện khác. Tại đây, bạn có thể thay đổi tốc độ truyền để có thể gửi vật phẩm/chất lỏng/năng lượng của &dINFINITE, cũng như có thể thực hiện một số nội dung khác.\n\nỞ trên cùng bên trái, chúng tôi có các cài đặt, phần lớn các cài đặt này giống với cài đặt giao diện."]
 	quest.44DA091B53473723.quest_desc: ["Máy ép cơ sử dụng năng lượng để ép."]
 	quest.450EDE68EC992A5A.quest_desc: ["Giao diện và bánh mì là bất cứ thứ gì họ đang xem. Bạn có thể coi điều này giống như Storage Bus của &bAE2.\n\nBạn không biết đó là gì? Đây là một ví dụ: Một chiếc rương chứa 100 Cobblestone có một giao diện trên đó, điều này có nghĩa là mạng ID của bạn có 100 Cobblestone trong hệ thống của nó, khá đơn giản phải không?"]
-	quest.450EDE68EC992A5A.quest_subtitle: "Giao diện có GUI!"
+	quest.450EDE68EC992A5A.quest_subtitle: "Giao diện có giao diện!"
 	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics (ID) là một mod hậu cần có thể được sử dụng để lưu trữ, chuyển vật phẩm/sức mạnh/chất lỏng và hơn thế nữa!\n\nCây Menril có thể được tìm thấy trong quần xã Meneglin.\n\nCác nhiệm vụ này sẽ bao gồm một số khái niệm cơ bản của mod, hãy đọc sách hướng dẫn được đưa ra như một phần thưởng cho nhiệm vụ này nếu bạn muốn đi sâu hơn."]
 	quest.499CF9F39CED8899.quest_subtitle: "Trồng Menril"
 	quest.499CF9F39CED8899.title: "&bĐộng lực học tích hợp"
 	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables khác với các loại cáp khác. Other Cables đóng vai trò là Người vận chuyển, các vật phẩm di chuyển từ Kho 1, vào cáp, sau đó vào Kho thứ 2. Logic Cables chỉ cần bỏ qua người trung gian cũng bỏ qua rất nhiều độ trễ.\n\nChúng chỉ để kết nối Nhà nhập khẩu và Giao diện."]
 	quest.4A05C037C0EE40BD.quest_subtitle: "Tạo mạng"
 	quest.4A05C037C0EE40BD.title: "Cáp Logic"
-	quest.4D4152032F0410D2.quest_desc: ["Lập trình viên logic cho phép bạn đặt giá trị của các biến. Điều này có thể được đặt thành các mục và chất lỏng để lọc hoặc thậm chí các giá trị. \n\nĐể tôi cho bạn một ví dụ đơn giản: Chọn &bItem từ phía bên trái, đặt một vật phẩm bạn chọn vào ô giữa của GUI bật lên và đặt &bVariable Card vào ô dưới cùng bên phải. Sau đó, nếu bạn đặt thẻ biến đó vào nhà nhập/xuất, nó sẽ chỉ nhập/xuất khối đó!"]
+	quest.4D4152032F0410D2.quest_desc: ["Lập trình viên logic cho phép bạn đặt giá trị của các biến. Điều này có thể được đặt thành các mục và chất lỏng để lọc hoặc thậm chí các giá trị. \n\nĐể tôi cho bạn một ví dụ đơn giản: Chọn &bItem từ phía bên trái, đặt một vật phẩm bạn chọn vào ô giữa của giao diện bật lên và đặt &bVariable Card vào ô dưới cùng bên phải. Sau đó, nếu bạn đặt thẻ biến đó vào nhà nhập/xuất, nó sẽ chỉ nhập/xuất khối đó!"]
 	quest.4D4152032F0410D2.quest_subtitle: "Nâng cao"
 	quest.4D62C62B523C69EC.quest_desc: ["Máy phát điện tạo ra FE sử dụng nhiên liệu có thể đốt được như Than."]
 	quest.4D62C62B523C69EC.quest_subtitle: "Cung cấp năng lượng!"
@@ -55,8 +55,8 @@
 	task.1C7C0F345759111C.title: "Exporters"
 	task.22CCBBC66D509404.title: "Mạng!"
 	task.238B5BA2FAE9785B.title: "AllRightsReserved"
-	task.2656ACB55A33D4FE.title: "GUI của Giao diện"
+	task.2656ACB55A33D4FE.title: "giao diện của Giao diện"
 	task.267CE316E1F8FA83.title: "AllRightsReserved"
-	task.4209A06A392362DB.title: "Nhà nhập khẩu \\& Nhà xuất khẩu GUI"
+	task.4209A06A392362DB.title: "Nhà nhập khẩu \\& Nhà xuất khẩu giao diện"
 	task.5DD862CF56AF7BF9.title: "Menril Logs"
 }

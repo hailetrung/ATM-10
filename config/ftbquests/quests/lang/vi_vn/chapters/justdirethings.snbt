@@ -24,14 +24,14 @@
 
 		"- Leaf Breaker"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
 		"- Drops Teleporter"
 
 	]
-	quest.02B0CCD5607FF3B5.quest_desc: ["Bộ truy cập của người chơi hoạt động như một chiếc rương tương tác với kho đồ của người chơi. Bằng cách sử dụng GUI, bộ truy cập của người chơi có thể được cấu hình các mặt của nó để giao tiếp với kho đồ, các khe ngoài tay hoặc áo giáp của người chơi."]
+	quest.02B0CCD5607FF3B5.quest_desc: ["Bộ truy cập của người chơi hoạt động như một chiếc rương tương tác với kho đồ của người chơi. Bằng cách sử dụng giao diện, bộ truy cập của người chơi có thể được cấu hình các mặt của nó để giao tiếp với kho đồ, các khe ngoài tay hoặc áo giáp của người chơi."]
 	quest.02B8F50721F12CFF.quest_desc: [
 		"&lLoại khả năng:&r Bị động"
 
@@ -77,7 +77,7 @@
 		"Primogel Goo là cấp goo đầu tiên được thêm vào bởi JDT và yêu cầu nguyên liệu cơ bản của Overworld để chế tạo."
 
 		""
-		"Crafts Unlocked:"
+		"chế tạos Unlocked:"
 
 		"- Ferricore"
 
@@ -134,7 +134,7 @@
 
 		"- Sky Sweeper"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -156,7 +156,7 @@
 
 		"- Ore Miner"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -218,7 +218,7 @@
 		"Tăng tốc độ đi bộ."
 
 	]
-	quest.16E02F671FBE9148.quest_desc: ["Portal Gun là vật phẩm sử dụng sức mạnh để tạo ra hai cổng dịch chuyển tức thời giữa hai điểm. Left Click bắn một cổng màu xanh lam, Right Click một cổng màu cam và Shift Right Click loại bỏ cả hai cổng."]
+	quest.16E02F671FBE9148.quest_desc: ["Portal Gun là vật phẩm sử dụng sức mạnh để tạo ra hai cổng dịch chuyển tức thời giữa hai điểm. nhấp chuột trái bắn một cổng màu xanh lam, nhấp chuột phải một cổng màu cam và Shift + nhấp chuột phải loại bỏ cả hai cổng."]
 	quest.1705175C20CE91DD.quest_desc: ["Eclipse Alloy là vật liệu mới được thêm vào bởi JDT. Eclipse Alloy có được bằng cách thực hiện Goo Spread trên Netherite Blocks bằng goo cấp bốn. Eclipse Alloy Ore bị ảnh hưởng bởi vận mệnh."]
 	quest.1705175C20CE91DD.title: "Eclipse Alloy"
 	quest.171DB70D0D19A942.quest_desc: [
@@ -282,7 +282,7 @@
 
 		"- Ore Scanner &4&lBỊ TẮT&r&f"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -322,7 +322,7 @@
 
 		"- Sky Sweeper"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -378,7 +378,7 @@
 
 		"- Leaf Breaker"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		""
 		"Năng lực nội tại:"
@@ -413,7 +413,7 @@
 		"Shadowpulse Goo là cấp goo thứ tư và cuối cùng được thêm bởi JDT và yêu cầu Ancient City và nguyên liệu Warden để chế tạo."
 
 		""
-		"Crafts Unlocked:"
+		"chế tạos Unlocked:"
 
 		"- Eclipse Alloy"
 
@@ -475,7 +475,7 @@
 
 		"- Leaf Breaker"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Drops Teleporter"
 
@@ -717,7 +717,7 @@
 		"Blazebloom Goo là cấp goo thứ hai được thêm vào bởi JDT và yêu cầu nguyên liệu Nether để chế tạo."
 
 		""
-		"Crafts Unlocked:"
+		"chế tạos Unlocked:"
 
 		"- Blazegold"
 
@@ -747,7 +747,7 @@
 
 	]
 	quest.4E9B35DCA018FD42.title: "Tool Upgrades"
-	quest.4F9932477EDDCB8E.quest_desc: ["The Advanced Portal Gun is the upgraded version of the Portal Gun that requres both power and portal fluid to operate. Unlike the Portal Gun the Adavanced Portal Gun allows the player to teleport between locations that have been encoded. Using \"V\"(liên kết phím mặc định) menu được sử dụng để mã hóa và chọn các hướng dẫn cho dịch chuyển tức thời."]
+	quest.4F9932477EDDCB8E.quest_desc: ["Advanced Portal Gun là phiên bản nâng cấp của Portal Gun, cần cả năng lượng lẫn portal fluid để hoạt động. Không như Portal Gun thường, Advanced Portal Gun cho phép người chơi dịch chuyển giữa các vị trí đã được mã hóa. Dùng menu bằng phím \"V\" (liên kết phím mặc định) để mã hóa và chọn điểm dịch chuyển."]
 	quest.5054977BD5354561.quest_desc: [
 		"Nâng cấp hợp lệ:"
 
@@ -874,7 +874,7 @@
 		"Voidshimmer Goo là cấp goo thứ ba được thêm vào bởi JDT và yêu cầu Nguyên liệu cuối cùng để chế tạo."
 
 		""
-		"Crafts Unlocked:"
+		"chế tạos Unlocked:"
 
 		"- Celestigem"
 
@@ -887,7 +887,7 @@
 		"- Air Burst: Phóng người chơi theo hướng họ đang đối mặt với việc tiêu tốn độ bền trong quá trình tiến triển, đũa phép cấp cao hơn sẽ phóng người chơi đi một khoảng cách xa hơn. Lưu ý rằng người chơi sẽ không nhận sát thương khi rơi miễn là họ đang cầm đũa phép."
 
 	]
-	quest.5EE7D5DE07A83C7D.quest_desc: ["&lLoại khả năng:&r Hoạt động\n\n&lChức năng khả năng:&r\n\nLàm nổi bật các quặng gần đó bằng các hạt màu xanh lá cây khi được kích hoạt.\n\n&4&lNOTE THIS KHẢ NĂNG HAS BEEN TUYỆT VỜI.&r&f"]
+	quest.5EE7D5DE07A83C7D.quest_desc: ["&lLoại khả năng:&r Hoạt động\n\n&lChức năng khả năng:&r\n\nLàm nổi bật các quặng gần đó bằng các hạt màu xanh lá cây khi được kích hoạt.\n\n&4&lLƯU Ý: khả năng này đã bị vô hiệu hóa.&r&f"]
 	quest.5F5120451BA5B2FE.quest_desc: ["Các máy tiên tiến có khả năng tương tự như các biến thể đơn giản của chúng với việc bổ sung vùng làm việc có thể định cấu hình, nhiều khe lọc hơn và yêu cầu nguồn điện."]
 	quest.60A4994078500F63.quest_desc: ["Celestigem là một vật liệu mới được thêm vào bởi JDT. Celestigem có được bằng cách thực hiện Goo Spread trên Diamond Blocks bằng goo cấp ba trở lên. Celestigem Ore bị ảnh hưởng bởi vận mệnh."]
 	quest.61213012615619C5.quest_desc: [
@@ -907,7 +907,7 @@
 		"&lChức năng khả năng:&r"
 
 		""
-		"Tự động dịch chuyển vật phẩm rơi vào kho gắn với công cụ. Shift Right Clicking công cụ trên kho sẽ liên kết nó. Lưu ý khi trên JDT các vật phẩm bị rơi do khả năng thu hoạch tự động của đất nông nghiệp voidshimmer / Shadowpulse được dịch chuyển đến kho đồ bị ràng buộc, đồng thời nhấp chuột phải vào đất nông nghiệp voidshimmer / Shadowpulse sẽ liên kết lại chúng nếu kho đồ bị ràng buộc của công cụ đã bị thay đổi."
+		"Tự động dịch chuyển vật phẩm rơi vào kho gắn với công cụ. Shift + nhấp chuột phảiing công cụ trên kho sẽ liên kết nó. Lưu ý khi trên JDT các vật phẩm bị rơi do khả năng thu hoạch tự động của đất nông nghiệp voidshimmer / Shadowpulse được dịch chuyển đến kho đồ bị ràng buộc, đồng thời nhấp chuột phải vào đất nông nghiệp voidshimmer / Shadowpulse sẽ liên kết lại chúng nếu kho đồ bị ràng buộc của công cụ đã bị thay đổi."
 
 	]
 	quest.6690AEE064DC2A7C.quest_desc: [
@@ -955,7 +955,7 @@
 
 		"- Leaf Breaker"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -992,7 +992,7 @@
 
 		"- Ore Scanner &4&lBỊ TẮT&r&f"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -1006,7 +1006,7 @@
 
 		"- Sky Sweeper"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Hammer"
 
@@ -1061,7 +1061,7 @@
 
 		"- Leaf Breaker"
 
-		"- Auto Smelter"
+		"- Auto nunger"
 
 		"- Drops Teleporter"
 
@@ -1095,7 +1095,7 @@
 	task.00B0A3B14DEB34B9.title: "Hybrid Upgrades"
 	task.03982D782B426ABB.title: "AllRightsReserved"
 	task.19931057AAC1A03A.title: "AllRightsReserved"
-	task.32309011F80C0A9E.title: "NOTE"
+	task.32309011F80C0A9E.title: "LƯU Ý"
 	task.366CA7D53571A552.title: "Utilities"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
 	task.3CAD6AD06BE4C3D3.title: "Tools"

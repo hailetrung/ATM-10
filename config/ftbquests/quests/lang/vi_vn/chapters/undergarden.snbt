@@ -16,7 +16,7 @@
 	]
 	quest.06D13E319C26C949.title: "Blood Mushroom Bog"
 	quest.073BA8470EA37A00.quest_desc: [
-		"Another Sea, chỉ có điều này là lạnh hơn nhiều."
+		"Một biển nữa, chỉ có điều này là lạnh hơn nhiều."
 
 		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
 	]
@@ -44,7 +44,7 @@
 	quest.0D91A6B36BD2F526.title: "Ultimate Weapon!"
 	quest.0FA77C28A57E06F1.quest_desc: ["Veiled Mushrooms chỉ có thể tìm thấy ở Bog của họ. \n\nHọ có Brown Caps mà nếu có Air bên dưới nó, nó sẽ sinh ra Mushroom Veils. Do đó tên!"]
 	quest.1054168AFD8520D4.quest_desc: [
-		"&aForgotten Guardian’s là một con Golem khổng lồ được làm từ &aForgotten Ingots. \n\nNó sẽ nhắm mục tiêu vào Người chơi và sẽ làm bất cứ điều gì cần thiết để giết họ. \n\nChúng có 80 Trái tim và nếu bạn có thể giết chúng, chúng sẽ đánh rơi &aForgotten Nuggets."
+		"&aForgotten Guardian’s là một con Golem khổng lồ được làm từ &aForgotten thỏi. \n\nNó sẽ nhắm mục tiêu vào Người chơi và sẽ làm bất cứ điều gì cần thiết để giết họ. \n\nChúng có 80 Trái tim và nếu bạn có thể giết chúng, chúng sẽ đánh rơi &aForgotten Nuggets."
 
 		"{image:atm:textures/questpics/undergarden/undergarden_guardian.png width:100 height:200 align:center}"
 	]
@@ -155,7 +155,7 @@
 	quest.4C5CFA45D9B4F6D3.quest_desc: ["Indigo Mushrooms dường như là bạn thân nhất của Smogstem và sẽ sinh sản chủ yếu cùng với họ!"]
 	quest.4C7E006502E30C20.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
 	quest.4D836B9D9E3B898F.quest_desc: [
-		"&2Stoneborns là sự kết hợp hoàn hảo giữa Dân làng và Iron Golems. \n\nBạn có thể giao dịch với họ bằng Right Clicking họ. \n\nVà họ sẽ chống lại Hostile Mobs (hoặc Người chơi đánh họ)."
+		"&2Stoneborns là sự kết hợp hoàn hảo giữa Dân làng và Iron Golems. \n\nBạn có thể giao dịch với họ bằng nhấp chuột phảiing họ. \n\nVà họ sẽ chống lại Hostile Mobs (hoặc Người chơi đánh họ)."
 
 		"{image:atm:textures/questpics/undergarden/undergarden_stoneborn.png width:100 height:150 align:center}"
 	]
@@ -186,7 +186,7 @@
 	quest.53FDC6C536E50A1A.quest_desc: ["&bGwiblings là loài cá thân thiện ở biển. \n\nChúng nhỏ hơn &bGwibs và hoạt động giống như Vanilla Fish!"]
 	quest.53FDC6C536E50A1A.title: "&bGwibling&r"
 	quest.5B4B5C148D63ACA1.quest_desc: [
-		"&aQuân lính bị lãng quên không xuất hiện như Mob thông thường, chúng cần được tạo ra. Chúng được tạo bằng cách đặt Carved Gloomgourd trên &aKhối Forgotten Ingots&r. \n\nChúng hoạt động tương tự như Snow Golems, chúng sẽ không bao giờ tấn công bạn mà thay vào đó bắn vào Hostile Mobs. \n\nHọ có 10 Trái tim và không đánh rơi bất cứ thứ gì khi chết... nhưng tại sao bạn lại giết họ?"
+		"&aQuân lính bị lãng quên không xuất hiện như Mob thông thường, chúng cần được tạo ra. Chúng được tạo bằng cách đặt Carved Gloomgourd trên &aKhối Forgotten thỏi&r. \n\nChúng hoạt động tương tự như Snow Golems, chúng sẽ không bao giờ tấn công bạn mà thay vào đó bắn vào Hostile Mobs. \n\nHọ có 10 Trái tim và không đánh rơi bất cứ thứ gì khi chết... nhưng tại sao bạn lại giết họ?"
 
 		"{image:atm:textures/questpics/undergarden/undergarden_minion.png width:125 height:100 align:center}"
 	]
@@ -205,7 +205,7 @@
 		"{image:atm:textures/questpics/undergarden/undergarden_gronglet.png width:100 height:100 align:center}"
 	]
 	quest.5FCA6F5FE97780B7.title: "&eGronglets&r"
-	quest.6124C0E9E419694B.quest_desc: ["Nâng cấp Công cụ của &7Cloggrum bằng &aForgotten Ingots và Mẫu rèn. \n\nĐây là những Công cụ tốt nhất mà bạn có thể nhận được, chúng đi kèm với Hiệu suất chỉ dành cho các Khối của &2&lUndergarden. \n\nVà Kiếm và Rìu sẽ gây nhiều sát thương hơn cho tất cả Mob của &2&lUndergarden ngoại trừ &cRot Beast và &aForgotten Guardian!"]
+	quest.6124C0E9E419694B.quest_desc: ["Nâng cấp Công cụ của &7Cloggrum bằng &aForgotten thỏi và Mẫu rèn. \n\nĐây là những Công cụ tốt nhất mà bạn có thể nhận được, chúng đi kèm với Hiệu suất chỉ dành cho các Khối của &2&lUndergarden. \n\nVà Kiếm và Rìu sẽ gây nhiều sát thương hơn cho tất cả Mob của &2&lUndergarden ngoại trừ &cRot Beast và &aForgotten Guardian!"]
 	quest.6124C0E9E419694B.title: "&aForgotten&rTools"
 	quest.647A87E800C703C3.quest_desc: [
 		"Quần xã yêu thích của tôi cho đến nay! \n\nMột Green Jungle khổng lồ với Gronglegrowth Trees khổng lồ. \n\nTrên những Cây đó, bạn có thể tìm thấy &eGronglets!"

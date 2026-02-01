@@ -9,7 +9,7 @@
 	quest.0A64D0937A5F7513.title: "Vàng Cần câu"
 	quest.0EFF1AA37772156B.quest_desc: ["Khối này cung cấp nước cho nhà bếp nhiều khối.\n\nNó cũng có thể cung cấp lượng nước vô tận bằng cách bơm nước ra ngoài qua dây cáp hoặc đường ống."]
 	quest.0EFF1AA37772156B.quest_subtitle: "1 Block thực hiện thủ thuật!"
-	quest.0EFF1AA37772156B.title: "The Sink = Vô hạn nước"
+	quest.0EFF1AA37772156B.title: "Sink = Vô hạn nước"
 	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice và công thức nấu ăn Tuyết!"]
 	quest.13AFCD3B6F62B986.quest_subtitle: "Băng, băng, em yêu!"
 	quest.13AFCD3B6F62B986.title: "Ice Nâng cấp"
@@ -27,7 +27,7 @@
 	quest.1D2EF12FD7FDD217.quest_subtitle: "...hay tôi?"
 	quest.1D2EF12FD7FDD217.title: "Tôi sẽ không chơi chữ Trứng"
 	quest.1D48298525EEADC9.quest_desc: ["Bạn nên có mọi thứ bạn cần rồi."]
-	quest.1D48298525EEADC9.quest_subtitle: "Pour some Đường on me!"
+	quest.1D48298525EEADC9.quest_subtitle: "Rắc thêm chút đường đi!"
 	quest.1D48298525EEADC9.title: "Bạn thật ngọt ngào"
 	quest.1DCAA0310AA55F1C.quest_desc: ["Nhưng anh ấy thường đóng cửa lúc 5 giờ, vậy ai quan tâm chứ?"]
 	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Would hãy tự hào"
@@ -40,7 +40,7 @@
 	quest.2786D5AC19163524.title: "Em ơi, có lò nung trong Nhà bếp"
 	quest.28C9EDBF6607E180.quest_desc: ["Khối này là một phần của nhà bếp nhiều khối.\n\nĐiều này sẽ hiển thị cho bạn mọi công thức có sẵn cho bạn với thực phẩm bạn có trong kho hoặc được lưu trữ trong nhiều khối nhà bếp.\n\nCuối cùng bạn cũng có thể tạo ra một căn bếp đẹp trong Minecraft."]
 	quest.28C9EDBF6607E180.quest_subtitle: "Betty White ra đời trước Sliced Bread"
-	quest.28C9EDBF6607E180.title: "THE BEST THING SINCE SLICED BREAD"
+	quest.28C9EDBF6607E180.title: "Còn ngon hơn cả bánh mì cắt lát"
 	quest.2E9C035EEE7E5C34.quest_desc: ["Chì cổ điển. Sử dụng điều này để đưa động vật vào khu vực trang trại của bạn.\n\nĐiều này không giống với quặng."]
 	quest.2E9C035EEE7E5C34.quest_subtitle: "Hãy cùng nhau nhé Doggy nhỏ"
 	quest.2E9C035EEE7E5C34.title: "Chúng tôi đang thực hiện việc này theo cách Old Fashioned"
@@ -78,9 +78,9 @@
 	quest.659A903F97F93BE2.quest_subtitle: "Nhanh chóng và đơn giản"
 	quest.659A903F97F93BE2.title: "Bánh Sự Sống"
 	quest.72717D1135486D7F.quest_desc: ["Hãy thu thập một số hạt giống."]
-	quest.72717D1135486D7F.quest_subtitle: "Block Hand 1, Block Grass 0"
+	quest.72717D1135486D7F.quest_subtitle: "Chặn tay 1, chặn cỏ 0"
 	quest.72717D1135486D7F.title: "Đấm cỏ"
-	quest.73B8A70240E6070E.quest_desc: ["Tìm một con bò và Right Click nó bằng một cái Xô.\n\nNghiêm túc mà nói, tại sao không có Bulls?"]
+	quest.73B8A70240E6070E.quest_desc: ["Tìm một con bò và nhấp chuột phải nó bằng một cái Xô.\n\nNghiêm túc mà nói, tại sao không có Bulls?"]
 	quest.73B8A70240E6070E.quest_subtitle: "Tại sao không có Bulls trong trò chơi?"
 	quest.73B8A70240E6070E.title: "Sữa a Cow - Profit"
 	quest.791AE62ACACBD5BA.quest_subtitle: "Bạn mở nó ra, đóng lại rồi mở lại chỉ vì bạn chán"

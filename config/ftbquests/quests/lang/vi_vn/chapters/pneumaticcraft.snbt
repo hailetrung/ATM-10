@@ -1,6 +1,6 @@
 {
 	quest.00075A5F9AC120ED.quest_desc: ["Thao tác này sẽ lấy vật phẩm ra khỏi rương đầu vào của bạn."]
-	quest.00075A5F9AC120ED.quest_subtitle: "Always Required"
+	quest.00075A5F9AC120ED.quest_subtitle: "Luôn bắt buộc"
 	quest.002163B909070CF8.quest_desc: [
 		"Cho phép bạn xem chi tiết về các khối/chất lỏng nhất định, thậm chí xuyên qua các bức tường."
 
@@ -15,14 +15,14 @@
 	quest.04BE9F63E6003475.title: "LPG"
 	quest.0672462DA3599484.quest_subtitle: "512.000mb"
 	quest.09BA45CBBFB4AE26.quest_desc: ["Giai đoạn tiếp theo của bản mod này yêu cầu bạn thiết lập &3Assembly Lines&r. Thành phần chính của &3Assembly Line&r là &3Assembly Controller&r.\n\nĐây là nơi áp lực sẽ đi."]
-	quest.09BA45CBBFB4AE26.quest_subtitle: "Always Required"
+	quest.09BA45CBBFB4AE26.quest_subtitle: "Luôn bắt buộc"
 	quest.0A912B2E2BE34920.quest_desc: [
 		"Mặc dù bạn có thể tìm thấy Crude Oil trên bề mặt, nhưng khoan là một cách tuyệt vời để thu được nhiều dầu. Trước tiên, hãy sử dụng &3Seismic Sensor&r cho đến khi bạn tìm thấy dầu bên dưới mình, sau đó sử dụng &3Gas Lift&r chứa đầy ống khoan để khoan dầu. (Điều này đòi hỏi áp lực để làm việc)."
 
 		"{image:pneumaticcraft:textures/patchouli/oil_pumping.png width:200 height:200 align:right fit:true}"
 	]
 	quest.0A912B2E2BE34920.quest_subtitle: "Khoan dầu"
-	quest.0AEAEA976ED0C470.quest_desc: ["&3Trạm sạc&r được sử dụng để sạc các công cụ và thiết bị khác nhau trong &aPneumaticCraft&r bằng áp suất."]
+	quest.0AEAEA976ED0C470.quest_desc: ["&3Trạm sạc&r được sử dụng để sạc các công cụ và thiết bị khác nhau trong &aPneumaticchế tạo&r bằng áp suất."]
 	quest.0AEAEA976ED0C470.quest_subtitle: "Dây đâu?"
 	quest.0CC48C2AA553A314.quest_desc: ["&3Drill Bits&r có ​​thể được sử dụng trong Pneumatic Jackhammer."]
 	quest.0D2F5CC96269F9E3.quest_desc: ["Bước tiếp theo của quá trình tạo PCB liên quan đến việc sử dụng &3Etching Tank&r với Axit khắc. Cần nhiệt để chạy."]
@@ -39,7 +39,7 @@
 	quest.0D5015B8FF482D0A.quest_subtitle: "Không biết họ có giao hàng trong 1 ngày không?"
 	quest.0D5015B8FF482D0A.title: "Amadron"
 	quest.0D50BDEFA0319EA1.quest_desc: ["Điều này sẽ thả thành phẩm vào rương đầu ra của bạn."]
-	quest.0D50BDEFA0319EA1.quest_subtitle: "Always Required"
+	quest.0D50BDEFA0319EA1.quest_subtitle: "Luôn bắt buộc"
 	quest.0D9560C8E247F9E7.quest_desc: ["Nhấp chuột phải vào một nơi nào đó và bạn sẽ có thể tìm đường quay lại. Nếu bạn ở đủ gần và có lộ trình trực tiếp, một đường dẫn sẽ xuất hiện."]
 	quest.0D9560C8E247F9E7.quest_subtitle: "Tối đa: 1"
 	quest.0E65BE9460B74000.quest_desc: [
@@ -112,10 +112,10 @@
 	quest.2DE7CC686B56881F.quest_desc: ["Bảo vệ bạn khỏi bức xạ Mekanism."]
 	quest.2DE7CC686B56881F.quest_subtitle: "Tối đa: 1"
 	quest.2E8F851A4E98F741.quest_desc: [
-		"Bản thân &3Pneumatic Armor&r đã khá tuyệt vời, tuy nhiên nếu muốn bộ giáp này trở nên tuyệt vời hơn, bạn sẽ cần phải cài đặt các bản nâng cấp. Nhấn 'U' theo mặc định để mở Nâng cấp GUI, một số nâng cấp sử dụng áp lực, một số thì không."
+		"Bản thân &3Pneumatic Armor&r đã khá tuyệt vời, tuy nhiên nếu muốn bộ giáp này trở nên tuyệt vời hơn, bạn sẽ cần phải cài đặt các bản nâng cấp. Nhấn 'U' theo mặc định để mở Nâng cấp giao diện, một số nâng cấp sử dụng áp lực, một số thì không."
 
 		""
-		"Cũng giống như nâng cấp các công cụ khác trong PneumaticCraft, để nâng cấp &3Pneumatic Armor&r bạn sẽ cần một Trạm sạc có áp suất."
+		"Cũng giống như nâng cấp các công cụ khác trong Pneumaticchế tạo, để nâng cấp &3Pneumatic Armor&r bạn sẽ cần một Trạm sạc có áp suất."
 
 		""
 		"Lưu ý: Phụ đề sẽ cho bạn biết số lượng nâng cấp tối đa có thể đưa vào một thứ gì đó."
@@ -137,14 +137,14 @@
 	quest.3334D15766A47A46.title: "Tự động hóa PCB"
 	quest.36D72D759C4E8823.quest_desc: ["Thậm chí có thể hơi nhanh một chút."]
 	quest.36D72D759C4E8823.quest_subtitle: "Tối đa: 1"
-	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft là tất cả về áp lực! Những nhiệm vụ này sẽ không vượt quá mọi thứ mà bản mod có, nhưng vẫn sẽ vượt quá rất nhiều! Hãy nhớ kiểm tra JEI, đọc chú giải công cụ và đọc PCB:R, tất cả đều rất hữu ích.\n\nĐể bắt đầu, bạn cần chế tạo một số &3Compressed Iron Ingots&r! Cách dễ nhất để làm điều này là tạo một cái lỗ trên mặt đất, ném một số thỏi sắt (hoặc khối) vào rồi cho nổ tung nó bằng một số TNT!\n\nMột số có thể bị lạc trong vụ nổ, nhưng đó là rủi ro mà chúng ta sẽ phải chấp nhận!"]
+	quest.371A34B297C8A8EF.quest_desc: ["Pneumaticchế tạo là tất cả về áp lực! Những nhiệm vụ này sẽ không vượt quá mọi thứ mà bản mod có, nhưng vẫn sẽ vượt quá rất nhiều! Hãy nhớ kiểm tra JEI, đọc chú giải công cụ và đọc PCB:R, tất cả đều rất hữu ích.\n\nĐể bắt đầu, bạn cần chế tạo một số &3Compressed Iron thỏi&r! Cách dễ nhất để làm điều này là tạo một cái lỗ trên mặt đất, ném một số thỏi sắt (hoặc khối) vào rồi cho nổ tung nó bằng một số TNT!\n\nMột số có thể bị lạc trong vụ nổ, nhưng đó là rủi ro mà chúng ta sẽ phải chấp nhận!"]
 	quest.371A34B297C8A8EF.quest_subtitle: "Sức mạnh của không khí"
-	quest.371A34B297C8A8EF.title: "Khí nénCraft: Điều áp"
+	quest.371A34B297C8A8EF.title: "Khí nénchế tạo: Điều áp"
 	quest.39F142224D5210A9.quest_desc: ["&3Biodeisel&r có ​​thể được sử dụng để làm &3Chất bôi trơn&r và &3Molten Plastic&r."]
 	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
 	quest.39F142224D5210A9.title: "Biodeisel"
 	quest.3A9AC6AB4407DC32.quest_desc: ["Mặc dù không phải mọi công thức đều yêu cầu các thành phần giống nhau nhưng bạn có thể thiết lập &3Assembly Lines&r của mình với mọi thứ đã được cài đặt. Thiết lập &3Assembly Line&r đơn giản có thể được sử dụng cho mọi thứ được hiển thị trong hình ảnh bên dưới. Đọc các nhiệm vụ cho từng thành phần để biết một số thông tin quan trọng về chúng.\n\nSpeed Upgrades làm việc này nhanh hơn rất nhiều!"]
-	quest.3A9AC6AB4407DC32.quest_subtitle: "Some Assembly Required"
+	quest.3A9AC6AB4407DC32.quest_subtitle: "Cần lắp ráp"
 	quest.3A9AC6AB4407DC32.title: "Sử dụng dây chuyền lắp ráp"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
 		"&3Reinforced Chest&r là Rương chống nổ với 36 khe. Not Double Chest-có thể. Cũng hoạt động giống như Shulker Box."
@@ -153,7 +153,7 @@
 	]
 	quest.3CFE522A4B7CC2EC.quest_subtitle: "Tốt hơn Everyday Chest của bạn"
 	quest.3D819550074CA376.quest_desc: ["Vật phẩm sẽ cần phải được đặt ở đây trước khi được nhặt lại."]
-	quest.3D819550074CA376.quest_subtitle: "Always Required"
+	quest.3D819550074CA376.quest_subtitle: "Luôn bắt buộc"
 	quest.3E16CF590C911129.quest_desc: ["&3Air Compressor&r là một cách dễ dàng để tạo áp lực, chỉ cần đặt một số vật phẩm có thể cháy được vào đó và xem điều kỳ diệu xảy ra! (Tôi khuyên bạn nên tạo ít nhất 3 trong số này để bắt đầu)."]
 	quest.3E16CF590C911129.quest_subtitle: "Cảm thấy áp lực"
 	quest.3E16CF590C911129.title: "Tạo áp lực"
@@ -184,12 +184,12 @@
 	quest.456B9DD108CF340F.quest_desc: ["Làm cho mọi thứ nhanh hơn."]
 	quest.456B9DD108CF340F.quest_subtitle: "Nhanh lên!"
 	quest.461C8F1E88AA58D9.quest_desc: [
-		"Chúng có thể được sử dụng trong các công thức nấu ăn sử dụng phiên bản đóng thùng của chất lỏng PneumaticCraft.\n\nKhi một chiếc &3Fluid Tank&r được đặt lên trên một chiếc &3Fluid Tank&r khác và gắn chặt với nhau, chúng sẽ trở thành một chiếc xe tăng lớn."
+		"Chúng có thể được sử dụng trong các công thức nấu ăn sử dụng phiên bản đóng thùng của chất lỏng Pneumaticchế tạo.\n\nKhi một chiếc &3Fluid Tank&r được đặt lên trên một chiếc &3Fluid Tank&r khác và gắn chặt với nhau, chúng sẽ trở thành một chiếc xe tăng lớn."
 
 		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
 	]
 	quest.461C8F1E88AA58D9.quest_subtitle: "32.000mb"
-	quest.46BE62C20C720D10.quest_desc: ["Makes Endermen đừng giận bạn như Carved Pumpkins."]
+	quest.46BE62C20C720D10.quest_desc: ["Makes Enderman đừng giận bạn như Carved Pumpkins."]
 	quest.46BE62C20C720D10.quest_subtitle: "Tối đa: 1"
 	quest.482E558BCFEE6B7E.quest_desc: ["&3Construction Bricks&r là những khối xây dựng tuyệt vời, hãy cẩn thận vì chúng sẽ gây tổn thương. Chế tạo chúng một lần nữa để làm cho chúng mịn màng."]
 	quest.482E558BCFEE6B7E.quest_subtitle: "Không có nỗi đau nào tệ hơn việc dẫm phải những thứ này"
@@ -229,7 +229,7 @@
 	quest.52D3697F1F5625C7.quest_subtitle: "Don't Ask..."
 	quest.5303509A1C2B1CCD.quest_desc: ["&3Pneumatic Jackhammer&r sử dụng áp lực để khai thác, nó có thể được nâng cấp để trở nên tuyệt vời!"]
 	quest.5303509A1C2B1CCD.quest_subtitle: "Sorry Jack!"
-	quest.53518D4ED99A242F.quest_desc: ["&3Camouflage Applicator&r có ​​thể được sử dụng để giấu máy móc PneumaticCraft bên trong các khối khác."]
+	quest.53518D4ED99A242F.quest_desc: ["&3Camouflage Applicator&r có ​​thể được sử dụng để giấu máy móc Pneumaticchế tạo bên trong các khối khác."]
 	quest.53518D4ED99A242F.quest_subtitle: "Bạn muốn làm cho thiết lập của bạn trông bắt mắt?"
 	quest.54169B69725C49DF.quest_desc: ["Đặt Liquid Plastic của bạn xuống đất hoặc cất một số vào Rương có gắn Heat Frame và đó là &3Plastic Sheet&r của bạn!"]
 	quest.54169B69725C49DF.quest_subtitle: "Cuối cùng!"
@@ -251,11 +251,11 @@
 	quest.5D71ED16FD4E725A.quest_desc: ["Làm cho Piglins bị động (giống như mặc Gold Armor), bạn chỉ cần đặt Nâng cấp lên một mảnh."]
 	quest.5D71ED16FD4E725A.quest_subtitle: "Tối đa: 1"
 	quest.5D7B34761E8FD212.quest_desc: [
-		"The &3Electrostatic Compressor&r generates a lot of pressure from Lightning Strikes.\\n\\nFor more info check out the \"Information\" tab in JEI.\\n"
+		"&3Electrostatic Compressor&r tạo ra rất nhiều áp suất từ Lightning Strikes.\\n\\nĐể biết thêm, hãy xem tab \"Information\" trong JEI.\\n"
 		"{image:pneumaticcraft:textures/patchouli/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
 	]
 	quest.5D7B34761E8FD212.title: "Áp lực từ sét"
-	quest.5E71F8A046C60346.quest_desc: ["Ai đã nói với bạn PneumaticCraft không phải để tạo ra năng lượng?\n\n&3Pneumatic Dynamo&r cho phép bạn điều chỉnh áp suất trong FE. Đọc chú giải công cụ hoặc đọc về nó trong PNC:R để tìm hiểu cách hoạt động của nó."]
+	quest.5E71F8A046C60346.quest_desc: ["Ai đã nói với bạn Pneumaticchế tạo không phải để tạo ra năng lượng?\n\n&3Pneumatic Dynamo&r cho phép bạn điều chỉnh áp suất trong FE. Đọc chú giải công cụ hoặc đọc về nó trong PNC:R để tìm hiểu cách hoạt động của nó."]
 	quest.5E71F8A046C60346.quest_subtitle: "Áp suất = Công suất"
 	quest.5E71F8A046C60346.title: "Phát điện"
 	quest.602C3E88D96F8843.quest_desc: ["Đặt Charged Empty PCB vào Bể khắc cùng với một ít Axit khắc và một ít nhiệt và bạn sẽ nhận được &3Unassembled PCBs&r."]
@@ -312,7 +312,7 @@
 	quest.6FD65139CD50A8C0.quest_desc: ["Điều đó có thể thực hiện được không?\n\nNếu muốn tự động hóa quy trình này, bạn có thể sử dụng &eProductive Bees&r hoặc &aMystical Agriculture&r. Hoặc tôi đoán bạn có thể tự động hóa nó bằng...các vụ nổ."]
 	quest.6FD65139CD50A8C0.quest_subtitle: "Mệt mỏi vì thổi bay mọi thứ?"
 	quest.7040CA41C0A3C2F2.quest_desc: [
-		"&3PCB Bản thiết kế&r ON SALE NOW cho 8 viên Ngọc lục bảo. (Chỉ trong một thời gian giới hạn)."
+		"&3PCB Bản thiết kế&r LÊN SALE NOW cho 8 viên Ngọc lục bảo. (Chỉ trong một thời gian giới hạn)."
 
 		"{@pagebreak}"
 		"(văn bản giữ chỗ trang mới)"
@@ -321,7 +321,7 @@
 	quest.7040CA41C0A3C2F2.quest_subtitle: "Thanks Amadron!"
 	quest.7040CA41C0A3C2F2.title: "&9PCB Bản thiết kế"
 	quest.715B86DC82EA636B.quest_desc: [
-		"&3Liquid Compressor&r tạo ra áp suất bằng cách sử dụng một số chất lỏng nhất định. Bạn có thể đổ nhiên liệu vào bằng cách nhấp chuột phải vào thùng vào máy, bơm chất lỏng vào hoặc bằng cách đặt thùng vào khe trên cùng trong GUI."
+		"&3Liquid Compressor&r tạo ra áp suất bằng cách sử dụng một số chất lỏng nhất định. Bạn có thể đổ nhiên liệu vào bằng cách nhấp chuột phải vào thùng vào máy, bơm chất lỏng vào hoặc bằng cách đặt thùng vào khe trên cùng trong giao diện."
 
 		""
 		"{image:pneumaticcraft:textures/gui/gui_liquid_compressor.png width:200 height:200 align:center fit:true}"

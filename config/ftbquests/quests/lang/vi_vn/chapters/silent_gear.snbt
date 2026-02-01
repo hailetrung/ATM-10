@@ -1,20 +1,20 @@
 {
 	quest.002D65E4D7E8F62B.title: "Cấp 2 Grader Catalyst"
-	quest.036D5767E07005BC.quest_desc: ["&bDrains là những gì chúng ta sẽ sử dụng để chiết xuất &7Liquid Metals của chúng ta. Có, rất tiếc là nó quá nóng đối với Tay hoặc Xô của chúng tôi. \n\nKết nối &c&lFoundry &7Tap của với &bDrain’s để xả &7Liquid Metals của &7Liquid Metals khi Right Clicking Tap. \n\nBạn cũng có thể xem số lượng Chất lỏng trong &c&lFoundry khi xem &bDrain’s!"]
+	quest.036D5767E07005BC.quest_desc: ["&bDrains là những gì chúng ta sẽ sử dụng để chiết xuất &7Liquid Metals của chúng ta. Có, rất tiếc là nó quá nóng đối với Tay hoặc Xô của chúng tôi. \n\nKết nối &c&lFoundry &7Tap của với &bDrain’s để xả &7Liquid Metals của &7Liquid Metals khi nhấp chuột phảiing Tap. \n\nBạn cũng có thể xem số lượng Chất lỏng trong &c&lFoundry khi xem &bDrain’s!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r&bDrains"
 	quest.047F3F99035CE623.quest_subtitle: "Tôi khao khát Mỏ"
-	quest.061A51A0EC13CA0F.quest_desc: ["Bây giờ chúng ta đã có &aController, &bDrains và &4Tanks, chúng ta sẽ cần thêm một vài Khối nữa. \n\nĐầu tiên là &6Cuộn dây sưởi ấm chất lỏng. Những thứ này sẽ tạo nên sàn của &c&lFoundry và cần thiết để làm nóng &c&lFoundry. \n\nCuối cùng là Windows của &c&lFoundry hoặc &cFire Bricks. Đây là những gì chúng ta sẽ sử dụng cho phần còn lại của cấu trúc! Các khối xây dựng, theo đúng nghĩa đen. \n\n&c&lFoundry sẽ không cần xây dựng khung nên mọi góc đều có thể trống; nhưng nó phải có 4 Bức tường và một Tầng mới có thể hoàn thành. &aController sẽ cho bạn biết vị trí Khối bị thiếu, nếu có. \n\n&c&lFoundry có thể nhỏ tới 1x1 ở bên trong, miễn là nó có &aController, &6Cuộn dây sưởi ấm chất lỏng và các Bức tường khác được lấp đầy! \n\nTuy nhiên, tôi không khuyên bạn nên làm một cái quá nhỏ, vì &c&lFoundry càng lớn thì càng có nhiều không gian trong đó! \n\nBạn sẽ biết &c&lFoundry đã được xây dựng, khi &aController sáng lên như một cái lò, và &6Liquid Heat Coils đến lượt &6Orange."]
+	quest.061A51A0EC13CA0F.quest_desc: ["Bây giờ chúng ta đã có &aController, &bDrains và &4Tanks, chúng ta sẽ cần thêm một vài Khối nữa. \n\nĐầu tiên là &6Cuộn dây sưởi ấm chất lỏng. Những thứ này sẽ tạo nên sàn của &c&lFoundry và cần thiết để làm nóng &c&lFoundry. \n\nCuối cùng là Cửa sổ của &c&lFoundry hoặc &cFire Bricks. Đây là những gì chúng ta sẽ sử dụng cho phần còn lại của cấu trúc! Các khối xây dựng, theo đúng nghĩa đen. \n\n&c&lFoundry sẽ không cần xây dựng khung nên mọi góc đều có thể trống; nhưng nó phải có 4 Bức tường và một Tầng mới có thể hoàn thành. &aController sẽ cho bạn biết vị trí Khối bị thiếu, nếu có. \n\n&c&lFoundry có thể nhỏ tới 1x1 ở bên trong, miễn là nó có &aController, &6Cuộn dây sưởi ấm chất lỏng và các Bức tường khác được lấp đầy! \n\nTuy nhiên, tôi không khuyên bạn nên làm một cái quá nhỏ, vì &c&lFoundry càng lớn thì càng có nhiều không gian trong đó! \n\nBạn sẽ biết &c&lFoundry đã được xây dựng khi &aController sáng lên như một cái lò, và &6Liquid Heating Coils&r chuyển sang màu &6Orange&r."]
 	quest.061A51A0EC13CA0F.title: "Xây dựng&c&lFoundry"
 	quest.083ABBA1C45FF960.quest_subtitle: "Chỉ là Lawn Mower"
 	quest.0947B4ED95B0267E.quest_desc: ["Phủ lên một vật phẩm và công cụ.\n\nNetherite tạo ra một vật liệu phủ tuyệt vời."]
 	quest.0947B4ED95B0267E.quest_subtitle: "Hoàn toàn không chỉ dành cho Netherite"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["Higher Durability hơn Dao găm, nhưng sát thương và tốc độ thấp hơn."]
-	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Stabby"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Độ bền cao hơn Dao găm, nhưng sát thương và tốc độ thấp hơn."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Đâm chém"
 	quest.0DF4B01CC5B49E4E.quest_desc: ["Với Cast này, bạn có thể tạo ra thanh kiếm cơ bản! Thiệt hại đáng tin cậy và tốc độ đáng tin cậy."]
 	quest.0DF4B01CC5B49E4E.quest_subtitle: "Tốt lắm, đáng tin cậy"
 	quest.0FEAD3CA2CC4A8B1.title: "Cấp 3 Starlight Charger Catalyst"
 	quest.11B0B93D725ABE43.quest_desc: ["Thiết bị Silent Gear có thể được sửa chữa bằng &Bộ dụng cụ sửa chữa 9.\n\nĐể sửa chữa một vật phẩm, hãy đặt Repair Kit vào lưới chế tạo, sau đó đặt các vật liệu cần thiết để sửa chữa công cụ vào đó. Điều này sẽ \"lấp đầy\" Repair Kit.\n\nĐể sửa chữa công cụ, hãy kết hợp Repair Kit đã điền với công cụ bạn muốn sửa chữa trong lưới chế tạo."]
-	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils bắt buộc"
+	quest.11B0B93D725ABE43.quest_subtitle: "Không cần đe bắt buộc"
 	quest.158B24939A269D83.quest_desc: ["Nâng cấp Mẹo được sử dụng để tăng mức độ khai thác của một công cụ.\n\nVí dụ: Nếu bạn có Iron Pickaxe, với 1 Kim cương, bạn có thể tạo Diamond Tip Upgrade và đặt nó vào cuốc của mình. Điều này sẽ cho phép nó khai thác Obsidian, cũng như tăng chỉ số cho nó."]
 	quest.158B24939A269D83.quest_subtitle: "Khi bạn không tìm thấy 3 viên kim cương"
 	quest.2156C00E30424844.quest_desc: ["&4Tanks được tạo ra để thêm Chất lỏng vào &c&lFoundry của chúng tôi. \n\nMostly Fuel. \n\nChủ yếu là &cLava! \n\nĐó dường như là một trong những cách duy nhất để thực sự cung cấp nhiên liệu cho &c&lFoundry."]
@@ -31,9 +31,9 @@
 	quest.2EB96FF06627FD9A.quest_subtitle: "Phá vỡ (một số) mặt hàng!"
 	quest.2EB96FF06627FD9A.title: "Salvager"
 	quest.3722B43822F80470.quest_desc: ["Sát thương cao hơn Kiếm, nhưng chậm hơn."]
-	quest.3722B43822F80470.quest_subtitle: "Release Your Inner Samurai"
+	quest.3722B43822F80470.quest_subtitle: "Đánh thức samurai bên trong bạn"
 	quest.3930404D5C8B44EB.quest_desc: ["Điều này được sử dụng để tạo ra các hợp kim tùy chỉnh.\n\nĐó cũng là cách duy nhất để có được Tyrian Steel!"]
-	quest.3930404D5C8B44EB.quest_subtitle: "Combines Materials"
+	quest.3930404D5C8B44EB.quest_subtitle: "Kết hợp vật liệu"
 	quest.39B85DB54B1037FE.quest_desc: ["Nhanh hơn một chút so với Kiếm, nhưng sát thương thấp hơn."]
 	quest.39B85DB54B1037FE.quest_subtitle: "Thicc Sword"
 	quest.3AC03D1FA5C341A7.quest_desc: ["Recrystallizer cho phép bạn kết hợp các tinh thể khác nhau để tạo ra các tinh thể mới dùng để chế tạo vũ khí, công cụ và áo giáp."]
@@ -43,11 +43,11 @@
 	quest.3D2C6FF462B17205.quest_subtitle: "Stabby Stab"
 	quest.3F39BEB788175CEF.quest_subtitle: "Đào 3x3!"
 	quest.405DCD3E36232EEA.quest_desc: ["Ít sát thương hơn Kiếm, nhưng tầm với dài hơn."]
-	quest.405DCD3E36232EEA.quest_subtitle: "Release Your Inner Spartan"
+	quest.405DCD3E36232EEA.quest_subtitle: "Đánh thức chiến binh Spartan bên trong bạn"
 	quest.427516AA3E8C9442.quest_subtitle: "Versatile Hoe"
-	quest.45899579D9B92D91.quest_desc: ["&aController là trái tim của &c&lFoundry. \n\nMỗi &c&lFoundry sẽ cần ít nhất 1 chiếc để được tạo ra. \n\nChúng ta có thể sử dụng &c&lFoundry để xem GUI của &c&lFoundry. Ở đây chúng ta có thể thấy lượng Chất lỏng trong &c&lFoundry. \n\nChúng ta cũng có thể sử dụng nó để đưa và lấy Vật phẩm vào và ra khỏi &c&lFoundry."]
+	quest.45899579D9B92D91.quest_desc: ["&aController là trái tim của &c&lFoundry. \n\nMỗi &c&lFoundry sẽ cần ít nhất 1 chiếc để được tạo ra. \n\nChúng ta có thể sử dụng &c&lFoundry để xem giao diện của &c&lFoundry. Ở đây chúng ta có thể thấy lượng Chất lỏng trong &c&lFoundry. \n\nChúng ta cũng có thể sử dụng nó để đưa và lấy Vật phẩm vào và ra khỏi &c&lFoundry."]
 	quest.45899579D9B92D91.title: "&c&lFoundry&r&aController"
-	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
+	quest.462C1F75A2FB9F02.quest_subtitle: "Willy ở đâu rồi?"
 	quest.48D358470A019E7A.title: "Cấp 1 Starlight Charger Catalyst"
 	quest.52CDB46F6CBF007B.quest_subtitle: "Bạn đang đào cái này à?"
 	quest.63CAD77A4488F2CE.quest_subtitle: "Cuốc + Rìu + Xẻng"
@@ -57,10 +57,10 @@
 	quest.6A393C7A24899E3E.quest_desc: ["Đặt một thỏi vào Máy chấm điểm bằng Grader Catalyst sẽ cho điểm vật liệu.\n\nĐiểm càng cao thì số liệu thống kê về tài liệu càng tốt.\n\nĐiểm tốt nhất là \"MAX\"."]
 	quest.6A393C7A24899E3E.quest_subtitle: "Người kiểm tra vật liệu"
 	quest.6B78378BC8036227.title: "Cấp 1 Grader Catalyst"
-	quest.6BBC440BD0AD0E93.quest_desc: ["Một số người thích &9&lSilent Gear, trong khi một số khác thích &7&lTinker's Construct. \n\nThay vì lựa chọn giữa chúng, chúng tôi đã quyết định tận dụng tối đa cả hai thế giới bằng cách sử dụng &9&lSilent Gear và &c&lProductive Metalworks! \n\n&c&lProductive Metalworks sẽ thay đổi cách chúng ta có được Vật phẩm &9&lSilent. Thay vì sử dụng &9Blueprints, bây giờ chúng ta sẽ cần &8Casts và &c&lFoundry. \n\nĐể bắt đầu tạo &c&lFoundry’s, hãy bắt đầu với &cFire Clay’s."]
+	quest.6BBC440BD0AD0E93.quest_desc: ["Một số người thích &9&lSilent Gear, trong khi một số khác thích &7&lTinker's Construct. \n\nThay vì lựa chọn giữa chúng, chúng tôi đã quyết định tận dụng tối đa cả hai thế giới bằng cách sử dụng &9&lSilent Gear và &c&lProductive Metalworks! \n\n&c&lProductive Metalworks sẽ thay đổi cách chúng ta có được Vật phẩm &9&lSilent. Thay vì sử dụng &9Bản thiết kế, bây giờ chúng ta sẽ cần &8Casts và &c&lFoundry. \n\nĐể bắt đầu tạo &c&lFoundry’s, hãy bắt đầu với &cFire Clay’s."]
 	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&rvà&c&lSản xuất kim loại hiệu quả"
 	quest.6BFD7854F078BF16.quest_subtitle: "Nắm bắt được điều này"
-	quest.711826BBCA832EE2.quest_desc: ["Tất cả &8Casts đều bình đẳng. Theo một nghĩa khác, ý tôi là chúng được làm theo cùng một cách. \n\nBằng cách đổ &8Thép vào một vật phẩm trong &8Bàn đúc! \n\nBạn hỏi chúng tôi làm thế nào để tạo ra &8Steel? Simply Melt hạ bất kỳ Vật phẩm hoặc Thỏi nào của &8Steel. Hoặc bạn có thể Hợp kim 9 &7Iron thành 10 &0Coal&r. \n\nQuá trình hợp kim hóa sẽ diễn ra khi &c&lFoundry là &6Heated và có đúng số lượng &7Liquid Metals khác nhau trong đó. Hai &7Liquid Metal này sẽ kết hợp thành một &7Liquid Metal!"]
+	quest.711826BBCA832EE2.quest_desc: ["Tất cả &8Casts đều bình đẳng. Theo một nghĩa khác, ý tôi là chúng được làm theo cùng một cách. \n\nBằng cách đổ &8Thép vào một vật phẩm trong &8Bàn đúc! \n\nBạn hỏi làm thế nào để tạo ra &8Steel? Chỉ cần nấu chảy (melt) bất kỳ Vật phẩm hoặc Thỏi &8Steel nào. Hoặc bạn có thể Hợp kim 9 &7Iron&r với 10 &0Coal&r. \n\nQuá trình hợp kim hóa sẽ diễn ra khi &c&lFoundry&r được &6Heated&r và có đúng số lượng các &7Liquid Metals&r khác nhau trong đó. Hai &7Liquid Metal&r này sẽ kết hợp thành một &7Liquid Metal&r!"]
 	quest.711826BBCA832EE2.title: "&8Casts"
 	quest.766C80E5D7B7A916.quest_subtitle: "Chọn một!"
 	quest.769D5DE66D13B256.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]

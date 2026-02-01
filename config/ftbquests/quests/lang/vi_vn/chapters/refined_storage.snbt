@@ -1,5 +1,5 @@
 {
-	quest.01F18150EC923482.quest_desc: ["&3Refined Storage&r (RS or RS2) is a mass storage mod that offers a network-based storage system.\\\\n\\\\nTo get started with the mod, you'll want to make the &3Controller&r.\\\\n\\\\nThe Controller is the 'Core' of your storage network. When provided with power, it gives life to all RS components connected."]
+	quest.01F18150EC923482.quest_desc: ["&3Refined Storage&r (RS hoặc RS2) là một mod lưu trữ quy mô lớn, cung cấp hệ thống lưu trữ dựa trên mạng.\\\\n\\\\nĐể bắt đầu với mod này, bạn sẽ muốn chế tạo &3Controller&r.\\\\n\\\\nController là \"lõi\" của mạng lưu trữ. Khi được cấp điện, nó sẽ kích hoạt toàn bộ các thành phần RS được kết nối."]
 	quest.01F18150EC923482.quest_subtitle: "Phiên bản 2"
 	quest.01F18150EC923482.title: "&3Bộ nhớ tinh chỉnh"
 	quest.03C78165C5CBD9E1.title: "&a16k Storage Part"
@@ -7,14 +7,14 @@
 	quest.0945EC53626F58E6.title: "&5Khác Storage Parts"
 	quest.0D4FE97640F2CA60.quest_desc: ["&bUltra Destructor có 36 khe lọc, hoạt động nhanh hơn gấp 5 lần và được tích hợp & nâng cấp eStack."]
 	quest.0D4FE97640F2CA60.title: "&bSiêu hủy diệt"
-	quest.0F00BBDF3618B3BA.quest_desc: ["&3Crafting Grid cho phép bạn truy cập vào kho lưu trữ của mình nhưng với giao diện chế tạo!\n\nThành thật mà nói, không ai sử dụng &3Grids.&r"]
+	quest.0F00BBDF3618B3BA.quest_desc: ["&3chế tạoing Grid cho phép bạn truy cập vào kho lưu trữ của mình nhưng với giao diện chế tạo!\n\nThành thật mà nói, không ai sử dụng &3Grids.&r"]
 	quest.0F00BBDF3618B3BA.title: "&3Lưới tốt hơn"
 	quest.1187F9D4F4E0D254.quest_desc: ["&3Wrench là một công cụ có thể thực hiện hai việc:\n- khối Rotate.\n- Break Refined Storage bao gồm.\n\nĐơn giản chỉ cần lén + chuột phải khi sử dụng Cờ lê."]
 	quest.1187F9D4F4E0D254.quest_subtitle: "Bạn quay tôi vòng phải'"
 	quest.1187F9D4F4E0D254.title: "&3Wrench"
 	quest.123807F4BBE75120.title: "&b16384k Storage Part"
 	quest.12A43F82FC67A289.quest_desc: ["Để lưu trữ các mục của mình, bạn cần tạo các đĩa có thể được lưu trữ bên trong &9Disk Drives được gắn vào mạng của bạn.\n\nChúng có 8 khe cắm cho Storage Disks"]
-	quest.12A43F82FC67A289.quest_subtitle: "Floppy Time!"
+	quest.12A43F82FC67A289.quest_subtitle: "Thời đại đĩa mềm!"
 	quest.13A0714444BA79AB.quest_desc: ["&bUltra Importer có 36 khe lọc, hoạt động nhanh hơn gấp 5 lần và được tích hợp & nâng cấp eStack."]
 	quest.13A0714444BA79AB.title: "&bNhà nhập khẩu siêu"
 	quest.15ECBC8E174FA39B.quest_desc: ["Cho phép bạn truy cập không dây vào bộ nhớ mạng của bạn."]
@@ -36,12 +36,12 @@
 	quest.253657BE5D9D9162.quest_desc: ["External Storage là một loại giao diện cáp, là một trong những hạng mục quan trọng nhất mà người ta có thể thực hiện trong hành trình &3Refined Storage của mình.\n\nLoại giao diện cáp này kết nối bộ lưu trữ ngoài với mạng của bạn. Về cơ bản, nó cho phép RS nhìn vào vùng lưu trữ để cho phép bạn truy cập nó trong &3Grid của bạn!\n\nTính năng này hoạt động trên nhiều thứ, bao gồm nhưng không giới hạn ở: Rương, Thùng, Ngăn kéo, Drawer Controllers, v.v.\n\nNếu bạn không thể tạo ổ đĩa và có rất nhiều rương ở khắp mọi nơi thì đây là lựa chọn tốt nhất để bạn tạo mạng lưu trữ!"]
 	quest.2B27E4E04A628C60.quest_desc: ["Bản nâng cấp &eSpeed ​​thực hiện chính xác những gì nó nói. Nó làm tăng tốc độ hoạt động của giao diện/khối. Cần một nhà nhập khẩu để kéo nhanh hơn? Bạn muốn thợ thủ công của bạn làm việc nhanh hơn? Đây là bản nâng cấp!\n\n&EStack Nâng cấp tăng tốc độ truyền tới một chồng vật phẩm, thay vì chỉ một vật phẩm. Kết hợp với Speed Upgrades để có mạng hiệu quả hơn!"]
 	quest.2B27E4E04A628C60.title: "&eTăng tốc mọi thứ!"
-	quest.2CFEE04BA574921E.quest_desc: ["&bConstructor là một giao diện sẽ đặt một khối được chỉ định theo hướng nó được trỏ.\n\nBạn có thể chỉ định khối trong GUI. Điều này có thể hữu ích cho việc tự động hóa!"]
+	quest.2CFEE04BA574921E.quest_desc: ["&bConstructor là một giao diện sẽ đặt một khối được chỉ định theo hướng nó được trỏ.\n\nBạn có thể chỉ định khối trong giao diện. Điều này có thể hữu ích cho việc tự động hóa!"]
 	quest.2CFEE04BA574921E.quest_subtitle: "Đặt khối!"
 	quest.2E2811D1A0F2A492.quest_desc: ["Để tăng phạm vi kết nối không dây tới hệ thống của bạn, bạn có thể tạo &bRange Nâng cấp.\n\nBộ phát không dây chỉ có thể chứa tổng cộng 4 cái."]
 	quest.2E2811D1A0F2A492.quest_subtitle: "Tín hiệu tốt hơn"
 	quest.2E2811D1A0F2A492.title: "&bTăng Wifi Range"
-	quest.30700E99091B712A.quest_desc: ["Bản nâng cấp &cRegulator cho phép bạn duy trì một lượng vật phẩm nhất định trong một khối hoặc máy. Một ví dụ tuyệt vời về điều này là thông báo cho mạng của bạn rằng bạn muốn giữ 64 Than trong Lò. Bạn sẽ đặt bản nâng cấp vào Nhà xuất khẩu được gắn vào Lò nung, sau đó đặt nó thành 64. Sau đó, hệ thống của bạn sẽ cố gắng giữ cho Lò luôn đầy nhiên liệu!\n\nNhưng nếu bạn cần một món đồ được chế tạo thì sao? Bản nâng cấp &6Crafting thực hiện chính xác điều này. Nếu bạn có công thức bên trong Autocrafter, việc thêm bản nâng cấp này vào giao diện sẽ cho phép nó biết để chế tạo nó nếu bạn dùng hết.\n\nSử dụng ví dụ trước đó, giả sử chúng ta có một trang trại &aNông nghiệp huyền bí đang hoạt động và có Coal Essence. Sau đó, chúng tôi có thể đặt công thức Than vào Autocrafter được kết nối với hệ thống của chúng tôi, sau đó đặt bản nâng cấp này vào cùng một Nhà xuất khẩu đang cung cấp nhiên liệu cho Lò nung. Nếu bạn hết Than trong hệ thống của mình, &6Nâng cấp chế tạo sẽ cho phép hệ thống của bạn chế tạo thêm!"]
+	quest.30700E99091B712A.quest_desc: ["Bản nâng cấp &cRegulator cho phép bạn duy trì một lượng vật phẩm nhất định trong một khối hoặc máy. Một ví dụ tuyệt vời về điều này là thông báo cho mạng của bạn rằng bạn muốn giữ 64 Than trong Lò. Bạn sẽ đặt bản nâng cấp vào Nhà xuất khẩu được gắn vào Lò nung, sau đó đặt nó thành 64. Sau đó, hệ thống của bạn sẽ cố gắng giữ cho Lò luôn đầy nhiên liệu!\n\nNhưng nếu bạn cần một món đồ được chế tạo thì sao? Bản nâng cấp &6chế tạoing thực hiện chính xác điều này. Nếu bạn có công thức bên trong Autocrafter, việc thêm bản nâng cấp này vào giao diện sẽ cho phép nó biết để chế tạo nó nếu bạn dùng hết.\n\nSử dụng ví dụ trước đó, giả sử chúng ta có một trang trại &aNông nghiệp huyền bí đang hoạt động và có Coal Essence. Sau đó, chúng tôi có thể đặt công thức Than vào Autocrafter được kết nối với hệ thống của chúng tôi, sau đó đặt bản nâng cấp này vào cùng một Nhà xuất khẩu đang cung cấp nhiên liệu cho Lò nung. Nếu bạn hết Than trong hệ thống của mình, &6Nâng cấp chế tạo sẽ cho phép hệ thống của bạn chế tạo thêm!"]
 	quest.30700E99091B712A.title: "&cRegulator Nâng cấp"
 	quest.33105698C75093C2.quest_desc: ["&4Mega Destructor có 54 khe lọc, hoạt động nhanh hơn gấp 8 lần và được tích hợp & nâng cấp eStack."]
 	quest.33105698C75093C2.title: "&4Kẻ hủy diệt Mega"
@@ -50,11 +50,11 @@
 	quest.39C8E1705EF1CD31.title: "&e256B Fluid Storage Part"
 	quest.3B062B9EC2CEF592.quest_desc: ["&4Mega Xuất khẩu có 54 khe lọc, hoạt động nhanh hơn 8 lần và được tích hợp &eStack Nâng cấp."]
 	quest.3B062B9EC2CEF592.title: "&4Mega xuất khẩu"
-	quest.3B84215240D9F2CB.quest_desc: ["The &3Security Manager&r allows you to grant access and permissions to users within your network.\\\\n\\\\nWhen placed in your system, you'll need a &3Security Card&r for each player you'd like to configure permissions for. When no cards are present, everyone has access to all permissions.\\\\n\\\\nTo restrict permissions and access to all unconfigured players, configure a card that isn't bound to a player and put it into the manager. The person who placed the &3Security Manager&r will always have access to it."]
+	quest.3B84215240D9F2CB.quest_desc: ["&3Security Manager&r cho phép bạn cấp quyền truy cập và phân quyền cho người dùng trong mạng của bạn.\\\\n\\\\nKhi đặt vào hệ thống, bạn sẽ cần một &3Security Card&r cho mỗi người chơi mà bạn muốn cấu hình quyền. Khi không có thẻ nào, mọi người đều có toàn quyền.\\\\n\\\\nĐể hạn chế quyền và chặn người chơi chưa được cấu hình, hãy cấu hình một thẻ không ràng buộc với người chơi nào và đặt nó vào Security Manager. Người đặt &3Security Manager&r sẽ luôn có quyền truy cập."]
 	quest.3B84215240D9F2CB.quest_subtitle: "Bảo vệ lưới của bạn!"
 	quest.3B84215240D9F2CB.title: "&3Quản lý an ninh"
 	quest.3E890BABC4C41370.quest_desc: ["Do giới hạn của Bộ điều khiển, có thể bạn sẽ muốn kết nối các hệ thống khác nhau với trung tâm chính của mình mà không cần hàng tỷ dây cáp kết nối chúng.\n\nViệc này được thực hiện bằng cách sử dụng &3Bộ phát mạng và &3Bộ thu mạng.\n\n&9Bộ phát phải được kết nối với hệ thống chính của bạn, cho dù Bộ điều khiển của bạn ở đâu.\n\n&9Receiver sẽ đi tới bất cứ nơi nào bạn muốn mạng bên ngoài của mình ở đó. Ví dụ: đây có thể là một phần riêng biệt trong căn cứ của bạn, nơi bạn có Ong, trang trại mob, v.v.\n\nĐể kết nối Bộ thu với mạng chính của bạn, bạn cần sử dụng &3Card mạng. Để liên kết Network Card, nhấp chuột phải vào Bộ thu, sau đó đặt Network Card vào Bộ phát được gắn vào hệ thống chính của bạn"]
-	quest.3E890BABC4C41370.quest_subtitle: "Wirelessly Connecting Networks"
+	quest.3E890BABC4C41370.quest_subtitle: "Kết nối mạng không dây"
 	quest.3E890BABC4C41370.title: "&3Mạng lưới"
 	quest.3F8EEE1AD4420702.title: "&b64k Storage Part"
 	quest.3FD801D7DE9176FB.title: "&e4k Storage Part"
@@ -62,7 +62,7 @@
 	quest.43E8912CB307E421.quest_desc: ["Tuyệt vời! Chúng ta có thể lưu trữ mọi thứ một cách ảo, nhưng làm cách nào để xem những gì có trong mạng?\n\nĐể truy cập hệ thống, bạn cần tạo &3Grid. Đây là hình thức 'Hiển thị' cơ bản nhất cho các mục trong mạng của bạn.\n\n&3Grid có thể lưu trữ Vật phẩm, Chất lỏng, Năng lượng, Nguồn, Linh hồn và Hóa chất."]
 	quest.43E8912CB307E421.quest_subtitle: "Đừng rời khỏi lưới"
 	quest.43E8912CB307E421.title: "&3Lưới"
-	quest.44881E39AB1D62AA.quest_desc: ["&3Autocrafter là cách chúng tôi lưu trữ Mẫu cho mạng của mình để biết cách chế tạo vật phẩm. Sau khi công thức được đưa vào máy, bạn sẽ có thể 'Yêu cầu' chế tạo một vật phẩm từ &3Grid của mình. Bạn có thể thực hiện việc này bằng cách nhấn Control + Shift trong khi nhấp vào mục bạn có công thức chế tạo để hiển thị giao diện chế tạo.\n\nKhối này cũng có thể được đặt đối diện với một máy để sử dụng &6Mẫu xử lý. Ví dụ: nếu bạn trỏ &3Autocrafter vào Lò nung, bạn có thể đặt công thức vào bên trong cho công thức mà bạn cần Lò nung, chẳng hạn như nấu chảy Raw Processors. Miễn là &3Autocrafter được gắn vào hệ thống của bạn và Lò nung có Nhà nhập khẩu gắn liền với nó, Crafter sẽ cho phép bạn yêu cầu phiên bản nấu chảy của Bộ xử lý!"]
+	quest.44881E39AB1D62AA.quest_desc: ["&3Autocrafter là cách chúng tôi lưu trữ Mẫu cho mạng của mình để biết cách chế tạo vật phẩm. Sau khi công thức được đưa vào máy, bạn sẽ có thể 'Yêu cầu' chế tạo một vật phẩm từ &3Grid của mình. Bạn có thể thực hiện việc này bằng cách nhấn Control + Shift trong khi nhấp vào mục bạn có công thức chế tạo để hiển thị giao diện chế tạo.\n\nKhối này cũng có thể được đặt đối diện với một máy để sử dụng &6Mẫu xử lý. Ví dụ: nếu bạn trỏ &3Autocrafter vào Lò nung, bạn có thể đặt công thức vào bên trong cho công thức mà bạn cần Lò nung, chẳng hạn như nấu chảy Raw Processors. Miễn là &3Autocrafter được gắn vào hệ thống của bạn và Lò nung có Nhà nhập khẩu gắn liền với nó, chế tạoer sẽ cho phép bạn yêu cầu phiên bản nấu chảy của Bộ xử lý!"]
 	quest.44881E39AB1D62AA.quest_subtitle: "Chế tạo tự động!"
 	quest.44881E39AB1D62AA.title: "&3Autocrafter"
 	quest.45FF08E4DB6F7F0E.quest_desc: ["Elite Autocrafter có 18 khe Mẫu và hoạt động nhanh hơn gấp 2 lần."]
@@ -88,7 +88,7 @@
 	quest.5BB7648DC10E1E08.quest_desc: ["&bUltra EXPERER có 36 khe lọc, hoạt động nhanh hơn gấp 5 lần và được tích hợp &eStack Nâng cấp."]
 	quest.5BB7648DC10E1E08.title: "&bNhà xuất khẩu siêu"
 	quest.5CAC395680027354.quest_desc: ["&bLiên chiều Wireless Transmitter là phiên bản nâng cấp của &3Bộ phát không dây có phạm vi vô hạn, thậm chí trên các chiều."]
-	quest.5CAC395680027354.quest_subtitle: "TLDR: Good Wifi"
+	quest.5CAC395680027354.quest_subtitle: "Tóm tắt: Wi-Fi xịn"
 	quest.5CAC395680027354.title: "&dLiên chiều Wireless Transmitter"
 	quest.5EAD916C4F15335F.quest_desc: ["&4Mega Importer có 54 khe lọc, hoạt động nhanh hơn 8 lần và được tích hợp &eStack Nâng cấp."]
 	quest.5EAD916C4F15335F.title: "&Nhà nhập khẩu 4Mega"
@@ -104,9 +104,9 @@
 	quest.65C8A43FEDBA3835.quest_subtitle: ""
 	quest.65C8A43FEDBA3835.title: "&3Lưới mẫu"
 	quest.66D85424EC74EDCC.quest_desc: ["&9Portable Grid là một hệ thống lưu trữ di động không được kết nối với mạng.\n\nNó cho phép bạn tương tác với &9Storage Disk trong khi không được kết nối với mạng."]
-	quest.6904EC449FBEE387.quest_desc: ["&9Cables&r are used to connect blocks and items to your system.\\\\n\\\\nEarly on, you can get by with placing blocks next to each other to connect them to your system, but Cables allow you to extend out! This is a staple for any large RS network."]
+	quest.6904EC449FBEE387.quest_desc: ["&9Cables&r được dùng để kết nối các khối và thiết bị vào hệ thống của bạn.\\\\n\\\\nGiai đoạn đầu, bạn có thể tạm dùng cách đặt các khối sát nhau để kết nối, nhưng Cables cho phép bạn kéo mạng đi xa hơn! Đây là thứ cốt lõi cho mọi mạng RS quy mô lớn."]
 	quest.6904EC449FBEE387.quest_subtitle: "Kết nối hệ thống"
-	quest.6904EC449FBEE387.title: "Cables"
+	quest.6904EC449FBEE387.title: "Cáp"
 	quest.6973A5923AF7BF05.quest_desc: ["Elite Importer có 18 khe lọc và hoạt động nhanh hơn gấp 2 lần."]
 	quest.6973A5923AF7BF05.quest_subtitle: ""
 	quest.6973A5923AF7BF05.title: ""
@@ -119,7 +119,7 @@
 	quest.6DB06E3984D0CF97.quest_desc: ["Elite Constructor có 18 khe lọc và hoạt động nhanh hơn gấp 2 lần."]
 	quest.6DB06E3984D0CF97.quest_subtitle: ""
 	quest.6DB06E3984D0CF97.title: ""
-	quest.7044EAB5EDF32BBC.quest_desc: ["Khi được gắn vào hệ thống của bạn, &9Crafting Monitor cho phép bạn xem những vật phẩm nào hiện có trong hàng đợi chế tạo của bạn.\n\nBạn sẽ cần một trong những thứ này nếu muốn hủy các tác phẩm thủ công không hoạt động hoặc bị nghe trộm."]
+	quest.7044EAB5EDF32BBC.quest_desc: ["Khi được gắn vào hệ thống của bạn, &9chế tạoing Monitor cho phép bạn xem những vật phẩm nào hiện có trong hàng đợi chế tạo của bạn.\n\nBạn sẽ cần một trong những thứ này nếu muốn hủy các tác phẩm thủ công không hoạt động hoặc bị nghe trộm."]
 	quest.7044EAB5EDF32BBC.quest_subtitle: ""
 	quest.7044EAB5EDF32BBC.title: "&3Giám sát quá trình tự động hóa"
 	quest.718A2040D868E09F.title: "&21048m Storage Part"

@@ -1,13 +1,13 @@
 {
-	quest.0AE83A6CC21F96D4.quest_desc: ["Electrolysing a &#3127F5Singularity&r will make &#DA27F5UU Matter&r. In this process, the &#3127F5Singularity&r is &n&aNOT&r consumed."]
-	quest.1E22A0D5F4B2EB0D.quest_subtitle: "Freezing Argon with Helium"
-	quest.27826D74ADC73556.quest_desc: ["Cooking &#ED8C61Copper Dust&r with &#90F0E7Oxygen&r in a &#E3CE54Kanthal EBF&r will give you &#E87848Annealed Copper Hot Ingot&r. This can be cooled down in a &#4CBBD9Vacuum Freezer&r to get &#E87848Annealed Copper Ingot&r. These ingots can be macerated for the &#E87848Annealed Copper Dust&r."]
+	quest.0AE83A6CC21F96D4.quest_desc: ["Điện phân &#3127F5Singularity&r sẽ tạo ra &#DA27F5UU Matter&r. Trong quá trình này, &#3127F5Singularity&r &n&akhông&r bị tiêu hao."]
+	quest.1E22A0D5F4B2EB0D.quest_subtitle: "Đông lạnh Argon bằng Helium"
+	quest.27826D74ADC73556.quest_desc: ["Nung &#ED8C61Copper Bụi&r với &#90F0E7Oxygen&r trong &#E3CE54Kanthal EBF&r sẽ cho &#E87848Annealed Copper Hot thỏi&r. Sau đó có thể làm nguội trong &#4CBBD9Vacuum Freezer&r để nhận &#E87848Annealed Copper thỏi&r. Các ingot này có thể được macerate để ra &#E87848Annealed Copper Bụi&r."]
 	quest.3AB0822F02350DA3.quest_subtitle: "Vô hạn Damage"
-	quest.3B99290BE63F2968.quest_subtitle: "Compressing Carbon Dust"
-	quest.4F780343E3FFA43E.quest_subtitle: "This is the End"
-	quest.53C167AF34694F8F.quest_desc: ["Mixing together &#40B36AYttrium&r, &#DBA146Annealed Copper&r, &#33CC3ANeodymium&r and &#D6D290Iridium&r Dusts will make &#5EDEE0SuperConductor Dust&r. This can be cooked in a &#E3CE54Kanthal EBF&r to be cooled down in the &#4CBBD9Vacuum Freezer&r."]
+	quest.3B99290BE63F2968.quest_subtitle: "Compressing Carbon Bụi"
+	quest.4F780343E3FFA43E.quest_subtitle: "Đây là hồi kết"
+	quest.53C167AF34694F8F.quest_desc: ["Trộn &#40B36AYttrium&r, &#DBA146Annealed Copper&r, &#33CC3ANeodymium&r và &#D6D290Iridium&r Bụis sẽ tạo ra &#5EDEE0SuperConductor Bụi&r. Loại dust này có thể được nung trong &#E3CE54Kanthal EBF&r rồi làm nguội trong &#4CBBD9Vacuum Freezer&r."]
 	quest.53C167AF34694F8F.quest_subtitle: "Conducting superly"
 	quest.54C852CA6E056589.quest_subtitle: "Nuclear Batteries"
-	quest.732DA855AFF62907.quest_desc: ["Centrifuging &8Coal&r will make &7Carbon Dust&r."]
+	quest.732DA855AFF62907.quest_desc: ["Đưa &8Coal&r vào centrifuge sẽ tạo ra &7Carbon Bụi&r."]
 	task.121A74E938A0320C.title: "UU Matter"
 }

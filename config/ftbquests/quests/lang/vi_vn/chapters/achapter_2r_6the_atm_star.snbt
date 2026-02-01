@@ -1,13 +1,13 @@
 {
 	quest.00F00B0B66059996.quest_desc: [
-		"Được rồi, thêm &lMultiblock&r! Cái này yêu cầu nhiều cổng hơn bất kỳ cái nào Naval Base từng thấy!\n\nChúng ta sẽ cần &3Fluid Input &fvà &3Output&r nở và &6Item Input &fvà &6Đầu ra&r nở.\n\nBây giờ, việc này sẽ mất một chút thời gian, vì vậy hãy làm theo một cách cẩn thận!\n\nTrước tiên, chúng ta sẽ cần &7Unrefined Liquid Souls&r xuất phát từ việc sử dụng Fluid Extractor (từ &lIF&r) trên Soul Tree.\n\nTiếp theo, chúng ta cần &dLiquefied Source&r mà chúng ta có thể nhận được bằng cách sử dụng &9Source Condenser&r. &9Source Condenser&r sẽ kéo Nguồn từ Source Jars gần đó và biến nó thành &dLiquefied Source&r!\n\nSau đó, chúng ta có thể sử dụng &b&lRunic Crucible&r để kết hợp các Linh hồn, &7Unrefined Liquid Souls&r, và &dLiquefied Source&r cùng nhau thành Liquid Souls!\n\nCuối cùng, chúng ta sẽ sử dụng Liquid Souls, &dLiquefied Source&r và một số vật phẩm từ &l&5Mekanism&r để chế tạo &5Thép Obsidian&r."
+		"Được rồi, thêm &lđa khối&r! Cái này yêu cầu nhiều cổng hơn bất kỳ cái nào Căn cứ Hải quân từng thấy!\n\nChúng ta sẽ cần &3Cổng Đầu vào Chất lỏng &fvà &3Cổng Đầu ra&r, cùng &6Cổng Đầu vào Vật phẩm &fvà &6Cổng Đầu ra&r.\n\nBây giờ, việc này sẽ mất một chút thời gian, vì vậy hãy làm theo một cách cẩn thận!\n\nTrước tiên, chúng ta sẽ cần &7Linh hồn Lỏng Chưa tinh chế&r xuất phát từ việc sử dụng Máy Chiết Chất lỏng (từ &lIF&r) trên Cây Linh hồn.\n\nTiếp theo, chúng ta cần &dNguồn Hóa lỏng&r mà chúng ta có thể nhận được bằng cách sử dụng &9Máy Ngưng tụ Nguồn&r. &9Máy Ngưng tụ Nguồn&r sẽ kéo Nguồn từ các Bình Nguồn gần đó và biến nó thành &dNguồn Hóa lỏng&r!\n\nSau đó, chúng ta có thể sử dụng &b&lRunic Crucible&r để kết hợp các Linh hồn, &7Linh hồn Lỏng Chưa tinh chế&r và &dNguồn Hóa lỏng&r cùng nhau thành Linh hồn Lỏng!\n\nCuối cùng, chúng ta sẽ sử dụng Linh hồn Lỏng, &dNguồn Hóa lỏng&r và một số vật phẩm từ &l&5Mekanism&r để chế tạo &5Thép Obsidian&r."
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:125 height:100 align:center}"
-		"Lớp đầu tiên của &l&bRunic Crucible&r có &6Gilded Chiseled Polished Darkstone&r ở giữa, xung quanh là &9Polished Darkstone&r. Sau đó, ở các cạnh, chúng ta sẽ có &9Polished Darkstone Stairs&r lộn ngược, với &7Rune Blocks&r ở các góc."
+		"Lớp đầu tiên của &l&bRunic Crucible&r có &6Gilded Chiseled Polished Darkstone&r ở giữa, xung quanh là &9Polished Darkstone&r. Sau đó, ở các cạnh, chúng ta sẽ có &9Cầu thang Polished Darkstone&r lộn ngược, với &7Khối Rune&r ở các góc."
 
 		"{image:atm:textures/questpics/chap3/creative_crucible2.png width:125 height:100 align:center}"
-		"Chấm nhẹ vào giữa, chúng ta sẽ đặt &bArcane Crystal&r với &9Polished Darkstone Stairs&r xung quanh nó. Ở hai bên sẽ là &6Arcane Polished Darkstone Pillars&r, &9Polished Darkstone&r sẽ được thay thế bằng Hatch và &6Arcane Polished Darkstone&r."
+		"Chấm nhẹ vào giữa, chúng ta sẽ đặt &bArcane Crystal&r với &9Cầu thang Polished Darkstone&r xung quanh nó. Ở hai bên sẽ là &6Arcane Polished Darkstone Pillars&r; &9Polished Darkstone&r sẽ được thay thế bằng Cửa sập và &6Arcane Polished Darkstone&r."
 
 		"{image:atm:textures/questpics/chap3/creative_crucible3.png width:125 height:100 align:center}"
 		"Chỉ cần đặt &bArcane Crystal Blocks&r trên mỗi góc và kết thúc một ngày!"
@@ -22,17 +22,17 @@
 	]
 	quest.00F00B0B66059996.title: "&b&lRunic Crucible"
 	quest.050CCE5D1DD6B21E.quest_desc: [
-		"Một trong những &lMutliblocks&r quan trọng nhất, chủ yếu là vì chúng ta cần nó cho &lMultiblocks&r khác. \n\nỞ đây bạn sẽ cần &bFluid Input&r (mỗi &bInput&r chỉ có thể chứa 1 loại &bFluid&r nên bạn sẽ cần nhiều), &cEnergy Input&r, và &eItem Input&r và Output Hatches. \n\nBằng cách sử dụng các Hatch đó, chúng ta có thể nhập tất cả &eItems&r, &bFluids&r và &cEnergy&r và nó sẽ chế tạo các Vật phẩm của chúng ta, giống như các vật phẩm khác &5Multiblock Controllers&r! \n\nHoặc chế tạo các Vật phẩm cần thiết cho &6Star Parts&r! Bạn sẽ cần rất nhiều &4Máu&f, &bAureal&f, Linh hồn và &cNăng lượng&r cho chúng!"
+		"Một trong những &lđa khối&r quan trọng nhất, chủ yếu là vì chúng ta cần nó cho các &lđa khối&r khác. \n\nỞ đây bạn sẽ cần &bĐầu vào Chất lỏng&r (mỗi &bĐầu vào&r chỉ có thể chứa 1 loại &bChất lỏng&r nên bạn sẽ cần nhiều), &cĐầu vào Năng lượng&r, và &eĐầu vào Vật phẩm&r cùng các Cửa sập Đầu ra. \n\nBằng cách sử dụng các cửa sập đó, chúng ta có thể nhập tất cả &eVật phẩm&r, &bChất lỏng&r và &cNăng lượng&r và nó sẽ chế tạo các vật phẩm của chúng ta, giống như các vật phẩm khác &5Bộ điều khiển đa khối&r! \n\nHoặc chế tạo các vật phẩm cần thiết cho &6Bộ phận Sao&r! Bạn sẽ cần rất nhiều &4Máu&f, &bAureal&f, Linh hồn và &cNăng lượng&r cho chúng!"
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
-		"Lớp đầu tiên khá đơn giản. Chỉ một số &9Polished Darkstone Blocks &fvà &9Cầu thang&r. Cùng với &7Rune Blocks&r và &6Arcane Polished Darkstone&r. Đợi đã, tôi gần như quên mất Khối quan trọng nhất! &5Forge Block&r"
+		"Lớp đầu tiên khá đơn giản. Chỉ một số &9Khối Polished Darkstone &fvà &9Cầu thang&r. Cùng với &7Khối Rune&r và &6Arcane Polished Darkstone&r. Đợi đã, tôi gần như quên mất khối quan trọng nhất! &5Khối Lò rèn&r"
 
 		"{image:atm:textures/questpics/chap3/creative_forge2.png width:150 height:100 align:center}"
-		"Lớp tiếp theo sẽ có thêm &9Darkstone&r trong &9Blocks&f, &9Stairs&f, và &9Slabs&r và thậm chí &6Gilded Arcane Polished Darkstone&r và &6Chiseled Polished Arcane Darkstone&r. Không thể quên 4 &bArcane Crystal Obelisks&r!"
+		"Lớp tiếp theo sẽ có thêm &9Darkstone&r dưới dạng &9Khối&f, &9Cầu thang&f và &9Tấm&r; thậm chí còn có &6Gilded Arcane Polished Darkstone&r và &6Chiseled Polished Arcane Darkstone&r. Không thể quên 4 &bArcane Crystal Obelisks&r!"
 
 		"{image:atm:textures/questpics/chap3/creative_forge3.png width:150 height:100 align:center}"
-		"Điều này rất dễ dàng! Chỉ là một hình vuông &9&lTier 5 &6Forge&r ở trung tâm với 8 &6Darkstone Pedestals&r cách nó 2 dãy nhà."
+		"Điều này rất dễ dàng! Chỉ là một hình vuông &9&lCấp 5 &6Forge&r ở trung tâm với 8 &6Darkstone Pedestals&r cách nó 2 khối."
 
 		"{image:atm:textures/questpics/chap3/creative_forge4.png width:150 height:100 align:center}"
 		"Chúng ta sẽ bỏ qua một lớp vì không có gì được thêm vào đó! Thay vào đó, với một Khối không gian giữa chúng. Đặt &7Quantum Injector&r phía trên &9&lCấp 5 &6Forge&r."
@@ -42,42 +42,42 @@
 		"Cuối cùng là đặt thêm một vài cửa sập! Chúng ta sẽ cần chúng!"
 
 	]
-	quest.050CCE5D1DD6B21E.title: "&c&lAutomatic Hepheastus Forge"
-	quest.070CAEAD49B8DBA3.quest_desc: ["Đối với 8 ngăn xếp &7Compressed Iron Blocks&r và &6&lATM Sao&r, bạn có thể nhận được &5Sáng tạo &7Compressed Iron Block&r! \n\nNhiệt độ này có thể được đặt ở bất kỳ nhiệt độ nào bạn muốn, sau đó có thể được sử dụng trong Máy của bạn. \n\n8 chồng &7Compressed Iron Blocks&r bằng 4.608 &7Compressed Iron Ingots&r... chúc may mắn!"]
+	quest.050CCE5D1DD6B21E.title: "&c&lLò rèn Hephaestus Tự động"
+	quest.070CAEAD49B8DBA3.quest_desc: ["Đối với 8 ngăn xếp &7Khối Sắt Nén&r và &6&lATM Sao&r, bạn có thể nhận được &5Sáng tạo &7Khối Sắt Nén&r! \n\nNhiệt độ này có thể được đặt ở bất kỳ nhiệt độ nào bạn muốn, sau đó có thể được sử dụng trong máy của bạn. \n\n8 ngăn xếp &7Khối Sắt Nén&r bằng 4.608 &7thỏi Sắt Nén&r... chúc may mắn!"]
 	quest.070CAEAD49B8DBA3.title: "&5&lSáng tạo&7Khối Sắt Nén"
-	quest.0EF9C391EE42824A.quest_desc: ["Cái này đắt hơn một chút nhưng cũng vui hơn một chút! \n\n&bDiamonds&r thực tế có thể nhận được thông qua bất kỳ Mod nào. \n\n&7Flint&r có thể thu được thông qua nhiều cách chế biến Sỏi khác nhau: Ép, Nghiền, Làm giàu...? \n\nDripstone và Dripstone Blocks (chỉ là 4 Dripstone) có thể được tạo từ Extrator hoặc Mixers, cả hai đều cần Dripstones gốc để tạo ra nhiều hơn."]
-	quest.0EF9C391EE42824A.title: "&7Terrastomp Prism"
+	quest.0EF9C391EE42824A.quest_desc: ["Cái này đắt hơn một chút nhưng cũng vui hơn một chút! \n\n&bKim cương&r thực tế có thể nhận được thông qua bất kỳ mod nào. \n\n&7Đá lửa&r có thể thu được thông qua nhiều cách chế biến Sỏi khác nhau: Ép, Nghiền, Làm giàu...? \n\nNhũ đá và Khối Nhũ đá (chỉ là 4 Nhũ đá) có thể được tạo từ Extractor hoặc Máy Trộn; cả hai đều cần Nhũ đá gốc để tạo ra nhiều hơn."]
+	quest.0EF9C391EE42824A.title: "&7Lăng kính Terrastomp"
 	quest.149C260C10B34BB0.quest_subtitle: "5/5"
-	quest.149C260C10B34BB0.title: "Còn lại&6&lATM Ngôi sao&rphần"
-	quest.14C27D44D3C8EDF5.quest_desc: ["1. Rất có thể bạn sẽ loot &dEnd Cities&r để có được nó. \n\n2. Để tự động hóa nó, bạn cần có tất cả các mục. \n\nBột xương, &7Thuốc súng&r, &4Redstone&r, &cBlaze Powder&r và Phantom Membrane đều có thể được tự động hóa bằng &b&lHNN&r hoặc &2&lMA&r. \n\n&bArcane Crystals&r sẽ cần &6&lBees&r hoặc &2&lMA&r lấy nó rồi nung chảy thành &bBụi&r."]
-	quest.14C27D44D3C8EDF5.title: "&cMundabitur Dust"
-	quest.173541B0765DA13E.quest_desc: ["Cái này tôi cho là dễ tự động hóa nhất. \n\nPhantom Membranes, Lông vũ và Len có thể được tự động hóa thông qua &b&lHNN&r. \n\nChỉ có &7Bat Wing&r là khó nuôi hơn thông qua người sinh sản!"]
-	quest.173541B0765DA13E.title: "&fWhirlwind Prism"
+	quest.149C260C10B34BB0.title: "Phần còn lại&6&lATM Ngôi sao&r"
+	quest.14C27D44D3C8EDF5.quest_desc: ["1. Rất có thể bạn sẽ nhặt nó từ &dThành phố End&r (End Cities). \n\n2. Để tự động hóa nó, bạn cần có tất cả các vật phẩm. \n\nBột xương, &7Thuốc súng&r, &4Redstone&r, &cBột Quỷ lửa&r (Blaze Powder) và Màng Phantom (Phantom Membrane) đều có thể được tự động hóa bằng &b&lHNN&r hoặc &2&lMA&r. \n\n&bArcane Crystals&r sẽ cần &6&lBees&r hoặc &2&lMA&r lấy, rồi nung chảy thành &bBụi&r."]
+	quest.14C27D44D3C8EDF5.title: "&cMundabitur Bụi"
+	quest.173541B0765DA13E.quest_desc: ["Cái này tôi cho là dễ tự động hóa nhất. \n\nMàng Phantom (Phantom Membranes), Lông vũ và Len có thể được tự động hóa thông qua &b&lHNN&r. \n\nChỉ có &7Cánh Dơi&r (Bat Wing) là khó farm hơn thông qua người sinh sản!"]
+	quest.173541B0765DA13E.title: "&fLăng kính Lốc xoáy"
 	quest.1C566975C4EC5D93.quest_desc: ["Thành thật mà nói, chỉ cần sử dụng &2&lMA&r cho cái này. Đó là cách dễ nhất để có được tất cả chúng. \n\nVui lòng không tạo ra hàng loạt các cơ sở chăn nuôi &2Rùa&r và các trang trại giết mổ hàng loạt &bGuardian&r. TPS rất quan trọng!"]
-	quest.1C566975C4EC5D93.title: "&9Sea Prism"
-	quest.1D87415343E65AA7.quest_desc: ["&5Creative &8Compressor&r cho phép bạn chọn bất kỳ Bar Pressure nào bạn muốn! Tích cực, tiêu cực, thậm chí 0! Nó có thể được sử dụng trong Máy móc. \n\nBạn sẽ cần 4 ngăn xếp Advanced Pressure Tubes, Advanced Liquid Compressor, Advanced Air Compressor, Electrostatic Compressor và một Flux Compressor. \n\nTôi không biết điều gì khó hơn để có được &6&lStar&r hay ghi nhớ tất cả các Vật phẩm bạn cần để làm điều này!"]
-	quest.1D87415343E65AA7.title: "&5&lCreative&8Compressor"
-	quest.1FC1588A131B6A4A.quest_desc: ["Cũng giống như việc tạo &6&lATM Star&r thông thường, việc tự động hóa nó cần phải nằm trong &6&lRunic Star Altar&r! \n\nHãy xem Nhiệm vụ ở Chương 3 để tìm hiểu cách xây dựng và sử dụng nó."]
+	quest.1C566975C4EC5D93.title: "&9Lăng kính Biển"
+	quest.1D87415343E65AA7.quest_desc: ["&5Máy nén Sáng tạo &8(Compressor)&r cho phép bạn chọn bất kỳ áp suất (Bar Pressure) nào bạn muốn! Dương, âm, thậm chí 0! Nó có thể được sử dụng trong máy móc. \n\nBạn sẽ cần 4 ngăn xếp Advanced Pressure Tubes, Advanced Liquid Compressor, Advanced Air Compressor, Electrostatic Compressor và một Flux Compressor. \n\nTôi không biết điều gì khó hơn: kiếm được &6&lStar&r hay ghi nhớ tất cả các vật phẩm bạn cần để làm điều này!"]
+	quest.1D87415343E65AA7.title: "&5&lSáng tạo&8Compressor"
+	quest.1FC1588A131B6A4A.quest_desc: ["Cũng giống như việc tạo &6&lATM Star&r thông thường, việc tự động hóa nó cần phải nằm trong &6&lRunic Star Altar&r! \n\nHãy xem nhiệm vụ ở Chương 3 để tìm hiểu cách xây dựng và sử dụng nó."]
 	quest.1FC1588A131B6A4A.title: "&6&lRunic Star Altar"
-	quest.1FFF00B5D90C3905.quest_desc: ["Bạn có thể nhận được &cMundabitur Dust&r bằng nhiều cách khác nhau nên tôi sẽ chỉ giới thiệu nhanh cho bạn về &bArcane Crystals&r! \n\nĐúng vậy, đây là nguyên liệu chế tạo nếu bạn muốn chế tạo nó. \n\nTrước tiên, bạn sẽ phải khai thác &bArcane Crystals&r; sau đó, bạn có thể sử dụng &2&lMA&r hoặc &6&lBees&r để kiếm thêm tiền!"]
+	quest.1FFF00B5D90C3905.quest_desc: ["Bạn có thể nhận được &cMundabitur Bụi&r bằng nhiều cách khác nhau nên tôi sẽ chỉ giới thiệu nhanh cho bạn về &bArcane Crystals&r! \n\nĐúng vậy, đây là nguyên liệu chế tạo nếu bạn muốn chế tạo nó. \n\nTrước tiên, bạn sẽ phải khai thác &bArcane Crystals&r; sau đó, bạn có thể sử dụng &2&lMA&r hoặc &6&lBees&r để kiếm thêm tiền!"]
 	quest.1FFF00B5D90C3905.title: "&bArcane Crystals"
-	quest.203C91B992BA8CF9.quest_desc: ["Để làm lại &6&lATM Star&r, chúng tôi sẽ cần một Infused &dPatrick &aStar&r, cũng cần một &dPatrick &aStar&r cho nó. Cả hai đều được thực hiện thông qua &6&lRunic Star Altar&r. \n\nCác vật phẩm khác cần thiết để tạo Infused &dPatrick &aStar&r là 4 &5Mending Books&r và &dInfused Dragon's Breath&r có được thông qua &5&lRunic Enchanting&r. \n\n&6Star Shards&r mà chúng tôi nhận được từ những chú Ong của mình! \n\nVà các thỏi hợp kim: &3Vibranium&f-&6Allthemodium&r, &5Unobtainium&f-&6Allthemodium&r, và &5Unobtainium&f-&3Vibranium&r Thỏi. \n\nCả ba đều được chế tạo theo những cách riêng được mô tả trong chương &6&lAllthemodium&r! \n\nHãy ném tất cả những thứ này vào &6&lRunic Star Altar&r, cộng thêm 85MFE và chúng ta sẽ nhận được &dPatrick &aStar&r!"]
-	quest.203C91B992BA8CF9.title: "Infused&dPatrick&aStar"
-	quest.228CB313BAB6406E.quest_desc: ["Rõ ràng món này không có công thức mặc định! Có vẻ như Mod Dev không muốn bạn sử dụng đầu máy xe lửa &5Creative&r của mình trong Survival. \n\nTôi không nghĩ họ cũng vậy OP vì vậy hãy tận hưởng &5Trains&r của bạn! \n\nChúng hoạt động như bình thường &3Đầu máy&r mà không cần Nhiên liệu hoặc Năng lượng! Chỉ cần &6Rails&r."]
-	quest.228CB313BAB6406E.title: "&5&lCreative&8Locomotive"
+	quest.203C91B992BA8CF9.quest_desc: ["Để làm lại &6&lATM Star&r, chúng ta sẽ cần một &dPatrick &aStar&r Truyền nhiễm (Infused), cũng cần một &dPatrick &aStar&r cho nó. Cả hai đều được thực hiện thông qua &6&lRunic Star Altar&r. \n\nCác vật phẩm khác cần thiết để tạo &dPatrick &aStar&r Truyền nhiễm là 4 &5Sách Sửa chữa&r (Mending Books) và &dHơi thở Rồng Truyền nhiễm&r (Infused Dragon's Breath) có được thông qua &5&lRunic Enchanting&r. \n\n&6Mảnh Sao&r (Star Shards) mà chúng ta nhận được từ những chú Ong của mình! \n\nVà các thỏi hợp kim: &3Vibranium&f-&6Allthemodium&r, &5Unobtainium&f-&6Allthemodium&r, và &5Unobtainium&f-&3Vibranium&r. \n\nCả ba đều được chế tạo theo những cách riêng được mô tả trong chương &6&lAllthemodium&r! \n\nHãy ném tất cả những thứ này vào &6&lRunic Star Altar&r, cộng thêm 85MFE và chúng ta sẽ nhận được &dPatrick &aStar&r!"]
+	quest.203C91B992BA8CF9.title: "&dPatrick&aStar&r Truyền nhiễm"
+	quest.228CB313BAB6406E.quest_desc: ["Rõ ràng món này không có công thức mặc định! Có vẻ như nhà phát triển mod không muốn bạn sử dụng đầu máy xe lửa &5Creative&r của mình trong Sinh tồn. \n\nTôi không nghĩ nó quá OP, vậy nên hãy tận hưởng &5Tàu hỏa&r của bạn! \n\nChúng hoạt động như &3Đầu máy&r bình thường mà không cần Nhiên liệu hoặc Năng lượng! Chỉ cần &6Đường ray&r (Rails)."]
+	quest.228CB313BAB6406E.title: "&5&lĐầu máy Sáng tạo"
 	quest.235273F7C9A9B0D0.quest_subtitle: "3/5"
-	quest.235273F7C9A9B0D0.title: "Bottom Right&6&lATM Ngôi sao&rphần"
+	quest.235273F7C9A9B0D0.title: "Phần Dưới Phải&6&lATM Ngôi sao&r"
 	quest.23DE60E57136C207.quest_desc: ["Kho lưu trữ Năng lượng vô hạn dễ dàng nhất, chỉ cần 4 &3Energy Batteries&r (từ &3&lID&r) và một &6&lSao&r! \n\nBạn sẽ cần cung cấp năng lượng cho tất cả chúng bằng... cũng như nhiều Năng lượng mà &2&lMinecraft&r có thể xử lý... Đúng theo nghĩa đen là giới hạn số nguyên!"]
 	quest.23DE60E57136C207.title: "&5&lSáng tạo&3Energy Battery"
 	quest.360B150190A5C894.quest_desc: [
-		"Một điều khiến nhiều Modded Players khó chịu là &5Enchanting&r không thể hoàn toàn tự động được! Và bạn không thể chọn &5Enchants&r nào bạn muốn, bạn phải nhận được May mắn! \n\nĐừng lo lắng cả hai mong muốn đó đã được thực hiện! Với &5&lRunic Enchanter&r. \n\nĐể sử dụng nó, bạn sẽ không cần phải chạm vào &5Enchanting Table&r, chỉ cần đặt đúng Mục, &dSource&r và &aXP Fluid&r. \n\n&aXP Chất lỏng&r sẽ cần thu được bằng cách đóng chai một số dạng &aLiquid XP&r bằng Máy đóng chai từ &8&lImmersive Engineering&r, sau đó xử lý qua &7&lExtended Industrialization&r Máy đóng hộp. \n\nBạn sẽ cần thực hiện &dInfused Dragon's Breath&r và &5Mending Books&r để làm lại &6&lATM Star&r!"
+		"Một điều khiến nhiều người chơi mod khó chịu là &5Mê hoặc&r (Enchanting) không thể hoàn toàn tự động được! Và bạn không thể chọn các &5phép mê hoặc&r (Enchants) nào bạn muốn; bạn phải dựa vào may mắn! \n\nĐừng lo lắng, cả hai mong muốn đó đã được thực hiện với &5&lRunic Enchanter&r. \n\nĐể sử dụng nó, bạn sẽ không cần phải chạm vào &5Bàn Mê hoặc&r (Enchanting Table); chỉ cần đặt đúng vật phẩm, &dSource&r và &aXP Dạng lỏng&r (XP Fluid). \n\n&aXP Dạng lỏng&r sẽ cần thu được bằng cách đóng chai một số dạng &aLiquid XP&r bằng Máy đóng chai từ &8&lImmersive Engineering&r, sau đó xử lý qua &7&lExtended Industrialization&r Máy đóng hộp. \n\nBạn sẽ cần tạo &dHơi thở Rồng Truyền nhiễm&r (Infused Dragon's Breath) và &5Sách Sửa chữa&r (Mending Books) để làm lại &6&lATM Star&r!"
 
 		"{@pagebreak}"
-		"(&bLight Blue Carpet&r là &bSoul-Touched Deepshelf&r"
+		"(&bThảm Xanh lam nhạt&r (Light Blue Carpet) là &bSoul-Touched Deepshelf&r"
 
-		"&5Purple Carpet&r là &5Echoing Sculkshelf&r"
+		"&5Thảm Tím&r (Purple Carpet) là &5Echoing Sculkshelf&r"
 
-		"&9Blue Carpet&r là &9Soul-Touched Sculkshelf&r)"
+		"&9Thảm Xanh dương&r (Blue Carpet) là &9Soul-Touched Sculkshelf&r)"
 
 		"{image:atm:textures/questpics/chap3/creative_enchanter1.png width:125 height:100 align:center}"
 		"Phần đế của &5&lRunic Enchanter&r thực tế có đầy đủ mọi thứ! Nó có rất nhiều &9Darkstone&r, Giá sách, &7Rune Blocks&r và &bArcane Crystal Blocks&r!"
@@ -89,59 +89,59 @@
 		"Đừng lo lắng mọi chuyện sẽ trở nên dễ dàng hơn! Giữ thêm một vài Giá sách cũng như thêm &6Darkstone Pedestals&r và một &5Bảng mê hoặc&r."
 
 		"{image:atm:textures/questpics/chap3/creative_enchanter4.png width:125 height:100 align:center}"
-		"Heck cái này thậm chí còn dễ dàng hơn! Chỉ 4 &bSoul Lanterns&r trên các Giá sách cuối cùng."
+		"Trời ạ, cái này thậm chí còn dễ dàng hơn! Chỉ 4 &bSoul Lanterns&r trên các giá sách cuối cùng."
 
 		"{image:atm:textures/questpics/chap3/creative_enchanter5.png width:125 height:100 align:center}"
 		"Được rồi cái này quá dễ dàng hơn! Chỉ cần đặt một Khối &7Quantum Injector&r phía trên &5Bảng mê hoặc&r."
 
 		"{image:atm:textures/questpics/chap3/creative_enchanter6.png width:150 height:150 align:center}"
 		"{image:atm:textures/questpics/chap3/creative_enchanter7.png width:150 height:150 align:center}"
-		"Có lẽ đáng lẽ phải nói với bạn sớm hơn nhưng Hatches lại ở dưới cùng của &5&lRunic Enchanter&r... xin lỗi!"
+		"Có lẽ đáng lẽ phải nói với bạn sớm hơn nhưng các Cửa sập (Hatches) lại ở dưới cùng của &5&lRunic Enchanter&r... xin lỗi!"
 
 	]
 	quest.360B150190A5C894.title: "&5&lRunic Enchanter"
 	quest.36ABE142039E712B.quest_desc: ["Cái này hoạt động giống như bộ lưu trữ năng lượng vô hạn thông thường, chỉ có cái này mới có thể kết nối với hệ thống của bạn! Không bao giờ phải lo lắng về việc Hệ thống của bạn có đủ Nguồn hay không! Và điều đó bao gồm &5Quantum Armor&r. \n\nBạn sẽ cần 4 &dSuperdense Cells&r và một &6&lATM Star&r. Mỗi &dSuperdense Cell&r cần 8 &dDense Cells&r, mỗi &dDense Cell&r cần 8 &dEnergy Cells&r. \n\n256 &dEnergy Cells&r... cộng thêm rất nhiều năng lượng!"]
 	quest.36ABE142039E712B.title: "&5&lSáng tạo&dEnergy Cell"
 	quest.38BFF6F845EA479E.quest_subtitle: "4/5"
-	quest.38BFF6F845EA479E.title: "Bottom Left&6&lATM Ngôi sao&rphần"
+	quest.38BFF6F845EA479E.title: "Phần Dưới Trái&6&lATM Ngôi sao&r"
 	quest.3BB0926C4C00BE1D.quest_desc: ["Bạn có ghét khi hết Năng lượng trong Jetpack không? Vâng, bạn sẽ không bao giờ phải lo lắng về điều đó nữa! \n\nBạn có thể cần phải tạo mọi Jetpack trước nó, một &6&lATM Star&r, cùng với các Vật phẩm đắt tiền hơn nhưng nó rất đáng giá! \n\nChỉ cần đeo vào và sử dụng như bình thường, chỉ cần sạc ít hơn."]
-	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
+	quest.3BB0926C4C00BE1D.title: "&5&lJetpack Sáng tạo"
 	quest.3D755073C56274BE.quest_desc: ["Thả Lens Item trước Atomic Reconstructor và khi kích hoạt, nó sẽ biến thành Ống kính &cC&eo&al&bo&3r&r. \n\nThả một Ống kính &cC&eo&al&bo&3r&r vào phía trước nó và khi nó đi nó sẽ tạo ra một Ống kính có &cKích nổ&r. \n\nTiếp tục làm điều này cho đến khi bạn nhận được Ống kính &3Certain Death&r."]
 	quest.3D755073C56274BE.title: "Ống kính&3Certain Death"
 	quest.3D78D9F4E8A60EDB.quest_desc: ["Hiện tại công thức khá đơn giản, chỉ cần 4 &dSource Jars&r, 4 &dSource Gem Blocks&r, và một &6&lStar&r. Đừng lo lắng điều này sẽ được thay đổi để thậm chí còn khó hơn! \n\nBình này luôn chứa đầy &dSource&r và có thể liên kết với bất kỳ thứ gì cần &dSource&r. Bao gồm các khối đa khối &6&lATM Star&r."]
 	quest.3D78D9F4E8A60EDB.quest_subtitle: "Nhận cái này trước!"
 	quest.3D78D9F4E8A60EDB.title: "&5&lCreative&dSource&fJar"
 	quest.3FF61A4D7A250AE1.quest_desc: ["Đối với &5Sáng tạo &cEnergy Cell&r này, đừng nhầm lẫn với &5Sáng tạo &dEnergy Cell&r, bạn sẽ cần 4 &cNitro Cells&r. \n\nMỗi &cNitro Cell&r cần 2 &aSpirited Cells&r và mỗi &aSpirited Cell&r cần 2 &bNiotic Cells&r. Điều này diễn ra trong một thời gian... \n\nTôi không làm phép toán này, hãy lấy Recipe Tree, tôi còn nhiều việc quan trọng hơn phải làm!"]
-	quest.3FF61A4D7A250AE1.quest_subtitle: "Unlimited Powah!"
+	quest.3FF61A4D7A250AE1.quest_subtitle: "Powah vô hạn!"
 	quest.3FF61A4D7A250AE1.title: "&l&cEnergy Cell&5(Sáng tạo)"
 	quest.405D2571E61694FD.quest_desc: ["Bằng cách nhấp chuột phải vào &dPatrick &aBee&r với &6&lATM Star Block&r, bạn sẽ nhận được một &6Starry Bee&r! \n\nBạn sẽ cần một &6&lATM Star Block&r khác để chúng thụ phấn... Có lẽ tôi nên nói với bạn điều đó trước đây... \n\n&6Starry Bees&r sẽ khiến &6Starry Combs&r mà sau đó có thể được sử dụng trong Máy ly tâm hiếm khi có được &6Star Shards&r!"]
-	quest.405D2571E61694FD.title: "&6Starry Bee&r!"
-	quest.427BBEB1F24E9DEE.quest_desc: ["Hầu hết &5Corrupti Dust&r đều được tự động hóa dễ dàng. \n\n&4Nether Wart&r có thể được tạo bằng bất kỳ trang trại tự động nào. &cBlaze Powder&r và &3Enderpearl Fragments&r có thể được làm từ &b&lHNN&r. Và &bArcane Crystals&r được hiển thị trong một Nhiệm vụ khác. \n\nChỉ &5Obsidiansteel&r sẽ cần được tự động hóa từ &b&lRunic Crucible&r."]
-	quest.427BBEB1F24E9DEE.title: "&5Corrupti Dust"
-	quest.4A6B585C2394A89A.quest_desc: ["Hai Mục chúng ta cần thông qua &5&lRunic Enchanter&r là &dInfused Dragon's Breath&r và &5Mending Books&r. \n\n&dInfused Dragon's Breath&r khá đơn giản, chỉ cần &aFluid XP&r, &dSource&r, và &dDragon's Breath&r! \n\n&dDragon's Breath&r có thể được farm khá dễ dàng với &b&lHNN&r hoặc thậm chí tốt hơn là một Trình trích xuất từ &l&9X&cy&aC&8r&aa&cf&9t&r. \n\n&5Sửa sách&r có thể được tự động hóa với &aFluid XP&r, &dSource&r, &9Lapis Lazuli&r, &4Supremium Enchanting Base&r, và phần khó nhất là &aExperience Rod&r. \n\n&9Lapis&r có thể từ &2&lMA&r, &6&lBees&r, hoặc thậm chí chỉ Mỏ đá. \n\n&aExperience Rod&r sẽ cần hai hợp kim từ &a&lEnderIO&r: Soularium và Energetic Alloy. Cả hai đều có thể được làm từ Alloy Smelter. \n\n&4Supremium Enchanting Base&r là một Vật phẩm mới được tạo ra cho &5&lRunic Enchanter&r, bạn sẽ cần sử dụng rất nhiều &aEXP Tinh chất&r và Tiered Essences để nhận từ Sách và Bút lông (có thể được tự động hóa thông qua &b&lHNN&r) đến &4Supremium Enchanting Base&r!"]
-	quest.4F7F0A5162D70082.quest_desc: ["Đừng nhầm lẫn, có &5Sáng tạo đầy đủ và trống &aEnergy Cube&r. \n\n&aEmpty Cubes&r hoạt động như một Energy Trash Can, vô hiệu hóa mọi Năng lượng đi vào nó. \n\n&aFull Cubes&r hoạt động như một kho lưu trữ năng lượng vô hạn. Tuy nhiên, bạn sẽ cần &atrống Energy Cubes&r để làm nó... và những thứ đó đắt tiền! \n\nKích hoạt 4 &atrống Energy Cubes&r với &6&lATM Star&r bạn có thể nhận được đầy đủ."]
+	quest.405D2571E61694FD.title: "&6Ong Sao&r!"
+	quest.427BBEB1F24E9DEE.quest_desc: ["Hầu hết &5Corrupti Bụi&r đều được tự động hóa dễ dàng. \n\n&4Nether Wart&r có thể được tạo bằng bất kỳ trang trại tự động nào. &cBột Quỷ lửa&r (Blaze Powder) và &3Mảnh Ngọc Ender&r (Enderpearl Fragments) có thể được làm từ &b&lHNN&r. Và &bArcane Crystals&r được hiển thị trong một nhiệm vụ khác. \n\nChỉ &5Obsidiansteel&r sẽ cần được tự động hóa từ &b&lRunic Crucible&r."]
+	quest.427BBEB1F24E9DEE.title: "&5Corrupti Bụi"
+	quest.4A6B585C2394A89A.quest_desc: ["Hai vật phẩm chúng ta cần thông qua &5&lRunic Enchanter&r là &dHơi thở Rồng Truyền nhiễm&r (Infused Dragon's Breath) và &5Sách Sửa chữa&r (Mending Books). \n\n&dHơi thở Rồng Truyền nhiễm&r khá đơn giản: chỉ cần &aXP Dạng lỏng&r (Fluid XP), &dSource&r và &dHơi thở Rồng&r (Dragon's Breath)! \n\n&dHơi thở Rồng&r có thể farm khá dễ dàng với &b&lHNN&r hoặc thậm chí tốt hơn là một Trình trích xuất từ &l&9X&cy&aC&8r&aa&cf&9t&r. \n\n&5Sách Sửa chữa&r có thể được tự động hóa với &aXP Dạng lỏng&r, &dSource&r, &9Lapis Lazuli&r, &4Đế Mê hoặc Supremium&r (Supremium Enchanting Base) và phần khó nhất là &aGậy Kinh nghiệm&r (Experience Rod). \n\n&9Lapis&r có thể đến từ &2&lMA&r, &6&lBees&r, hoặc thậm chí chỉ bằng Mỏ đá. \n\n&aGậy Kinh nghiệm&r sẽ cần hai hợp kim từ &a&lEnderIO&r: Soularium và Energetic Alloy. Cả hai đều có thể được làm từ lò luyện hợp kim. \n\n&4Đế Mê hoặc Supremium&r là một vật phẩm mới được tạo ra cho &5&lRunic Enchanter&r; bạn sẽ cần sử dụng rất nhiều &aTinh chất EXP&r và Tinh chất theo bậc để nâng từ Sách và Bút lông (có thể được tự động hóa thông qua &b&lHNN&r) lên &4Đế Mê hoặc Supremium&r!"]
+	quest.4F7F0A5162D70082.quest_desc: ["Đừng nhầm lẫn: có &5Sáng tạo đầy đủ&r và &aEnergy Cube Trống&r. \n\n&aKhối Trống&r (Empty Cubes) hoạt động như một thùng rác năng lượng, vô hiệu hóa mọi năng lượng đi vào nó. \n\n&aKhối Đầy&r (Full Cubes) hoạt động như một kho lưu trữ năng lượng vô hạn. Tuy nhiên, bạn sẽ cần &aEnergy Cube Trống&r để làm nó... và những thứ đó đắt tiền! \n\nKích hoạt 4 &aEnergy Cube Trống&r với &6&lATM Star&r, bạn sẽ nhận được bản &aĐầy&r."]
 	quest.4F7F0A5162D70082.title: "&5&lSáng tạo&aEnergy Cube"
-	quest.5436157FDFC9633E.quest_desc: ["Với Truyền &dPatrick &aStar&r, 5 &6Star Fragments&r, &5Corrupti Dust&r, &cMundabitur Dust&r và Ống kính của &4Killer&r chúng ta có thể xây dựng lại &6&lATM Stars&r, 100% tự động! \n\nGiờ đây, các vật phẩm &5Creative&r này sẽ dễ dàng chế tạo!"]
-	quest.5436157FDFC9633E.title: "Fully Automated&6&lATM Ngôi sao"
-	quest.5660E81BBEED6DC3.quest_desc: ["&dSoul Binding Crystal&r là loại khó chế tạo nhất. \n&3Ender Pearl Fragments&r có thể được chế tạo từ &3Ender Pearls&r có thể được nuôi từ &5Endermen&r. Bạn có thể sử dụng Trình trích xuất để nhận được &5Amethyst&r vô hạn. Thạch anh có thể được nuôi từ &2&lMA&r. \n\nBây giờ chúng ta cần tập trung vào Linh hồn. Để bắt đầu, chúng ta cần những Linh hồn bình thường! Mà chúng ta thường sử dụng Soul Extractor trên Soul Sand để lấy Linh hồn ra khỏi nó. \n\nNhưng đó là do sử dụng một Vật phẩm và nó thay đổi Soul Sand... Đầu tiên, chúng ta có thể thay thế chính mình bằng cách sử dụng Clicker từ &3&lJust Dire Things&r! \n\nBây giờ chúng ta chỉ cần thay thế Souless Sand bằng Soul Sand, có thể được sử dụng với Block Breakers và Trình đặt chỗ, cũng từ &3&lJust Dire Things&r. \n\nBây giờ chúng ta có thể kết hợp Linh hồn với &5Corrupti Dust&r và Trapped Souls (Vật phẩm farm từ &5Lunar Guardian&r) để nhận Corrupt Souls. \n\nCuối cùng, kết hợp Linh hồn với Liquid Aureal và Holy Hand Grenade để tạo thành Enchanted Souls. Holy Hand Grenade là từ một loạt công thức nấu ăn từ &c&lReliquary&r."]
-	quest.5660E81BBEED6DC3.title: "&dSoul Binding Crystal"
-	quest.6076D1DB438EB997.quest_desc: ["Công thức rất đơn giản, chỉ cần &7Coal&r, &cBlaze Powder&r và &bArcane Crystal Block&r. \n\n&7Coal&r và &bArcane Crystal&r có thể thu được thông qua Mỏ đá, &6&lBees&r, hoặc &2&lMA&r. \n\n&cBlaze Powder&r có thể nhận được từ hai Mod cuối cùng được đề cập, hoặc Trang trại và &b&lHNN&r. Có quá nhiều cách để nhận được &cBlaze Powder&r."]
-	quest.6076D1DB438EB997.title: "&cSmelter Prism"
+	quest.5436157FDFC9633E.quest_desc: ["Với Truyền &dPatrick &aStar&r, 5 &6Mảnh Sao&r (Star Fragments), &5Corrupti Bụi&r, &cMundabitur Bụi&r và Ống kính của &4Killer&r, chúng ta có thể xây dựng lại &6&lATM Stars&r, 100% tự động! \n\nGiờ đây, các vật phẩm &5Creative&r này sẽ dễ dàng chế tạo!"]
+	quest.5436157FDFC9633E.title: "Tự động hoàn toàn&6&lATM Ngôi sao"
+	quest.5660E81BBEED6DC3.quest_desc: ["&dTinh thể Liên kết Linh hồn&r (Soul Binding Crystal) là loại khó chế tạo nhất. \n&3Mảnh Ngọc Ender&r (Ender Pearl Fragments) có thể được chế tạo từ &3Ngọc Ender&r (Ender Pearls) có thể được farm từ &5Enderman&r. Bạn có thể sử dụng Trình trích xuất để nhận &5Thạch anh tím&r (Amethyst) vô hạn. Thạch anh có thể được farm từ &2&lMA&r. \n\nBây giờ chúng ta cần tập trung vào Linh hồn. Để bắt đầu, chúng ta cần những Linh hồn bình thường! Thông thường, chúng ta dùng Soul Extractor trên Soul Sand để lấy linh hồn ra khỏi nó. \n\nNhưng đó là do sử dụng một vật phẩm và nó thay đổi Soul Sand... Trước tiên, chúng ta có thể thay thế chính mình bằng cách sử dụng Clicker từ &3&lJust Dire Things&r! \n\nBây giờ chúng ta chỉ cần thay Soulless Sand bằng Soul Sand; có thể dùng với Block Breakers và Trình đặt khối, cũng từ &3&lJust Dire Things&r. \n\nBây giờ chúng ta có thể kết hợp Linh hồn với &5Corrupti Bụi&r và Trapped Souls (vật phẩm farm từ &5Lunar Guardian&r) để nhận Corrupt Souls. \n\nCuối cùng, kết hợp Linh hồn với Liquid Aureal và Holy Hand Grenade để tạo thành Enchanted Souls. Holy Hand Grenade là từ một loạt công thức từ &c&lReliquary&r."]
+	quest.5660E81BBEED6DC3.title: "&dTinh thể Liên kết Linh hồn"
+	quest.6076D1DB438EB997.quest_desc: ["Công thức rất đơn giản: chỉ cần &7Than&r (Coal), &cBột Quỷ lửa&r (Blaze Powder) và &bKhối Arcane Crystal&r. \n\n&7Than&r và &bArcane Crystal&r có thể thu được thông qua Mỏ đá, &6&lBees&r, hoặc &2&lMA&r. \n\n&cBột Quỷ lửa&r có thể nhận được từ hai mod cuối cùng được đề cập, hoặc Trang trại và &b&lHNN&r. Có quá nhiều cách để nhận &cBột Quỷ lửa&r."]
+	quest.6076D1DB438EB997.title: "&cLăng kính Đói"
 	quest.635BA2C17458E9E6.quest_desc: ["Với một công thức đơn giản như vậy, bạn thực sự sẽ có được một chiếc Máy khá hữu ích! \n\nChỉ cần đặt nó xuống, (cách bạn đặt nó sẽ thay đổi vị trí nhắm mục tiêu giống như một bộ phân phối!) Cung cấp cho nó một chút Sức mạnh và đặt cách nó hoạt động với &4Redstone Torch&r. \n\nNếu nó được đặt thành tắt, điều đó có nghĩa là nó sẽ tắt khi &4Redstone Signal&r được gửi tới nó. Trên Pusle, điều đó có nghĩa là nó sẽ kích hoạt bất cứ khi nào &4Redstone Signal&r được trao cho nó. \n\nChúng tôi chỉ đang tìm cách tự động hóa &6&lStar&r nên tôi sẽ không đi sâu quá, chúng tôi sẽ bắt đầu với Ống kính!"]
 	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
-	quest.66BAC2B478F9B119.title: "Top&6&lATM Sao&rphần"
-	quest.66E88F916B638B3B.quest_desc: ["Phần này có thể hơi khó hiểu, có khá nhiều &5Sáng tạo &eSách thần chú&r! Nhưng thứ chúng tôi muốn là từ &d&lAllTheArcanist Gear&r. \n\nĐể tạo cái này, chúng ta cần tạo cái từ &l&dArs Nouveau&r. &eSách chính tả&r đó cần có &eArchmage Spellbook&r, &6&lATM Sao&r và một vài Vật phẩm bổ sung. \n\nNó có cùng cấu hình với &eUnobtainium Spellbook&r nhưng có vô hạn Mana và tất cả Glyph đã được mở khóa! \n\nTất cả Spell Power BWAHAHAHAHA!"]
-	quest.66E88F916B638B3B.title: "&5&lCreative&eSpellbook"
-	quest.6C16670D16113DE9.quest_desc: ["Để tự động hóa việc chế tạo &6&lATM Star&r, chúng ta cần &6Star Shards&r. Để nhận được &6Star Shards&r chúng ta cần &6Starry Bees&r. \n\nVà tất nhiên, để có được &6Starry Bees&r chúng ta cần &dPatrick &aBees&r! Bạn hiếm khi có được &dPatrick &aBees&r bằng cách câu cá trong Warm Oceans! \nNếu không muốn chuyển đổi chúng, bạn cũng có thể nuôi &dPatrick &aStars&r với chúng."]
+	quest.66BAC2B478F9B119.title: "Phần Trên&6&lATM Sao&r"
+	quest.66E88F916B638B3B.quest_desc: ["Phần này có thể hơi khó hiểu, có khá nhiều &5Sách thần chú Sáng tạo&r! Nhưng thứ chúng ta muốn là từ &d&lAllTheArcanist Gear&r. \n\nĐể tạo cái này, chúng ta cần chế tạo cái từ &l&dArs Nouveau&r. &eSách chính tả&r đó cần có &eArchmage Spellbook&r, &6&lATM Sao&r và một vài vật phẩm bổ sung. \n\nNó có cùng cấu hình với &eUnobtainium Spellbook&r nhưng có vô hạn Mana và tất cả Glyph đã được mở khóa! \n\nToàn bộ Sức mạnh Phép thuật, BWAHAHAHAHA!"]
+	quest.66E88F916B638B3B.title: "&5&lSách thần chú Sáng tạo"
+	quest.6C16670D16113DE9.quest_desc: ["Để tự động hóa việc chế tạo &6&lATM Star&r, chúng ta cần &6Mảnh Sao&r (Star Shards). Để nhận được &6Mảnh Sao&r, chúng ta cần &6Ong Sao&r (Starry Bees). \n\nVà tất nhiên, để có được &6Ong Sao&r, chúng ta cần &dPatrick &aBees&r! Bạn hiếm khi có được &dPatrick &aBees&r bằng cách câu cá trong Warm Oceans! \nNếu không muốn chuyển đổi chúng, bạn cũng có thể nuôi &dPatrick &aStars&r với chúng."]
 	quest.6C16670D16113DE9.title: "&dPatrick&aStar&r... Con ong?"
-	quest.71B72958B9F80355.quest_desc: ["Đừng lo lắng sẽ không còn rơi ở giai đoạn này nữa! \n\nBây giờ chúng ta chỉ cần chế tạo! Chế tạo Ống kính &3Certain Death&r, với &bDiamond Sword&r và &5Enchanted Book Độ sắc nét V&r. \n\nBạn có thể nhận được &5Enchanted Books&r từ &5&lRunic Enchanter&r! Bạn có thể tìm hiểu thêm trong một Nhiệm vụ khác!"]
+	quest.71B72958B9F80355.quest_desc: ["Đừng lo lắng, sẽ không còn phải dựa vào rơi đồ ở giai đoạn này nữa! \n\nBây giờ chúng ta chỉ cần chế tạo! Chế tạo Ống kính &3Certain Death&r, với &bKiếm Kim cương&r (Diamond Sword) và &5Sách Mê hoặc&r Độ sắc nét V (Enchanted Book). \n\nBạn có thể nhận &5Sách Mê hoặc&r từ &5&lRunic Enchanter&r! Bạn có thể tìm hiểu thêm trong một nhiệm vụ khác!"]
 	quest.71B72958B9F80355.title: "Ống kính của&4Killer"
-	quest.73201E591C2A40CC.quest_desc: ["Bây giờ bạn đã có &6Star Shards&r, bạn có thể bắt đầu tạo các phần khác nhau để làm lại &6&lStars&r của chúng tôi! \n\nBạn sẽ cần tổng cộng 262 &6Star Shards&r để làm lại 1 &6&lStar&r... hy vọng bạn đã thiết lập Bee tốt!"]
-	quest.73201E591C2A40CC.title: "&6Star Shards&r"
+	quest.73201E591C2A40CC.quest_desc: ["Bây giờ bạn đã có &6Mảnh Sao&r (Star Shards), bạn có thể bắt đầu tạo các phần khác nhau để làm lại &6&lStars&r của chúng tôi! \n\nBạn sẽ cần tổng cộng 262 &6Mảnh Sao&r để làm lại 1 &6&lStar&r... hy vọng bạn đã thiết lập Bee tốt!"]
+	quest.73201E591C2A40CC.title: "&6Mảnh Sao&r"
 	quest.745E616E97838D2E.quest_desc: ["&lĐợi đã!&r Hãy ngăn chặn nạn diệt chủng hàng loạt động vật, có vẻ như PETA đã đưa ra một thỏa hiệp. Bạn ngừng giết hại những động vật vô tội và chúng sẽ trao cho bạn &5Sáng tạo &4Blood Drop&r! \n\nVới điều này, bạn có thể lấp đầy bất kỳ thùng chứa nào cần &4Blood&r vô hạn! \n\nĐể chế tạo nó, bạn sẽ cần 4 &bPromise of Tenacity&r, một &6&lATM Star&r, cùng với 4 Vật phẩm khác cần có đầy đủ &4Máu&r."]
 	quest.745E616E97838D2E.title: "&5&lSáng tạo&4Blood Drop"
 	quest.7A066DD274F970C2.quest_subtitle: "2/5"
-	quest.7A066DD274F970C2.title: "Đúng&6&lATM Ngôi sao&rphần"
-	quest.7C9154EF6068BE27.quest_desc: ["Về mặt kỹ thuật, bạn cũng có thể sử dụng Máy nghiền để biến &6&lATM Star&r thành 5 &6Star Shards&r... \n\nNhưng bạn sẽ cần 262 để tạo một &6&lStar&r... \n\nVậy tại sao bạn lại làm vậy?"]
+	quest.7A066DD274F970C2.title: "Phần Bên Phải&6&lATM Ngôi sao&r"
+	quest.7C9154EF6068BE27.quest_desc: ["Về mặt kỹ thuật, bạn cũng có thể sử dụng Máy nghiền để biến &6&lATM Star&r thành 5 &6Mảnh Sao&r... \n\nNhưng bạn sẽ cần 262 để tạo một &6&lStar&r... \n\nVậy tại sao bạn lại làm vậy?"]
 	quest.7C9154EF6068BE27.title: "Nhưng tại sao?"
 }

@@ -6,11 +6,11 @@
 		"Nó phải là một hình khối có kích thước tối thiểu là 3x3x3 và tối đa 7x7x7. Ngoài ra: One Quantum Computer Core có thể tự mình trở thành Quantum Computer."
 
 		""
-		"Quantum Computer Multiblock yêu cầu những điều sau:"
+		"Quantum Computer đa khối yêu cầu những điều sau:"
 
-		"- No khoảng trống có thể xuất hiện trong multiblock. Chúng có thể được lấp đầy bằng Quantum Crafting Unit mà không có thêm lợi ích nào."
+		"- No khoảng trống có thể xuất hiện trong multiblock. Chúng có thể được lấp đầy bằng Quantum chế tạoing Unit mà không có thêm lợi ích nào."
 
-		"- Exactly một Quantum Computer Core"
+		"- Chính xác một Quantum Computer Core"
 
 
 		"- Nhiều nhất là một Quantum Data Entangler"
@@ -32,7 +32,7 @@
 		"Lõi ma trận trình biên dịch mã là yếu tố xác định dung lượng mẫu, công việc chế tạo và tốc độ của đa khối."
 
 		""
-		"Craft Cores thêm 8 công việc chế tạo song song tối đa vào đa khối."
+		"chế tạo Cores thêm 8 công việc chế tạo song song tối đa vào đa khối."
 
 		"Pattern Cores thêm 36 khe mẫu vào đa khối."
 
@@ -42,10 +42,10 @@
 	quest.034AB493E1EC2E63.title: "Assembler Matrix Cores"
 	quest.07E5B0BF7D8E055A.quest_subtitle: "+30% Evasion Chance"
 	quest.09F43EB79DDBD127.quest_desc: [
-		"Công cụ xử lý dữ liệu lượng tử cho phép các vật phẩm được lưu trữ ở nhiều chiều, nhân hiệu quả dung lượng lưu trữ chế tạo trong Quantum Computer Multiblock lên 6. Ví dụ: bộ lưu trữ chế tạo lượng tử 256M giờ đây sẽ cung cấp Bộ lưu trữ chế tạo 1,5G."
+		"Công cụ xử lý dữ liệu lượng tử cho phép các vật phẩm được lưu trữ ở nhiều chiều, nhân hiệu quả dung lượng lưu trữ chế tạo trong Quantum Computer đa khối lên 6. Ví dụ: bộ lưu trữ chế tạo lượng tử 256M giờ đây sẽ cung cấp Bộ lưu trữ chế tạo 1,5G."
 
 		""
-		"&lBạn chỉ có thể có 1 trong số này trong Quantum Computer Multiblock."
+		"&lBạn chỉ có thể có 1 trong số này trong Quantum Computer đa khối."
 
 	]
 	quest.09F43EB79DDBD127.title: "Unnecessarily Large Storage: Quantum Data Entangler"
@@ -70,7 +70,7 @@
 	quest.0E06F323BF8C1D73.quest_subtitle: "Vì khi bạn không thể đối phó với sự suy tàn"
 	quest.0E06F323BF8C1D73.title: "Tự động hóa tinh thể Entro"
 	quest.12749A25600C7FF3.quest_desc: [
-		"Quantum Crafter là một công cụ tự động tạo mạnh mẽ và có thể cấu hình được. Với toàn bộ kho của mạng ME trong tầm tay, việc chế tạo không ngừng nghỉ trở thành một nhiệm vụ tầm thường. Nó có khả năng thực hiện các công việc chế tạo với tốc độ rất nhanh. Nó cũng có khả năng chạy các phép thay thế chất lỏng cũng như các thủ công đệ quy (chẳng hạn như Sao chép mẫu Smithing)."
+		"Quantum chế tạoer là một công cụ tự động tạo mạnh mẽ và có thể cấu hình được. Với toàn bộ kho của mạng ME trong tầm tay, việc chế tạo không ngừng nghỉ trở thành một nhiệm vụ tầm thường. Nó có khả năng thực hiện các công việc chế tạo với tốc độ rất nhanh. Nó cũng có khả năng chạy các phép thay thế chất lỏng cũng như các thủ công đệ quy (chẳng hạn như Sao chép mẫu Smithing)."
 
 		""
 		"Bạn cũng có thể điều chỉnh số lượng từng thành phần bạn muốn giữ lại và tối đa số lượng sản phẩm bạn muốn giữ trong kho."
@@ -79,7 +79,7 @@
 		"Tuy nhiên, sẽ không chấp nhận yêu cầu chế tạo từ Pattern Providers."
 
 	]
-	quest.12749A25600C7FF3.title: "Fully Automated Crafting: Người chế tạo lượng tử"
+	quest.12749A25600C7FF3.title: "Fully Automated chế tạoing: Người chế tạo lượng tử"
 	quest.14FC9E4A3C80C0AE.quest_desc: [
 		"Buồng phản ứng có khả năng tăng tốc nhiều loại In-World Reactions bên trong chính nó, sử dụng chất lỏng xúc tác và lượng điện năng lớn. Do môi trường được kiểm soát, chiếc máy này có khả năng thực hiện các phản ứng nói trên hiệu quả hơn, cho phép bạn thu được nhiều nguyên liệu hơn từ chúng."
 
@@ -95,10 +95,10 @@
 	quest.18499D33BA12A8A9.quest_subtitle: "GET OUT: Phiên bản kích hoạt"
 	quest.18499D33BA12A8A9.title: "Tích cực đặt từ mạng: Mặt phẳng hình thành hoạt động"
 	quest.1A20BBBAFBEDF911.quest_desc: [
-		"Máy tính đa luồng của máy tính lượng tử nhân các luồng đồng xử lý trong Quantum Computer Multiblock với 6. Ví dụ: A Quantum Computer Accelerator sẽ cung cấp 72 luồng đồng xử lý với khối này trong đa khối."
+		"Máy tính đa luồng của máy tính lượng tử nhân các luồng đồng xử lý trong Quantum Computer đa khối với 6. Ví dụ: A Quantum Computer Accelerator sẽ cung cấp 72 luồng đồng xử lý với khối này trong đa khối."
 
 		""
-		"&lBạn chỉ có thể có một Quantum Computer Multi-Threader trong Quantum Computer Multiblock.&r"
+		"&lBạn chỉ có thể có một Quantum Computer Multi-Threader trong Quantum Computer đa khối.&r"
 
 
 		""
@@ -123,7 +123,7 @@
 		"Khuôn mặt có màn hình không thể kết nối với Mạng ME."
 
 	]
-	quest.1B90B94D07BBDD09.title: "Complex Crafter: Người lắp ráp pha lê"
+	quest.1B90B94D07BBDD09.title: "Complex chế tạoer: Người lắp ráp pha lê"
 	quest.1E535784A9D3DE89.quest_desc: ["Đây là những thứ từ ExtendedAE không yêu cầu Entro Crystals."]
 	quest.27FC0C092EE00532.quest_desc: ["ME Canner có thể đổ đầy hoặc làm rỗng các thùng chứa có thể chứa chất lỏng, hóa chất, năng lượng, chẳng hạn như xô, thùng chứa hóa chất, v.v. Nó tự động xuất ra các nhà cung cấp mẫu nếu một mẫu được sử dụng để điền vào chúng."]
 	quest.27FC0C092EE00532.quest_subtitle: "đừng nhầm lẫn với tôi caner"
@@ -140,7 +140,7 @@
 		"Điều này sẽ tạo ra &aBudding Entroized Fluix&r, tương tự như Budding Certus Quartz, sẽ phát triển Entro Buds xung quanh nó. Không giống như Certus, sự phân rã của nó là điều không thể tránh khỏi."
 
 		""
-		"&aBudding Entroized Fluix sẽ luôn rơi ra &r&aEntro Dust khi bị hỏng, bất kể nó ở trạng thái nào. Entro Buds sẽ rơi ra Entro Shards khi chúng chưa trưởng thành hoàn toàn."
+		"&aBudding Entroized Fluix sẽ luôn rơi ra &r&aEntro Bụi khi bị hỏng, bất kể nó ở trạng thái nào. Entro Buds sẽ rơi ra Entro Shards khi chúng chưa trưởng thành hoàn toàn."
 
 	]
 	quest.34FBD04361657724.quest_subtitle: "đừng nhầm lẫn với tinh thể thời gian"
@@ -149,7 +149,7 @@
 		"Void Cell cần được phân vùng (lọc) trong Cell Workbench trước khi sử dụng. Nó sẽ xóa bất cứ thứ gì xâm nhập vào hệ thống ME phù hợp với bộ lọc (giả sử ô trống được ưu tiên) hoặc ngưng tụ chúng thành Matter Balls hoặc Dị điểm, tương tự như Matter Condenser."
 
 		""
-		"Nhấp chuột phải vào nó để mở cấu hình GUI."
+		"Nhấp chuột phải vào nó để mở cấu hình giao diện."
 
 	]
 	quest.3621155A4138EBCA.title: "Matter Condenser trong một ô: Ô trống"
@@ -169,7 +169,7 @@
 	quest.3972EE0ECB215843.title: "Mở rộng \\& Nâng cao AE"
 	quest.3B3F1DE1AF6EBC1E.quest_subtitle: "+10 Sức mạnh"
 	quest.3CF32F2314839B1D.quest_desc: [
-		"Bạn cảm thấy mệt mỏi khi Certus Quartz mới chớm nở và Entroized Fluix đang suy tàn của mình? Chúng ta có thể sửa nó! Với Crystal Fixer này, bạn có thể sửa Pha lê Certus vừa chớm nở bằng Charged Certus Quartz và Entroized Fluix bằng Ender Dust."
+		"Bạn cảm thấy mệt mỏi khi Certus Quartz mới chớm nở và Entroized Fluix đang suy tàn của mình? Chúng ta có thể sửa nó! Với Crystal Fixer này, bạn có thể sửa Pha lê Certus vừa chớm nở bằng Charged Certus Quartz và Entroized Fluix bằng Ender Bụi."
 
 		""
 		"Nó thậm chí còn có một cơ hội nhỏ để tạo ra Flawless Budding Certus Quartz."
@@ -191,16 +191,16 @@
 	]
 	quest.3FE739EA7E297DF3.title: "Nhanh hơn và lớn hơn: Extended Devices"
 	quest.411A463E98C3B102.quest_desc: [
-		"Một số nguyên liệu bạn sẽ cần để tạo ra Quantum Computer, Crafter và Armor."
+		"Một số nguyên liệu bạn sẽ cần để tạo ra Quantum Computer, chế tạoer và Armor."
 
 		""
-		"Shattered Singularity được tạo ra với Điểm kỳ dị, 2 Ender Dust, 2 Sky Stone Dust và 100 mB Dung nham trong Reaction Chamber."
+		"Shattered Singularity được tạo ra với Điểm kỳ dị, 2 Ender Bụi, 2 Sky Stone Bụi và 100 mB Dung nham trong Reaction Chamber."
 
 		""
-		"1 xô Quantum Infusion được làm bằng 4 xô Nước và một Quantum Infused Dust, thu được bằng cách nghiền nát Shattered Singularity trong Máy ghi hoặc Mekanism Crusher."
+		"1 xô Quantum Infusion được làm bằng 4 xô Nước và một Quantum Infused Bụi, thu được bằng cách nghiền nát Shattered Singularity trong Máy ghi hoặc Mekanism Crusher."
 
 		""
-		"Quantum Infused Alloy được tạo ra với 1 thùng Quantum Infusion, 4 Copper Ingots, 4 Shattered và 4 Điểm kỳ dị thông thường."
+		"Quantum Infused Alloy được tạo ra với 1 thùng Quantum Infusion, 4 Copper thỏi, 4 Shattered và 4 Điểm kỳ dị thông thường."
 
 	]
 	quest.411A463E98C3B102.title: "Quantum Ingredients"
@@ -248,7 +248,7 @@
 		"&l&nĐánh dấu mẫu&l"
 
 		""
-		"Đôi khi, do cách hiển thị các mẫu trong một nhóm, bạn vẫn khó tìm được mẫu mình đang tìm kiếm. Với thiết bị đầu cuối này, mẫu bạn đang tìm kiếm sẽ được đánh dấu trong GUI."
+		"Đôi khi, do cách hiển thị các mẫu trong một nhóm, bạn vẫn khó tìm được mẫu mình đang tìm kiếm. Với thiết bị đầu cuối này, mẫu bạn đang tìm kiếm sẽ được đánh dấu trong giao diện."
 
 		""
 		"&l&nNhà cung cấp mẫu Trong-World Highlight&r"
@@ -274,7 +274,7 @@
 	quest.6033ABA2088BA70C.quest_subtitle: "No Flight Drift"
 	quest.6559C57A1A476489.quest_subtitle: "+5 Attack Speed"
 	quest.658DEAAD1E68E549.quest_desc: ["Các khối này mở rộng kho lưu trữ chế tạo của Quantum Core. Chúng tăng số lượng tác vụ đồng thời một cách hiệu quả mà Quantum Computer có ​​thể chạy. Họ cũng được yêu cầu tạo Quantum Computer Core."]
-	quest.658DEAAD1E68E549.title: "Massive Crafting Storage: Bộ lưu trữ máy tính lượng tử"
+	quest.658DEAAD1E68E549.title: "Massive chế tạoing Storage: Bộ lưu trữ máy tính lượng tử"
 	quest.67C7EF299BEC37DE.quest_subtitle: "Creative Flight"
 	quest.763A19067AEEF6D5.quest_subtitle: "+2 May mắn"
 	quest.7725CB7D0AE55180.quest_desc: [
@@ -300,7 +300,7 @@
 		"- Faces bao gồm Assembler Matrix Wall/Kính"
 
 
-		"- Interior bao gồm Assembler Matrix Pattern/Craft/Speed Core"
+		"- Interior bao gồm Assembler Matrix Pattern/chế tạo/Speed Core"
 
 
 		""

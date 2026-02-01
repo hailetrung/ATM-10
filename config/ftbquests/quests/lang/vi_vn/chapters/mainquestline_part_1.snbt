@@ -44,7 +44,7 @@
 		"Để triệu hồi trùm của Nether, trước tiên chúng ta cần thu thập một vài vật phẩm."
 
 		""
-		"Chúng ta cần có ít nhất 3 &5Wither Skeleton Skulls&r. Đây là những vật phẩm hiếm có khi tiêu diệt &7Wither Skeletons, hoặc có thể được chế tạo bằng vật phẩm phổ biến hơn, &3Wither Skull Fragments&r."
+		"Chúng ta cần có ít nhất 3 &5Wither Skeleton Skulls&r. Đây là những vật phẩm hiếm có khi tiêu diệt &7Wither Skeleton, hoặc có thể được chế tạo bằng vật phẩm phổ biến hơn, &3Wither Skull Fragments&r."
 
 		""
 		"Bạn cũng sẽ cần ít nhất 4 mảnh Soul Sand và có thể là một số áo giáp khá tốt."
@@ -67,7 +67,7 @@
 	quest.5792CC9E3AFAB229.quest_desc: ["Chúng tôi cũng có mod tên là &aGenerators Galore! Bản mod này bổ sung thêm các máy phát điện độc đáo sử dụng than hoặc các vật phẩm khác."]
 	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 là gói &aKitchensink, nghĩa là bạn có thể tự do khám phá và chơi modpack theo bất kỳ cách nào bạn muốn!\n\nTuy nhiên, có một mục tiêu cuối trò chơi: Trở thành Ngôi sao &6ATM!\n\nDòng nhiệm vụ này đóng vai trò là hướng dẫn cho tất cả người chơi, cho dù bạn là người mới làm quen với Minecraft hay đã chơi qua các gói ATM trước đó.\n\nGiống như hầu hết mọi modpack, hãy thu thập một ít gỗ để bắt đầu!"]
 	quest.5CF320E9C4C1B1E1.title: "&eChào mừng bạn đến với Bắt đầu!"
-	quest.5E799B92358A8732.quest_desc: ["Trong &cNether’s, bạn sẽ gặp &6Ancient Debris. Thứ này có thể được nấu chảy thành Phế liệu rồi kết hợp với Vàng để tạo ra &6Netherite Ingots, một kim loại cuối game dùng để chế tạo một số công cụ và áo giáp mạnh nhất trong trò chơi."]
+	quest.5E799B92358A8732.quest_desc: ["Trong &cNether’s, bạn sẽ gặp &6Ancient Debris. Thứ này có thể được nấu chảy thành Phế liệu rồi kết hợp với Vàng để tạo ra &6Netherite thỏi, một kim loại cuối game dùng để chế tạo một số công cụ và áo giáp mạnh nhất trong trò chơi."]
 	quest.5E799B92358A8732.title: "&dKim loại cổ"
 	quest.61C49BC2B384FB80.quest_desc: ["Khi bạn đã thu thập đủ Ender Pearls và Blaze Powder, bạn có thể tìm đường đến End Portal ở Overworld.\n\nĐể làm điều này, hãy chế tạo một số &dEyes of Ender và nhấp chuột phải để ném chúng lên trời. Chúng sẽ chỉ về hướng End Portal gần nhất.\n\nTìm đường đến Pháo đài, tìm End Portal và hoàn thành khung bằng cách sử dụng Eyes of Ender để tạo cổng dẫn đến &dThe End."]
 	quest.61C49BC2B384FB80.title: "&aTìm kiếm&dKết thúc"
@@ -89,7 +89,7 @@
 	quest.6D09511D64DDC282.title: "&5Giết người cai ngục"
 	quest.6EDAB29FBD3C60A3.quest_desc: ["Quần xã này đã được giới thiệu trong Wild Update!\n\nHãy cẩn thận! Bạn có thể vô tình triệu tập một người bạn mới.\n\ntái bút - He's không thân thiện."]
 	quest.6EDAB29FBD3C60A3.title: "&6Hãy ghé thăm&dDeep Dark&r!"
-	quest.6EE5BE5693E8ACE4.quest_desc: ["Trong &dThe End’s, bạn sẽ tìm thấy trùm cuối của Vanilla Minecraft: The &5Ender Dragon&r.\n\nỞ đầu mỗi cột của Obsidian, bạn sẽ tìm thấy End Crystal có ​​tác dụng chữa lành vết thương cho Rồng. Hãy chắc chắn để loại bỏ những thứ đó đầu tiên! Chúng cũng gây rất nhiều sát thương khi phát nổ, vì vậy hãy đảm bảo tạo khoảng cách!\n\nSau khi bị đánh bại, &dTrứng Rồng sẽ xuất hiện ở đầu Exit Portal. Khối này không thể được khai thác như các khối thông thường mà bị ảnh hưởng bởi trọng lực."]
+	quest.6EE5BE5693E8ACE4.quest_desc: ["Trong &dThe End’s, bạn sẽ tìm thấy trùm cuối của Vanilla Minecraft: The &5Rồng Ender&r.\n\nỞ đầu mỗi cột của Obsidian, bạn sẽ tìm thấy End Crystal có ​​tác dụng chữa lành vết thương cho Rồng. Hãy chắc chắn để loại bỏ những thứ đó đầu tiên! Chúng cũng gây rất nhiều sát thương khi phát nổ, vì vậy hãy đảm bảo tạo khoảng cách!\n\nSau khi bị đánh bại, &dTrứng Rồng sẽ xuất hiện ở đầu Exit Portal. Khối này không thể được khai thác như các khối thông thường mà bị ảnh hưởng bởi trọng lực."]
 	quest.6EE5BE5693E8ACE4.title: "&5Phần cuối"
 	quest.72989212DD45DC10.quest_desc: ["Để tìm thấy quả trứng này, bạn cần phải loại bỏ &aSuspicious Sand trong Warm Ocean Ruins.\n\nBạn có thể đặt Quả trứng vào thế giới và nó sẽ từ từ nở thành &dSnifflet. Quá trình này mất khoảng 20 phút để nở bình thường, nhưng có thể đặt trên khối Rêu để tăng gấp đôi tốc độ nở, chỉ mất 10 phút để nở.\n\nSnifflet cuối cùng sẽ phát triển thành &dSniffer trưởng thành và có thể đánh hơi các vật phẩm như &2Torchflower Seeds hoặc &2Pitcher Pods khi chúng đi lang thang qua các khối mà chúng có thể đào vào.\n\nBạn có thể nhân giống 2 Sniffer trưởng thành bằng cách sử dụng Torchflowers."]
 	quest.72989212DD45DC10.quest_subtitle: "Scruff McGruff's Distant Cousin"

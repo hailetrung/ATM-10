@@ -10,7 +10,7 @@
 	quest.186731580B14F9D2.quest_desc: ["Để tương tác với Turbine, chúng ta sẽ cần một số &6Port.\n\nCổng &9Fluid được sử dụng để đưa hơi như &bSteam, hoặc hút khí thải, như &9water. Vì điều này, bạn sẽ cần hai cái cho Turbine của mình.\n\n&cPower Tap sẽ lấy năng lượng và cần thiết để hoàn thành quá trình đa khối."]
 	quest.186731580B14F9D2.title: "Turbine Ports"
 	quest.19DE6EBEA8219E8E.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
-	quest.2598273041353196.quest_desc: ["Khi xây dựng &aReprocessor, bạn sẽ cần ít nhất một &eCollector và &9Waste Injector.\n\n&eReprocessor Collector phải được đặt ở giữa mặt dưới của cấu trúc.\n\nĐầu phun &9Waste phải nằm ở giữa mặt trên, đó là nơi bạn sẽ dẫn ống vào hoặc chèn chất thải như &9Cyanite Ingots."]
+	quest.2598273041353196.quest_desc: ["Khi xây dựng &aReprocessor, bạn sẽ cần ít nhất một &eCollector và &9Waste Injector.\n\n&eReprocessor Collector phải được đặt ở giữa mặt dưới của cấu trúc.\n\nĐầu phun &9Waste phải nằm ở giữa mặt trên, đó là nơi bạn sẽ dẫn ống vào hoặc chèn chất thải như &9Cyanite thỏi."]
 	quest.2598273041353196.title: "Nhập khẩu chất thải"
 	quest.25D4406CB86C8CBB.quest_desc: ["Bây giờ chúng tôi đang thu thập một số &9 chất thải từ lò phản ứng của mình, một phần của quá trình này yêu cầu bạn \"Hỏng hóa\" một số thỏi mà bạn nhận được. Bạn biết điều đó có nghĩa là gì không?\n\nChúng ta cần tạo ra một &aFluidizer! Thành phần chính là &aFluidizer Controller. Sau khi xây dựng, bạn có thể nhấp chuột phải vào đây để mở giao diện. Tại đây, bạn có thể bật hoặc tắt, xem bên trong có gì và mức năng lượng hiện tại."]
 	quest.25D4406CB86C8CBB.title: "chất lỏng"
@@ -61,7 +61,7 @@
 	quest.4AD8363D7359A072.quest_subtitle: "Học những điều cơ bản"
 	quest.4AD8363D7359A072.title: "&d First Reactor của chúng tôi"
 	quest.4B9E9497E44D0096.quest_desc: ["Để xây dựng lò phản ứng, bạn cần bắt đầu bằng việc tạo &6Vỏ lò phản ứng.\n\nNhững thứ này tạo nên khung và tường của lò phản ứng, mặc dù các bức tường có thể được thay thế bằng &9Kính lò phản ứng nếu bạn muốn nhìn thấy bên trong lò phản ứng của mình.\n\nĐể tham khảo sau này, khi một bộ phận ghi \"Cơ bản\", điều này có nghĩa là nó chỉ có thể được sử dụng với các bộ phận cơ bản khác. Các bộ phận Cơ bản cũng chỉ có thể được sử dụng để xây dựng các lò phản ứng nhỏ hơn vì nó có giới hạn kích thước nhất định. Hãy ghi nhớ điều này!"]
-	quest.4B9E9497E44D0096.title: "Reactor Building Components"
+	quest.4B9E9497E44D0096.title: "Reactor Building Linh kiện"
 	quest.4ED36AA3766E842B.quest_desc: ["Thay vì chế tạo Tua bin nhỏ nhất vào thời điểm này, tốt hơn là bạn nên chế tạo Tua bin dựa trên thiết kế của &9Reactor của bạn.\n\nĐể bắt đầu, bạn muốn chế tạo một Tua bin có thể xử lý &9Vapor Production Rate& của lò phản ứng của bạn. Để tận dụng tối đa sức mạnh của nó, nó cũng cần duy trì tốc độ 900RPM hoặc 1800RPM. Điều này cần rất nhiều thử nghiệm với các cuộn dây khác nhau, số lượng cánh quạt và kích thước tổng thể của Tua bin!\n\nLưu ý: Để hoàn thành nhiệm vụ này, bạn cần tạo &dTask Screen ở mọi kích thước. Sau khi đặt, bạn có thể nhấp chuột phải vào màn hình và chọn nhiệm vụ này làm yêu cầu, sau đó xuất nguồn vào khối màn hình nhiệm vụ để lấp đầy và hoàn thành nhiệm vụ."]
 	quest.4ED36AA3766E842B.title: "&dTua bin"
 	quest.4FA6BEA4E646B742.quest_desc: ["Trước khi bắt đầu xây dựng lò phản ứng, chúng ta cần nấu chảy một ít Than hoặc Than củi để tạo ra &9 Thỏi than chì.\n\nThan chì kết hợp với Sắt là một trong những nguyên liệu chính khi chế tạo Lò phản ứng."]
@@ -87,7 +87,7 @@
 		"Để xây dựng khung cho &aReprocessor, bạn sẽ cần rất nhiều Vỏ. Điều này cũng có nghĩa là có rất nhiều Cyanite.\n\nBắt đầu bằng cách xây dựng một cấu trúc rỗng rộng 3 khối, sâu 3 khối và cao 7 khối. Đây là khung.\n\nNếu làm đúng, bạn sẽ có một khoảng trống ở giữa mặt dưới và mặt trên. Đối với các mặt thẳng đứng, bạn có thể sử dụng &aKính tái xử lý hoặc một trong các bộ phận bắt buộc của &aBộ xử lý lại như Power Port, Bộ điều khiển, v.v.\n\nNếu bạn muốn xem hình ảnh của khung hình sẽ như thế nào, hãy xem trang tiếp theo!"
 
 		"{@pagebreak}"
-		"Khung của Multiblock Reprocessor."
+		"Khung của đa khối Reprocessor."
 
 
 		"{image:atm:textures/questpics/extremereactors/reprocessorframe.png width:100 height:175 align:1}"
@@ -97,7 +97,7 @@
 		"{image:atm:textures/questpics/extremereactors/reprocessorfull.png width:100 height:150 align:1}"
 	]
 	quest.69642A3618E86DED.title: "Xây dựng khung"
-	quest.6ADDFD55AD0DF7D4.quest_desc: ["Kết hợp &9Ridiculite Ingots với &cRossinite’s trong &aReprocessor’r sẽ tạo ra &dInanite Ingots.\n\nBây giờ chúng ta có thể sử dụng những thứ này để tạo một khối &dInanite."]
+	quest.6ADDFD55AD0DF7D4.quest_desc: ["Kết hợp &9Ridiculite thỏi với &cRossinite’s trong &aReprocessor’r sẽ tạo ra &dInanite thỏi.\n\nBây giờ chúng ta có thể sử dụng những thứ này để tạo một khối &dInanite."]
 	quest.6ADDFD55AD0DF7D4.title: "Inanite"
 	quest.75AD0CEBC1335915.quest_desc: ["Bộ điều khiển &dReactor là trái tim của lò phản ứng. Khi lò phản ứng được hình thành, bạn có thể nhấp chuột phải vào thiết bị đầu cuối để mở giao diện lò phản ứng.\n\nTùy thuộc vào việc đó là lò phản ứng &9Làm mát thụ động hay &Làm mát chủ động, giao diện sẽ thay đổi. Lò phản ứng Passively Cooled được sử dụng để sản xuất điện trực tiếp bằng cách đốt nhiên liệu. Actively Cooled Reactors sử dụng nhiệt được tạo ra để làm bay hơi chất làm mát, sau đó chất này được đưa vào Tua bin để tạo ra năng lượng.\n\nTrong giao diện của lò phản ứng thụ động, bạn có thể xem và chuyển đổi trạng thái cũng như loại bỏ chất thải. Bạn cũng sẽ thấy nhiệt độ, lò phản ứng đang tạo ra bao nhiêu FE/t và lò phản ứng đang đốt bao nhiêu nhiên liệu mỗi tích tắc."]
 	quest.75AD0CEBC1335915.quest_subtitle: "Trái tim của lò phản ứng"

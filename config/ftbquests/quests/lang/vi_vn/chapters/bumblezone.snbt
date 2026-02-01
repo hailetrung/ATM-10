@@ -38,7 +38,7 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_beehemoth.png width:100 height:100 align:center}"
 	]
 	quest.05A4496705B6C6AF.title: "Beehemoth"
-	quest.0910C28A609ECBC1.quest_desc: ["&6Honey Compass&r là một công cụ rất hữu ích được thêm bởi &6&lBumblezone&r. \n\nBạn có thể chế tạo một cái hoặc trao đổi nó. \n\nBạn có thể Shift Right Click a &eBeehive&r để theo dõi &eHive&r (bao gồm &lProductive Beehives&r) hoặc Right Click Air để xác định vị trí Cell Maze."]
+	quest.0910C28A609ECBC1.quest_desc: ["&6Honey Compass&r là một công cụ rất hữu ích được thêm bởi &6&lBumblezone&r. \n\nBạn có thể chế tạo một cái hoặc trao đổi nó. \n\nBạn có thể Shift + nhấp chuột phải a &eBeehive&r để theo dõi &eHive&r (bao gồm &lProductive Beehives&r) hoặc nhấp chuột phải Air để xác định vị trí Cell Maze."]
 	quest.0910C28A609ECBC1.title: "&6Honey Compass"
 	quest.0980661B2F7FBC10.quest_desc: [
 		"Nhảy lên và vượt qua những ngọn nến để đạt đến đỉnh cao! \n\nKhi lên đó bạn có thể tìm thấy một số Honey Cocoons. \n\nĐừng đốt chân bạn."
@@ -64,10 +64,10 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_floaters.png width:200 height:100 align:center}"
 	]
 	quest.0C8180524757B238.title: "&7Floaters"
-	quest.0C9C5639D76FDF65.quest_desc: ["Tiết kiệm 12 &6B&8e&6e&8s&r bằng cách gắn lại Stinger của họ. \n\nKhi &6B&8e&6e&8s&r tấn công Mob hoặc thậm chí là bạn, chúng sẽ mất Stinger, điều này sẽ mang lại cho chúng Fatal Poison. \n\nNếu bạn Right Click chúng bằng Stinger, bạn có thể gắn lại nó và cứu chúng!"]
+	quest.0C9C5639D76FDF65.quest_desc: ["Tiết kiệm 12 &6B&8e&6e&8s&r bằng cách gắn lại Stinger của họ. \n\nKhi &6B&8e&6e&8s&r tấn công Mob hoặc thậm chí là bạn, chúng sẽ mất Stinger, điều này sẽ mang lại cho chúng Fatal Poison. \n\nNếu bạn nhấp chuột phải chúng bằng Stinger, bạn có thể gắn lại nó và cứu chúng!"]
 	quest.0E32DB6B8E023764.quest_desc: ["&6&lProductive Bees&r? Bạn đang làm gì ở đây? \n\nĐôi khi dọc theo &6&lHive Walls&r hoặc &6&lPillars&r bạn có thể tìm thấy tiền gửi Lược từ &l&6Productive Bees&r! \n\nGiống như khai thác quặng trong &2Overworld&r."]
 	quest.0E32DB6B8E023764.title: "Vượt qua?"
-	quest.0F5549B02D1B383B.quest_desc: ["Giết 16 Cave Spiders. \n\nĐừng lo lắng, có rất nhiều thứ từ &6&lBumblezone&r để trợ giúp về Poison."]
+	quest.0F5549B02D1B383B.quest_desc: ["Giết 16 Cave Spider. \n\nĐừng lo lắng, có rất nhiều thứ từ &6&lBumblezone&r để trợ giúp về Poison."]
 	quest.1207E5C3E7BD0584.title: "Mẫu biểu ngữ ong"
 	quest.12EF38830108D02B.quest_desc: ["Giết 32 con nhện bình thường."]
 	quest.13681866CE6A831C.title: "Mẫu biểu ngữ kiếm"
@@ -79,7 +79,7 @@
 	quest.13E3DE157B89E847.title: "Một khối đá băng"
 	quest.14F6ED7F0C1DC503.quest_desc: ["Uống 8 &6Chai mật ong&r. \n\nĐây là điều khó nhất đối với tôi. Tôi không thể chịu được tiếng ồn của việc uống rượu &6Honey Bottles&r."]
 	quest.1A67F4F87B3D456C.quest_desc: [
-		"Pháo &6B&8e&6e&r Pháo có thể được Chế tạo, tìm thấy trong các công trình hoặc được trao đổi với &5Bee Queen&r. \n\nKhá đơn giản: Right Click a &6B&8e&6e&r để nạp, và Hold Right Click sau đó thả tay ra bắn &6B&8e&6e&r! \n\nHọ sẽ không cảm thấy thù địch khi bị bắn, đừng lo lắng, thực ra tôi nghĩ họ thích điều đó."
+		"Pháo &6B&8e&6e&r Pháo có thể được Chế tạo, tìm thấy trong các công trình hoặc được trao đổi với &5Bee Queen&r. \n\nKhá đơn giản: nhấp chuột phải a &6B&8e&6e&r để nạp, và Giữ nhấp chuột phải sau đó thả tay ra bắn &6B&8e&6e&r! \n\nHọ sẽ không cảm thấy thù địch khi bị bắn, đừng lo lắng, thực ra tôi nghĩ họ thích điều đó."
 
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon2.png width:75 height:150 align:center}"
 	]
@@ -95,7 +95,7 @@
 	quest.20E5C888891FBCFE.quest_desc: ["Khi bạn cầm Offhand, tất cả Mob ở gần sẽ ngừng thù địch với bạn. \n\nCho dù bạn là người chọc tức họ hay họ chỉ tức giận một cách cố hữu thì họ sẽ không như vậy nữa. \n\nNó có 600 lần sử dụng cùng một lúc và sau khi sử dụng hết hoặc bị gián đoạn, nó sẽ phải đợi 10 phút trong Kho của bạn để nạp lại. \n\nNó có thể bị gián đoạn nếu bạn nhận sát thương khi nó hoạt động hoặc nếu bạn đánh trúng một Mob."]
 	quest.20E5C888891FBCFE.title: "&bTinh chất làm dịu"
 	quest.2149833F65D523E5.quest_desc: [
-		"Tương tự như Pháo &6B&8e&6e&r, Crystal Cannon có thể: Được chế tạo, tìm thấy trong các công trình hoặc được trao đổi với &5Bee Queen&r. \n\nCái này được sử dụng như một chiếc Nỏ, nếu bạn có &5Honey Crystal Shards&r trong Kho của mình, Hold Right Click để nạp &5Crystal&r và thả tay ra để bắn nó!"
+		"Tương tự như Pháo &6B&8e&6e&r, Crystal Cannon có thể: Được chế tạo, tìm thấy trong các công trình hoặc được trao đổi với &5Bee Queen&r. \n\nCái này được sử dụng như một chiếc Nỏ, nếu bạn có &5Honey Crystal Shards&r trong Kho của mình, Giữ nhấp chuột phải để nạp &5Crystal&r và thả tay ra để bắn nó!"
 
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon1.png width:75 height:150 align:center}"
 	]
@@ -165,14 +165,14 @@
 	quest.2B857941D7BBA0B8.quest_desc: ["Có thể được tìm thấy trong các công trình ở &6&lBumblezone&r hoặc được trao đổi với &5Bee Queen&r! \n\nBạn có bao giờ ghét bị mắc kẹt trên &6Honey Blocks&r không? Hay thậm chí khi &ePollen&r làm bạn chậm lại? Chà, không cần phải lo lắng vì Honey Bee Leggings đang ở đây! Chúng sẽ giúp bạn di chuyển tốt hơn qua các Khối đó. Bạn càng đeo nhiều Bee Armor thì việc đi lại sẽ càng dễ dàng hơn! \n\nNgoài ra, bạn có thể Chuyển qua &ePollen&r để thu thập nó!"]
 	quest.2DE2E5A1275E4B20.quest_desc: ["Có thể được tìm thấy trong các công trình ở &6&lBumblezone&r hoặc được trao đổi với &5Bee Queen&r! \n\n&6B&8e&6e&8s&r có cách tìm và giao tiếp với nhau khá thú vị. Tôi không biết họ làm điều đó như thế nào nên tôi chỉ đoán Ăng-ten của họ cho và nhận tín hiệu vô tuyến. \n\nKhi đeo Stingless Bee Helmet, bạn có thể Shift để làm nổi bật tất cả &6B&8e&6e&8s&r xung quanh bạn. \n\nNgoài ra, khi đeo nó, chất độc và cảm giác buồn nôn sẽ biến mất nhanh hơn."]
 	quest.30C12E249F7E2D52.quest_desc: [
-		"Một trong những công trình kiến ​​trúc lớn nhất trong &6&lBumblezone&r, tất nhiên có nghĩa là có nhiều chiến lợi phẩm nhất!\n\nCó rất nhiều phòng khác nhau được kết nối theo kiểu thiết kế giải đố nào đó.\n\nNếu bạn chưa sử dụng Essence of Bees hoặc bật Bảo vệ Hive Effect, bạn sẽ nhận được Wrath of the Hive khi ở trong Cell Maze. Vì vậy hãy cho ong ăn!\n\nNgoài ra, &5Throne Pillar Compass&r sẽ luôn xuất hiện trong cấu trúc này."
+		"Một trong những công trình kiến ​​trúc lớn nhất trong &6&lBumblezone&r, tất nhiên có nghĩa là có nhiều chiến lợi phẩm nhất!\n\nCó rất nhiều phòng khác nhau được kết nối theo kiểu thiết kế giải đố nào đó.\n\nNếu bạn chưa sử dụng Essence of Bees hoặc bật Bảo vệ Hive Effect, bạn sẽ nhận được Wrath of   Hive khi ở trong Cell Maze. Vì vậy hãy cho ong ăn!\n\nNgoài ra, &5Throne Pillar Compass&r sẽ luôn xuất hiện trong cấu trúc này."
 
 		"{image:atm:textures/questpics/bumblezone/bumble_cell.png width:200 height:100 align:center}"
 	]
 	quest.30C12E249F7E2D52.title: "Cell Maze"
 	quest.3365017C9B24C0A9.quest_desc: ["Sử dụng Cung hoặc Nỏ để bắn 32 Stingers. \n\nVâng, bạn có thể làm điều đó!"]
 	quest.339384ADC9CDB944.title: "Knowing"
-	quest.341DF467E3936E78.quest_desc: ["Tiêu diệt &dEnder Dragon&r trong khi mặc trọn bộ áo giáp &8B&6e&8e&r! \n\nTên của bạn sẽ được ghi nhớ trong nhiều thế kỷ!"]
+	quest.341DF467E3936E78.quest_desc: ["Tiêu diệt &dRồng Ender&r trong khi mặc trọn bộ áo giáp &8B&6e&8e&r! \n\nTên của bạn sẽ được ghi nhớ trong nhiều thế kỷ!"]
 	quest.351769579833FA9E.title: "Nuôi ong cùng ong Hom-bees"
 	quest.358D4F507521075F.quest_desc: [
 		"&eHive&r trong phạm vi &eHive&r, &eHive&r-ception."
@@ -256,7 +256,7 @@
 	]
 	quest.516ECA0396621C32.title: "&aGreen Sempiternal Sanctum"
 	quest.5219D2F2B13F57F3.quest_desc: [
-		"Một, nếu không phải là, Vật phẩm quan trọng nhất trong &6&lBumblezone&r! Chiếc Cặp Buzzing là Vật phẩm hoàn hảo để &6B&8e&6e&r Chăm sóc. \n\nBạn có thể Right Click a &6B&8e&6e&r bằng Cặp tài liệu để bắt chúng trong đó. Sau đó, bạn có thể Shift Right Click với Cặp tài liệu để xem &6B&8e&6e&8s&r bên trong. \n\nNó có thể chứa 14 &6B&8e&6e&8s&r và bất kỳ &6B&8e&6e&8s&r bao gồm &lProductive Bees&r. \n\nTại đây, bạn có thể xem Sức khỏe, Tên, loại &6B&8e&6e&r của họ, nếu nó có Stinger, nếu nó có &ePollen&r, v.v. \n\nBạn cũng có thể sử dụng nó để giải phóng &6B&8e&6e&8s&r khỏi nó."
+		"Một, nếu không phải là, Vật phẩm quan trọng nhất trong &6&lBumblezone&r! Chiếc Cặp Buzzing là Vật phẩm hoàn hảo để &6B&8e&6e&r Chăm sóc. \n\nBạn có thể nhấp chuột phải a &6B&8e&6e&r bằng Cặp tài liệu để bắt chúng trong đó. Sau đó, bạn có thể Shift + nhấp chuột phải với Cặp tài liệu để xem &6B&8e&6e&8s&r bên trong. \n\nNó có thể chứa 14 &6B&8e&6e&8s&r và bất kỳ &6B&8e&6e&8s&r bao gồm &lProductive Bees&r. \n\nTại đây, bạn có thể xem Sức khỏe, Tên, loại &6B&8e&6e&r của họ, nếu nó có Stinger, nếu nó có &ePollen&r, v.v. \n\nBạn cũng có thể sử dụng nó để giải phóng &6B&8e&6e&8s&r khỏi nó."
 
 		"{image:atm:textures/questpics/bumblezone/bumble_briefcase.png width:200 height:150 align:center}"
 	]
@@ -311,7 +311,7 @@
 	quest.5E180764FBEE666B.title: "&5Crystalline Flower"
 	quest.5F834F8C607A8B77.quest_desc: ["Bạn phải tìm thấy những thứ này trong các cấu trúc ở &6&lBumblezone&r hoặc bạn có thể giao dịch với &5Bee Queen&r để có được một cái! \n\nTrong khi đeo nó, bạn có thể giữ Space Bar để bay một lúc. \n\nNgoại trừ &6B&8e&6e&r Đôi cánh quá nhỏ để giữ cho cơ thể nhỏ nhắn mập mạp của bạn khỏi mặt đất."]
 	quest.6013C6B2E0B81D73.quest_desc: [
-		"Ở bên ngoài &6&lHive Walls&r và &6&lPillars&r bạn sẽ tìm thấy cái mà tôi gọi là &6Nhà trẻ nuôi ong&r.\n\nỞ đây sẽ có &6Honey Blocks&r và Honeycomb Brood Blocks! Chúng sinh sản với con &6B&8e&6e&8s&r ở một giai đoạn nào đó trong chúng.\n\nBạn có thể cho nó ăn: &bSugar Water&r Chai, &6Honey Bottles&r, hoặc Bee Bread. Nó có 4 Giai đoạn và sau giai đoạn thứ 4 được cho ăn, một Em bé &6B&8e&6e&r sẽ sinh ra. Đôi khi &6Honey Slimes&r cũng sẽ xuất hiện!\n\nBạn có thể mang Empty Brood Block đến &5Bee Queen&r để nạp lại!\n\nKhi bạn cho chúng ăn đủ, bạn sẽ nhận được Bảo vệ Tổ ong. Nếu bạn hạ chúng ra ngoài bạn sẽ nhận được Wrath of the Hive."
+		"Ở bên ngoài &6&lHive Walls&r và &6&lPillars&r bạn sẽ tìm thấy cái mà tôi gọi là &6Nhà trẻ nuôi ong&r.\n\nỞ đây sẽ có &6Honey Blocks&r và Honeycomb Brood Blocks! Chúng sinh sản với con &6B&8e&6e&8s&r ở một giai đoạn nào đó trong chúng.\n\nBạn có thể cho nó ăn: &bSugar Water&r Chai, &6Honey Bottles&r, hoặc Bee Bread. Nó có 4 Giai đoạn và sau giai đoạn thứ 4 được cho ăn, một Em bé &6B&8e&6e&r sẽ sinh ra. Đôi khi &6Honey Slimes&r cũng sẽ xuất hiện!\n\nBạn có thể mang Empty Brood Block đến &5Bee Queen&r để nạp lại!\n\nKhi bạn cho chúng ăn đủ, bạn sẽ nhận được Bảo vệ Tổ ong. Nếu bạn hạ chúng ra ngoài bạn sẽ nhận được Wrath of   Hive."
 
 		"{image:atm:textures/questpics/bumblezone/bumble_daycare.png width:200 height:100 align:center}"
 	]
@@ -324,7 +324,7 @@
 	]
 	quest.613AC4DF39E5621D.title: "Gazebuzz Cluster"
 	quest.61500C8F68509E5D.quest_desc: [
-		"Trong lần đầu tiên ghé thăm &d&lFloral Meadows&r, bạn thậm chí có thể không nhận thấy những người bạn nhỏ này đang trốn trong Cỏ. \n\nRootmin giả vờ là Grass Blocks với &dHoa&r trên đầu. \n\nNếu bạn không đeo Bee Armor họ có thể bắn Dirt Pellets vào bạn khi bạn đi ngang qua. \n\nBạn có thể thay đổi &dFflower&r trên đầu họ bằng Right Clicking bằng một cái khác!"
+		"Trong lần đầu tiên ghé thăm &d&lFloral Meadows&r, bạn thậm chí có thể không nhận thấy những người bạn nhỏ này đang trốn trong Cỏ. \n\nRootmin giả vờ là Grass Blocks với &dHoa&r trên đầu. \n\nNếu bạn không đeo Bee Armor họ có thể bắn Dirt Pellets vào bạn khi bạn đi ngang qua. \n\nBạn có thể thay đổi &dFflower&r trên đầu họ bằng nhấp chuột phảiing bằng một cái khác!"
 
 		"{image:atm:textures/questpics/bumblezone/bumble_rootmin2.png width:100 height:150 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_rootmin1.png width:100 height:100 align:center}"
@@ -333,7 +333,7 @@
 	quest.61768CFEDA041E4D.quest_desc: ["Sau khi bạn vào &6&lBumblezone&r, bạn có thể cần quay lại &2Overworld&r. Giống như trong trường hợp bạn để Bếp bật! \n\nĐể thoát khỏi &6&lBumblezone&r bạn có thể khai thác xuống hoặc lên trên &eBeehive Beeswax&r để vào Void. \n\nKhoảng trống này sẽ không giết bạn, thay vào đó nó sẽ dịch chuyển bạn trở lại nơi bạn ở trong &2Overworld&r!"]
 	quest.61768CFEDA041E4D.quest_subtitle: "Hãy để tôi ra khỏi đây!"
 	quest.61768CFEDA041E4D.title: "Escaping"
-	quest.6434796EAAF2A4EC.quest_desc: ["Sau khi hoàn thành tất cả các Nhiệm vụ này, bạn có thể Right Click &5Queen&r để lấy Tinh chất của Ong. \n\n&lĂn đi!&r \n\nBây giờ về cơ bản bạn có thể làm bất cứ điều gì ở đây. Bạn có thể lấy &6Honey&r một cách an toàn từ tất cả &eHives&r, &6Honeycombs&r và &6Honey Slimes&r. Bạn có thể đi qua Cell Maze mà không gặp Wrath of the Hive, bạn có thể đi vào &5Throne Pillar&r mà không bị mỏi khi khai thác và bạn có thể đi qua Ancient Wax mà không gặp phải Hiệu ứng khủng khiếp. Và khi bạn nhập &6Fluid Honey&r hoặc Royal Jelly bạn sẽ nhận được Hiệu ứng tuyệt vời. \n\nĐiều tuyệt vời nhất là nó sẽ ở bên bạn ngay cả sau khi chết! Bây giờ bạn có thể vào endgame!"]
+	quest.6434796EAAF2A4EC.quest_desc: ["Sau khi hoàn thành tất cả các Nhiệm vụ này, bạn có thể nhấp chuột phải &5Queen&r để lấy Tinh chất của Ong. \n\n&lĂn đi!&r \n\nBây giờ về cơ bản bạn có thể làm bất cứ điều gì ở đây. Bạn có thể lấy &6Honey&r một cách an toàn từ tất cả &eHives&r, &6Honeycombs&r và &6Honey Slimes&r. Bạn có thể đi qua Cell Maze mà không gặp Wrath of   Hive, bạn có thể đi vào &5Throne Pillar&r mà không bị mỏi khi khai thác và bạn có thể đi qua Ancient Wax mà không gặp phải Hiệu ứng khủng khiếp. Và khi bạn nhập &6Fluid Honey&r hoặc Royal Jelly bạn sẽ nhận được Hiệu ứng tuyệt vời. \n\nĐiều tuyệt vời nhất là nó sẽ ở bên bạn ngay cả sau khi chết! Bây giờ bạn có thể vào endgame!"]
 	quest.6474FE12450A4A7D.quest_desc: [
 		"&5Throne Pillar&r trông giống như &6&lHive Pillar&r nhưng cái này được trang trí đẹp mắt với &5Crystals&r, Webs và &6Honeycombs&r với thiết kế hùng hồn. \n\nỞ giữa &5Pillar&r là Throne Room nơi bạn sẽ gặp..."
 
@@ -351,7 +351,7 @@
 	quest.680E960554CEE76B.title: "&5&lCrystal Canyons"
 	quest.6BC0904E03683190.quest_desc: ["Hãy nhân giống &8B&6e&8e&6s&r để nhận được 8 con mới &8B&6e&8e&6s&r."]
 	quest.6C5D61A704DC125A.quest_desc: [
-		"This ones a funny one; you can either find it, craft it, or trade for it.\\n\\nThen you can dye it whatever color you want and of course wear it on your Head!\\n\\nThe &6B&8e&6e&8s&r will then think that you are a Flower and will follow you.\\n\\nIt also makes you look like Daffy from \"Duck Amuck\"."
+		"This ones a funny one; you có thể either find it, craft it, or trade for it.\\n\\nThen you có thể dye it whatever color you want and of course wear it on your Head!\\n\\nThe &6B&8e&6e&8s&r sẽ sau đó think that you are a Flower and sẽ follow you.\\n\\nIt cũng makes you look like Daffy từ \"Duck Amuck\"."
 		"{image:atm:textures/questpics/bumblezone/bumble_duckamuck.png width:100 height:100 align:center}"
 	]
 	quest.719D5CEB4217B734.quest_desc: [
@@ -391,7 +391,7 @@
 	quest.78B7FC6A868F5C4D.quest_desc: ["Bạn phải tìm thấy những thứ này trong các cấu trúc ở &6&lBumblezone&r hoặc bạn có thể giao dịch với &5Bee Queen&r để có được một cái! \n\nTrong khi đeo nó, bạn có thể giữ Space Bar để bay một lúc. \n\nNgoại trừ &6B&8e&6e&r Đôi cánh quá nhỏ để giữ cho cơ thể nhỏ nhắn mập mạp của bạn khỏi mặt đất."]
 	quest.78E40BDB0E54B638.quest_desc: ["Có thể được tìm thấy trong các công trình ở &6&lBumblezone&r hoặc được trao đổi với &5Bee Queen&r! \n\nBạn có bao giờ ghét bị mắc kẹt trên &6Honey Blocks&r không? Hay thậm chí khi &ePollen&r làm bạn chậm lại? Chà, không cần phải lo lắng vì Honey Bee Leggings đang ở đây! Chúng sẽ giúp bạn di chuyển tốt hơn qua các Khối đó. Bạn càng đeo nhiều Bee Armor thì việc đi lại sẽ càng dễ dàng hơn! \n\nNgoài ra, bạn có thể Chuyển qua &ePollen&r để thu thập nó!"]
 	quest.79FF12D7A4C8E821.quest_desc: [
-		"Đi thuyền 7 &b&lSugar Seas&r là &bPirate Ship&r nguy hiểm do Thuyền trưởng đáng sợ chỉ huy. \nTrên Lower Deck chứa Bộ điều hướng. \nGần Vũ khí trong Cargo Hold giữ Thủ lĩnh. \n\nTrên khắp &bShip&r bạn có thể tìm thấy Chiến lợi phẩm từ Cướp biển trong nhiều cuộc phiêu lưu!"
+		"Đi thuyền 7 &b&lSugar Seas&r là &bPirate Ship&r nguy hiểm do Thuyền trưởng đáng sợ chỉ huy. \nTrên Lower Deck chứa Bộ điều hướng. \nGần Vũ khí trong Cargo Giữ giữ Thủ lĩnh. \n\nTrên khắp &bShip&r bạn có thể tìm thấy Chiến lợi phẩm từ Cướp biển trong nhiều cuộc phiêu lưu!"
 
 		"{image:atm:textures/questpics/bumblezone/bumble_pirates.png width:200 height:100 align:center}"
 	]

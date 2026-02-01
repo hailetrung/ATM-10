@@ -21,7 +21,7 @@
 	quest.0B218DD73FE8D985.title: "Quantum Network Bridge"
 	quest.0E809747193ED3A9.quest_desc: ["Thành phần lưu trữ cấp MEGA thứ ba, cung cấp &e16777216&f (16384k) byte lưu trữ."]
 	quest.0E809747193ED3A9.quest_subtitle: "x4^2"
-	quest.0E809747193ED3A9.title: "16M Storage Component"
+	quest.0E809747193ED3A9.title: "16M Storage Linh kiện"
 	quest.0F03E75CF79BADD7.quest_desc: ["MEGA Cells&f cung cấp loại vật phẩm &bBulk Item Storage Cell&f, được giới hạn ở không quá &oone&r loại vật phẩm có thể lưu trữ trên mỗi ô nhưng có thể lưu trữ thực tế &o&lINFINITE&r* số lượng của loại vật phẩm đó. Trước khi nó có thể chấp nhận một loại vật phẩm, nó phải được lọc trước bằng cách sử dụng Cell Workbench.\n\n*&oVề mặt kỹ thuật \"dài tối đa\". Biết thì biết.&r"]
 	quest.0F03E75CF79BADD7.quest_subtitle: "Bulk và cut"
 	quest.0F03E75CF79BADD7.title: "Bulk Item Storage"
@@ -36,7 +36,7 @@
 		"Bất kỳ bùa chú nào được thêm vào đều làm tăng đáng kể lượng năng lượng mà máy bay sử dụng mỗi khi một khối bị phá vỡ. Phù phép máy bay với &eHiệu quả&f sẽ giảm mức sử dụng năng lượng tổng thể mà tất cả các bùa khác phải gánh chịu, trong khi bùa &eUnbreak&f cho máy bay cơ hội đôi khi chỉ sử dụng bất kỳ năng lượng nào, tương tự như Unbreak trên các công cụ thông thường."
 
 	]
-	quest.140DE53DC0FCD9F4.quest_subtitle: "GET IN"
+	quest.140DE53DC0FCD9F4.quest_subtitle: "Vào thôi"
 	quest.15564C11744D6AA0.quest_desc: ["Sau khi bạn đã có được bộ đầy đủ các &eInscriber Presses&r cần thiết, đã đến lúc bắt đầu tạo một số &eBộ xử lý&f. Đây là một thành phần chế tạo quan trọng được sử dụng để tạo ra phần lớn các thiết bị được kết nối ME."]
 	quest.15564C11744D6AA0.title: "Processors"
 	quest.16299B9AE87257DC.quest_desc: ["&bWireless Terminal&f hoạt động giống hệt với thiết bị đầu cuối thông thường nhưng không dây.\n\nTrước khi có thể sử dụng nó để truy cập mạng, trước tiên nó phải được &eliên kết&f với mạng bằng cách đặt nó vào khe trên cùng bên phải của &eWireless Access Point&r. Nếu nó không được liên kết với mạng hoặc nằm ngoài phạm vi hoặc nguồn điện, thiết bị đầu cuối sẽ không hoạt động.\n\nThiết bị đầu cuối không dây cũng có thể được nâng cấp với &eEnergy Cards&f để cung cấp pin bên trong lớn hơn."]
@@ -84,8 +84,8 @@
 	quest.2077D64428E9C067.title: "Quên nhắc đến"
 	quest.219932CB19258C16.quest_desc: ["Thành phần lưu trữ cấp thứ ba, cung cấp &e16384&f byte lưu trữ."]
 	quest.219932CB19258C16.quest_subtitle: "x4^2"
-	quest.219932CB19258C16.title: "16k Storage Component"
-	quest.22C4318523A43B49.quest_desc: ["&eTerminals&f cung cấp quyền truy cập vào bất kỳ nội dung nào của mạng ME. &eME Terminal&f tiêu chuẩn chỉ liệt kê mọi thứ trong mạng dưới dạng một lưới lớn để kéo và chèn vào, giống như một kho lưu trữ duy nhất.\n\n&eME Crafting Terminal&f là một phần mở rộng của ME Terminal cũng cung cấp một lưới chế tạo tích hợp, cho phép chế tạo thuận tiện bằng cách sử dụng bất kỳ vật phẩm nào có trong mạng và hiển thị qua màn hình thiết bị đầu cuối."]
+	quest.219932CB19258C16.title: "16k Storage Linh kiện"
+	quest.22C4318523A43B49.quest_desc: ["&eTerminals&f cung cấp quyền truy cập vào bất kỳ nội dung nào của mạng ME. &eME Terminal&f tiêu chuẩn chỉ liệt kê mọi thứ trong mạng dưới dạng một lưới lớn để kéo và chèn vào, giống như một kho lưu trữ duy nhất.\n\n&eME chế tạoing Terminal&f là một phần mở rộng của ME Terminal cũng cung cấp một lưới chế tạo tích hợp, cho phép chế tạo thuận tiện bằng cách sử dụng bất kỳ vật phẩm nào có trong mạng và hiển thị qua màn hình thiết bị đầu cuối."]
 	quest.22C4318523A43B49.quest_subtitle: "[Trò đùa của người dùng Linux ở đây]"
 	quest.22C4318523A43B49.title: "Terminals"
 	quest.234DC1702333EB18.quest_desc: ["Tiện ích bổ sung &dAEInfinityBooster&f cung cấp hai bộ tăng tốc không dây riêng biệt cho phép phạm vi kết nối vô hạn, với sự hỗ trợ đa chiều tùy chọn."]
@@ -93,7 +93,7 @@
 	quest.234DC1702333EB18.title: "Infinity Booster"
 	quest.25DBA00422301EDC.quest_desc: ["Tầng thành phần lưu trữ MEGA thứ hai, cung cấp &e4194304&f (4096k) byte lưu trữ."]
 	quest.25DBA00422301EDC.quest_subtitle: "x4"
-	quest.25DBA00422301EDC.title: "4M Storage Component"
+	quest.25DBA00422301EDC.title: "4M Storage Linh kiện"
 	quest.2893F483C10293E6.quest_desc: [
 		"&lChào mừng đến với &bApplied Energistics 2&f!\n\nApplied Energistics 2 (hoặc gọi tắt là &oAE2&r) là một mod &blưu trữ kỹ thuật số&f cực kỳ linh hoạt, cho phép lưu trữ cực kỳ hiệu quả và tất cả các loại khả năng tự động hóa để nâng cao đáng kể trải nghiệm Minecraft đã được sửa đổi của bạn ngay từ khi bạn muốn cho đến khi kết thúc trò chơi.\n\nĐể biết thêm thông tin về AE2 ngoài chương này, hãy tham khảo wiki tại"
 
@@ -120,16 +120,16 @@
 
 	]
 	quest.2F556E7919582D2D.quest_desc: ["&bCell Workbench&f cho phép các ô được 'phân vùng' để chứa các mục cụ thể, tức là được cung cấp một bộ lọc danh sách trắng. Nó cũng cho phép nâng cấp ô bằng một số thẻ nâng cấp nhất định chẳng hạn như Inverter Card, thay vào đó, đặt danh sách trắng nói trên thành danh sách đen.\n\nCác ô cũng có thể được cấp 'mức độ ưu tiên' cao hơn hoặc thấp hơn thông qua bàn làm việc, tức là cho phép ô đó là ô đầu tiên nhận một số mục nhất định cho đến khi đầy hoặc được thực hiện để đợi các ô có mức độ ưu tiên cao hơn khác lấp đầy trước."]
-	quest.2FB231069D2E4E77.quest_desc: ["Mỗi ô riêng lẻ có một dung lượng nhất định được quy định bởi &ethành phần&f mà ô đã được tạo ra.\n\nThành phần đầu tiên là &b1k ME Storage Component&f, cung cấp &e1024&f 'byte' bộ nhớ cho một ô nhất định. Thêm về điều đó sau."]
+	quest.2FB231069D2E4E77.quest_desc: ["Mỗi ô riêng lẻ có một dung lượng nhất định được quy định bởi &ethành phần&f mà ô đã được tạo ra.\n\nThành phần đầu tiên là &b1k ME Storage Linh kiện&f, cung cấp &e1024&f 'byte' bộ nhớ cho một ô nhất định. Thêm về điều đó sau."]
 	quest.2FB231069D2E4E77.quest_subtitle: "kilobyte đầu tiên."
 	quest.2FB231069D2E4E77.title: "Tạo Storage Cell đầu tiên của bạn"
-	quest.30E853CE699E669B.quest_desc: ["Trước khi có thể thực hiện công việc chế tạo tự động, bạn cần có một thiết bị để thực sự lưu trữ yêu cầu cùng với bất kỳ vật phẩm tạm thời nào cho các công việc thủ công gồm nhiều bước. Thiết bị này được gọi là &echế tạo CPU&f.\n\nChế tạo CPU là một cấu trúc nhiều khối yêu cầu ít nhất một khối &bKho chứa thủ công&f, tùy chọn cùng với bất kỳ Đơn vị chế tạo nào khác. Multiblock có thể được chế tạo ở bất kỳ kích thước nào, nhưng phải là hình khối rắn để hình thành và hoạt động tương ứng."]
+	quest.30E853CE699E669B.quest_desc: ["Trước khi có thể thực hiện công việc chế tạo tự động, bạn cần có một thiết bị để thực sự lưu trữ yêu cầu cùng với bất kỳ vật phẩm tạm thời nào cho các công việc thủ công gồm nhiều bước. Thiết bị này được gọi là &echế tạo CPU&f.\n\nChế tạo CPU là một cấu trúc nhiều khối yêu cầu ít nhất một khối &bKho chứa thủ công&f, tùy chọn cùng với bất kỳ Đơn vị chế tạo nào khác. đa khối có thể được chế tạo ở bất kỳ kích thước nào, nhưng phải là hình khối rắn để hình thành và hoạt động tương ứng."]
 	quest.30E853CE699E669B.quest_subtitle: "Tải thêm RAM"
 	quest.3195A7AA874163CD.quest_desc: ["&bEqual Distribution Card&f là bản nâng cấp dành cho các ô lưu trữ phân bổ trước một lượng vật phẩm nhất định mà bất kỳ loại cá nhân nào cũng có thể tiếp nhận.\n\nHành vi này có thể so sánh với thứ gì đó giống như ngăn kéo Functional Storage, trong đó mỗi ngăn chứa một số ngăn xếp nhất định thay vì cho phép các vật phẩm từ ngăn này rò rỉ sang ngăn khác và dồn các loại vật phẩm khác ra ngoài."]
 	quest.3195A7AA874163CD.quest_subtitle: "ME Bộ lưu trữ&mÔ&rNgăn kéo"
 	quest.33ADE41526C39AFD.quest_desc: ["Hành vi này có thể so sánh với thứ gì đó giống như ngăn kéo Functional Storage, trong đó mỗi ngăn chứa một số ngăn xếp nhất định thay vì cho phép các vật phẩm từ ngăn này rò rỉ sang ngăn khác và dồn các loại vật phẩm khác ra ngoài."]
 	quest.361CCBD353D6FF34.quest_desc: [
-		"Với 1k Storage Component, giờ đây bạn có thể tạo cho mình 1k ME Item Storage Cell để khởi động hệ thống lưu trữ vật phẩm kỹ thuật số của mình. Rất có thể bạn sẽ muốn phần lớn dung lượng lưu trữ của mình dành cho các vật phẩm, vì vậy, bạn có thể muốn tạo một số &bME Item Storage Cells&f."
+		"Với 1k Storage Linh kiện, giờ đây bạn có thể tạo cho mình 1k ME Item Storage Cell để khởi động hệ thống lưu trữ vật phẩm kỹ thuật số của mình. Rất có thể bạn sẽ muốn phần lớn dung lượng lưu trữ của mình dành cho các vật phẩm, vì vậy, bạn có thể muốn tạo một số &bME Item Storage Cells&f."
 
 		""
 		"ME Item Storage Cells mỗi chiếc có thể chứa tới 63 loại vật phẩm khác nhau. Mỗi loại mục mới được thêm vào một ô sẽ chiếm một phần nhất định trong tổng dung lượng của ô lưu trữ tính bằng byte. Đối với mỗi loại đã có sẵn, 1 'byte' được tính cho 8 mục cùng loại."
@@ -145,19 +145,19 @@
 	quest.371A382CF1DDF2B2.quest_desc: ["&bCapacity Card&f cho phép xe buýt được nâng cấp để mang bộ lọc lớn hơn. Xe buýt Nhập và Xuất được nâng cấp bằng thẻ dung lượng có thể chuyển từ chỉ hỗ trợ một mục được lọc sang bộ lọc chín khe tối đa, trong khi Xe buýt lưu trữ sẽ đi từ 18 khe lên tối đa 63."]
 	quest.3B42CCC19D23EC6D.quest_desc: ["Thành phần lưu trữ cấp thứ hai, cung cấp &e4096&f byte lưu trữ."]
 	quest.3B42CCC19D23EC6D.quest_subtitle: "x4"
-	quest.3B42CCC19D23EC6D.title: "4k Storage Component"
+	quest.3B42CCC19D23EC6D.title: "4k Storage Linh kiện"
 	quest.3CE3D9245F8EC005.quest_desc: ["Thành phần lưu trữ cấp MEGA thứ tư, cung cấp &e67108864&f (65536k) byte lưu trữ."]
 	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3"
-	quest.3CE3D9245F8EC005.title: "64M Storage Component"
+	quest.3CE3D9245F8EC005.title: "64M Storage Linh kiện"
 	quest.3DDB0DDA7571B2C1.quest_desc: ["&bME Level Emitter&f, khi được định cấu hình với một mục cụ thể và số lượng mục đó để phản hồi, sẽ phát ra tín hiệu đá đỏ tùy thuộc vào việc mục đó được lưu trữ trong mạng có ở mức thấp hơn, cao hơn hay bằng số lượng đã cho hay không.\n\nVí dụ: điều này có thể được sử dụng để tự động bật một số máy nhất định bằng đá đỏ nhằm tự động tạo tài nguyên khi nó giảm xuống dưới mức tối thiểu nhất định."]
 	quest.3DDB0DDA7571B2C1.title: "ME Level Emitter"
-	quest.3E3DF8E967D95DB0.quest_desc: ["Khi sử dụng thành phần lưu trữ 64k trở lên, Matter Condenser có thể ngưng tụ nhiều hơn đáng kể để tạo ra &bSingularity&f. Một điểm kỳ dị duy nhất cần 256000 vật phẩm để bị vô hiệu. Đó chính xác là &o4000 ngăn xếp&r!\n\nHãy xem điều gì sẽ xảy ra khi bạn ném điểm kỳ dị này xuống đất bằng một mảnh &eEnder Dust&f. Bạn sẽ phải gây ra một số thiệt hại cho môi trường xung quanh khi sử dụng nó, nhưng may mắn thay, AE2 đã cung cấp &bTiny TNT&f của riêng mình để giảm thiểu điều đó."]
+	quest.3E3DF8E967D95DB0.quest_desc: ["Khi sử dụng thành phần lưu trữ 64k trở lên, Matter Condenser có thể ngưng tụ nhiều hơn đáng kể để tạo ra &bSingularity&f. Một điểm kỳ dị duy nhất cần 256000 vật phẩm để bị vô hiệu. Đó chính xác là &o4000 ngăn xếp&r!\n\nHãy xem điều gì sẽ xảy ra khi bạn ném điểm kỳ dị này xuống đất bằng một mảnh &eEnder Bụi&f. Bạn sẽ phải gây ra một số thiệt hại cho môi trường xung quanh khi sử dụng nó, nhưng may mắn thay, AE2 đã cung cấp &bTiny TNT&f của riêng mình để giảm thiểu điều đó."]
 	quest.3E3DF8E967D95DB0.quest_subtitle: "Hyper-Condensed Matter"
 	quest.3E3DF8E967D95DB0.title: "Hyper-Condensed Matter"
 	quest.4597D3B3BDC2BED5.quest_desc: ["&bMolecular Assembler&f tương đương với một bàn chế tạo tự động của AE2, cần thiết để hoàn thành bất kỳ và tất cả các công việc mẫu &ecrafting&f.\n\nMolecular Assemblers có khả năng chuyển nguồn và kênh sang các thiết bị ME khác được kết nối với nó nhưng bản thân chúng sẽ không chiếm kênh. Có thể kết nối tối đa 6 MA với một Pattern Provider (nếu được sử dụng) để cho phép thực hiện song song nhiều công việc thủ công hơn.\n\nMỗi MA cũng có khe cắm dành riêng cho một kiểu chế tạo duy nhất, cho phép chúng hoạt động độc lập khi được cấp nguồn. Khi vận hành theo cách này, mọi mục phù hợp được chèn vào MA sẽ tự động được tạo thành kết quả của mẫu."]
-	quest.460A8F17F3ED6CAF.quest_desc: ["Sẽ có một điểm trong bất kỳ cách chơi nào của một modpack lớn mà ngay cả cấp ô lưu trữ tiêu chuẩn cao nhất cũng không cắt giảm được số lượng vật phẩm và tài nguyên mà bạn có thể tích lũy.\n\nĐây là lúc tiện ích bổ sung &dMEGA Cells&f xuất hiện, mở rộng các tầng lưu trữ có sẵn sang lãnh thổ megabyte. Bậc đầu tiên trong số các bậc mới này được cấp bởi &b1M MEGA Storage Component&f, cung cấp 1024 &okilo&rbyte hoặc &e1048576&f byte, dung lượng lưu trữ."]
+	quest.460A8F17F3ED6CAF.quest_desc: ["Sẽ có một điểm trong bất kỳ cách chơi nào của một modpack lớn mà ngay cả cấp ô lưu trữ tiêu chuẩn cao nhất cũng không cắt giảm được số lượng vật phẩm và tài nguyên mà bạn có thể tích lũy.\n\nĐây là lúc tiện ích bổ sung &dMEGA Cells&f xuất hiện, mở rộng các tầng lưu trữ có sẵn sang lãnh thổ megabyte. Bậc đầu tiên trong số các bậc mới này được cấp bởi &b1M MEGA Storage Linh kiện&f, cung cấp 1024 &okilo&rbyte hoặc &e1048576&f byte, dung lượng lưu trữ."]
 	quest.460A8F17F3ED6CAF.quest_subtitle: "MEGAbyte đầu tiên."
-	quest.460A8F17F3ED6CAF.title: "1M Storage Component"
+	quest.460A8F17F3ED6CAF.title: "1M Storage Linh kiện"
 	quest.4B76FE0348DB0E45.quest_desc: ["Thẻ Quantum Bridge là một phương pháp thay thế để có được quyền truy cập không dây đa chiều vào hệ thống Applied Energistics của bạn. Bạn sẽ cần một Quantum Bridge được kết nối ở cơ sở và một Quantum Bridge Card trong thiết bị đầu cuối của bạn. Sau đó, các đường hầm này được liên kết với nhau bằng Quantum Entangled Singularity để có thể truy cập mọi lúc mọi nơi."]
 	quest.4BF0BB763BFFACF0.quest_desc: [
 		"Có thể cho rằng tài nguyên quan trọng nhất mà bạn cần tiếp theo là &eFluix&f, được sử dụng trên phần lớn các thiết bị AE2 và đóng vai trò là cơ sở để chế tạo tất cả hệ thống cáp trong mạng ME."
@@ -176,7 +176,7 @@
 	quest.51236544BFEF487B.title: "Săn thiên thạch"
 	quest.51A57E142C686C8F.quest_desc: ["Thành phần lưu trữ cấp MEGA thứ năm và cuối cùng, cung cấp &e268435456&f (262144k) byte lưu trữ."]
 	quest.51A57E142C686C8F.quest_subtitle: "x4^4"
-	quest.51A57E142C686C8F.title: "256M Storage Component"
+	quest.51A57E142C686C8F.title: "256M Storage Linh kiện"
 	quest.51DE3157DE3E57B8.quest_desc: [
 		"Lưu trữ là tốt và tất cả những điều đó, nhưng hệ thống lưu trữ có ích gì nếu nó bị tắc nghẽn bởi các nguyên liệu thô cần được chế tạo và xử lý thành thứ gì đó và bạn vẫn bị mắc kẹt với việc phải thực hiện thủ công?"
 
@@ -188,13 +188,13 @@
 
 	]
 	quest.51DE3157DE3E57B8.quest_subtitle: "Đặt hàng"
-	quest.51DE3157DE3E57B8.title: "Auto-Crafting"
+	quest.51DE3157DE3E57B8.title: "Auto-chế tạoing"
 	quest.5233A447BAA4593C.quest_desc: ["&bME Smart Cable&f và &bDense Smart Cable&f hoạt động giống hệt với các cáp được phủ sóng về mặt phân bổ kênh nhưng cũng sẽ hiển thị rõ ràng số lượng kênh mà chúng đang sử dụng dưới dạng các vạch màu dọc theo chính chúng."]
 	quest.5233A447BAA4593C.quest_subtitle: "'S.M.R.T.'"
 	quest.5233A447BAA4593C.title: "Advanced Cabling"
 	quest.523853C1C4E688BA.quest_desc: ["Thành phần lưu trữ bậc thứ tư, cung cấp &e65536&f byte lưu trữ."]
 	quest.523853C1C4E688BA.quest_subtitle: "x4^3"
-	quest.523853C1C4E688BA.title: "64k Storage Component"
+	quest.523853C1C4E688BA.title: "64k Storage Linh kiện"
 	quest.525F25F4ADE45B50.quest_desc: [
 		"&bME Formation Plane&f hoạt động tương tự như Storage Bus, nhưng coi thế giới là phương tiện lưu trữ. Nói cách khác, nó sẽ đặt bất kỳ khối nào trong bộ lọc của nó ngay trước chính nó."
 
@@ -211,7 +211,7 @@
 
 	]
 	quest.5AA3E5DFECB4AC4D.quest_desc: ["Đương nhiên, AE2 cung cấp cách riêng để tăng tốc độ phát triển tinh thể một cách đáng kể.\n\nĐặt những thứ này xung quanh Tinh thể vừa chớm nở của bạn, cung cấp cho chúng một chút sức mạnh và xem tinh thể của bạn phát triển!"]
-	quest.5BB887411B8B38FA.quest_desc: ["Đối với việc mở rộng không dây Mạng ME, phải thừa nhận rằng bước đầu tiên có phần không chính thống.\n\n&bMatter Condenser&f là AE2 sử dụng thùng rác, vô hiệu hóa mọi vật phẩm được nhét vào đó. Tuy nhiên, khi được trang bị &eStorage Component&f, thiết bị ngưng tụ có thể khai thác một số năng lượng còn sót lại từ vật phẩm bị vô hiệu hóa và lưu trữ nó để tạo ra hai vật phẩm chế tạo đặc biệt từ lượng năng lượng tập trung đủ.\n\nVật phẩm đầu tiên trong số hai vật phẩm này là &bMatter Ball&f, yêu cầu ít nhất thành phần lưu trữ 1k và vật liệu vô hiệu trị giá 256 vật phẩm."]
+	quest.5BB887411B8B38FA.quest_desc: ["Đối với việc mở rộng không dây Mạng ME, phải thừa nhận rằng bước đầu tiên có phần không chính thống.\n\n&bMatter Condenser&f là AE2 sử dụng thùng rác, vô hiệu hóa mọi vật phẩm được nhét vào đó. Tuy nhiên, khi được trang bị &eStorage Linh kiện&f, thiết bị ngưng tụ có thể khai thác một số năng lượng còn sót lại từ vật phẩm bị vô hiệu hóa và lưu trữ nó để tạo ra hai vật phẩm chế tạo đặc biệt từ lượng năng lượng tập trung đủ.\n\nVật phẩm đầu tiên trong số hai vật phẩm này là &bMatter Ball&f, yêu cầu ít nhất thành phần lưu trữ 1k và vật liệu vô hiệu trị giá 256 vật phẩm."]
 	quest.5BB887411B8B38FA.title: "Condensed Matter"
 	quest.5C22E3103544B120.quest_desc: ["Để kết nối phần lớn mạng ME của bạn với nhau, bạn sẽ cần một số cáp. &eME Glass Cable&f là loại cáp đầu tiên và cơ bản nhất và bạn sẽ thực hiện tất cả những điều này như bước đầu tiên để chế tạo các loại cáp khác.\n\nCả cáp thủy tinh và cáp tương ứng &ecovered&f của chúng đều có thể truyền tối đa 8 kênh dọc theo một đoạn cáp. Không giống như cáp thủy tinh, cáp có vỏ bọc sau đó có thể được chế tạo thành cáp có vỏ bọc &edense&f, có khả năng truyền tải tới 32 kênh. Tuy nhiên, hầu hết các thiết bị 'nhiều phần' như xe buýt và thiết bị đầu cuối không thể gắn trực tiếp vào các dây cáp dày đặc, thay vào đó, cần phải có các loại cáp có chiều rộng thông thường để tạo thành một kết nối.\n\nTất cả các dây cáp cũng có thể được chế tạo bằng thuốc nhuộm để tạo màu cho chúng. Cáp không màu ('Fluix') có thể kết nối với bất kỳ cáp có màu nào khác, nhưng nếu không thì các cáp có màu khác nhau sẽ không bao giờ kết nối với nhau."]
 	quest.5C22E3103544B120.title: "Basic Cabling"
@@ -234,8 +234,8 @@
 	quest.5E7E35CCAF1C88EE.quest_subtitle: "cái tôi"
 	quest.5F56892CD904C40F.quest_desc: ["Thành phần lưu trữ theo tiêu chuẩn AE2 thứ năm và cuối cùng, cung cấp &e262144&f byte dung lượng lưu trữ."]
 	quest.5F56892CD904C40F.quest_subtitle: "x4^4"
-	quest.5F56892CD904C40F.title: "256k Storage Component"
-	quest.6144202A97C6CD1C.quest_desc: ["&bQuartz Cutting Knife&f, giống như cờ lê, có cả hương vị thạch anh nether và certus và là một công cụ chế tạo hữu ích cần có trong tay.\n\nCác dây cáp cũng có thể được tách ra mà không cần tô màu bằng cách gắn &bCable Anchor&f vào giữa chúng, được chế tạo bằng con dao này và có thể chế tạo tới 50 lần với cùng một con dao trước khi đứt.\n\nCable Anchors cũng có thể được sử dụng để chế tạo &bCable Facades&f, cho phép bạn ngụy trang các dây cáp trong tường bằng cách che chúng bằng mặt của một khối tùy ý. Mặc dù công thức chế tạo mặt tiền bị ẩn trong JEI, bạn vẫn có thể chế tạo chúng bằng cách lấy bất kỳ khối thông thường nào và bao quanh nó bằng 4 neo cáp trong lưới chế tạo.\n\nNgoài việc chế tạo mỏ neo, dao cắt còn có một công dụng khác: dùng dao nhấp chuột phải sẽ mở ra một GUI nhỏ cho phép bạn chế tạo &bInscriber Name Presses&f. Khi được đặt tên, những máy ép này có thể được sử dụng bên trong Inscriber để đổi tên bất kỳ mục đầu vào nào có tên của máy in. Hai trong số các máy ép này có thể được ghép nối trong bộ ghi để đổi tên mục thành tên của máy ép trên cùng, tiếp theo là máy ép dưới cùng."]
+	quest.5F56892CD904C40F.title: "256k Storage Linh kiện"
+	quest.6144202A97C6CD1C.quest_desc: ["&bQuartz Cutting Knife&f, giống như cờ lê, có cả hương vị thạch anh nether và certus và là một công cụ chế tạo hữu ích cần có trong tay.\n\nCác dây cáp cũng có thể được tách ra mà không cần tô màu bằng cách gắn &bCable Anchor&f vào giữa chúng, được chế tạo bằng con dao này và có thể chế tạo tới 50 lần với cùng một con dao trước khi đứt.\n\nCable Anchors cũng có thể được sử dụng để chế tạo &bCable Facades&f, cho phép bạn ngụy trang các dây cáp trong tường bằng cách che chúng bằng mặt của một khối tùy ý. Mặc dù công thức chế tạo mặt tiền bị ẩn trong JEI, bạn vẫn có thể chế tạo chúng bằng cách lấy bất kỳ khối thông thường nào và bao quanh nó bằng 4 neo cáp trong lưới chế tạo.\n\nNgoài việc chế tạo mỏ neo, dao cắt còn có một công dụng khác: dùng dao nhấp chuột phải sẽ mở ra một giao diện nhỏ cho phép bạn chế tạo &bInscriber Name Presses&f. Khi được đặt tên, những máy ép này có thể được sử dụng bên trong Inscriber để đổi tên bất kỳ mục đầu vào nào có tên của máy in. Hai trong số các máy ép này có thể được ghép nối trong bộ ghi để đổi tên mục thành tên của máy ép trên cùng, tiếp theo là máy ép dưới cùng."]
 	quest.6144202A97C6CD1C.quest_subtitle: "Dưới con dao"
 	quest.6144202A97C6CD1C.title: "Cable Anchor"
 	quest.6431A384DDFBF439.quest_desc: [
@@ -277,7 +277,7 @@
 
 	]
 	quest.78311531069807DE.quest_desc: ["Trong Năng lượng ứng dụng 2, mỗi mạng ME đều có sẵn một số lượng &echannels&f nhất định, điều này đơn giản có nghĩa là có bao nhiêu thiết bị nối mạng có thể phù hợp trên toàn bộ mạng.\n\nTheo nguyên tắc chung, bất kỳ thiết bị nào ít nhiều xử lý trực tiếp dữ liệu ME (các mục được lưu trữ trong mạng) và thực hiện một số dạng I/O sẽ chiếm một kênh. Thông thường, các thành phần chỉ liên quan đến bộ lưu trữ năng lượng nội bộ của mạng, như &eEnergy Cells&f và &eInscribers&f, sẽ chiếm các kênh.\n\nCác mạng không có bộ điều khiển &bME&f được gọi là mạng 'ad-hoc' và chỉ hỗ trợ tối đa 8 kênh."]
-	quest.79D2617E01481281.quest_desc: ["Để bắt đầu với AE2, bạn sẽ cần khai thác một tài nguyên quan trọng cho mod có tên là &bCertus Quartz&f. Bạn sẽ tìm thấy Certus Quartz Crystals trong Meteroites mà bạn có thể khai thác để lấy Certus Quartz &eDust&f và &eCrystals&f."]
+	quest.79D2617E01481281.quest_desc: ["Để bắt đầu với AE2, bạn sẽ cần khai thác một tài nguyên quan trọng cho mod có tên là &bCertus Quartz&f. Bạn sẽ tìm thấy Certus Quartz Crystals trong Meteroites mà bạn có thể khai thác để lấy Certus Quartz &eBụi&f và &eCrystals&f."]
 	quest.79D2617E01481281.title: "Certus Quartz"
 	quest.7B7D1F0CB326B28F.quest_desc: ["Cổng &bME IO Cổng&f cho phép sắp xếp lại nhanh chóng nội dung của bộ lưu trữ của mạng ME giữa các phương tiện lưu trữ khác nhau như ô ME và vùng chứa bên ngoài được kết nối với bus lưu trữ.\n\nKhi một ô được chèn vào khe đầu vào ở bên trái, Cổng IO có thể được chuyển đổi để làm trống ô đó sang các kho lưu trữ ME khác hoặc lấp đầy ô (lý tưởng nhất là được phân vùng) với một số mục nhất định trải rộng trên các kho lưu trữ khác."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Defragmentation"

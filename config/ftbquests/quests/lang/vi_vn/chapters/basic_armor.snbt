@@ -128,7 +128,7 @@
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2Steeeleaf&r về mặt kỹ thuật là một Thỏi, được tìm thấy trong Rương ở &9&lThe Twilight Forest&r. \nMỗi phần của Áo giáp mang lại một Bùa mê khác nhau!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
 	quest.30A61E1A1EFA81E6.title: "&2Steeleaf Armor"
-	quest.3215A3D706CECCEF.quest_desc: ["Bằng cách kết hợp một số Liveroot, một Iron Ingot và một &eGold Nugget&r bạn có thể chế tạo &7Ironwood&r! \n\nCó vẻ như bạn sẽ cần Rìu và Cuốc để lấy một ít. \n\nTất cả &7Ironwood Armor&r đều có mức Bảo vệ miễn phí!"]
+	quest.3215A3D706CECCEF.quest_desc: ["Bằng cách kết hợp một số Liveroot, một Iron thỏi và một &eGold Nugget&r bạn có thể chế tạo &7Ironwood&r! \n\nCó vẻ như bạn sẽ cần Rìu và Cuốc để lấy một ít. \n\nTất cả &7Ironwood Armor&r đều có mức Bảo vệ miễn phí!"]
 	quest.3215A3D706CECCEF.quest_subtitle: "16"
 	quest.3215A3D706CECCEF.title: "&7Ironwood Armor"
 	quest.3260EDAD3A619479.quest_desc: ["&5Aethersent Ore&r được tìm thấy trong Meteorite Showers ở &5&lEternal Starlight&r. Những thiên thạch nhỏ sẽ vỡ khi va chạm, bạn sẽ phải đợi những thiên thạch lớn! \n\nHay là thiên thạch? Sự khác biệt là gì?"]
@@ -295,7 +295,7 @@
 	quest.6ED2CDD01659FD10.quest_desc: ["Bộ áo giáp này có Armor Points giống Iron nhưng tốt hơn cả về Độ dẻo dai và Knockback Resistance."]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "&7Áo Giáp Nén"
-	quest.6F335B4F3FD660E7.quest_desc: ["Đây không phải là một điều thú vị để có được. \n\nBạn sẽ cần &aKnightmetal Ingots&r thu được từ Luyện kim &aArmor Shard Clusters&r. \n\nBạn nhận được &aArmor Shard Clusters&r từ việc kết hợp 9 &aArmor Shards&r. \n\n&aArmor Shards&r rơi ra từ &l&9Twilight Forest&r Yêu tinh và hiếm khi rơi ra từ Helmet Crabs."]
+	quest.6F335B4F3FD660E7.quest_desc: ["Đây không phải là một điều thú vị để có được. \n\nBạn sẽ cần &aKnightmetal thỏi&r thu được từ Luyện kim &aArmor Shard Clusters&r. \n\nBạn nhận được &aArmor Shard Clusters&r từ việc kết hợp 9 &aArmor Shards&r. \n\n&aArmor Shards&r rơi ra từ &l&9Twilight Forest&r Yêu tinh và hiếm khi rơi ra từ Helmet Crabs."]
 	quest.6F335B4F3FD660E7.quest_subtitle: "20"
 	quest.6F335B4F3FD660E7.title: "&aKnightmetal Armor"
 	quest.6F76DA3BBAE8337B.quest_desc: ["Bộ giáp lớn nhất mà chúng ta có thể nhận được từ &6&lAllthemodium&r, &5Unobtainium&r! \n\nGiờ đây với 100% Knockback Resistance và các chỉ số cao hơn ở mọi nơi! \n\nCũng cần &3Vibranium Armor&r để thực hiện."]
@@ -339,7 +339,7 @@
 	quest.7F11ABFB2E21B7E4.title: "&l&bGiáp cơ bản&r"
 	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
 	quest.7F8B6D5F360D985A.title: "&eFiery"
-	quest.7FABB77A60E7962C.quest_desc: ["Bằng cách trộn Obsidian với &bDiamonds&r chúng ta có thể nhận được Refined Obsidian Dust! \n\nSau đó, chúng ta có thể nén &7Osmium&r vào đó để có được dạng Ingot. \n\nSau đó, chúng ta có thể biến những Thỏi đó thành Áo giáp với chỉ số tốt hơn cả &6Allthemodium Armor&r!"]
+	quest.7FABB77A60E7962C.quest_desc: ["Bằng cách trộn Obsidian với &bDiamonds&r chúng ta có thể nhận được Refined Obsidian Bụi! \n\nSau đó, chúng ta có thể nén &7Osmium&r vào đó để có được dạng thỏi. \n\nSau đó, chúng ta có thể biến những Thỏi đó thành Áo giáp với chỉ số tốt hơn cả &6Allthemodium Armor&r!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
 	quest.7FABB77A60E7962C.title: "&5Refined Obsidian Armor"
 	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]

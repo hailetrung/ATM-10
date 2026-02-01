@@ -1,113 +1,113 @@
 {
-	quest.068128395837AF4F.quest_subtitle: "Same as steam as one"
+	quest.068128395837AF4F.quest_subtitle: "Tương tự như thời đại Steam"
 	quest.08C870DC50CA49FC.quest_desc: [
-		"&#5C5C5CCrude Oil&r on its own is not of much use to us but when put through a distillery, we get outputs that can be used for many many purposes."
+		"&#5C5C5CCrude Oil&r tự nó không hữu dụng lắm, nhưng khi đưa qua Distillery, ta sẽ nhận được các đầu ra có thể dùng cho rất nhiều mục đích."
 		""
-		"We can produce &#C4C241Sulfuric Heavy Fuel&r, &#CECC5FSulfuric Light Fuel&r and &#D9D782Sulfuric Naptha&r with it."
+		"Ta có thể tạo ra &#C4C241Sulfuric Heavy Fuel&r, &#CECC5FSulfuric Light Fuel&r và &#D9D782Sulfuric Naptha&r từ nó."
 	]
-	quest.08C870DC50CA49FC.title: "&#5C5C5CCrude Oil Processing"
-	quest.0903F0D8642449B7.quest_desc: ["Moving from &6analog circuitry&r, we can now process more than 2 bits of information. This opens horizons for some new machines"]
+	quest.08C870DC50CA49FC.title: "Xử lý &#5C5C5CCrude Oil"
+	quest.0903F0D8642449B7.quest_desc: ["Khi chuyển từ &6analog circuitry&r, giờ chúng ta có thể xử lý nhiều hơn 2 bit thông tin. Điều này mở ra hướng đi cho một số máy móc mới."]
 	quest.0A9ADDE68342B987.quest_desc: [
-		"To make &#43DEC2Polyethylene&r, you follow the chain of chemicals this way:"
+		"Để tạo &#43DEC2Polyethylene&r, hãy đi theo chuỗi hóa chất như sau:"
 		""
-		"&8Crude oil&r -> &#D2CD2DSulfuric Light Fuel&r-> &#DBD658Light Fuel&r-> &#E2DF78Steam Cracked Light fuel&r -> &#44D1DBEthylene&r -> &#43DEC2Polyethylene&r."
+		"&8Dầu thô&r -> &#D2CD2DNhiên liệu nhẹ sulfuric&r -> &#DBD658Nhiên liệu nhẹ&r -> &#E2DF78Nhiên liệu nhẹ steam-cracked&r -> &#44D1DBEthylene&r -> &#43DEC2Polyethylene&r."
 	]
 	quest.0C94D76B87E49FFD.title: "Sắt Processing"
-	quest.103728F2BAD5AE84.title: "Advanced Components"
-	quest.1351D0594F1E6551.quest_desc: ["These &#55EDA4basic components&r will lead us into the next breakthrough in processing."]
-	quest.1351D0594F1E6551.title: "Circuit Components"
-	quest.162807D14C173CB4.quest_desc: ["The &#5599EDCentrifuge&r confirmed our theory if we spin something fast enough a new material just plops out of it. It has a lot of uses but you will need it mainly for &#F2AAE5Chromium&r and &#AD3497Monazite&r processing. "]
-	quest.162807D14C173CB4.quest_subtitle: "You spin my head right round right round.."
-	quest.1745124F83D033B9.title: "Basic Components"
-	quest.18C0EF38430C3E67.quest_subtitle: "The Digital Age"
-	quest.1A84DF4478D55C41.quest_subtitle: "Same as steam as one"
-	quest.1B4CD5AC8F6C3307.quest_desc: ["The &#4497DBOverdrive module&r preserves the efficiency of the machine even when the recipe is not currently running. In return it locks the machine for the recipe."]
-	quest.1E0EF28175A7424F.quest_desc: ["Since you are already producing the steam, why not use it to make electricity. Simply slap down a &#6363DBTurbine&r and put &7steam&r in and pull &#DBDB63electricity&r out."]
-	quest.1E0EF28175A7424F.quest_subtitle: "Steam -> Electricity"
-	quest.1F21B578FAF4CCAC.quest_subtitle: "Same as steam as one"
-	quest.1F3E18129B871C49.quest_subtitle: "Same as steam as one"
-	quest.22AD9DF2BCC04575.quest_subtitle: "Creating the energy"
-	quest.22AD9DF2BCC04575.title: "Electricity Generation"
-	quest.256C3DBA392B4236.quest_desc: ["Electrolysing the Acidic Solutions for Manganese and Chromium will yield you their Dusts which can be used for future recipes."]
-	quest.256C3DBA392B4236.quest_subtitle: "9 Tiny Dusts give 1 Dust"
-	quest.2EF0C033C540A7B1.title: "Ruby Processing"
-	quest.32D585D9F73CD9FD.quest_desc: ["The &#EDDF55Electric Blast Furnace&r will allow you to cook several different resources. The recipes do require a &#B8ED55specific coil&r to be used in the structure."]
-	quest.374C06B3999BB0D3.quest_desc: ["Mixing together &#C2C78BIron&r, &#EDB2EAChromium&r, &#BEC9A3Nickel&r and &7Manganese&r will give you &#ADF0EEStainless Steel Dust&r."]
-	quest.3A03852E282DAA4D.quest_desc: ["The &#ED8055Electrolyzer&r is able to provide enough energy in bursts to material that they break down to more fundamental resources."]
+	quest.103728F2BAD5AE84.title: "Linh kiện nâng cao"
+	quest.1351D0594F1E6551.quest_desc: ["Những &#55EDA4linh kiện cơ bản&r này sẽ dẫn chúng ta đến bước đột phá tiếp theo trong dây chuyền chế biến."]
+	quest.1351D0594F1E6551.title: "Linh kiện mạch"
+	quest.162807D14C173CB4.quest_desc: ["&#5599EDCentrifuge&r đã xác nhận giả thuyết của chúng ta: nếu quay thứ gì đó đủ nhanh, một vật liệu mới sẽ \"rơi ra\". Nó có nhiều công dụng, nhưng bạn chủ yếu sẽ cần nó để xử lý &#F2AAE5Chromium&r và &#AD3497Monazite&r."]
+	quest.162807D14C173CB4.quest_subtitle: "Quay quay quay..."
+	quest.1745124F83D033B9.title: "Basic Linh kiện"
+	quest.18C0EF38430C3E67.quest_subtitle: "Kỷ nguyên số"
+	quest.1A84DF4478D55C41.quest_subtitle: "Tương tự như thời đại Steam"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["&#4497DBOverdrive module&r giữ lại hiệu suất của máy ngay cả khi công thức hiện không chạy. Đổi lại, nó sẽ khóa máy theo công thức đó."]
+	quest.1E0EF28175A7424F.quest_desc: ["Vì bạn đã sản xuất steam rồi, sao không dùng nó để tạo điện? Chỉ cần đặt một &#6363DBTurbine&r, bơm &7steam&r vào và kéo &#DBDB63electricity&r ra."]
+	quest.1E0EF28175A7424F.quest_subtitle: "Steam -> Điện"
+	quest.1F21B578FAF4CCAC.quest_subtitle: "Tương tự như thời đại Steam"
+	quest.1F3E18129B871C49.quest_subtitle: "Tương tự như thời đại Steam"
+	quest.22AD9DF2BCC04575.quest_subtitle: "Tạo năng lượng"
+	quest.22AD9DF2BCC04575.title: "Tạo điện"
+	quest.256C3DBA392B4236.quest_desc: ["Điện phân các Acidic Solutions của Manganese và Chromium sẽ cho ra Bụis của chúng, dùng cho các công thức về sau."]
+	quest.256C3DBA392B4236.quest_subtitle: "9 Tiny Bụis = 1 Bụi"
+	quest.2EF0C033C540A7B1.title: "Xử lý Ruby"
+	quest.32D585D9F73CD9FD.quest_desc: ["&#EDDF55Electric Blast Furnace&r cho phép bạn nung nhiều loại tài nguyên khác nhau. Các công thức sẽ yêu cầu một &#B8ED55coil cụ thể&r trong cấu trúc."]
+	quest.374C06B3999BB0D3.quest_desc: ["Trộn &#C2C78BIron&r, &#EDB2EAChromium&r, &#BEC9A3Nickel&r và &7Manganese&r sẽ cho ra &#ADF0EEStainless Steel Bụi&r."]
+	quest.3A03852E282DAA4D.quest_desc: ["&#ED8055Electrolyzer&r có thể cung cấp năng lượng theo từng \"xung\" đủ mạnh để phân rã vật liệu thành các tài nguyên cơ bản hơn."]
 	quest.3B9D9CB589DB2003.quest_desc: [
-		"&#71EBB4&nModern Industrialization&r machines work differently to other mods. All machines have an &#E5EB71efficiency multiplier&r, this goes up as you have a recipe in the machine that it makes. &#E5EB71Efficiency&r increases the &#E5EB71speed&r of the machine. &#E5EB71Efficiency&r resets when recipe changes."
+		"Máy của &#71EBB4&nModern Industrialization&r hoạt động khác so với các mod khác. Mọi máy đều có một &#E5EB71hệ số hiệu suất&r; chỉ số này tăng dần khi máy liên tục chạy một công thức. &#E5EB71Efficiency&r sẽ tăng &#E5EB71tốc độ&r của máy và sẽ reset khi bạn đổi công thức."
 		""
-		"You are advised to use 1 machine for 1 recipe producing components passively. This is how the mod is supposed to be played. Upgrades will make the system better. This will be covered in the future."
+		"Bạn nên dùng 1 máy cho 1 công thức để sản xuất thụ động các linh kiện. Đây là cách mod được thiết kế để chơi. Upgrades sẽ giúp hệ thống tốt hơn; phần này sẽ được đề cập sau."
 		""
 		"{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}"
 		""
 		"{@pagebreak}"
-		"All machines from this mod accept FE as power. &c16 FE&r converts to &#E1EB591 EU&r of power."
+		"Tất cả máy của mod này đều nhận FE làm năng lượng. &c16 FE&r sẽ chuyển đổi thành &#E1EB591 EU&r năng lượng."
 	]
-	quest.3B9D9CB589DB2003.quest_subtitle: "This will help"
-	quest.3CE72DAF431269CD.quest_desc: ["The &#D6AC2FPolarizer&r is able to magnetise the materials put into it."]
-	quest.401A3FD6A3511870.quest_subtitle: "Open Sesame"
+	quest.3B9D9CB589DB2003.quest_subtitle: "Cái này sẽ giúp ích"
+	quest.3CE72DAF431269CD.quest_desc: ["&#D6AC2FPolarizer&r có thể từ hóa vật liệu được đưa vào."]
+	quest.401A3FD6A3511870.quest_subtitle: "Vừng ơi mở ra"
 	quest.401A3FD6A3511870.title: "Gates"
-	quest.401B559649C54C5C.quest_desc: ["Mixing together &#92CCF0Hydrogen&r and &#519BC9Chlorine&r will give you &#4FB373Hydrochloric Acid&r. This will be used to process &#F2A0E1Chromium Dust&r."]
-	quest.408EBED932656006.quest_desc: ["Doping &7Silicon&r will get you much better yield than using base &7Silicon&r."]
-	quest.408EBED932656006.title: "Doped Silicone"
-	quest.413F338DB07BA88C.quest_subtitle: "Same as steam one"
+	quest.401B559649C54C5C.quest_desc: ["Trộn &#92CCF0Hydrogen&r và &#519BC9Chlorine&r sẽ cho ra &#4FB373Hydrochloric Acid&r. Chất này dùng để xử lý &#F2A0E1Chromium Bụi&r."]
+	quest.408EBED932656006.quest_desc: ["Doping &7Silicon&r sẽ cho hiệu suất tốt hơn nhiều so với dùng &7Silicon&r thường."]
+	quest.408EBED932656006.title: "Silicon đã doping"
+	quest.413F338DB07BA88C.quest_subtitle: "Tương tự như thời đại Steam"
 	quest.4A5A143A79809BB6.quest_desc: [
-		"Ah yes, you finally made it. Welcome to the Electric Age, this is the real beginning of your adventure."
+		"À, cuối cùng bạn cũng tới nơi. Chào mừng đến với Kỷ nguyên điện — đây mới là khởi đầu thật sự của cuộc phiêu lưu."
 		""
-		"First of all, we need Battery Alloy... to make batteries, shocking, I know."
+		"Trước hết, chúng ta cần Battery Alloy... để làm pin. Bất ngờ chưa."
 	]
 	quest.4A5A143A79809BB6.quest_subtitle: "Battery Alloy"
 	quest.4A5A143A79809BB6.title: "Kỷ nguyên điện"
-	quest.4E7B1B16C7CDA84C.quest_subtitle: "Same as steam as one"
+	quest.4E7B1B16C7CDA84C.quest_subtitle: "Tương tự như thời đại Steam"
 	quest.532BCAB3FBF91B1D.quest_desc: [
-		"&#44DB9CUpgrades&r add the ability for machines to move into &#4467DBoverclocked&r state further increasing the maximum speed of the machine."
+		"&#44DB9CUpgrades&r cho phép máy chuyển sang trạng thái &#4467DBoverclocked&r, tiếp tục tăng tốc độ tối đa của máy."
 		""
-		"A machine can expect upto a stack of any tier of upgrades. The &#CEDB44Basic Upgrade&r adds &#F7F448+2EU/t&r to the capacity per upgrade."
+		"Một máy có thể nhận tối đa đến 1 stack upgrades của bất kỳ tier nào. &#CEDB44Basic Upgrade&r tăng &#F7F448+2EU/t&r vào dung lượng cho mỗi upgrade."
 	]
-	quest.548274CC00E67EC4.quest_desc: ["Transferring electricity is simple, you just slap a cable in between your &#F5B027Generators&r and &#3CC1FAMachines&r. LV cables can transfer &#EEFA3C256 EU/t&r at most."]
-	quest.548274CC00E67EC4.quest_subtitle: "Cable Limits"
+	quest.548274CC00E67EC4.quest_desc: ["Truyền điện rất đơn giản: chỉ cần đặt cable nối giữa &#F5B027Generators&r và &#3CC1FAMachines&r. LV cables truyền tối đa &#EEFA3C256 EU/t&r."]
+	quest.548274CC00E67EC4.quest_subtitle: "Giới hạn của cáp"
 	quest.548274CC00E67EC4.title: "LV Cables"
-	quest.54CE9493B63620C4.quest_desc: ["The &#AC59EBDiesel Generator&r converts a variety of liquid fuels to electricity. The most accessible for you early on will be &7Creosote Oil&r and &8Synthetic Oil&r."]
-	quest.54CE9493B63620C4.quest_subtitle: "Liquid Fuels -> Electricity"
+	quest.54CE9493B63620C4.quest_desc: ["&#AC59EBDiesel Generator&r chuyển đổi nhiều loại nhiên liệu lỏng thành điện. Dễ tiếp cận nhất giai đoạn đầu là &7Creosote Oil&r và &8Synthetic Oil&r."]
+	quest.54CE9493B63620C4.quest_subtitle: "Nhiên liệu lỏng -> Điện"
 	quest.55BB4005BB4CA316.title: "Monazite Processing"
-	quest.5A62260FB3850092.quest_desc: ["Mixing together &eSulfur&r, &#6ACDE6Oxygen&r and &9Water&r will give you &#D3D955Sulfuric Acid&r. This will be used to process &7Manganese Dust&r."]
-	quest.5AA8D2A1F3618615.quest_subtitle: "Moving electricity"
-	quest.5B50AC47957F0CD7.quest_desc: ["The &7Oil Rig&r will drill up &#7A7A7AShale Oil&r and &#918686Crude Oil&r for you."]
-	quest.5B50AC47957F0CD7.quest_subtitle: "Eagle noises"
-	quest.5D404ED40C6C2690.quest_subtitle: "Input more power"
-	quest.604C003EE6B1CC6B.quest_subtitle: "Same as steam as one"
+	quest.5A62260FB3850092.quest_desc: ["Trộn &eSulfur&r, &#6ACDE6Oxygen&r và &9Water&r sẽ cho ra &#D3D955Sulfuric Acid&r. Chất này dùng để xử lý &7Manganese Bụi&r."]
+	quest.5AA8D2A1F3618615.quest_subtitle: "Truyền điện"
+	quest.5B50AC47957F0CD7.quest_desc: ["&7Oil Rig&r sẽ khoan lên &#7A7A7AShale Oil&r và &#918686Crude Oil&r cho bạn."]
+	quest.5B50AC47957F0CD7.quest_subtitle: "Tiếng đại bàng"
+	quest.5D404ED40C6C2690.quest_subtitle: "Nạp thêm năng lượng"
+	quest.604C003EE6B1CC6B.quest_subtitle: "Tương tự như thời đại Steam"
 	quest.6256612D46C88C0C.quest_desc: [
-		"&#723CFATransformers&r convert one range of power to another. "
+		"&#723CFATransformers&r chuyển đổi một dải điện áp sang dải khác."
 		""
-		"&#EBC471LV&r to &#DDE548MV&r &#723CFATransformers&r: Converts &#EBC471LV&r power to &#DDE548MV&r power, it has 5 inputs and 1 output."
+		"&#EBC471LV&r to &#DDE548MV&r &#723CFATransformers&r: Chuyển &#EBC471LV&r sang &#DDE548MV&r, có 5 ngõ vào và 1 ngõ ra."
 		""
-		"&#DDE548MV&r to &#EBC471LV&r &#723CFATransformers&r: Converts &#DDE548MV&r power to &#EBC471LV&r power, it has 1 input and 5 outputs."
+		"&#DDE548MV&r to &#EBC471LV&r &#723CFATransformers&r: Chuyển &#DDE548MV&r sang &#EBC471LV&r, có 1 ngõ vào và 5 ngõ ra."
 	]
-	quest.6256612D46C88C0C.quest_subtitle: "\\"Freedom is the right of all sentient beings\\""
+	quest.6256612D46C88C0C.quest_subtitle: "\\"Freedom is   right of all sentient beings\\""
 	quest.6256612D46C88C0C.title: "LV-MV Transformers"
-	quest.6647A9652EFDDCDF.quest_desc: ["To cool down the &#ADF0EEHot Stainless Steel Ingot&r simply put it into a &#56E3DFVacuum Freezer&r to turn it into usable &#ADF0EEStainless Steel Ingot&r."]
-	quest.66D4256F79D5B30B.quest_subtitle: "Same as steam as one"
+	quest.6647A9652EFDDCDF.quest_desc: ["Để làm nguội &#ADF0EEHot Stainless Steel thỏi&r, chỉ cần cho nó vào &#56E3DFVacuum Freezer&r để biến thành &#ADF0EEStainless Steel thỏi&r có thể dùng được."]
+	quest.66D4256F79D5B30B.quest_subtitle: "Tương tự như thời đại Steam"
 	quest.6A25ED4059E224D2.quest_desc: [
-		"The &#ED5585Distillery&r is used to distill certain fluids to recieve better more fitting outputs for our use. "
+		"&#ED5585Distillery&r dùng để chưng cất một số chất lỏng, cho ra đầu ra phù hợp hơn để sử dụng."
 		""
-		"You must lock the recipe in order to get what you want if a singular input produces many outputs. First click on the lock icon in the GUI, click on the arrow and then &7'+'&r icon on your desired recipe. "
+		"Bạn phải khóa công thức nếu một đầu vào có thể cho ra nhiều đầu ra. Trước tiên nhấp vào biểu tượng khóa trong giao diện, nhấp vào mũi tên, rồi nhấp biểu tượng &7'+'&r tại công thức bạn muốn."
 	]
-	quest.6A25ED4059E224D2.quest_subtitle: "Lock the recipe"
+	quest.6A25ED4059E224D2.quest_subtitle: "Khóa công thức"
 	quest.6E7DF4AF86A036EC.title: "Shale Oil Processing"
-	quest.72FFD9E471242D68.quest_desc: ["Stainless Steel requires more heat to smelt than a normal furnace. We must use our previously constructed Electric Blast Furnace."]
-	quest.744E620B7DEBB483.quest_desc: ["The &#27CFF5Vacuum Freezer&r will be used to cooldown &#E6AD1EHot Ingots&r or certain fluids for better ratios of items you have already been producing."]
+	quest.72FFD9E471242D68.quest_desc: ["Stainless Steel cần nhiệt cao hơn lò nung thường để nấu chảy. Ta phải dùng Electric Blast Furnace đã xây trước đó."]
+	quest.744E620B7DEBB483.quest_desc: ["&#27CFF5Vacuum Freezer&r dùng để làm nguội &#E6AD1EHot thỏi&r hoặc một số chất lỏng, nhằm cho tỉ lệ/hiệu suất tốt hơn cho những vật phẩm bạn đang sản xuất."]
 	quest.744E620B7DEBB483.quest_subtitle: "Bing Chilling"
-	quest.76660075F254597E.quest_desc: ["&#F5B758Advanced Upgrade&r adds &#EDE02F16 EU/t&r of maximum usage per upgrade."]
-	quest.7E3B19796870C2B1.quest_desc: ["The &#9955EDChemical Reactor&r will be one of the most useful machines for you going forward. It will be used to create several chemicals."]
+	quest.76660075F254597E.quest_desc: ["&#F5B758Advanced Upgrade&r tăng &#EDE02F16 EU/t&r mức sử dụng tối đa cho mỗi upgrade."]
+	quest.7E3B19796870C2B1.quest_desc: ["&#9955EDChemical Reactor&r sẽ là một trong những máy hữu dụng nhất về sau. Nó được dùng để tạo ra nhiều loại hóa chất."]
 	quest.7EDBE88A2CFAB353.quest_desc: [
-		"The &#562FD6Assemblers&r are used to make a lot of components and machines. They are able to do crafting jobs in an automatic manner."
-		"They also offer &amuch cheaper&r variants of some recipes you have already used."
+		"&#562FD6Assemblers&r dùng để chế tạo rất nhiều linh kiện và máy móc, và có thể tự động hóa việc craft."
+		"Chúng cũng cung cấp các biến thể công thức &arẻ hơn nhiều&r so với một số công thức bạn đã dùng trước đó."
 	]
-	quest.7EDBE88A2CFAB353.quest_subtitle: "You'll need many"
-	quest.7FE5864E59D7B827.quest_desc: ["&#6784EBHulls&r control the amount of power that can be pushed into a machine. As you put upgrades into the machine, you will need a higher tier &#6784EBHull&r in it to accept more power. The tier of the &#6784EBHull&r also affects what cable can connect to it."]
-	quest.7FE5864E59D7B827.quest_subtitle: "Basic building block"
-	task.12433760FD40CB3A.title: "Read this carefully"
-	task.1489DD401D237541.title: "Electricity"
-	task.1FE598387B609AE5.title: "Electricity Transfer"
+	quest.7EDBE88A2CFAB353.quest_subtitle: "Bạn sẽ cần rất nhiều"
+	quest.7FE5864E59D7B827.quest_desc: ["&#6784EBHulls&r quyết định lượng điện có thể nạp vào máy. Khi bạn gắn upgrades, bạn sẽ cần &#6784EBHull&r tier cao hơn để nhận thêm điện. Tier của &#6784EBHull&r cũng ảnh hưởng loại cable có thể kết nối."]
+	quest.7FE5864E59D7B827.quest_subtitle: "Khối nền tảng"
+	task.12433760FD40CB3A.title: "Đọc kỹ phần này"
+	task.1489DD401D237541.title: "Điện"
+	task.1FE598387B609AE5.title: "Truyền điện"
 }

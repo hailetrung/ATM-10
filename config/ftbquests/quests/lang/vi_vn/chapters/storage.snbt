@@ -1,5 +1,5 @@
 {
-	quest.00DB5495C3A44999.quest_desc: ["Shift-Right Click một kho đồ trống."]
+	quest.00DB5495C3A44999.quest_desc: ["Shift + nhấp chuột phải một kho đồ trống."]
 	quest.0108F3EFDFD6DFD0.quest_desc: ["Liên kết lưu trữ cho phép bạn kết nối nhiều kho lưu trữ không được gắn vào Storage Controller hoặc bất kỳ khối nào được kết nối với nó.\n\nVì vậy, đây là một cách để kết nối không dây nhiều kho lưu trữ \"nhiều khối\" mà không cần phải nhấp chuột phải vào từng kho lưu trữ.\n\n14 khối phạm vi vẫn được áp dụng."]
 	quest.019CA0E35F888222.quest_subtitle: "Tùy chọn lọc khác"
 	quest.019CA0E35F888222.title: "&eAdvanced Restock Nâng cấp"
@@ -32,9 +32,9 @@
 	quest.15CD4BFDC56E9510.quest_subtitle: "Tùy chọn lọc khác"
 	quest.15CD4BFDC56E9510.title: "&eNâng cao Tool Swapper Nâng cấp"
 	quest.1659A59303C15CC9.quest_desc: ["Thùng hoạt động giống như Rương, chỉ khác là chúng không thể kết hợp lại với nhau thành 1. Tuy nhiên, trông chúng rất ngầu."]
-	quest.17DC77F7F8C68AE6.quest_desc: ["Trash Cans hoạt động như một cách để tiêu diệt các vật phẩm, chất lỏng và năng lượng không mong muốn."]
+	quest.17DC77F7F8C68AE6.quest_desc: ["thùng rács hoạt động như một cách để tiêu diệt các vật phẩm, chất lỏng và năng lượng không mong muốn."]
 	quest.17DC77F7F8C68AE6.quest_subtitle: "Loại bỏ sự dư thừa"
-	quest.17DC77F7F8C68AE6.title: "Trash Cans"
+	quest.17DC77F7F8C68AE6.title: "thùng rács"
 	quest.1985CFD1F0425E88.quest_subtitle: "Tùy chọn lọc khác"
 	quest.1985CFD1F0425E88.title: "&eAdvanced Pickup Nâng cấp"
 	quest.19DFAEB6D88F3580.quest_desc: ["Nâng cấp Pusher cho phép Drawers đẩy các vật phẩm sang bất kỳ phía nào."]
@@ -46,7 +46,7 @@
 	quest.1B72E95569B07E18.title: "&bKim cương Nâng cấp"
 	quest.1CACE201C6AA0913.quest_desc: ["Nâng cấp này sẽ vô hiệu hóa các vật phẩm bổ sung khi Ngăn chứa đầy.\n\nĐiều này có thể hữu ích để tránh tràn hoặc ngăn thiết lập sao lưu do bộ nhớ đã đầy."]
 	quest.1CD2C6AFD788C35E.quest_desc: ["Thu gọn các vật phẩm trong Ba lô theo công thức 2x2."]
-	quest.1E499F94A2A193E1.quest_desc: ["Thêm Blast Furnace GUI vào Ba lô."]
+	quest.1E499F94A2A193E1.quest_desc: ["Thêm Blast Furnace giao diện vào Ba lô."]
 	quest.1FE052F643401232.quest_desc: ["Bạn sẽ cần những thứ này để tạo ra Backpack Upgrades."]
 	quest.1FE052F643401232.quest_subtitle: "Cơ sở để nâng cấp"
 	quest.1FE17B1C7C639F88.quest_desc: ["Bộ điều khiển lưu trữ cho phép bạn làm việc với nhiều kho lưu trữ như thể chúng là một khối lưu trữ lớn.\n\nĐiều này cho phép tạo ra một mạng lưu trữ rất lớn, có thể được kết hợp với các mod như Applied Energistics hoặc Integrated Dynamics, vì Storage Controller hoạt động như một điểm vào/ra cho tất cả các kho lưu trữ được gắn vào nó.\n\nViệc kết nối có thể được thực hiện bằng cách chỉ cần đặt các kho lưu trữ bên cạnh Storage Controller hoặc bên cạnh các kho lưu trữ khác đã được kết nối với Storage Controller (việc này hoạt động cách bộ điều khiển tối đa 14 khối theo mọi hướng)."]
@@ -55,7 +55,7 @@
 	quest.26988E22BD019628.quest_desc: ["Tự động nấu chảy các vật phẩm trong Ba lô."]
 	quest.26988E22BD019628.quest_subtitle: "Automatic"
 	quest.26988E22BD019628.title: "&eAuto-Blasting Nâng cấp"
-	quest.26A9F402DAE15EA2.quest_desc: ["Thêm Người hút thuốc GUI vào Ba lô."]
+	quest.26A9F402DAE15EA2.quest_desc: ["Thêm Người hút thuốc giao diện vào Ba lô."]
 	quest.2746575C929B6C50.quest_desc: ["Ngăn kéo có thể là 1x1, 2x1 hoặc 2x2. Các ngăn kéo có thể chứa rất nhiều chồng 1/2/4 vật phẩm tùy thuộc vào loại Ngăn kéo."]
 	quest.2746575C929B6C50.quest_subtitle: "Ngăn xếp trên ngăn xếp"
 	quest.2B422B7E0CE3590D.quest_desc: ["Ngăn kéo nén có thể chuyển đổi các vật phẩm được đặt bên trong thành dạng cục hoặc khối của chúng.\n\nVí dụ: Một Thỏi sắt được đặt trong này sẽ cho phép bạn rút ra 9 cốm, hoặc nếu đặt nhiều Sắt hơn vào, sẽ chuyển nó thành Iron Blocks."]
@@ -71,7 +71,7 @@
 	quest.38F9E9A830D3EA0C.quest_desc: ["Nếu bạn nghĩ mod này chỉ để đựng đồ thì bạn đã nhầm, còn có Fluid Drawers!\n\nChúng hoạt động theo cách tương tự như Ngăn kéo thông thường nhưng thay vào đó lưu trữ chất lỏng."]
 	quest.3A1D07AED2A841E4.quest_desc: ["Tự động nấu chảy các vật phẩm trong Ba lô."]
 	quest.3A1D07AED2A841E4.quest_subtitle: "Automatic"
-	quest.3A1D07AED2A841E4.title: "&eAuto-Smelting Nâng cấp"
+	quest.3A1D07AED2A841E4.title: "&eAuto-nunging Nâng cấp"
 	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 Storage Nâng cấp"
 	quest.3B570B3DB5F6D2CB.title: "&eGold Nâng cấp&r"
 	quest.3D5852E6D0ADF651.title: "Dimensional Storage"
@@ -82,7 +82,7 @@
 	quest.46D756F4DC6CC894.title: "&dBa lô Netherite"
 	quest.485D5664A17E16DF.quest_subtitle: "x8 Storage Nâng cấp"
 	quest.485D5664A17E16DF.title: "&6Copper Nâng cấp"
-	quest.4A854CD5EC70733E.quest_desc: ["Thêm Bàn chế tạo GUI vào Ba lô."]
+	quest.4A854CD5EC70733E.quest_desc: ["Thêm Bàn chế tạo giao diện vào Ba lô."]
 	quest.4B62AF0405F68041.quest_desc: ["Thêm một bộ lọc cho phép bạn cho Ba lô biết những mặt hàng nào nên dự trữ. Shift, nhấp chuột phải vào kho sẽ nạp lại nó."]
 	quest.4B62AF0405F68041.quest_subtitle: "All Stocked lên"
 	quest.4C0BDD483CCB40C4.title: "&bKim cương Chest"
@@ -92,8 +92,8 @@
 	quest.4E4C8BCD45766F03.quest_desc: ["Ngăn kéo này sẽ tự động chuyển đổi vật phẩm được đặt bên trong nó thành dạng nén."]
 	quest.4E4C8BCD45766F03.quest_subtitle: "Auto Compacts/Giải nén"
 	quest.508A8366219175FE.quest_desc: ["Công cụ Cấu hình dùng để khóa các Ngăn kéo để chúng ghi nhớ vật phẩm bên trong.\n\nĐiều này có thể hữu ích bất cứ khi nào bạn thiết lập một hệ thống để đẩy và kéo từ Ngăn kéo. Ngăn kéo bị khóa sẽ không thay thế vật phẩm đã bị khóa trên đó!"]
-	quest.52672B7FFFD51D16.quest_desc: ["Thêm Stonecutter GUI vào Ba lô."]
-	quest.53F861876B991C36.quest_desc: ["Thêm Jukebox GUI vào Ba lô."]
+	quest.52672B7FFFD51D16.quest_desc: ["Thêm Stonecutter giao diện vào Ba lô."]
+	quest.53F861876B991C36.quest_desc: ["Thêm Jukebox giao diện vào Ba lô."]
 	quest.53F861876B991C36.quest_subtitle: "Bây giờ chúng ta đang say sưa"
 	quest.544791880F315D5A.quest_desc: ["Thuyền Có Rương là Thuyền có Rương trên đó. Bạn có thể mở rương khi đang ở trên Thuyền hoặc có thể nhấp chuột phải vào nó. Mỗi lần chỉ có một người có thể đi thuyền."]
 	quest.56B80A7EBFE21428.quest_subtitle: "Tùy chọn lọc khác"
@@ -113,10 +113,10 @@
 	quest.5FA9BC0D8476D322.quest_desc: ["Tự động cho bạn ăn thức ăn trong Ba lô."]
 	quest.615B9062FE8CCD36.quest_desc: ["Tự động chuyển sang công cụ hiệu quả nhất cho khối bạn đang xem."]
 	quest.61A22707DBC83818.quest_desc: ["Điểm truy cập lưu trữ hoạt động như một Storage Controller khi được liên kết với nó, có thể được đẩy vào hoặc kéo ra. Về cơ bản là một điểm vào cho Ngăn kéo."]
-	quest.668C313FF46B6005.quest_desc: ["Thêm Lò nung GUI vào Ba lô."]
+	quest.668C313FF46B6005.quest_desc: ["Thêm Lò nung giao diện vào Ba lô."]
 	quest.67704F7341EDCC49.title: "&bKim cương Backpack"
-	quest.696E063016CAD1B9.quest_desc: ["Thêm GUI chế tạo cho Chipped Workbenches vào Ba lô của bạn."]
-	quest.6A2B2C5E2ADCE366.quest_desc: ["Sophisticated Backpacks cung cấp Ba lô có thể nâng cấp và sử dụng các bộ lọc để thêm các tính năng tiện lợi!\n\nBa lô có thể được đặt vào khe Curios Back của bạn và chúng có thể được nhuộm."]
+	quest.696E063016CAD1B9.quest_desc: ["Thêm giao diện chế tạo cho Chipped Workbenches vào Ba lô của bạn."]
+	quest.6A2B2C5E2ADCE366.quest_desc: ["Sophisticated Backpacks cung cấp Ba lô có thể nâng cấp và sử dụng các bộ lọc để thêm các tính năng tiện lợi!\n\nBa lô có thể được đặt vào khe Curios phía sau của bạn và chúng có thể được nhuộm."]
 	quest.6A2B2C5E2ADCE366.quest_subtitle: "Hàng tồn kho quá nhỏ"
 	quest.6A2B2C5E2ADCE366.title: "Sophisticated Backpacks"
 	quest.6E3D53D1C4569A89.quest_desc: ["Cho phép bạn trao đổi kinh nghiệm giữa bạn và Ba lô."]
@@ -158,7 +158,7 @@
 	task.14FA4A933C39A406.title: "Thuyền có rương"
 	task.1809DDEA104A9CE8.title: "AllRightsReserved"
 	task.200CE35BF3C04F6F.title: "Copper Chests"
-	task.21FBC4E0F668347C.title: "NBT và YOU!"
+	task.21FBC4E0F668347C.title: "NBT và BẠN!"
 	task.26A85DCA60F71DFF.title: "Fluid Drawers"
 	task.2E04D0F6EEABE677.title: "Drawers"
 	task.301665A6315B569C.title: "Storage Controllers"

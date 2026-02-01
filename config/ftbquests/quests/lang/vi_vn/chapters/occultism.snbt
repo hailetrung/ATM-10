@@ -1,5 +1,5 @@
 {
-	quest.00A6020BC979947F.quest_desc: ["Với &9Marid Crusher mới được triệu hồi, bạn có thể chia nhỏ Echo Shard và Iesnium Ingot, khi kết hợp với Glow Ink Sac sẽ tạo ra Cyan Chalk."]
+	quest.00A6020BC979947F.quest_desc: ["Với &9Marid Crusher mới được triệu hồi, bạn có thể chia nhỏ Echo Shard và Iesnium thỏi, khi kết hợp với Glow Ink Sac sẽ tạo ra Cyan Chalk."]
 	quest.00A6020BC979947F.title: "&3Phấn lục lam"
 	quest.03250A0202C25E80.quest_desc: ["Sau khi bạn tiêu diệt thành công &9Unbound Marid's Demon mà bạn đã triệu hồi bằng &4Abras' Fortified Conjure'r, bạn có thể sử dụng &9Marid Essence mà nó rơi ra để chế tạo Phấn có màu \"cao nhất\", Blue Chalk."]
 	quest.03250A0202C25E80.title: "&9Phấn xanh"
@@ -88,7 +88,7 @@
 
 		"- Has yêu cầu kinh nghiệm tăng lên ít hơn khi chỉnh sửa nhiều lần trên cùng một mục."
 
-		"- Increases the maximum xp level at which you can edit items (the point at which it says \"Too Expensive!\")."
+		"- Tăng cấp xp tối đa mà tại đó bạn có thể chỉnh sửa vật phẩm (mốc mà nó hiển thị \"Too Expensive!\")."
 	]
 	quest.1DE0F289821F55D1.quest_desc: ["Bây giờ chúng ta đã có Foliot Crusher, chúng ta có thể lịch sự yêu cầu nó nghiền nát một số &eEnd Stone, &9Obsidian và &7Calcite cho chúng ta. Chúng ta sẽ sử dụng những thứ này để tạo ra một số phấn mới!"]
 	quest.1DE0F289821F55D1.title: "&aPhấn phấn It Up"
@@ -116,7 +116,7 @@
 		"Luôn có những cách mới để sử dụng từng tính năng tưởng chừng như tầm thường nhằm tối đa hóa trải nghiệm của bạn với modpack. Chúc mừng việc chế tạo nghi lễ!"
 
 	]
-	quest.29C83B00AC4AFC23.title: "What's Next?"
+	quest.29C83B00AC4AFC23.title: "Tiếp theo là gì?"
 	quest.2A3683BF7E50EF83.quest_desc: [
 		"Hầu hết các vật phẩm chúng tôi cần từ &3Otherworld cho đến nay chỉ cần một chút Lửa Tinh Thần. Tuy nhiên, chúng ta sẽ cần sử dụng sự trợ giúp của &3Con mắt thứ ba để tìm Quặng của &3Otherworld."
 
@@ -144,9 +144,9 @@
 	quest.2AD68066C1948C90.quest_subtitle: "Maximum Summon"
 	quest.2AD68066C1948C90.title: "&9Fatma's Incentivized Attraction"
 	quest.2CF96A264EB5522C.quest_desc: [
-		"&9Uphyxes' Inverted Tower&r is the maximum tier of &6Infusion Rituals&r. It doesn't have as many uses as the other three tiers, but it's still nessecary for the \"endgame\" of Occultism. "
+		"&9Uphyxes' Inverted Tower&r là tier cao nhất của &6Infusion Rituals&r. Nó không có nhiều công dụng như ba tier còn lại, nhưng vẫn cần thiết cho \"endgame\" của Occultism. "
 		""
-		"Chủ yếu, nó được dùng để tạo ra Dragonyst Dust, thành phần chính của Magenta Chalk."
+		"Chủ yếu, nó được dùng để tạo ra Dragonyst Bụi, thành phần chính của Magenta Chalk."
 
 	]
 	quest.2CF96A264EB5522C.quest_subtitle: "Maximum Infusion"
@@ -155,7 +155,7 @@
 	quest.2E68E1D96B25336D.title: "&dPhấn hồng"
 	quest.2FD22502E6481269.quest_desc: ["Bằng cách sử dụng &dRonaza's Contact&r, bạn có thể nâng cấp Soul Gem của mình để tạo Trinity Gem. Về cơ bản, đây chỉ là phiên bản nâng cấp của Soul Gem có thể bắt được những kẻ thù lớn hơn, mặc dù nó vẫn không thể chứa được hầu hết các tên trùm."]
 	quest.2FD22502E6481269.title: "Trinity Gem"
-	quest.30C5B597610F4AFB.quest_desc: ["Mục đầu tiên và quan trọng nhất cần sử dụng Eziveus' Spectral Compulsion là Research Fragment Dust. Điều này được sử dụng kết hợp với một số Ngọc lục bảo đã nghiền nát để tạo ra Lime Chalk!"]
+	quest.30C5B597610F4AFB.quest_desc: ["Mục đầu tiên và quan trọng nhất cần sử dụng Eziveus' Spectral Compulsion là Research Fragment Bụi. Điều này được sử dụng kết hợp với một số Ngọc lục bảo đã nghiền nát để tạo ra Lime Chalk!"]
 	quest.30C5B597610F4AFB.title: "&aVôi phấn"
 	quest.33106E24A3B5DDD8.quest_desc: [
 		"Bước tiếp theo trong hành trình của bạn sẽ là tìm &eIesnium Quặng ở Nether."
@@ -176,9 +176,9 @@
 		"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
 	]
 	quest.33106E24A3B5DDD8.title: "&cIesnium: Quặng của thế giới khác"
-	quest.3543563DF036D461.quest_desc: ["Để tạo Dragonyst Dust, bạn cần thực hiện &9Uphyxes' Inverted Tower&r. Tuy nhiên, để tạo ra Magenta Chalk, bạn cũng sẽ cần một số nguyên liệu mà bạn chỉ có thể lấy được thông qua &9Marid Crusher."]
+	quest.3543563DF036D461.quest_desc: ["Để tạo Dragonyst Bụi, bạn cần thực hiện &9Uphyxes' Inverted Tower&r. Tuy nhiên, để tạo ra Magenta Chalk, bạn cũng sẽ cần một số nguyên liệu mà bạn chỉ có thể lấy được thông qua &9Marid Crusher."]
 	quest.3543563DF036D461.title: "&#AD00C8Magenta Chalk"
-	quest.367E891A50991436.quest_desc: ["Bằng cách sử dụng Permanent Confinement&r của &cSevira, chúng ta có thể kết hợp nhiều vật liệu Wither khác nhau và một số Netherite để tạo ra ba Witherite Dust. Với những điều này, chúng ta có thể tạo cho mình dạng Foundation Chalk, Black Chalk cao nhất."]
+	quest.367E891A50991436.quest_desc: ["Bằng cách sử dụng Permanent Confinement&r của &cSevira, chúng ta có thể kết hợp nhiều vật liệu Wither khác nhau và một số Netherite để tạo ra ba Witherite Bụi. Với những điều này, chúng ta có thể tạo cho mình dạng Foundation Chalk, Black Chalk cao nhất."]
 	quest.367E891A50991436.title: "Black Chalk"
 	quest.38A1295878B68F83.quest_desc: [
 		"Không, không phải loại đó."
@@ -202,7 +202,7 @@
 		"Bạn nên tạo nghi lễ này ở một khu vực riêng biệt với khu vực đầu tiên của bạn, vì ba loại nghi lễ chính được xây dựng dựa trên từng cấp trước đó."
 
 	]
-	quest.39647A2473F6F7D7.quest_subtitle: "Đặt một ít Demon Dust™ lên đó!"
+	quest.39647A2473F6F7D7.quest_subtitle: "Đặt một ít Demon Bụi™ lên đó!"
 	quest.39647A2473F6F7D7.title: "&eEziveus' Spectral Compulsion"
 	quest.3D41D0092D94636B.quest_desc: [
 		"Điều gì sẽ xảy ra nếu tôi nói với bạn rằng Demon's Fruit dễ cháy?"
@@ -222,7 +222,7 @@
 		"Đặc biệt, nghi thức này sẽ tạo ra một Zombified Piglin do &cAfrit sở hữu, sẽ rơi ra một số Demonic Meat, dùng để chế tạo Pink Chalk"
 
 		""
-		"&4CẢNH BÁO: YOU MAY HAVE TO DO THIS ONE NHIỀU TIMES TO GET ENOUGH QUỶ MEAT."
+		"&4CẢNH BÁO: BẠN CÓ THỂ PHẢI LÀM CÁI NÀY NHIỀU LẦN TO GET ENOUGH QUỶ MEAT."
 
 	]
 	quest.429B5A81DF6C43FE.quest_subtitle: "Làm sao... Thịt..."
@@ -247,7 +247,7 @@
 		"&cDemon's Dream Fruit&r hoàn toàn tốt cho sức khỏe của bạn. Có thể có một số tác dụng phụ bạn nên biết."
 
 		""
-		"When you consume one, you have a chance to get the effect of the &3Third Eye&r, allowing you to see into the &9The Otherworld&r. Certain items in the world might not be what they seem, and you'll need this \"vision\" to find certain items for progression."
+		"Khi dùng một cái, bạn có cơ hội nhận hiệu ứng &3Third Eye&r, cho phép bạn nhìn vào &9The Otherworld&r. Một số vật phẩm trong thế giới có thể không như vẻ ngoài của nó, và bạn sẽ cần \"tầm nhìn\" này để tìm các vật phẩm cần cho tiến trình."
 		""
 		"Hoặc bạn có thể đốt nó và bỏ qua việc tìm kiếm hầu hết chúng. Điều đó tùy thuộc vào bạn."
 
@@ -294,7 +294,7 @@
 		"Để bắt đầu, hãy kết hợp Unbound Book của bạn với &aTừ điển Tinh linh của bạn trong một lưới chế tạo. Điều này sẽ trói buộc một con quỷ vào cuốn sách, đó là thứ chúng ta cần cho nghi lễ."
 
 		""
-		"Speaking about your Dictionary of Spirits, it's time to open it up! On the left, click on the &dPentacles&r tab and click on &bAviar's Circle&r. You might have to advance through it by reading a little bit. There is also a way to click \\\"Mark All As Read\\\" so it unlocks everything in the Book."
+		"Nói về Dictionary of Spirits, đã đến lúc mở nó ra! Bên trái, bấm vào tab &dPentacles&r rồi chọn &bAviar's Circle&r. Bạn có thể phải đọc qua một chút để mở khóa tiếp. Ngoài ra còn có nút \\\"Mark All As Read\\\" để mở khóa mọi thứ trong sách."
 		""
 		"Đây là thứ chúng ta sẽ sử dụng để triệu hồi người bạn mới của mình. Ở phía bên phải, bạn có thể nhấp vào con mắt ở góc dưới bên trái của hình ảnh để xây dựng phác thảo về nghi lễ dành cho bạn trên thế giới. Điều này là siêu hữu ích!"
 
@@ -321,7 +321,7 @@
 	quest.53DEA3DFEDC4809E.quest_subtitle: "Có phải là một con chim? Nó có phải là một chiếc máy bay không? Không, đó là unbound&9Marid!"
 	quest.53DEA3DFEDC4809E.title: "&4Abras' Fortified Conjure"
 	quest.54378277B8D28B1D.quest_desc: [
-		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+		"Một dạng \"nâng cấp\" của Rainbow Chalk, dành cho ai không thích các rune đổi màu liên tục làm hỏng công trình bạn kỳ công xây dựng. "
 		""
 		"Có chức năng tương tự như Rainbow Chalk, ngoại trừ tất cả rune sẽ hiển thị màu trắng. Ngoài ra, nó cũng có tác dụng với phấn nền."
 
@@ -358,7 +358,7 @@
 		"Các nghi lễ (về cơ bản) có bốn cấp độ dựa trên mức độ mạnh mẽ của Ác ma mà bạn đang triệu hồi. Cấp đầu tiên là &eFoliot’s, sau đó là &aDijini’s, &cAfrit&r và &9Marid&r. Một số nghi lễ rơi vào các cấp độ ở giữa, chẳng hạn như cấp độ &6Unbound Afrit."
 
 		""
-		"T&lypes of Rituals:"
+		"C&lá loại Ritual:"
 
 		""
 		"Có năm loại nghi lễ chính, nhưng chúng ta chỉ cần bốn loại để tiến triển. Ba cái chính là &9 Nghi thức triệu hồi, &5 Nghi thức chiếm hữu, và &6 Nghi thức truyền dịch. Mỗi người sẽ được giải thích lần đầu tiên họ xuất hiện trong các nhiệm vụ này. Loại nghi lễ thứ tư là một loại &dDemon's &dRitual, nghĩa là nó sử dụng các mảnh ghép từ cả ba loại để tạo thành một hành động đặc biệt mà không cần trực tiếp sử dụng Ác ma."
@@ -458,7 +458,7 @@
 		"Theo mặc định, nó có 128 khe lưu trữ với mỗi khe chứa tối đa 16 ngăn xếp vật phẩm, ngoại trừ các vật phẩm có dữ liệu &5NBT. Những thứ này sẽ không xếp chồng lên nhau và sẽ chiếm toàn bộ ô, vì vậy hãy đảm bảo loại bỏ những vật phẩm đó!"
 
 		""
-		"If you aren't sure what items have NBT data on them, you can always check out the quest \"NBT and You\" in the Storage questline for more info on NBT!"
+		"Nếu bạn không chắc vật phẩm nào có NBT data, bạn luôn có thể xem nhiệm vụ \"NBT and You\" trong questline Storage để biết thêm về NBT!"
 	]
 	quest.6CC5FE34778F0DFA.title: "&c&mDemonir’s&dKho lưu trữ ma thuật&c!"
 	quest.6CCDEEDA2C99DA66.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]

@@ -1,8 +1,8 @@
 {
 	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power có &9Powercells&r để lưu trữ năng lượng, là các bộ lưu trữ nhiều khối có thể được tùy chỉnh và nâng cấp để lưu trữ năng lượng.\n\nBạn sẽ cần một Cờ lê để xác định đầu vào và đầu ra cho nguồn điện."]
-	quest.05B6DB75AEC01187.title: "&9RFTools Power:&cPowercell"
+	quest.05B6DB75AEC01187.title: "&9RFTools Power:&cPowercell&r (pin năng lượng)"
 	quest.0AEC181F5E21A299.quest_desc: ["Nếu bạn đã từng nghe ai đó nói về \"Melon Power\" thì chính là nó. &dMáy phát điện đốt khí&r của Mekanism có thể tạo ra một lượng điện năng lớn bằng cách bơm vào &9Ethylene&r được làm từ Melon Slices.\n\nĐể sản xuất &dEthylene&r, hãy bắt đầu bằng cách nghiền các vật liệu hữu cơ trong &eCrusher&r để tạo ra &6Bio Fuel&r. Melon Slices thường được sử dụng cho việc này! Sau đó, chất này được bơm vào &dPressurized Reaction Chamber&r (gọi tắt là PRC).\n\nPRC cần Nước, Bio Fuel và một ít Hydro để tạo ra Ethylene. Bạn có thể lấy Hydro từ việc tách nước trong &9Electrolytic Separator&r.\n\nKhi bạn đã bắt đầu sản xuất Ethylene, hãy bơm nó vào Máy phát điện đốt khí để bắt đầu tạo ra điện!"]
-	quest.0AEC181F5E21A299.quest_subtitle: "MELON POWER!"
+	quest.0AEC181F5E21A299.quest_subtitle: "Năng lượng dưa hấu!"
 	quest.0AEC181F5E21A299.title: "&9Cơ chế cơ khí:&dMáy phát điện đốt khí"
 	quest.0BB367839D28607D.quest_desc: ["Những &8Coal Generators&r này là một số máy phát điện dễ chế tạo nhất.\n\nChúng rất đơn giản để sử dụng và tạo ra một lượng năng lượng kha khá dựa trên vật liệu dễ cháy mà bạn đưa vào. Chúng cũng tự động phân phối năng lượng cho các khối liền kề."]
 	quest.0BB367839D28607D.quest_subtitle: "Fossil Fuels"
@@ -12,17 +12,17 @@
 	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing:&bMycelial Reactor"
 	quest.11D09E918015355C.quest_desc: ["&cHeat Generator&r của Mekanism là một cách tiếp cận khác về sản xuất năng lượng cơ bản. Nó có hai chế độ tạo ra sức mạnh:\n\n&9Thụ động:&r Bao quanh máy phát điện bằng nguồn Dung nham hoặc các khối chảy sẽ tạo ra năng lượng thụ động theo thời gian thông qua nhiệt. Đặt một khối nguồn dung nham lên trên và để nó chảy qua các cạnh. Trước tiên hãy đảm bảo rằng các Đường ống được kết nối để lấy năng lượng!\n\n&9Hoạt động:&r Đặt các vật liệu dễ cháy như Than hoặc Gỗ vào máy phát điện sẽ đốt cháy nhiên liệu để tạo ra năng lượng. Điều này không hiệu quả lắm."]
 	quest.11D09E918015355C.title: "&cHeat Generator"
-	quest.1409C17773B6A131.quest_desc: ["All Upgrades tăng số lượng di chuyển &e&lPipez&r nhưng mỗi lần di chuyển đều cấp nhiều tùy chọn hơn để sử dụng với &e&lPipe&r. \n\nBasic Upgrade cho phép Redstone Activation với &e&lPipez&r.\n\nImproved Upgrade cho phép bạn thay đổi cách phân phối:Closest First, Farthest First, Vòng tròn hoặc Ngẫu nhiên.\n\nAdvanced Upgrade cung cấp cho bạn tùy chọn để thêm Bộ lọc.\n\nUltimate không cấp bất cứ điều gì mới, nó chỉ di chuyển rất nhiều!"]
+	quest.1409C17773B6A131.quest_desc: ["Tất cả nâng cấp tăng số lượng di chuyển &e&lPipez&r nhưng mỗi lần di chuyển đều cấp nhiều tùy chọn hơn để sử dụng với &e&lPipe&r. \n\nBasic Upgrade cho phép Redstone Activation với &e&lPipez&r.\n\nImproved Upgrade cho phép bạn thay đổi cách phân phối:Closest First, Farthest First, Vòng tròn hoặc Ngẫu nhiên.\n\nAdvanced Upgrade cung cấp cho bạn tùy chọn để thêm Bộ lọc.\n\nUltimate không cấp bất cứ điều gì mới, nó chỉ di chuyển rất nhiều!"]
 	quest.1409C17773B6A131.title: "&9Ống:&aNâng cấp"
 	quest.1BE26A00A420DAE3.quest_desc: ["Trong bản mod này, bạn sẽ cần &aFlux Cores&r và &aFlux Blocks&r để tạo các phần cốt lõi trong mạng của bạn. Làm một vài cái mỗi cái!"]
 	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores bạn cần những thứ này"
 	quest.1BE26A00A420DAE3.title: "Vật liệu chế tạo \"Cốt lõi\""
-	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Dust cũng có thể được tự động hóa bằng &6XyCraft&r!\n\nĐặt một khối tinh thể đá đỏ đã tích điện trên nền đá, bao quanh khối tinh thể bằng 4 viên hắc thạch ở tất cả các mặt và đặt máy chiết lên trên.\nSau đó, chỉ cần đặt một bộ lưu trữ lên trên máy chiết là xong!"]
-	quest.1EECA19DF9CF6A0C.title: "Automated Flux Dust"
+	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Bụi cũng có thể được tự động hóa bằng &6Xychế tạo&r!\n\nĐặt một khối tinh thể đá đỏ đã tích điện trên nền đá, bao quanh khối tinh thể bằng 4 viên hắc thạch ở tất cả các mặt và đặt máy chiết lên trên.\nSau đó, chỉ cần đặt một bộ lưu trữ lên trên máy chiết là xong!"]
+	quest.1EECA19DF9CF6A0C.title: "Automated Flux Bụi"
 	quest.1F81EA5E45424308.quest_desc: ["Nếu bạn đang tìm kiếm những cách khác nhau để lấy nguồn điện cho máy của mình thì đây là nơi bạn có thể tìm thấy!\n\nCó một số tùy chọn, cả &awired&r và &9wireless&r, để truyền nguồn."]
 	quest.1F81EA5E45424308.title: "&f&lChuyển giao quyền lực"
 	quest.27A4FA38992448A0.quest_desc: [
-		"Flux Networks also provides a way to charge your items wirelessly, even across dimensions!\\n\\nOnce you have a Plug attached to your power system, you'll want to make the &9Flux Controller&r and place it down.\\n\\nRight-click on it to bring up the interface, and go to the \"Wireless Charging\" tab. From there, you can select each section of your inventory you'd like to keep charged. To activate, make sure to hit the toggle button at the bottom to enable Wireless Charging, then click apply!\\n"
+		"Flux Networks cũng cung cấp cách sạc vật phẩm không dây, thậm chí xuyên dimension!\\n\\nKhi bạn đã có Plug gắn vào hệ thống điện, hãy chế tạo &9Flux Controller&r và đặt xuống.\\n\\nChuột phải để mở giao diện, vào tab \"Wireless Charging\". Tại đó bạn có thể chọn phần nào trong túi đồ muốn luôn được sạc. Để kích hoạt, hãy bật nút toggle ở phía dưới để enable Wireless Charging, sau đó bấm apply!\\n"
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
 	quest.27A4FA38992448A0.title: "Wireless Charging"
@@ -54,17 +54,17 @@
 	]
 	quest.35ABB0DEE70DF7FD.quest_desc: ["Dù bạn có tin hay không, mod &aPowah&r có ​​một số tùy chọn tuyệt vời để nhận được... powwe.\n\nHãy nhớ xem chương &cPowah&r qyest để tìm hiểu thêm!"]
 	quest.35ABB0DEE70DF7FD.title: "Thêm&aPowah&r!"
-	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r là một mod nhằm mục đích trở thành giải pháp cho tất cả các nhu cầu về nguồn điện không dây của bạn.\n\nBản thân mod không có cách tạo ra năng lượng, nhưng nó có thể lưu trữ và truyền tải năng lượng không dây, thậm chí xuyên suốt các chiều không gian. Nó thậm chí có thể tính phí các mặt hàng trong kho của bạn.\n\nBạn thậm chí có thể sạc Jetpack của mình khi đang bay với bản mod này.\n\nĐể bắt đầu sử dụng mod, bạn sẽ cần một số Flux Dust. Đi đến Bedrock, sau đó ném một ít Redstone lên trên Bedrock. Đặt một ít Obsidian ngay phía trên Redstone nổi, sau đó nhấp chuột trái vào Obsidian."]
+	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r là một mod nhằm mục đích trở thành giải pháp cho tất cả các nhu cầu về nguồn điện không dây của bạn.\n\nBản thân mod không có cách tạo ra năng lượng, nhưng nó có thể lưu trữ và truyền tải năng lượng không dây, thậm chí xuyên suốt các chiều không gian. Nó thậm chí có thể tính phí các mặt hàng trong kho của bạn.\n\nBạn thậm chí có thể sạc Jetpack của mình khi đang bay với bản mod này.\n\nĐể bắt đầu sử dụng mod, bạn sẽ cần một số Flux Bụi. Đi đến Bedrock, sau đó ném một ít Redstone lên trên Bedrock. Đặt một ít Obsidian ngay phía trên Redstone nổi, sau đó nhấp chuột trái vào Obsidian."]
 	quest.35CC898E0E49FE58.quest_subtitle: "Giải pháp nguồn không dây tối ưu"
 	quest.35CC898E0E49FE58.title: "&8Flux Networks"
-	quest.36DEA17CBB696CC7.quest_desc: ["Nếu bạn nhấp chuột phải vào Plug, bạn sẽ thấy Flux Network UI. Ở góc trên cùng bên phải, nhấp vào nút + để tạo mạng đầu tiên của bạn. Bạn sẽ cần đặt mật khẩu để tạo mạng, nhưng bạn cũng có thể đặt màu!\n\nTừ đây, bạn có thể chuyển đến tab Network Selection để kích hoạt mạng của mình trên Plug. Nếu Phích cắm được gắn vào nguồn điện, giờ đây bạn có thể khai thác nguồn điện đó ở bất kỳ đâu trong hệ thống của mình bằng cách sử dụng Flux Point!\n\nPro Tip: Bạn có thể tạo nhiều mạng nếu muốn có các nguồn điện khác nhau cung cấp năng lượng cho các bộ phận khác nhau trong hệ thống của mình!"]
+	quest.36DEA17CBB696CC7.quest_desc: ["Nếu bạn nhấp chuột phải vào Plug, bạn sẽ thấy Flux Network UI. Ở góc trên cùng bên phải, nhấp vào nút + để tạo mạng đầu tiên của bạn. Bạn sẽ cần đặt mật khẩu để tạo mạng, nhưng bạn cũng có thể đặt màu!\n\nTừ đây, bạn có thể chuyển đến tab Network Selection để kích hoạt mạng của mình trên Plug. Nếu Phích cắm được gắn vào nguồn điện, giờ đây bạn có thể khai thác nguồn điện đó ở bất kỳ đâu trong hệ thống của mình bằng cách sử dụng Flux Point!\n\nMẹo: Bạn có thể tạo nhiều mạng nếu muốn có các nguồn điện khác nhau cung cấp năng lượng cho các bộ phận khác nhau trong hệ thống của mình!"]
 	quest.36DEA17CBB696CC7.quest_subtitle: "Trở thành Network Admin!"
 	quest.3BDB94F17765EE77.quest_desc: ["Nếu bạn đang muốn tạo ra nhiều năng lượng, bạn có thể bắt đầu bằng cách mở rộng một số tùy chọn từ phần &9Mid Game Power&r. Làm cho &aReactors&r của bạn lớn hơn. Nâng cấp &9Thermo Generators&r của bạn lên Nitro. Đi hoang dã.\n\nTuy nhiên, bạn có thể cần nhiều năng lượng hơn nữa."]
 	quest.3BDB94F17765EE77.quest_subtitle: "Nhiều sức mạnh hơn bạn cần"
-	quest.3BDB94F17765EE77.title: "End Game Power Options"
+	quest.3BDB94F17765EE77.title: "Tùy chọn năng lượng giai đoạn cuối"
 	quest.42D173B9FF8D16E4.quest_desc: ["Bạn đang tìm kiếm các lựa chọn sức mạnh đầu game? Đây là những cách tốt để bạn bắt đầu tạo ra năng lượng.\n\nNhững thứ này không tạo ra nhiều sức mạnh, nhưng chúng thường dễ dàng hoặc rẻ tiền để có được trong giai đoạn đầu trò chơi!"]
-	quest.42D173B9FF8D16E4.quest_subtitle: "Starter Power"
-	quest.42D173B9FF8D16E4.title: "&8&lEarly Game Power Options"
+	quest.42D173B9FF8D16E4.quest_subtitle: "Năng lượng khởi đầu"
+	quest.42D173B9FF8D16E4.title: "&8&lTùy chọn năng lượng giai đoạn đầu"
 	quest.43D83CFA824B0A70.quest_desc: ["&9Mekanism&r có ​​tùy chọn sức mạnh cuối trò chơi rất khó đánh bại. &dFusion Reactor&r có thể tạo ra tới 80MRF/t và nếu bạn muốn tìm hiểu cách chế tạo nó, hãy nhớ xem chương nhiệm vụ &aMekanism: &dReactors&r!"]
 	quest.43D83CFA824B0A70.quest_subtitle: "Fusion Activate!"
 	quest.43D83CFA824B0A70.title: "&9Chủ nghĩa cơ học:&dFusion Reactor"
@@ -81,10 +81,10 @@
 	quest.56B6ABF3D6EA0D84.quest_desc: ["Sau khi thiết lập Plug, giờ đây chúng tôi có thể khai thác nguồn điện từ mạng của mình. &9Flux Point&r thực hiện chính xác điều đó. Nó hướng nguồn điện từ mạng của bạn tới bất kỳ khối nào được gắn vào, bao gồm Ống hoặc Cáp hoặc chỉ trực tiếp trên máy!\n\nKhi bạn đã đặt Điểm của mình trên máy hoặc khối mà bạn muốn cấp nguồn, hãy nhấp chuột phải vào nó và chọn mạng của bạn trong tab \"Network Selection\". Cũng giống như Plug, bạn có thể điều chỉnh mức độ kéo của Point, mức độ ưu tiên, v.v."]
 	quest.56B6ABF3D6EA0D84.title: "Truy cập nguồn mạng"
 	quest.5C47935A3B2877FF.quest_desc: ["Mekanism cung cấp một loại cáp đẹp mắt để truyền sức mạnh của bạn.\n\nNếu máy bạn đang kết nối đã kéo hoặc đẩy nguồn, bạn sẽ không cần định cấu hình Cáp. Nếu không, bạn sẽ cần &9Configurator&r để định cấu hình Cáp. Nhấn Shift chuột phải sẽ chuyển Cable sang chế độ kéo hoặc đẩy."]
-	quest.5C47935A3B2877FF.quest_subtitle: "Mekanism's Energy Transfer Pipe"
+	quest.5C47935A3B2877FF.quest_subtitle: "Ống truyền năng lượng của Mekanism"
 	quest.5C47935A3B2877FF.title: "&9Chủ nghĩa cơ học:&aUniversal Cables"
 	quest.5E41363F9AE243F3.quest_desc: ["Bạn không thể cung cấp năng lượng cho căn cứ của mình bằng Than mãi mãi! Nếu bạn có sẵn một lượng tài nguyên kha khá, đã đến lúc nâng cấp thiết lập nguồn điện của bạn!\n\nCác tùy chọn này thường yêu cầu thiết lập một chút nhưng có đủ sức mạnh để đưa bạn tiến xa hơn trong quá trình chơi."]
-	quest.5E41363F9AE243F3.title: "&b&lMid Game Power Options"
+	quest.5E41363F9AE243F3.title: "&b&lTùy chọn năng lượng giai đoạn giữa"
 	quest.5F078A574A783B02.quest_desc: ["Mục đầu tiên bạn cần để khởi động Flux Network là &9Flux Plug&r.\n\nPhích cắm được sử dụng để \"rút\" điện từ khối được gắn vào. Ngoài một bộ đệm nhỏ, Ổ cắm không tự lưu trữ bất kỳ nguồn điện nào, vì vậy đừng lo lắng về việc nó sẽ tiêu tốn toàn bộ nguồn điện của bạn.\n\nBạn nên đặt Phích cắm trên khối lưu trữ điện như Energy Cube. Nó có thể kết nối với Cáp, Đường ống hoặc đầu ra của bất kỳ máy sản xuất điện nào.\n\nĐể tìm hiểu cách thiết lập mạng đầu tiên của bạn, hãy xem nhiệm vụ tiếp theo!"]
 	quest.5F078A574A783B02.quest_subtitle: "Chỉ cần cắm nó vào!"
 	quest.5F078A574A783B02.title: "Bắt đầu mạng của bạn"
@@ -118,8 +118,8 @@
 	quest.79AD74A863EA43CB.quest_desc: ["Flux Networks cung cấp cách lưu trữ năng lượng bạn tạo ra cho mạng của mình!\n\nNhìn chung, chúng chứa một lượng điện năng khổng lồ và có thể được nâng cấp để lưu trữ nhiều hơn nữa!"]
 	quest.79AD74A863EA43CB.quest_subtitle: "lưu trữ điện"
 	quest.79AD74A863EA43CB.title: "Flux Storage"
-	quest.7A979BEB20C9591E.quest_desc: ["Flux Dust có thể được tự động hóa bằng cách sử dụng &6Productive Bees&r!\n\nRedstone Bee Spawn Eggs có thể được chuyển đổi thành Flux Dust Bee Spawn Trứng bằng cách sử dụng Obsidian Bee."]
-	quest.7A979BEB20C9591E.title: "Automated Flux Dust"
+	quest.7A979BEB20C9591E.quest_desc: ["Flux Bụi có thể được tự động hóa bằng cách sử dụng &6Productive Bees&r!\n\nRedstone Bee Spawn Eggs có thể được chuyển đổi thành Flux Bụi Bee Spawn Trứng bằng cách sử dụng Obsidian Bee."]
+	quest.7A979BEB20C9591E.title: "Automated Flux Bụi"
 	quest.7FE969CB4B419FC6.quest_desc: ["Chỉ cần nghiên cứu một chút về Mekanism, chiếc máy này cho phép bạn truyền tải mọi thứ không dây.\n\nBạn có thể đặt các kênh cụ thể để chuyển từng vật phẩm, năng lượng hoặc thậm chí là khí từ Mekanism. Nó khá tuyệt."]
 	quest.7FE969CB4B419FC6.quest_subtitle: "Không chỉ có tác dụng với Power"
 	quest.7FE969CB4B419FC6.title: "&9Chủ nghĩa cơ học:&6Quantum Entangloporter"
@@ -129,7 +129,7 @@
 	task.35C1DBD4544C9BB0.title: "Induction Cells"
 	task.3D721B55E8D33FE8.title: "Mạng thông lượng UI"
 	task.44C02386C9B8E0D3.title: "Induction Providers"
-	task.59DE118DD6597A4E.title: "Renewable Mekanism Energy Generators"
+	task.59DE118DD6597A4E.title: "Máy phát năng lượng tái tạo của Mekanism"
 	task.6C4B8A2662030CB0.title: "Cáp phổ quát"
 	task.76378687551A79C3.title: "Energy Cubes"
 	task.7CA8741CA073C1DA.title: "Powercells"

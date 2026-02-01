@@ -25,7 +25,7 @@
 	quest.212EC1F41227184D.quest_desc: ["Bạn có muốn bắn được những vụ nổ Ender giống như &eLich không? Nếu vậy, &9Scepter of Twilight chính là quyền trượng dành cho bạn!.\n\nĐể nạp lại năng lượng, hãy kết hợp nó với &5Ender Pearl trong lưới chế tạo."]
 	quest.212EC1F41227184D.quest_subtitle: "Shoots Ender Blasts"
 	quest.212EC1F41227184D.title: "&9Quyền trượng Chạng Vạng"
-	quest.25906B43A198B72F.quest_desc: ["Knightmetal Armor có thể được chế tạo bằng Knightmetal Ingots và có cơ hội được tìm thấy trong rương của &2Knight Phantom."]
+	quest.25906B43A198B72F.quest_desc: ["Knightmetal Armor có thể được chế tạo bằng Knightmetal thỏi và có cơ hội được tìm thấy trong rương của &2Knight Phantom."]
 	quest.25906B43A198B72F.title: "Knightmetal Armor"
 	quest.2951B1D7080C5EF9.quest_desc: ["Sử dụng &6Lamp of Cinders, bạn có thể phá vỡ Gai trong Thornland Biome.\n\nThu thập một số &cHoa hồng gai để tiếp tục đến &2Cao nguyên cuối cùng."]
 	quest.2951B1D7080C5EF9.title: "Every Thorn có hoa hồng của nó"
@@ -45,7 +45,7 @@
 	quest.38ADDF7FF4E4892D.quest_desc: ["&7Glass Sword gây sát thương 40 trái tim, nhưng chỉ có 1 độ bền.\n\nBạn có thể làm cho nó không thể phá hủy nếu bạn muốn sử dụng nó.\n\nNhững thứ này hiếm khi được tìm thấy trong các rương chiến lợi phẩm ở &bAurora Palace."]
 	quest.38ADDF7FF4E4892D.title: "&7Kiếm thủy tinh"
 	quest.3908F7C80154D9CA.quest_desc: ["&2Zombie Scepter tồn tại bởi vì ai lại không muốn triệu hồi &2Zombie của riêng mình?\n\nĐể nạp lại năng lượng, hãy kết hợp với &cRotten Flesh trong lưới chế tạo."]
-	quest.3908F7C80154D9CA.quest_subtitle: "Summons Zombies"
+	quest.3908F7C80154D9CA.quest_subtitle: "Summons Zombie"
 	quest.3908F7C80154D9CA.title: "&2Trượng Thây Ma"
 	quest.3A3ED88027331A6C.quest_desc: ["&eBùa Giữ Giữ III hoạt động giống như các Bùa Giữ Giữ khác, nhưng giúp bạn không bị mất tất cả đồ trong kho của mình."]
 	quest.3A3ED88027331A6C.title: "&eSự quyến rũ của việc giữ III"

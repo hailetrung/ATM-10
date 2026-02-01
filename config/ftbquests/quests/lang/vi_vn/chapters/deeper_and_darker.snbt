@@ -31,7 +31,7 @@
 		"{image:atm:textures/questpics/deepndark/dnd_sludge.png width:100 height:100 align:center}"
 	]
 	quest.10E025288BB00657.title: "&bSludge"
-	quest.13B338F377951032.quest_desc: ["Bạn có bao giờ ước mình có thể sử dụng &9&lWardens &bSonic Blast&s không? \n\nVâng, với &bSonorous Staff, bạn có thể! Chỉ cần Hold Right Click để sạc pin, sau đó thả ra để gửi &bSonic Blast. \nNó có thời gian hồi chiêu nhẹ và nó có Độ bền, vì vậy hãy cẩn thận khi sử dụng! \n\nĐể chế tạo một cái, bạn sẽ cần &9Heart of the Deep từ &9&lWarden’s, 2 &3Soul Crystals từ &3&lStalker&r, và 2 &3Sculk Bones &ffrom &3Shattereds&r."]
+	quest.13B338F377951032.quest_desc: ["Bạn có bao giờ ước mình có thể sử dụng &9&lWardens &bSonic Blast&s không? \n\nVâng, với &bSonorous Staff, bạn có thể! Chỉ cần Giữ nhấp chuột phải để sạc pin, sau đó thả ra để gửi &bSonic Blast. \nNó có thời gian hồi chiêu nhẹ và nó có Độ bền, vì vậy hãy cẩn thận khi sử dụng! \n\nĐể chế tạo một cái, bạn sẽ cần &9Heart of   Deep từ &9&lWarden’s, 2 &3Soul Crystals từ &3&lStalker&r, và 2 &3Sculk Bones &ffrom &3Shattereds&r."]
 	quest.13B338F377951032.title: "&bNhân viên có tiếng vang"
 	quest.16A2CC83C99B1F86.quest_desc: [
 		"&9Cá câu cá sinh sản trong &9Ao Nước bên trong &blooming Caverns. \n\nChúng hành động như những con Cá bình thường, rõ ràng là cần &9Water để thở. \n\nChúng có 3 & 4 Trái tim và sẽ tấn công bạn khi bạn ở gần. \n\nThật không may, họ không đánh rơi bất cứ thứ gì khi chết... xin lỗi Fishies!"
@@ -48,7 +48,7 @@
 	quest.1BFE6745F49B4AB0.quest_desc: ["Sculk Gleam có đặc tính của Shroomlights. Họ không cần Công cụ để thu thập mà phá vỡ nhanh nhất bằng Cuốc. \n\nChúng sinh sản trong &5Cây vang vọng và hiếm khi ở dưới lòng đất."]
 	quest.201E3E41018F9521.quest_desc: ["&6Gloomy Cacti cũng giống như &2Cacti bình thường, chỉ sinh sản trong &cOvercast Columns. \n\nÝ tôi là họ thích Heat, họ không cần 9Water để phát triển, chạm vào họ sẽ thấy đau, thậm chí có sự khác biệt nào không? \n\nỒ vâng, những thứ này có thể được nấu chảy thành &6Orange Dye thay vì &2Green!"]
 	quest.201E3E41018F9521.title: "&6Xương rồng u ám"
-	quest.21398F45428CD1D1.quest_desc: ["&6Blooming Berries mọc lên từ &bGlowing Vines trên mái của &bBlooming Caverns. \n\nTrong &bGlowing Vines, &6Bloom Berries có thể sinh sản và sẽ đợi bạn nhặt chúng khỏi &bVine bằng Right Click! \n\nĐây là Food Source duy nhất trong &3&lOtherside."]
+	quest.21398F45428CD1D1.quest_desc: ["&6Blooming Berries mọc lên từ &bGlowing Vines trên mái của &bBlooming Caverns. \n\nTrong &bGlowing Vines, &6Bloom Berries có thể sinh sản và sẽ đợi bạn nhặt chúng khỏi &bVine bằng nhấp chuột phải! \n\nĐây là Food Source duy nhất trong &3&lOtherside."]
 	quest.21398F45428CD1D1.title: "&6Quả mọng nở hoa"
 	quest.35629CB10DBDE340.quest_desc: [
 		"&6Ancient Temple là cấu trúc quan trọng và cần thiết được tìm thấy trong &9Deeplands. \n\nNó trông giống như một Mayan Pyramid được làm từ &8Deepslate &fand &3Sculk&r. Có rất nhiều &3Sculk Cảm biến &fand &3Shriekers cũng như Rương và Ancient Vases. \n\nỞ các tầng cao hơn, bạn hầu như chỉ tìm thấy Rương và Ancient Vases nhưng trong &6Kim tự tháp, chúng ta sẽ tìm thấy thậm chí cả &eBlocks of Gold và các Vật liệu khác."
@@ -77,9 +77,9 @@
 	quest.3D579A1F7EFEDD5C.title: "Giết&9&lQuản giáo"
 	quest.44F9B8F285546B2C.quest_desc: ["&bBlooming Moss xuất phát từ... bạn đoán xem! &b Hang động nở hoa! \n\nNó sẽ sinh sản trên mặt đất chỉ chờ bạn thu thập. \n\nChúng không lan truyền như &2Moss bình thường cũng như không có bất kỳ Công thức nấu ăn nào."]
 	quest.44F9B8F285546B2C.title: "&bRêu nở hoa"
-	quest.45C9D975E3731DFE.quest_desc: ["&9Được gia cố Echo Shard&r là Crafted Item yêu cầu một vài Vật phẩm. \n\nĐầu tiên và dễ dàng có được nhất là &7Phantom Membrane! &7Phantoms sẽ xuất hiện sau khi Người chơi không ngủ trong vài ngày. Càng nhiều đêm trằn trọc, càng có nhiều &7Phantoms! \n\nThứ hai, là &9Echo Shard. Những thứ này có thể được tìm thấy theo nhiều cách nhưng dễ nhất là Cướp bóc trong &6Thành phố cổ. \n\nCuối cùng là &9Warden Carapaces. Đây là những vật rơi ra từ &9&lQuản ngục khi chết. Đừng lo lắng, anh ấy thường đánh rơi nhiều hơn một!"]
+	quest.45C9D975E3731DFE.quest_desc: ["&9Được gia cố Echo Shard&r là chế tạoed Item yêu cầu một vài Vật phẩm. \n\nĐầu tiên và dễ dàng có được nhất là &7Phantom Membrane! &7Phantoms sẽ xuất hiện sau khi Người chơi không ngủ trong vài ngày. Càng nhiều đêm trằn trọc, càng có nhiều &7Phantoms! \n\nThứ hai, là &9Echo Shard. Những thứ này có thể được tìm thấy theo nhiều cách nhưng dễ nhất là Cướp bóc trong &6Thành phố cổ. \n\nCuối cùng là &9Warden Carapaces. Đây là những vật rơi ra từ &9&lQuản ngục khi chết. Đừng lo lắng, anh ấy thường đánh rơi nhiều hơn một!"]
 	quest.45C9D975E3731DFE.title: "&9Gia cố Echo Shard"
-	quest.4A01C5F5DCF32C19.quest_desc: ["&3Soul Elytra hoạt động giống như &8Elytra bình thường, giờ đây có thêm Độ bền và Armor Points! \n\nChúng không thể được sửa chữa bằng &7Phantom Membranes như bình thường của &8Elytras... nhưng Enchantments vẫn có thể sửa chữa chúng! \n\nĐể chế tạo một cái, bạn sẽ cần &8Elytra, 4 &3Sculk Bones rơi ra từ &3Shattered&r, 2 &3Soul Dust rơi ra từ &3Sculk Snappers &cho &3Sculk Leeches&r, và &3Soul Crystal rơi ra từ &3&lStalker."]
+	quest.4A01C5F5DCF32C19.quest_desc: ["&3Soul Elytra hoạt động giống như &8Elytra bình thường, giờ đây có thêm Độ bền và Armor Points! \n\nChúng không thể được sửa chữa bằng &7Phantom Membranes như bình thường của &8Elytras... nhưng Enchantments vẫn có thể sửa chữa chúng! \n\nĐể chế tạo một cái, bạn sẽ cần &8Elytra, 4 &3Sculk Bones rơi ra từ &3Shattered&r, 2 &3Soul Bụi rơi ra từ &3Sculk Snappers &cho &3Sculk Leeches&r, và &3Soul Crystal rơi ra từ &3&lStalker."]
 	quest.4A01C5F5DCF32C19.title: "&3Soul Elytra"
 	quest.4D57A07592AED307.quest_desc: [
 		"&3&lStalker là một Boss có thể được sinh ra bằng cách phá vỡ Ancient Vases. \n\nAnh ấy có 200 &4Trái tim và Boss Bar để theo dõi. Chúng ta cần phải giết hắn để lấy &3Soul Crystals. \n\nAnh ta rất nhanh và gây ra rất nhiều sát thương nếu đánh bạn. Rất may là anh ta bị mù, giống như &9&lWarden. Nhưng anh ấy cũng có thính giác tuyệt vời cho phép anh ấy nghe thấy mọi thứ ở gần. \n\nAnh ta có một vài đòn tấn công, bình thường anh ta sẽ chỉ đánh bạn. Đôi khi anh ta có thể gây ra đòn tấn công AOE và có thể triệu hồi &3Sculk Leeches để tấn công bạn! \n\nAnh ta cũng sẽ tấn công mọi Mob không phải &3Sculk."
@@ -90,7 +90,7 @@
 	quest.56D41A4605C42EB5.quest_desc: ["&6Hổ phách kết tinh xuất hiện trong &cCột u ám. \n\nBạn sẽ cần Silk Touch để lấy chúng. \n\nHọ không làm gì nhiều, nhưng họ trông rất đẹp!"]
 	quest.56D41A4605C42EB5.title: "&6Hổ phách kết tinh"
 	quest.5866438E5D19AB69.quest_desc: [
-		"Đỉa &3Sculk đôi khi có thể sinh ra từ Ancient Vases bị hỏng. \n\nBạn sẽ có chút bất ngờ khi có 2 con xuất hiện! \n\nHọ chỉ có 2 & 4Hearts và sẽ tấn công bạn coi thường điều đó. \n\nKhi chết chúng sẽ rơi ra &3Soul Dust."
+		"Đỉa &3Sculk đôi khi có thể sinh ra từ Ancient Vases bị hỏng. \n\nBạn sẽ có chút bất ngờ khi có 2 con xuất hiện! \n\nHọ chỉ có 2 & 4Hearts và sẽ tấn công bạn coi thường điều đó. \n\nKhi chết chúng sẽ rơi ra &3Soul Bụi."
 
 		"{image:atm:textures/questpics/deepndark/dnd_leech.png width:100 height:100 align:center}"
 	]
@@ -101,7 +101,7 @@
 		"{image:atm:textures/questpics/deepndark/dnd_forest.png width:200 height:100 align:center}"
 	]
 	quest.59AF80E8EE17C769.title: "&5Rừng vang vọng"
-	quest.5C983A41886A2B75.quest_desc: ["Để quay trở lại &2&lOverworld, chúng ta có thể rời đi theo cách mà chúng ta đã đến! \n\nSử dụng &9Heart of the Deep trên Khung &8Đá phiến sâu được gia cố. \n\nMay mắn thay, chúng tôi có được một trong những thứ đó ở dưới cùng của &6Chùa cổ."]
+	quest.5C983A41886A2B75.quest_desc: ["Để quay trở lại &2&lOverworld, chúng ta có thể rời đi theo cách mà chúng ta đã đến! \n\nSử dụng &9Heart of   Deep trên Khung &8Đá phiến sâu được gia cố. \n\nMay mắn thay, chúng tôi có được một trong những thứ đó ở dưới cùng của &6Chùa cổ."]
 	quest.5C983A41886A2B75.title: "Trang chủ, Sweet Home!"
 	quest.5CCF573B67317591.quest_desc: ["&bRễ phát sáng xuất hiện trong &bBlooming Caverns. \n\nChúng không thể Leo lên và không làm rơi Thức ăn... Tôi nghĩ chúng chỉ để trang trí."]
 	quest.5CCF573B67317591.title: "&bRễ phát sáng"
@@ -127,7 +127,7 @@
 	quest.68446510A1B0D9B8.title: "&b Hang động nở hoa"
 	quest.6BB948F44B0950E8.quest_desc: ["&3Sculk Stone xuất hiện khá nhiều ở mọi nơi ngoại trừ &cOvercast Columns. \n\nNó hoạt động giống như &7Stone bình thường, giống như mọi cách. Bạn có thể nấu chảy các phiên bản Cobbled để lấy &3Sculk Stone, sau đó có thể chế tạo thành nhiều Khối Xây dựng khác. \n\nThật không may, nó không thể được sử dụng để tạo ra Stone Tools... chờ đã, bạn quan tâm đến điều gì khi bạn đã giết &9&lWarden! Tại sao bạn cần Stone Tools?!?!?!"]
 	quest.6BB948F44B0950E8.title: "&3Sculk Đá"
-	quest.6E38CF6E7360E9CA.quest_desc: ["&9&lWarden sẽ đánh rơi khá nhiều Vật phẩm nhưng &9Heart of the Deep là quan trọng nhất. \n\nChúng ta có thể sử dụng &9Heart of the Deep trên khung của &8Reinforced Deepslate để đưa Cổng thông tin của chúng ta đến &3&lOtherside. Không thể có bất kỳ Khối nào chặn Portal Frame nếu không nó sẽ không hoạt động. \n\nAnh ta cũng đánh rơi &Mảnh 9Warden Carapace và &Mảnh 9Echo, cả hai đều hữu ích cho việc Chế tạo các Vật phẩm khác!"]
+	quest.6E38CF6E7360E9CA.quest_desc: ["&9&lWarden sẽ đánh rơi khá nhiều Vật phẩm nhưng &9Heart of   Deep là quan trọng nhất. \n\nChúng ta có thể sử dụng &9Heart of   Deep trên khung của &8Reinforced Deepslate để đưa Cổng thông tin của chúng ta đến &3&lOtherside. Không thể có bất kỳ Khối nào chặn Portal Frame nếu không nó sẽ không hoạt động. \n\nAnh ta cũng đánh rơi &Mảnh 9Warden Carapace và &Mảnh 9Echo, cả hai đều hữu ích cho việc Chế tạo các Vật phẩm khác!"]
 	quest.6E38CF6E7360E9CA.title: "&9Trái tim vực sâu"
 	quest.6E901EF1CB411088.quest_desc: ["&9Warden Armor là bản nâng cấp trực tiếp lên &cNetherite. Chỉ cần sử dụng &9Warden Upgrade Template&r, &9Reinforced Echo Shard&r và một mảnh &cNetherite Armor để tạo ra nó. \n\nMỗi mảnh có thêm 1 Armor Point và thêm 1 Armor Protection so với đối tác &cNetherite của nó. \n\nTuy nhiên, không còn Knockback Resistance nữa. \n\nÍt nhất chúng trông ngầu hơn nhiều so với &cNetherite! &9&9Helmet có cặp sừng khổng lồ giống như &9&lWarden và &9Chestplate của có một điểm hình trái tim."]
 	quest.6E901EF1CB411088.title: "&9Warden&rArmor"
@@ -152,11 +152,11 @@
 		"{image:atm:textures/questpics/deepndark/dnd_worm.png width:100 height:200 align:center}"
 	]
 	quest.774D61FEFABEFD9A.title: "Shriek Worm"
-	quest.78BCED8699ADEDF4.quest_desc: ["&3Kính cách âm được tạo ra bằng cách kết hợp &3Soul Dust và Glass. \n\nNhững thứ này có tác dụng làm giảm âm thanh giống như Wool! Nếu Cảm biến &3Sculk &cho &3Shrieker có một cái che chúng, chúng sẽ không nghe thấy Âm thanh. \n\nChỉ những điều này bạn có thể nhìn xuyên qua!"]
+	quest.78BCED8699ADEDF4.quest_desc: ["&3Kính cách âm được tạo ra bằng cách kết hợp &3Soul Bụi và Glass. \n\nNhững thứ này có tác dụng làm giảm âm thanh giống như Wool! Nếu Cảm biến &3Sculk &cho &3Shrieker có một cái che chúng, chúng sẽ không nghe thấy Âm thanh. \n\nChỉ những điều này bạn có thể nhìn xuyên qua!"]
 	quest.78BCED8699ADEDF4.title: "&3Kính cách âm"
 	quest.7CBAA67204CC258C.quest_desc: ["Không, &9&lWarden không sử dụng Kiếm và Rìu. Nhưng chúng ta có thể! \n\nCả &9Warden Sword &fand &9Axe đều là bản nâng cấp của phiên bản &cNetherite của họ với &9Reinforced Echo Shard &fand &9Warden Upgrade Template&r. \n\nMỗi người đều có sát thương 1 & 4 trái tim và độ bền thậm chí còn cao hơn! \n\nĐúng vậy, Rìu vẫn có thể chặt cây một cách hiệu quả."]
 	quest.7CBAA67204CC258C.title: "&9Warden&rWeapons"
-	quest.7FF3EA602FE7A546.quest_desc: ["Máy phát &3Sculk là một Vật phẩm rất hiếm mà chúng ta có thể tìm thấy trong Rương của &6Chùa Cổ. \n\nKhi bạn tìm thấy một người, đó sẽ là Người bạn thân nhất của bạn! \n\nĐể sử dụng nó, chỉ cần Shift Right Click một Khối có GUI, hãy nghĩ đến: Rương, Bàn chế tạo và Lò nung. Sau đó, &3Transmitter sẽ được liên kết với Item đó. \n\nSau đó, chúng ta có thể sử dụng &3Transmitter để truy cập từ xa vào Khối đó từ bất cứ đâu! \n\nĐể hủy liên kết Khối, Shift Right Click Air với &3Transmitter."]
+	quest.7FF3EA602FE7A546.quest_desc: ["Máy phát &3Sculk là một Vật phẩm rất hiếm mà chúng ta có thể tìm thấy trong Rương của &6Chùa Cổ. \n\nKhi bạn tìm thấy một người, đó sẽ là Người bạn thân nhất của bạn! \n\nĐể sử dụng nó, chỉ cần Shift + nhấp chuột phải một Khối có giao diện, hãy nghĩ đến: Rương, Bàn chế tạo và Lò nung. Sau đó, &3Transmitter sẽ được liên kết với Item đó. \n\nSau đó, chúng ta có thể sử dụng &3Transmitter để truy cập từ xa vào Khối đó từ bất cứ đâu! \n\nĐể hủy liên kết Khối, Shift + nhấp chuột phải Air với &3Transmitter."]
 	quest.7FF3EA602FE7A546.title: "&3Máy phátSculk"
 	task.5B7FD7C2F05FA64D.title: "AllRightsReserved"
 }

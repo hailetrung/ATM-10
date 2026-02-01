@@ -1,11 +1,11 @@
 {
 	quest.02593CD4B4AE814C.quest_desc: [
-		"&bMuối rất quan trọng trong quá trình ủ &lưu huỳnh giả kim! \n\nĐể có được muối, chúng ta cần nấu một số Vật phẩm. Different Items tạo ra các &bMuối khác nhau. &bSalt có các Cấp độ khác nhau và chúng càng hiếm thì càng cao. \n\nĐể nấu hết muối chúng ta cần cho Nguyên liệu vào Lò nướng và sử dụng Nguồn nhiệt để làm nóng nó. Sau đó lấy muối ra khỏi lò!"
+		"&bMuối rất quan trọng trong quá trình ủ &lưu huỳnh giả kim! \n\nĐể có được muối, chúng ta cần nấu một số Vật phẩm. Các vật phẩm khác nhau tạo ra các &bMuối khác nhau. &bSalt có các Cấp độ khác nhau và chúng càng hiếm thì càng cao. \n\nĐể nấu hết muối chúng ta cần cho Nguyên liệu vào Lò nướng và sử dụng Nguồn nhiệt để làm nóng nó. Sau đó lấy muối ra khỏi lò!"
 
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
 	quest.02593CD4B4AE814C.title: "Desalination Plant"
-	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods là Công cụ mà chúng tôi sử dụng để liên lạc với các linh hồn nhằm tìm một số Vật phẩm nhất định. \n\nTrước tiên, bạn sẽ cần chọn Khối hoặc Vật phẩm bằng cách Shift Right Clicking với Thanh hoặc chế tạo Thanh bằng &Lưu huỳnh điện tử của nó!\n\nBằng cách giữ chúng và giữ Right Click Thanh sẽ tìm kiếm Vật phẩm đã chọn. Nó sẽ tạo ra tiếng ồn và Thanh sẽ sáng lên khi Khối hoặc Vật phẩm ở gần như thế nào. \n\nNếu đủ gần, một quả cầu có thể xuất hiện chỉ đường cho bạn đến Vật phẩm."]
+	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods là Công cụ mà chúng tôi sử dụng để liên lạc với các linh hồn nhằm tìm một số Vật phẩm nhất định. \n\nTrước tiên, bạn sẽ cần chọn Khối hoặc Vật phẩm bằng cách Shift + nhấp chuột phảiing với Thanh hoặc chế tạo Thanh bằng &Lưu huỳnh điện tử của nó!\n\nBằng cách giữ chúng và giữ nhấp chuột phải Thanh sẽ tìm kiếm Vật phẩm đã chọn. Nó sẽ tạo ra tiếng ồn và Thanh sẽ sáng lên khi Khối hoặc Vật phẩm ở gần như thế nào. \n\nNếu đủ gần, một quả cầu có thể xuất hiện chỉ đường cho bạn đến Vật phẩm."]
 	quest.0460DDEEFDEB0AAF.title: "Divination Rods"
 	quest.0542FE108089A0A2.quest_desc: ["&l&6Thuật thuật là nghệ thuật sử dụng phép thuật cho thuật giả kim! Hoặc theo nghĩa của chúng tôi là sử dụng Máy móc và Vật phẩm để tạo ra nhiều Vật phẩm khác nhau! \n\nRất nhiều Máy mà chúng ta cần cho &l&6Phẫu thuật cần Đồng vì vậy hãy bắt đầu từ đó!"]
 	quest.0542FE108089A0A2.title: "&l&6Theurgy"
@@ -17,7 +17,7 @@
 	quest.06AD25DB96F3A1CC.title: "&cMercury&rVessel"
 	quest.0830195863384CF0.quest_desc: ["&bStrata là khối đầu tiên và cơ bản nhất được chế tạo từ các khối thông thường như Đá, Cát hoặc Đá Obsidian. \n\nBạn có thể sử dụng 5 &bMuối Strata để chế tạo &bMuối khoáng."]
 	quest.0830195863384CF0.title: "&bMuối tầng"
-	quest.0854AD352218E1C3.quest_desc: ["Bạn có ghét không khi bạn có tất cả sức mạnh này nhưng không có Hệ thống sưởi? \n\nBây giờ bạn có thể thay đổi điều đó bằng Caloric Flux Emitter! Shift Right Click với nó để liên kết nó với Máy. Sau đó đặt nó xuống và cấp nguồn để gửi Nhiệt. \n\nKhông thể đặt thành nhiều Máy!"]
+	quest.0854AD352218E1C3.quest_desc: ["Bạn có ghét không khi bạn có tất cả sức mạnh này nhưng không có Hệ thống sưởi? \n\nBây giờ bạn có thể thay đổi điều đó bằng Caloric Flux Emitter! Shift + nhấp chuột phải với nó để liên kết nó với Máy. Sau đó đặt nó xuống và cấp nguồn để gửi Nhiệt. \n\nKhông thể đặt thành nhiều Máy!"]
 	quest.0854AD352218E1C3.quest_subtitle: "Làm sao?"
 	quest.0854AD352218E1C3.title: "Wireless Heat"
 	quest.0EADCEA9AB001FC7.quest_desc: [
@@ -61,7 +61,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_fluid.png width:200 height:75 align:center}"
 	]
 	quest.20C3AADEE2D4800D.title: "Fluid Movement"
-	quest.26B462F2F41A77C7.quest_desc: ["Tất cả quà tặng từ Mother Nature... đều có thể bị đốt cháy không thương tiếc trong Lò nướng chỉ còn &bMuối! \n\nGỗ, Lá và Cây trồng có thể được nướng thành &bmuối thực vật."]
+	quest.26B462F2F41A77C7.quest_desc: ["Tất cả quà tặng từ Mẹ Thiên Nhiên... đều có thể bị đốt cháy không thương tiếc trong Lò nướng chỉ còn &bMuối! \n\nGỗ, Lá và Cây trồng có thể được nướng thành &bmuối thực vật."]
 	quest.26B462F2F41A77C7.title: "&bMuối thực vật"
 	quest.285B3FB38B12F8CA.quest_desc: [
 		"Chúng ta sẽ cần hai Khối này để tạo ra &dSal Amoniac (tôi muốn gọi nó là Nhiều khối nhưng tôi không coi 2 Khối là Nhiều khối). Bể chứa &dSal Amoniac ở phía dưới với &dSal Ammoniac Accumulator& ở trên. \n\n&dSal Ammoniac Accumulator&r là nơi &9Water và &dCrystals sẽ đi tới; nó có thể chứa 10.000mb &9Water hoặc 10 Xô và một chồng &dSal Ammoniac Crystals&r. Bể chứa sẽ chứa &dSal Amoniac được tạo ra và có thể chứa 2.000mb hoặc 2 Xô."
@@ -70,13 +70,13 @@
 	]
 	quest.285B3FB38B12F8CA.title: "Sản xuất muối Amoniac"
 	quest.2B29E9AB9447E1C6.quest_desc: [
-		"Bây giờ đây là Multiblock Machine! \n\nĐể lấy lại Vật phẩm từ &eAlchemical Sulphur, chúng ta cần phải Ủ chúng. Điều này đòi hỏi Vườn ươm có cả 3 Bình liền kề với nó. Thứ tự không quan trọng miễn là chúng chạm vào nửa dưới. \n\nKhi nó có tất cả Vật phẩm trong Tàu và Nhiệt độ, nó sẽ bắt đầu Ủ Vật phẩm của bạn! Bạn sẽ biết nó đang hoạt động khi các hạt Khói thoát ra từ nó."
+		"Bây giờ đây là đa khối Machine! \n\nĐể lấy lại Vật phẩm từ &eAlchemical Sulphur, chúng ta cần phải Ủ chúng. Điều này đòi hỏi Vườn ươm có cả 3 Bình liền kề với nó. Thứ tự không quan trọng miễn là chúng chạm vào nửa dưới. \n\nKhi nó có tất cả Vật phẩm trong Tàu và Nhiệt độ, nó sẽ bắt đầu Ủ Vật phẩm của bạn! Bạn sẽ biết nó đang hoạt động khi các hạt Khói thoát ra từ nó."
 
 		"{image:atm:textures/questpics/theurgy/theurgy_incubator.png width:200 height:200 align:center}"
 	]
 	quest.2F0D6267569F740B.quest_desc: ["Common Materials cao hơn và hiếm hơn Abundant một bậc. Đây chủ yếu là Thỏi và hiếm hơn Mob Drops như Ender Pearls hoặc Rabbit Hide. \n\nMột lần nữa bạn có thể xem toàn bộ danh sách trong Thẻ."]
 	quest.36926B5EBFF6E55A.quest_desc: [
-		"&cSao Thủy là một trong những nguyên liệu quan trọng nhất cho &l&6Theurgy! \n\nĐể có được nó, chúng ta cần chưng cất một ít trong Máy chưng cất của &cMercury. Put Items vào Máy chưng cất và đun nóng một chút! \n\nSome Items tặng thêm &cMercury như Kim cương sẽ cho 10 &cSao Thủy cho 1 Kim cương, so với Đá cần 10 Đá cho 1 &cSao Thủy."
+		"&cMercury là một trong những nguyên liệu quan trọng nhất cho &l&6Theurgy! \n\nĐể có được nó, chúng ta cần chưng cất trong Máy chưng cất Mercury. Cho vật phẩm vào Máy chưng cất và đun nóng một chút! \n\nMột số vật phẩm cho nhiều &cMercury hơn: ví dụ Kim cương sẽ cho 10 &cMercury cho 1 Kim cương, trong khi Đá cần 10 Đá cho 1 &cMercury."
 
 		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
 	]
@@ -84,11 +84,11 @@
 	quest.393DA9C9D808A851.quest_desc: ["&l&6Theurgy's Wrench là Cây đũa phép của &cMercurial. Bạn có thể Shift và Scroll để thay đổi Chế độ của nó. \n\nVề cơ bản, bạn có thể Bật/Tắt để ngăn việc truyền Dây. \n\nBạn có thể thay đổi phía nơi các Mục sẽ Trích xuất hoặc Chèn vào. \n\nVà bạn có thể thay đổi Frequency Channel!"]
 	quest.393DA9C9D808A851.quest_subtitle: "Tôi tưởng đây là một mod ma thuật..."
 	quest.393DA9C9D808A851.title: "Tất nhiên là có Cờ lê"
-	quest.3B6F723B03C4BF55.quest_desc: ["Tiêu hóa (dạng chế biến rất thô sơ) là cách chúng ta thay đổi &3Alchemical Niters thành các dạng khác nhau. \n\nTrước tiên, chúng ta sẽ cần Purified Gold có thể được tạo ra bằng cách cho Vàng, &bMuối giả kim và &9Nước vào Digestion Vat và Shift Right Click để đóng nó giống như Fermentation Vat. \n\nSau đó, chúng ta có thể kết hợp 4 trong số một &3Alchemical Niter với Purified Gold và &dSal Amoniac để có Cấp cao hơn hoặc làm ngược lại để có Cấp thấp hơn."]
+	quest.3B6F723B03C4BF55.quest_desc: ["Tiêu hóa (dạng chế biến rất thô sơ) là cách chúng ta thay đổi &3Alchemical Niters thành các dạng khác nhau. \n\nTrước tiên, chúng ta sẽ cần Purified Gold có thể được tạo ra bằng cách cho Vàng, &bMuối giả kim và &9Nước vào Digestion Vat và Shift + nhấp chuột phải để đóng nó giống như Fermentation Vat. \n\nSau đó, chúng ta có thể kết hợp 4 trong số một &3Alchemical Niter với Purified Gold và &dSal Amoniac để có Cấp cao hơn hoặc làm ngược lại để có Cấp thấp hơn."]
 	quest.3B6F723B03C4BF55.title: "Digestion Vat"
 	quest.3C5734448FEC128B.quest_desc: ["Rẻ nhất Divination Rod, Glass Divination Rod. \n\nNó có thể tìm thấy tất cả Quặng mà Stone Pickaxe có thể khai thác. So Copper, Than và Sắt. Không có gì cao hơn."]
 	quest.3EB63AF53E70C931.quest_desc: [
-		"Cải cách cần Mercury Flux phát huy tác dụng! Bạn sẽ cần Shift Right Click cả 3 Bệ có Sulfuric Flux Emitter để đặt chúng. Sau đó đặt Emitter xuống và cấp nguồn cho nó.\n\nSau đó nó sẽ sẵn sàng để cải cách!"
+		"Cải cách cần Mercury Flux phát huy tác dụng! Bạn sẽ cần Shift + nhấp chuột phải cả 3 Bệ có Sulfuric Flux Emitter để đặt chúng. Sau đó đặt Emitter xuống và cấp nguồn cho nó.\n\nSau đó nó sẽ sẵn sàng để cải cách!"
 
 		"{image:atm:textures/questpics/theurgy/theurgy_reform_setup.png width:200 height:50 align:center}"
 	]
@@ -107,7 +107,7 @@
 	]
 	quest.49D1B01E07ABA471.title: "Item Movement"
 	quest.4EE482B9D61B5933.quest_desc: ["Tất nhiên &2Vanilla không phải là mức tối đa của chúng tôi, ngày càng có nhiều thứ hiếm hơn trong Modded!"]
-	quest.54F0C5C48CFC94D0.quest_desc: ["Với Logistics chúng ta cần Lọc. Có hai Bộ lọc khác nhau: Danh sách và Thuộc tính. \nList Filter bạn thêm Mục vào đó và thay đổi xem đó là danh sách trắng hay danh sách đen và liệu nó có tôn trọng NBT Dữ liệu hay không. \n\nAttribute Filter lấy Mục tham chiếu rồi Lọc ra Thuộc tính đã chọn. Điều này bao gồm các thẻ và những thứ khác như liệu nó có thể được sử dụng dưới dạng Furnace Fuel hay có thể được chuyển tiếp hay không!"]
+	quest.54F0C5C48CFC94D0.quest_desc: ["Với Logistics chúng ta cần Lọc. Có hai Bộ lọc khác nhau: Danh sách và Thuộc tính. \nList bộ lọc bạn thêm Mục vào đó và thay đổi xem đó là danh sách trắng hay danh sách đen và liệu nó có tôn trọng NBT Dữ liệu hay không. \n\nAttribute bộ lọc lấy Mục tham chiếu rồi Lọc ra Thuộc tính đã chọn. Điều này bao gồm các thẻ và những thứ khác như liệu nó có thể được sử dụng dưới dạng Furnace Fuel hay có thể được chuyển tiếp hay không!"]
 	quest.55E321EFBE8956DE.quest_desc: ["Nếu bạn muốn tiết kiệm chi phí với Công thức lên men thì Fermentation Starter là lựa chọn hoàn hảo cho bạn. \n\nThay thế rất rẻ cho các vật phẩm khác trong quá trình lên men."]
 	quest.55E321EFBE8956DE.title: "Easier Fermenting"
 	quest.5844DD2BEE5EC3DC.quest_desc: ["Đừng ăn nó! \n\n&cSao Thủy có thể được sử dụng cho 3 việc khác nhau: Ủ, Power Creation, và Hậu cần!"]
@@ -138,7 +138,7 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_reform_3.png width:100 height:100 align:center}"
 	]
 	quest.72FADEAEE2DA03AF.title: "Bước 3: Result Pedestal"
-	quest.730F2D3329C4FF88.quest_desc: ["&nQuá trình lên men: \nQuá trình hóa học trong đó các phân tử như glucose bị phân hủy trong điều kiện kỵ khí. \n\nAKA &9Nước và thời gian thay đổi! \n\nĐể sử dụng Fermentation Vat hãy đặt Vật phẩm và Chất lỏng vào Thùng sau đó Shift Right Click để đóng nó lại. \n\nSau một thời gian nó sẽ lên men! Đây là cách chúng tôi biến &eAlchemical Sulphur thành &3Alchemical Niter để có thể biến thành nhiều Vật phẩm hơn!"]
+	quest.730F2D3329C4FF88.quest_desc: ["&nQuá trình lên men: \nQuá trình hóa học trong đó các phân tử như glucose bị phân hủy trong điều kiện kỵ khí. \n\nAKA &9Nước và thời gian thay đổi! \n\nĐể sử dụng Fermentation Vat hãy đặt Vật phẩm và Chất lỏng vào Thùng sau đó Shift + nhấp chuột phải để đóng nó lại. \n\nSau một thời gian nó sẽ lên men! Đây là cách chúng tôi biến &eAlchemical Sulphur thành &3Alchemical Niter để có thể biến thành nhiều Vật phẩm hơn!"]
 	quest.730F2D3329C4FF88.title: "Fermentation Vat"
 	quest.76F675A898EAB4E8.quest_desc: ["&dSal Amoniac là một phần quan trọng của &eAlchemical Sulphur, thứ mà chúng ta sẽ sử dụng để chế tạo và tái tạo Vật phẩm. \n\nĐể có được &dSal Amoniac, chúng ta sẽ cần một ít &9Water."]
 	quest.76F675A898EAB4E8.title: "&dSal Amoniac"

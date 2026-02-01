@@ -1,105 +1,105 @@
 {
-	quest.00453FF528AA0B1C.quest_desc: ["Lonestar Skeletons là những Mob thù địch có thể xuất hiện ở bất cứ đâu. \n\nHọ có 10 Trái tim và sẽ ném Thanh kiếm của họ vào bạn để tấn công bạn. \n\nKhi chết, họ có thể rơi ra Xương, Swamp Silver Nuggets, Shattered Swords và những thứ được Corail thêm vào cho Undead Mobs."]
-	quest.00453FF528AA0B1C.title: "Lonestar Skeletons"
-	quest.01F322AEFCC6109E.quest_desc: ["Tangled Skulls có thể bị rơi từ... à Tangled Skulls. \n\nChúng có thể được sử dụng làm đạn giống như Wither Head được ném từ Wither. \n\nTuy nhiên, nó sẽ được sử dụng hết khi bạn làm điều đó."]
+	quest.00453FF528AA0B1C.quest_desc: ["Bộ xương Lonestar là những mob thù địch có thể xuất hiện ở bất cứ đâu. \n\nChúng có 10 trái tim và sẽ ném thanh kiếm của chúng vào bạn để tấn công. \n\nKhi chết, chúng có thể rơi ra Xương, Vụn Bạc Đầm lầy, Kiếm Vỡ và những thứ khác được thêm vào cho mob bất tử."]
+	quest.00453FF528AA0B1C.title: "Bộ xương Lonestar"
+	quest.01F322AEFCC6109E.quest_desc: ["Sọ Rối có thể rơi từ... à, chính Sọ Rối. \n\nChúng có thể được dùng làm đạn giống như Đầu Kẻ Héo bị ném ra từ Kẻ Héo. \n\nTuy nhiên, chúng sẽ bị tiêu hao khi bạn làm vậy."]
 	quest.02B574B09AB45D09.quest_desc: [
-		"Freeze hoạt động tương tự như Blaze, chúng sẽ bay lên và bắn một quả bóng vào bạn. \n\nJust Freezes chỉ ném 1 quả bóng sẽ khiến bạn lạnh thay vì ấm. \n\nHọ có 16 Trái tim và sẽ rơi ra Frozen Tubes khi chết."
+		"Kẻ Đóng băng hoạt động tương tự như Quỷ lửa: chúng sẽ bay lên và bắn một quả cầu vào bạn. \n\nChỉ khác là chúng chỉ ném 1 quả cầu, khiến bạn bị Lạnh thay vì được Ấm. \n\nChúng có 16 trái tim và sẽ rơi ra Ống Băng khi chết."
 
 		"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
 	]
-	quest.02B574B09AB45D09.title: "Freeze"
+	quest.02B574B09AB45D09.title: "Kẻ Đóng băng"
 	quest.0342248394E40B6A.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
 	quest.03B40AB768FC0161.quest_desc: [
-		"Shimmer Rivers là những dòng sông thân thiện. Những thứ này sẽ không có cách nào để giết bạn. \n\nĐôi khi chúng kết nối các Biển lại với nhau và đi xuyên qua Rừng. \n\nRõ ràng là họ có Nước nhưng bên trong Nước lại có rất nhiều hàng hóa!"
+		"Sông Lấp lánh là những dòng sông thân thiện. Những nơi này sẽ không có cách nào để giết bạn. \n\nĐôi khi chúng kết nối các Biển lại với nhau và đi xuyên qua Rừng. \n\nRõ ràng là có Nước, nhưng bên trong Nước lại có rất nhiều hàng hóa!"
 
 		"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
 	]
-	quest.03B40AB768FC0161.title: "Shimmer River"
+	quest.03B40AB768FC0161.title: "Sông Lấp lánh"
 	quest.0576C32B0FB360B0.quest_desc: [
-		"Lunar Monstrosity có 200 Hearts và sẽ chỉ nhận 1 sát thương từ mỗi đòn đánh trừ khi bạn sử dụng Fire. \n\nNó có một số đòn tấn công bao gồm Ground Spikes, Đạn và Đầu nổ rối! \n\nKhi bạn giết nó, nó sẽ rơi ra Mũi tên, Thỏi, Tangled Skulls, Tenacious Petals, Trapped Souls và cơ hội nhận được Vũ khí hiếm!"
+		"Quái vật Mặt trăng có 200 trái tim và sẽ chỉ nhận 1 sát thương từ mỗi đòn đánh trừ khi bạn dùng lửa. \n\nNó có một số đòn tấn công bao gồm Gai mặt đất, đạn và đầu nổ rối! \n\nKhi bạn giết nó, nó sẽ rơi ra Mũi tên, Thỏi, Sọ Rối, Cánh hoa bền bỉ, Linh hồn bị giam và có cơ hội rơi Vũ khí hiếm!"
 
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
-	quest.0576C32B0FB360B0.title: "Lunar Monstrosity"
+	quest.0576C32B0FB360B0.title: "Quái vật Mặt trăng"
 	quest.0BB8D556305EB307.quest_desc: [
-		"Ether River là thứ bạn sẽ biết khi nhìn thấy nó. \n\nNó sáng, rất sáng và có thể xuất hiện màu đỏ trên Bản đồ của bạn, đó là một lỗi, hãy bỏ qua điều đó."
+		"Sông Ether là thứ bạn sẽ nhận ra ngay khi nhìn thấy. \n\nNó sáng, rất sáng và có thể hiển thị màu đỏ trên bản đồ của bạn; đó là một lỗi, hãy bỏ qua."
 
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
-	quest.0BB8D556305EB307.title: "Ether River"
-	quest.0C096EE635645E43.quest_desc: ["Nỏ Pha Lê được chế tạo giống như Mechanical Crossbow chỉ bằng Pha lê thay vì gậy. \n\nNó bắn Mũi tên và gây sát thương tương tự như Nỏ bình thường nhưng cái này mang lại Crystal Infection. Crystal Infection gây 1 sát thương mỗi giây với Pha lê sinh ra trên chúng! Và vâng, nó sẽ giết họ."]
-	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees đa dạng về kích thước và hình dạng và thậm chí đôi khi còn rơi xuống! \n\nNhưng tất cả đều có lá màu hồng! Bao gồm cả những người trên mặt đất."]
+	quest.0BB8D556305EB307.title: "Sông Ether"
+	quest.0C096EE635645E43.quest_desc: ["Nỏ Pha Lê được chế tạo giống như Nỏ Cơ Học, chỉ dùng Pha lê thay vì gậy. \n\nNó bắn Mũi tên và gây sát thương tương tự như nỏ bình thường, nhưng cái này gây Nhiễm Pha lê. Nhiễm Pha lê gây 1 sát thương mỗi giây với Pha lê mọc trên mục tiêu! Và vâng, nó sẽ giết chúng."]
+	quest.0F0D41F29386333A.quest_desc: ["Cây Đỏ tươi đa dạng về kích thước và hình dạng, thậm chí đôi khi còn rơi xuống! \n\nNhưng tất cả đều có lá màu hồng! Bao gồm cả những cây trên mặt đất."]
 	quest.0F4783FA019C4567.quest_desc: ["Amaraber hiếm khi được tìm thấy bằng cách tước Torreya Logs. \n\nNó có thể được chế tạo thành Thỏi để chế tạo Áo giáp và Công cụ hoặc được sử dụng trong các công thức nấu ăn khác như lửa trại để bạn có thể hồi phục!"]
 	quest.10AB188AC6FB24D3.quest_desc: [
-		"Starlight Golem có 220 Trái tim và 2 Chế độ. \n\nChế độ thứ nhất là chế độ tấn công của anh ta, ở đây anh ta không thể bị sát thương thay vào đó bạn sẽ phải đợi đòn tấn công của anh ta kết thúc trước khi đánh anh ta. Anh ta tấn công bằng Quả cầu lửa, Ground Pound hoặc Laser Beam có ​​sức tàn phá khủng khiếp! \n\nChế độ thứ 2 của anh ấy là chế độ sạc; trong phần này, anh ta sẽ bắt đầu lấy năng lượng từ Energy Blocks cần phải tắt để gây sát thương cho anh ta. \n\nKhi chết, anh ta sẽ đánh rơi rất nhiều Thỏi và Mũi tên, Golem Steel, Forge Armor Trim, và thậm chí có thể là Energy Sword!"
+		"Golem Ánh sao có 220 Trái tim và 2 Chế độ. \n\nChế độ thứ nhất là chế độ tấn công của hắn; ở đây hắn không thể bị sát thương, thay vào đó bạn sẽ phải đợi đòn tấn công của hắn kết thúc trước khi đánh. Hắn tấn công bằng Quả cầu lửa, Đập đất hoặc Tia laser có sức tàn phá khủng khiếp! \n\nChế độ thứ 2 là chế độ sạc; trong phần này, hắn sẽ bắt đầu lấy năng lượng từ Khối Năng lượng và bạn cần tắt chúng để gây sát thương cho hắn. \n\nKhi chết, hắn sẽ đánh rơi rất nhiều Thỏi và Mũi tên, Thép Golem, Viền giáp Lò rèn, và thậm chí có thể là Kiếm Năng lượng!"
 
 		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
 	]
-	quest.10AB188AC6FB24D3.title: "Starlight Golem"
-	quest.127D085D6C9DB690.quest_desc: ["Saltpeter có thể được tìm thấy ở bất cứ đâu dưới lòng đất nhưng rất phổ biến ở Warm Shore Biome. \n\nNó cần một Stone Pickaxe để khai thác và khi khai thác nó sẽ rơi ra một vài Saltpeter Powder. Vâng, Fortune đã làm được điều đó! \n\nBột có thể được sử dụng để thay thế cho các Niters khác."]
-	quest.144ECED643031A9A.quest_desc: ["Nấm Phát Sáng là những cây Nấm khổng lồ mà bạn có thể tìm thấy trong Scarlet Forests! \n\nChúng hoạt động giống như màu Nâu hoặc Red Mushrooms chỉ những cái này Phát sáng hơn nhiều! \n\n(Nếu bạn không biết Brown và Red Mushrooms thực sự phát ra mức Light Source là 1)."]
-	quest.15195F456D8AD4C8.quest_desc: ["When Ether chạm vào Water Thioquartz sẽ hình thành. Điều này có thể xảy ra một cách tự nhiên với việc tạo ngẫu nhiên hoặc bạn có thể khiến nó xảy ra! \n\nTuy nhiên, đây không phải là cách chúng tôi có được Mảnh vỡ, đó là từ Thioquartz vừa chớm nở!"]
-	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords có thể rơi ra từ Lonestar Skeletons hoặc được chế tạo bằng Lưỡi dao rơi ra. \n\nShattered Sword được sử dụng giống như Trident hơn là Sword, thay vì đánh bạn sẽ ném nó. Sau đó, bạn có thể Right Click để mang Blade trở lại như Loyalty Trident và Right Click lần nữa để tải lại nếu cần."]
-	quest.17D82EEA20D02EC8.quest_desc: ["Lót đáy biển là Dusted Gravel. \n\nNó có thể được sử dụng để thay thế cho Gravel bình thường và hiếm khi rơi ra Dusted Shards để có thể tạo ra các Khối khác!"]
+	quest.10AB188AC6FB24D3.title: "Golem Ánh sao"
+	quest.127D085D6C9DB690.quest_desc: ["Diêm tiêu có thể được tìm thấy ở bất cứ đâu dưới lòng đất nhưng rất phổ biến ở Quần xã Bờ ấm. \n\nNó cần một Cuốc Đá để khai thác, và khi khai thác nó sẽ rơi ra một vài Bột Diêm tiêu. Vâng, Phù phép May mắn đã làm được điều đó! \n\nBột có thể được sử dụng để thay thế cho các loại nitrat khác."]
+	quest.144ECED643031A9A.quest_desc: ["Nấm Phát Sáng là những cây Nấm khổng lồ mà bạn có thể tìm thấy trong Rừng Đỏ tươi! \n\nChúng hoạt động giống như Nấm Nâu hoặc Nấm Đỏ, chỉ khác là những cái này phát sáng hơn nhiều! \n\n(Nếu bạn chưa biết: Nấm Nâu và Nấm Đỏ thực ra chỉ phát ra mức ánh sáng là 1)."]
+	quest.15195F456D8AD4C8.quest_desc: ["Khi Ether chạm vào Nước, Thioquartz sẽ hình thành. Điều này có thể xảy ra tự nhiên do sinh ngẫu nhiên hoặc bạn có thể tự tạo ra! \n\nTuy nhiên, đây không phải là cách để có được Mảnh vỡ; chúng đến từ Thioquartz vừa chớm nở!"]
+	quest.1533D98B3B2A758E.quest_desc: ["Kiếm Vỡ có thể rơi ra từ Bộ xương Lonestar hoặc được chế tạo bằng Lưỡi dao rơi ra. \n\nKiếm Vỡ được dùng giống Đinh ba hơn là Kiếm: thay vì đánh, bạn sẽ ném nó. Sau đó, bạn có thể nhấp chuột phải để gọi Lưỡi quay lại như Đinh ba Trung thành và nhấp chuột phải lần nữa để nạp lại nếu cần."]
+	quest.17D82EEA20D02EC8.quest_desc: ["Lớp đáy biển là Bụied Gravel. \n\nNó có thể dùng để thay cho Gravel bình thường và hiếm khi rơi ra Bụied Shards để có thể tạo ra các khối khác!"]
 	quest.17EC65B33AC5F0B4.quest_desc: [
-		"Thirst Walkers là các Mob trung lập xuất hiện trên bề mặt của Crystallized Deserts. \n\nKhi hung hãn chúng sẽ đánh bạn và khiến bạn Đói. \n\nChúng có 20 Trái tim và có thể đánh rơi Răng Đói khi chết."
+		"Kẻ Dạo bước Khát là các mob trung lập xuất hiện trên bề mặt của Sa mạc Kết tinh. \n\nKhi hung hãn chúng sẽ đánh bạn và khiến bạn Đói. \n\nChúng có 20 Trái tim và có thể đánh rơi Răng Đói khi chết."
 
 		"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
 	]
-	quest.17EC65B33AC5F0B4.title: "Thirst Walker"
+	quest.17EC65B33AC5F0B4.title: "Kẻ Dạo bước Khát"
 	quest.1815A439BA9879B7.quest_desc: [
-		"Warm Shore là một Quần xã khá nhàm chán và chủ yếu dùng để kết nối Starlit Sea và đất liền. \n\nNó có Twilight Sand với Đá bên dưới. Tôi cũng tìm thấy Saltpeter ở đây nhiều hơn bình thường."
+		"Bờ ấm là một quần xã khá nhàm chán và chủ yếu dùng để kết nối Biển Ánh sao và đất liền. \n\nNó có Cát Hoàng hôn với Đá bên dưới. Tôi cũng tìm thấy Diêm tiêu ở đây nhiều hơn bình thường."
 
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
-	quest.1815A439BA9879B7.title: "Warm Shore"
+	quest.1815A439BA9879B7.title: "Bờ ấm"
 	quest.1AB17923F87AE264.quest_desc: [
 		"Yeti là cái tên gây sợ hãi cho tất cả những ai khám phá Lạnh giá! Một sinh vật có lông đáng ghê tởm sống ở vùng khí hậu lạnh giá khắc nghiệt nhất, ăn bất cứ thứ gì dám mạo hiểm ở đó! \n\nChà, không phải Yeti này, những người này thật dễ thương và thân thiện! Họ thà lăn lộn hơn là ăn thịt bạn. \n\nChết tiệt, họ thậm chí không đánh trả và chỉ có 10 Trái tim. \n\nKhi chết, chúng sẽ đánh rơi Lông và Dây, những thứ trước đây có thể được sử dụng để thay thế cho Len."
 
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
-	quest.1AB17923F87AE264.title: "Yetis"
-	quest.1BE8F864AB9147C0.quest_desc: ["Atalphaite Ore có thể được tìm thấy khi Khai thác ở bất kỳ đâu dưới lòng đất trong Starlight. \n\nNó không thể chế tạo thành Công cụ hoặc Áo giáp nhưng nó có thể tạo ra nhiều loại Đèn khác nhau!"]
+	quest.1AB17923F87AE264.title: "Yeti"
+	quest.1BE8F864AB9147C0.quest_desc: ["Quặng Atalphaite có thể được tìm thấy khi khai thác ở bất kỳ đâu dưới lòng đất trong Ánh Sao. \n\nNó không thể chế tạo thành Công cụ hoặc Áo giáp nhưng nó có thể tạo ra nhiều loại Đèn khác nhau!"]
 	quest.1ECD4331DDFBBB52.quest_desc: ["Torreya Trees là những Cây khổng lồ màu tím/hồng cao khoảng 40 Khối. \n\nNhững chiếc lá sẽ mọc ra theo mọi hướng và Torreya Vines treo trên chúng."]
 	quest.252AD9C886DE45C8.quest_desc: [
-		"Twilight Gaze là loài Cá trung lập nằm trong The Abyss. \n\nNếu bạn đánh trúng một con, tất cả sẽ tấn công bạn, tương tự như Sói hoặc Zombified Piglins. Nếu bạn đi quá xa The Abyss, chúng sẽ ngừng đuổi theo bạn và bơi trở lại vực sâu. \n\nHọ không đánh rơi bất cứ thứ gì khi chết nên có lẽ đừng đánh họ..."
+		"Ánh nhìn Hoàng hôn là loài Cá trung lập nằm trong Vực thẳm. \n\nNếu bạn đánh trúng một con, tất cả sẽ tấn công bạn, tương tự như Sói hoặc Heo rừng thây ma. Nếu bạn đi quá xa Vực thẳm, chúng sẽ ngừng đuổi theo bạn và bơi trở lại vực sâu. \n\nChúng không đánh rơi bất cứ thứ gì khi chết nên có lẽ đừng đánh chúng..."
 
 		"{image:atm:textures/questpics/eternal/starlight_gaze.png width:150 height:100 align:center}"
 	]
-	quest.252AD9C886DE45C8.title: "Twilight Gaze"
-	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers giảm đi Aurora Deers khi chết. \n\nNó có thể được sử dụng như một thanh kiếm hoặc một cái cuốc."]
+	quest.252AD9C886DE45C8.title: "Ánh nhìn Hoàng hôn"
+	quest.25E782DB4309A1B8.quest_desc: ["Gạc Hươu Cực quang rơi ra từ Hươu Cực quang khi chết. \n\nNó có thể được sử dụng như một thanh kiếm hoặc một cái cuốc."]
 	quest.271A112ABDD923A6.quest_desc: ["Giống như Mangrove bình thường nhưng chúng không xấu."]
-	quest.29283BF1B6ED3634.quest_desc: ["Nỏ Cơ Học được chế tạo giống như Nỏ bình thường chỉ với Golem Steel. \n\nNó hoạt động giống như một chiếc Nỏ bình thường nhưng mạnh hơn nhiều! Và có thể bị mê hoặc để làm nhiều hơn nữa!"]
-	quest.298963543B99734E.quest_desc: ["Starlit Seas sinh ra các phiên bản Coral của riêng họ! \n\nĐừng như tôi mà quên Silk Touch nhặt chúng lên nhé..."]
+	quest.29283BF1B6ED3634.quest_desc: ["Nỏ Cơ Học được chế tạo giống như Nỏ bình thường, chỉ dùng Thép Golem. \n\nNó hoạt động giống như một chiếc Nỏ bình thường nhưng mạnh hơn nhiều! Và có thể bị mê hoặc để làm nhiều hơn nữa!"]
+	quest.298963543B99734E.quest_desc: ["Biển Ánh sao sinh ra các phiên bản San hô của riêng họ! \n\nĐừng như tôi mà quên dùng Chạm Lụa để nhặt chúng lên nhé..."]
 	quest.29A1E1FF02BD9219.quest_desc: [
-		"Rừng xanh như đại dương. \n\nStarlight Forest cho đến nay là quần xã sinh vật phổ biến nhất trong Starlight. \n\nNó có hàng tá Lunar Trees bao phủ toàn bộ nó với rất nhiều Mob, thụ động và thù địch, bên dưới nó."
+		"Rừng xanh như đại dương. \n\nRừng Ánh sao cho đến nay là quần xã sinh vật phổ biến nhất trong Ánh Sao. \n\nNó có hàng tá Cây Mặt trăng bao phủ toàn bộ nó với rất nhiều mob, thụ động và thù địch, bên dưới tán cây."
 
 		"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
 	]
-	quest.29A1E1FF02BD9219.title: "Starlight Forest"
-	quest.29EC143D7E0347DE.quest_desc: ["Dao găm đói được chế tạo bằng Răng đói. Không, tôi không nói Răng. \n\nCon dao găm có Hunger Value. Khi bạn đánh Mob nó sẽ tăng lên, khi không hoạt động nó sẽ giảm đi. Khi đạt tới 100%, bạn sẽ được tăng sức mạnh. Và nếu nó về 0%, nó sẽ bắt đầu giết chết bạn. \n\nKhi bạn đánh Mob (hoặc Người chơi) nó cũng sẽ gây ra hiệu ứng Đói. \n\nTôi không trách nó, tôi cũng tức giận khi đói."]
+	quest.29A1E1FF02BD9219.title: "Rừng Ánh sao"
+	quest.29EC143D7E0347DE.quest_desc: ["Dao găm đói được chế tạo bằng Răng đói. Không, tôi không nói Răng. \n\nCon dao găm có chỉ số đói. Khi bạn đánh mob nó sẽ tăng lên, khi không hoạt động nó sẽ giảm đi. Khi đạt tới 100%, bạn sẽ được tăng sức mạnh. Và nếu nó về 0%, nó sẽ bắt đầu giết chết bạn. \n\nKhi bạn đánh mob (hoặc người chơi) nó cũng sẽ gây ra hiệu ứng Đói. \n\nTôi không trách nó, tôi cũng tức giận khi đói."]
 	quest.2D457E53BB6D63C7.quest_desc: [
-		"Điểm cao nhất trong Starlight là Permafrost Forests nằm trên Núi. \n\nỞ quá xa khiến chúng lạnh hơn nhiều và được bao phủ trong Tuyết và Băng! \n\nÍt nhất thì các Mob thân thiện dường như cũng thích cái lạnh!"
+		"Điểm cao nhất trong Ánh Sao là các Rừng Băng vĩnh cửu nằm trên Núi. \n\nỞ quá cao khiến chúng lạnh hơn nhiều và được bao phủ trong Tuyết và Băng! \n\nÍt nhất thì các mob thân thiện dường như cũng thích cái lạnh!"
 
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
-	quest.2D457E53BB6D63C7.title: "Permafrost Forest"
-	quest.2DA8CE213AC3869B.quest_desc: ["Starlight Crystals có thể được tìm thấy khắp nơi và thậm chí dưới Crystallized Deserts. \n\nChúng hoạt động tương tự như thạch anh tím và thậm chí có âm thanh giống như vậy!"]
+	quest.2D457E53BB6D63C7.title: "Rừng Băng vĩnh cửu"
+	quest.2DA8CE213AC3869B.quest_desc: ["Tinh thể Ánh sao có thể được tìm thấy khắp nơi và thậm chí dưới Sa mạc Kết tinh. \n\nChúng hoạt động tương tự như thạch anh tím và thậm chí có âm thanh giống như vậy!"]
 	quest.2E29DC243E8AD61E.quest_desc: [
-		"Shimmer Lacewings không làm hay bỏ bất cứ thứ gì, họ chỉ tạo thêm không khí thôi. \n\nChúng cũng giống lỗi duy nhất mà tôi chịu đựng được!"
+		"Chuồn kim Lấp lánh không làm hay bỏ bất cứ thứ gì, chúng chỉ tạo thêm không khí thôi. \n\nChúng cũng là loại côn trùng duy nhất mà tôi chịu đựng được!"
 
 		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
 	]
-	quest.2E29DC243E8AD61E.title: "Shimmer Lacewing"
+	quest.2E29DC243E8AD61E.title: "Chuồn kim Lấp lánh"
 	quest.2F3E7233129F2B89.quest_desc: [
 		"Hoạt động giống hệt cá Luminofish, chỉ khác là chúng có sừng trên đầu!"
 
 		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
 	]
 	quest.2F3E7233129F2B89.title: "Luminaris"
-	quest.342EEB042DEC2B8C.quest_desc: ["Magma và Geysers đều sinh ra ở đáy The Abyss. \n\nMagma sẽ giúp bạn xuống bên dưới và giúp bạn giữ được hơi thở. \n\nMạch nước phun trông thật tuyệt!"]
-	quest.362F4CFD1B8B12B1.quest_desc: ["Mọi sinh vật sống sẽ chết trong Ether như thể nó là Lava. Thật buồn cười là bạn có thể đặt nó vào một cái Xô! \n\nCách duy nhất để có được nó là tìm nó trong Ether River. \n\nWhen Water chạm vào Ether nó sẽ hình thành Thioquartz Blocks!"]
-	quest.36BCCF7395658A5C.quest_desc: ["Các Trùm trong Starlight sống trong công trình của chúng. Những điều này không phổ biến (may mắn thay) vì vậy bạn có thể cần sự trợ giúp hay còn gọi là Đôi mắt tìm kiếm. \n\nSeaking Eyes hoạt động giống như Ender Eyes, Right Click để ném chúng và đi theo chúng để đến các công trình. \n\nĐể thiết lập cấu trúc, bạn sẽ cần một Vật phẩm nhất định trong Offhand của mình, các vật phẩm như..."]
+	quest.342EEB042DEC2B8C.quest_desc: ["Magma và Mạch nước phun đều sinh ra ở đáy Vực thẳm. \n\nMagma sẽ giúp bạn xuống bên dưới và giúp bạn giữ được hơi thở. \n\nMạch nước phun trông thật tuyệt!"]
+	quest.362F4CFD1B8B12B1.quest_desc: ["Mọi sinh vật sống sẽ chết trong Ether như thể nó là Dung nham. Thật buồn cười là bạn có thể đặt nó vào một cái Xô! \n\nCách duy nhất để có được nó là tìm nó trong Sông Ether. \n\nKhi Nước chạm vào Ether, nó sẽ hình thành các Khối Thioquartz!"]
+	quest.36BCCF7395658A5C.quest_desc: ["Các trùm trong Ánh Sao sống trong công trình của chúng. Chúng không phổ biến (may mắn thay), vì vậy bạn có thể cần sự trợ giúp hay còn gọi là Đôi mắt Tìm kiếm. \n\nĐôi mắt Tìm kiếm hoạt động giống Mắt Ender: nhấp chuột phải để ném và đi theo chúng để đến các công trình. \n\nĐể định vị công trình, bạn sẽ cần một vật phẩm nhất định ở tay phụ, các vật phẩm như..."]
 	quest.36BCCF7395658A5C.title: "Đi tìm ông chủ"
 	quest.37355F60E45777FE.quest_desc: ["Quả cầu tiên tri có thể được chế tạo hoặc thu được thông qua việc đánh bại Người gác cổng! \n\nCông dụng chính của nó là kích hoạt Cổng thông tin, nhưng sẽ có nhiều công dụng hơn cho nó!"]
 	quest.375F0A098589CF29.quest_desc: [
@@ -109,139 +109,139 @@
 	]
 	quest.375F0A098589CF29.title: "Golem Forge"
 	quest.3991EEEFDD263A91.quest_desc: [
-		"Nightfall Spiders, giống như Lonestar Skeletons, là Kẻ thù địch và sinh sản ở bất cứ đâu. \n\nHọ có 5 Trái tim và tấn công bằng cách đánh bạn. Sau khi đánh bạn, chúng sẽ cho bạn hiệu ứng Phát sáng trong vài giây. \n\nKhi chết họ sẽ đánh rơi Chuỗi và mắt của mình!"
+		"Nightfall Spider, giống như Bộ xương Lonestar, là kẻ thù địch và có thể sinh sản ở bất cứ đâu. \n\nChúng có 5 trái tim và tấn công bằng cách đánh bạn. Sau khi đánh trúng, chúng sẽ cho bạn hiệu ứng Phát sáng trong vài giây. \n\nKhi chết, chúng sẽ đánh rơi Chuỗi và mắt của chúng!"
 
 		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
 	]
-	quest.3991EEEFDD263A91.title: "Nightfall Spiders"
-	quest.3C74DAE7EC844A98.quest_desc: ["Lunar Berries là một Food Source tuyệt vời và rất dễ kiếm được! \n\nChúng sinh sản từ Lunar Tree Leaves, bạn có thể hái Quả ra khỏi Dây leo như Glow Berries. \nChỉ những thứ này mới mang lại nhiều hơn Food Points và Độ bão hòa!"]
+	quest.3991EEEFDD263A91.title: "Nhện Nightfall"
+	quest.3C74DAE7EC844A98.quest_desc: ["Lunar Berries là một nguồn thức ăn tuyệt vời và rất dễ kiếm được! \n\nChúng sinh ra từ Lunar Tree Leaves; bạn có thể hái quả ra khỏi dây leo như Glow Berries. \nChỉ khác là chúng cho nhiều Food Points và độ bão hòa hơn!"]
 	quest.3CAD0701EC16C2D8.quest_desc: [
 		"Dark Swamps xả rác vào thế giới của Ánh Sao. \n\nỞ đây bạn có thể tìm thấy rất nhiều thực vật, động vật và tất nhiên là Bùn."
 
 		"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
 	]
-	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
+	quest.3CAD0701EC16C2D8.title: "Đầm lầy tối"
 	quest.3D26E7BFE0AA964A.quest_desc: [
-		"Luminofish là một loài cá phát sáng sống trong The Abyss.\n\nHọ hành động giống như Cá bình thường. Bạn có thể câu cá, cho chúng vào Xô, thậm chí bạn có thể nấu chúng!"
+		"Luminofish là một loài cá phát sáng sống trong Vực thẳm.\n\nChúng cư xử giống như cá bình thường. Bạn có thể câu cá, cho chúng vào Xô, thậm chí bạn có thể nấu chúng!"
 
 		"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
 	]
 	quest.3D26E7BFE0AA964A.title: "Luminofish"
-	quest.3D4032E7119AF8B7.quest_desc: ["Sonar Bombs được làm bằng Gel Rùng Rợn rơi ra từ Crystallized Moths. \n\nChúng có thể được ném để gây sát thương cho bất kỳ Mob (và Người chơi) nào trong một khu vực rộng lớn! Nó cũng sẽ làm rung màn hình của người chơi và phát ra hiệu ứng âm thanh lớn. \n\nNó gây mất phương hướng nên chỉ sử dụng nó cho bạn bè của bạn!"]
+	quest.3D4032E7119AF8B7.quest_desc: ["Bom Sonar được làm bằng Gel Rùng Rợn rơi ra từ Bướm Kết tinh. \n\nChúng có thể được ném để gây sát thương cho bất kỳ mob (và người chơi) nào trong một khu vực rộng lớn! Nó cũng sẽ làm rung màn hình của người chơi và phát ra âm thanh rất lớn. \n\nNó gây mất phương hướng nên chỉ sử dụng nó cho bạn bè của bạn!"]
 	quest.40786B63E2901D11.quest_desc: [
-		"Hãy xem tôi mô tả Cursed Garden như thế nào... đó là một mê cung khổng lồ! \n\nCó lối vào ở mỗi bên và bạn phải tìm đường đến giữa nơi có Lunar Monstrosity! \n\nXung quanh mê cung, bạn có thể tìm thấy những chiếc rương chứa đầy Chiến lợi phẩm và Tangled!"
+		"Hãy xem tôi mô tả Khu vườn Nguyền rủa như thế nào... đó là một mê cung khổng lồ! \n\nCó lối vào ở mỗi bên và bạn phải tìm đường đến giữa nơi có Quái vật Mặt trăng! \n\nXung quanh mê cung, bạn có thể tìm thấy những chiếc rương chứa đầy Chiến lợi phẩm và Rối!"
 
 		"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
 	]
-	quest.40786B63E2901D11.title: "Cursed Garden"
-	quest.40C776497D68367F.quest_desc: ["Dây leo, Đỏ và Blue Crystal Moss Carpets, Lunar Berries, Cave Moss, Đỏ và Blue Crystal Roots. \n\nNhững thứ này có thể được sử dụng trong Offhand của bạn với Seeking Eye để tìm Cursed Garden."]
-	quest.40C776497D68367F.title: "Monstrosity Items"
+	quest.40786B63E2901D11.title: "Khu vườn Nguyền rủa"
+	quest.40C776497D68367F.quest_desc: ["Dây leo, Thảm Rêu Tinh thể Đỏ và Xanh, Quả Mặt trăng, Rêu Hang động, Rễ Tinh thể Đỏ và Xanh. \n\nNhững thứ này có thể được cầm ở tay phụ cùng với Mắt Tìm kiếm để tìm Khu vườn Nguyền rủa."]
+	quest.40C776497D68367F.title: "Vật phẩm Quái vật"
 	quest.4147D247E4D754D0.quest_desc: [
-		"Gleeches là đám đông nhỏ sinh ra trong Crystallized Desert. \n\nHọ không ngừng muốn máu của bạn và điều đó có nghĩa là thậm chí bằng những cách bạo lực. Rất may họ chỉ có 4 Trái tim! \n\nKhi chết, chúng có thể đánh rơi Trứng và có thể ném chúng như một vật phóng."
+		"Gleech là đám đông nhỏ sinh ra trong Sa mạc Kết tinh. \n\nChúng không ngừng thèm máu của bạn, kể cả bằng những cách bạo lực. Rất may chúng chỉ có 4 Trái tim! \n\nKhi chết, chúng có thể đánh rơi Trứng và bạn có thể ném chúng như một vật phóng."
 
 		"{image:atm:textures/questpics/eternal/starlight_gleech.png width:100 height:100 align:center}"
 	]
 	quest.4147D247E4D754D0.title: "Gleech"
 	quest.41C70F0873E14307.quest_desc: ["Có cây ở sa mạc! \n\nKhông, chờ đã, có Cây..."]
-	quest.429785E8F64929CE.quest_desc: ["Để đến được Starlight Dimension, bạn cần tìm Portal Ruins trong Overworld. \n\nỞ đó, bạn sẽ tìm thấy Người gác cổng, Right Click để bắt đầu cuộc trò chuyện và thách đấu tay đôi với họ! Hãy cẩn thận, chúng rất cứng rắn. \n\nSau khi giành chiến thắng trong cuộc đấu tay đôi, bạn sẽ được tặng một số Vật phẩm, trong đó có Quả cầu Tiên tri. Right Click Cổng có Quả cầu để kích hoạt nó! Sau đó, bước vào để đến..."]
+	quest.429785E8F64929CE.quest_desc: ["Để đến được Chiều không gian Ánh Sao, bạn cần tìm Tàn tích Cổng trong Thế giới Thường. \n\nỞ đó, bạn sẽ gặp Người gác cổng; nhấp chuột phải để bắt đầu cuộc trò chuyện và thách đấu tay đôi với họ! Hãy cẩn thận, chúng rất cứng rắn. \n\nSau khi giành chiến thắng trong cuộc đấu tay đôi, bạn sẽ được tặng một số vật phẩm, trong đó có Quả cầu Tiên tri. Nhấp chuột phải vào Cổng cùng Quả cầu để kích hoạt nó! Sau đó, bước vào để đến..."]
 	quest.429785E8F64929CE.title: "Người gác cổng và Cánh cổng"
-	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines được tìm thấy treo trên Torreya Trees. \n\nChúng bị treo vì không thể đặt chúng theo cách nào khác... \n\nBóng đèn ở phía dưới chúng sẽ phát ra Ánh sáng!"]
-	quest.484ABFF266C8791E.quest_desc: ["Orbflora là những loài thực vật mọc từ đáy biển. \n\nChúng có thể được thu hoạch bất cứ lúc nào nhưng nếu bạn muốn Orbflora Lights bạn sẽ phải đợi! \n\nKhi chúng phát triển đến Sea Level chúng sẽ ra hoa. Sau khi ra hoa chúng sẽ phát triển Ánh sáng!"]
-	quest.49D1EA8E812A12F6.quest_desc: ["Nó chỉ là một cái cây gọn gàng. \n\nBạn sẽ cần Swamp Silver Sickle để thu thập nó! \n\nTôi không biết tại sao tôi chưa bao giờ quan tâm đến thực vật nhưng Reeds rất tuyệt với tôi. Có thể đó là sự tồn tại của Water, hoặc Cattails trông giống Corndogs. Tôi không biết nhưng tôi thích chúng."]
-	quest.49DC0BD7DC1B893C.quest_desc: ["Vực thẳm là những rãnh sâu trong Starlit Seas. Những con số này có thể giảm tới -50! \n\nChúng có nhiều lớp Đá màu xếp dọc và chứa nhiều Khối, Rêu và Cá khác nhau!"]
+	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines được tìm thấy treo trên Torreya Trees. \n\nChúng bị treo vì không thể đặt theo cách nào khác... \n\nBóng đèn ở phía dưới sẽ phát ra ánh sáng!"]
+	quest.484ABFF266C8791E.quest_desc: ["Orbflora là những loài thực vật mọc từ đáy biển. \n\nChúng có thể được thu hoạch bất cứ lúc nào nhưng nếu bạn muốn Đèn Orbflora bạn sẽ phải đợi! \n\nKhi chúng phát triển đến mực nước biển chúng sẽ ra hoa. Sau khi ra hoa chúng sẽ phát triển Ánh sáng!"]
+	quest.49D1EA8E812A12F6.quest_desc: ["Nó chỉ là một cái cây gọn gàng. \n\nBạn sẽ cần Liềm Bạc Đầm lầy để thu thập nó! \n\nTôi không biết tại sao tôi chưa bao giờ quan tâm đến thực vật nhưng Sậy rất hợp gu tôi. Có thể là vì có Nước, hoặc Cỏ nến trông giống xúc xích ngô. Tôi không biết nhưng tôi thích chúng."]
+	quest.49DC0BD7DC1B893C.quest_desc: ["Vực thẳm là những rãnh sâu trong Biển Ánh sao. Những con số này có thể giảm tới -50! \n\nChúng có nhiều lớp Đá màu xếp dọc và chứa nhiều Khối, Rêu và Cá khác nhau!"]
 	quest.49DC0BD7DC1B893C.title: "Vực thẳm"
-	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss sinh sản trong The Abyss. \n\nBạn có thể khai thác những quả màu xanh lá cây để nhận Velvetumoss Balls có thể ăn được hoặc chế tạo thành Slimeball! \n\nNhững con màu đỏ sẽ sinh ra những cây đẹp!"]
-	quest.4A5EA948F5DCEB73.quest_desc: ["Swamp Silver hiếm khi được tìm thấy trong Nightfall Mud. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ!"]
-	quest.4C23D7E3DC8327C2.quest_desc: ["Để tiêu diệt Lunar Monstrosity bạn cần đốt nó! \n\nBạn có thể sử dụng Flint and Steel hoặc Saltpeter Matchbox. \n\nCá nhân tôi nghĩ Matchbox phù hợp hơn!"]
+	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss sinh sản trong Vực thẳm. \n\nBạn có thể khai thác những quả màu xanh lá cây để nhận Viên Velvetumoss có thể ăn được hoặc chế tạo thành Bóng Nhầy! \n\nNhững con màu đỏ sẽ sinh ra những cây đẹp!"]
+	quest.4A5EA948F5DCEB73.quest_desc: ["Bạc Đầm lầy hiếm khi được tìm thấy trong Bùn Nightfall. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ!"]
+	quest.4C23D7E3DC8327C2.quest_desc: ["Để tiêu diệt Quái vật Mặt trăng bạn cần đốt nó! \n\nBạn có thể sử dụng Đá lửa và Thép hoặc Hộp diêm Diêm tiêu. \n\nCá nhân tôi nghĩ hộp diêm phù hợp hơn!"]
 	quest.4C23D7E3DC8327C2.title: "Hãy đốt nó đi!"
-	quest.4D0B50731FED3CEE.quest_desc: ["Để có được Cresant Spear, bạn cần chế tạo nó từ Vật phẩm rơi ra từ Lunar Monstrosity và Tangled Hatred, hoặc rơi ra từ Lunar Monstrosity. (Về cơ bản, bạn sẽ phải giết anh ta). \n\nBạn có thể sử dụng Ngọn giáo như Cây đinh ba và chỉ cần đập mob hoặc bạn có thể giữ Right Click để được đưa bay về phía trước cùng với nó. Nếu bạn đánh bất kỳ Mob nào bằng đòn tấn công thứ hai, bất kỳ Mob nào ở gần cũng sẽ nhận sát thương."]
-	quest.4D4DE266A2A325B0.quest_desc: ["Đá đỏ, Golem Steel và Oxidized Golem Steel là các Vật phẩm dùng để tìm Golem Forge. \n\nGiữ một trong những thứ này (rất có thể là Redstone xuất hiện trong Starlight dưới lòng đất) trong Offhand của bạn và sử dụng Seeking Eye để tìm Golem Forge btw ở dưới lòng đất!"]
-	quest.4D4DE266A2A325B0.title: "Golem Items"
-	quest.4D53D9BBD8279282.quest_desc: ["Lunar Trees có thể bao gồm từ những Cây cao chót vót cho đến những Cây nhỏ bé. Họ thích nghi để chiếm nhiều chỗ nhất có thể! (Điều đó sẽ giải thích Dense Forests). \n\nChúng trồng giống như Cây Con bình thường và có thể sinh sản Lunar Berries từ lá của chúng!"]
+	quest.4D0B50731FED3CEE.quest_desc: ["Để có được Giáo Trăng lưỡi liềm, bạn cần chế tạo nó từ vật phẩm rơi ra từ Quái vật Mặt trăng và Hận thù Rối, hoặc nó cũng có thể rơi ra từ Quái vật Mặt trăng. (Về cơ bản, bạn sẽ phải giết nó). \n\nBạn có thể sử dụng ngọn giáo như Đinh ba: hoặc đánh mob, hoặc giữ nhấp chuột phải để lao về phía trước cùng với nó. Nếu bạn đánh bất kỳ mob nào bằng đòn tấn công thứ hai, các mob ở gần cũng sẽ nhận sát thương."]
+	quest.4D4DE266A2A325B0.quest_desc: ["Đá đỏ, Thép Golem và Thép Golem Oxy hóa là các vật phẩm dùng để tìm Lò rèn Golem. \n\nGiữ một trong những thứ này (rất có thể là Đá đỏ xuất hiện trong Ánh Sao dưới lòng đất) ở tay phụ và sử dụng Mắt Tìm kiếm để tìm Lò rèn Golem (nó nằm dưới lòng đất)!"]
+	quest.4D4DE266A2A325B0.title: "Vật phẩm Golem"
+	quest.4D53D9BBD8279282.quest_desc: ["Cây Mặt trăng có thể bao gồm từ những Cây cao chót vót cho đến những Cây nhỏ bé. Chúng thích nghi để chiếm nhiều chỗ nhất có thể! (Điều đó sẽ giải thích Rừng Rậm). \n\nChúng trồng giống như Cây Con bình thường và có thể sinh ra Quả Mặt trăng từ lá của chúng!"]
 	quest.4D8C9960BB675221.quest_desc: ["Nó có một cái tên buồn cười!"]
 	quest.4DBC3B4D38CC6152.quest_desc: [
-		"Crystallized Moths sinh sản sâu bên dưới Crystallized Deserts. \n\nChúng trung lập và tôi khuyên bạn không nên đánh chúng vì chúng gây ra rất nhiều sát thương! \n\nHọ cũng có 10 Trái tim và có thể rơi ra Starlight Crystals hoặc Gel Rùng mình khi chết."
+		"Bướm Kết tinh sinh sản sâu bên dưới Sa mạc Kết tinh. \n\nChúng trung lập và tôi khuyên bạn không nên đánh chúng vì chúng gây ra rất nhiều sát thương! \n\nChúng cũng có 10 Trái tim và có thể rơi ra Tinh thể Ánh sao hoặc Gel Rùng mình khi chết."
 
 		"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
 	]
-	quest.4DBC3B4D38CC6152.title: "Crystallized Moth"
+	quest.4DBC3B4D38CC6152.title: "Bướm Kết tinh"
 	quest.50674FE3C6BE9990.quest_desc: [
-		"Giống như Starlight Forest bình thường chỉ với khoảng cách ít hơn nhiều trong Cây!"
+		"Giống như Rừng Ánh sao bình thường, chỉ khác là cây mọc dày hơn nhiều!"
 
 		"{image:atm:textures/questpics/eternal/starlight_dense.png width:200 height:100 align:center}"
 	]
-	quest.50674FE3C6BE9990.title: "Dense Starlight Forest"
-	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes bị rơi ra khỏi trạng thái Đóng băng trong Golem Forge. \n\nChúng có thể được ném ra như Potion để làm tổn thương bất cứ ai nó chạm phải."]
+	quest.50674FE3C6BE9990.title: "Rừng Ánh sao rậm"
+	quest.516AC1F0E0BCAE55.quest_desc: ["Ống Băng rơi ra từ trạng thái Đóng băng trong Lò rèn Golem. \n\nChúng có thể được ném như Thuốc để làm tổn thương bất cứ ai chúng chạm phải."]
 	quest.5244B2D6B5FA0487.quest_desc: [
-		"Crystallized Desert trông giống như Sa mạc bình thường nhưng có màu Tím. \n\nNgoài ra, với những tinh thể khổng lồ được thêm vào, tôi không nghĩ Sa mạc bình thường có được thứ đó..."
+		"Sa mạc Kết tinh trông giống như Sa mạc bình thường nhưng có màu Tím. \n\nNgoài ra, với những tinh thể khổng lồ được thêm vào, tôi không nghĩ Sa mạc bình thường có được thứ đó..."
 
 		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
 	]
-	quest.5244B2D6B5FA0487.title: "Crystallized Desert"
-	quest.5424A0E1292B13EE.quest_desc: ["Xung quanh Starlight bạn có thể tìm thấy Hot Ponds. \n\n(Đây không phải là quần xã hay cấu trúc nên bạn chỉ cần nhìn xung quanh để tìm thấy chúng!) \n\nTrong đó bạn có thể tìm thấy Thermal Springstone."]
-	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit về mặt kỹ thuật có thể sinh sản ở bất kỳ vùng nước nào nhưng đó là loài duy nhất sống trong Shimmer Rivers. \n\nNó phát triển giống như Tảo bẹ từ tầng trở lên, nhưng cũng hoạt động giống như Quả phát sáng khi trong Trái cây phát triển và có thể thu thập được từ nó."]
-	quest.54DE8AAAE2181F18.quest_desc: ["Moonring Greatsword cần được chế tạo từ vật phẩm rơi ra của cả hai Boss! Rõ ràng là làm cho nó khó có được nhất và mạnh nhất! \n\nNó hoạt động giống như một thanh Sword bình thường, ngay trước phiên bản 1.9. Nó có thể chặn các đòn tấn công như một tấm khiên, nhưng nó không thể bị spam để gây sát thương hoàn toàn."]
-	quest.5DFE3CB5B0130A7A.quest_desc: ["Có rất nhiều loài thực vật trên Shimmer River, một số bạn có thể đứng trên đó!"]
+	quest.5244B2D6B5FA0487.title: "Sa mạc Kết tinh"
+	quest.5424A0E1292B13EE.quest_desc: ["Xung quanh Ánh Sao bạn có thể tìm thấy Ao Nóng. \n\n(Đây không phải là quần xã hay cấu trúc nên bạn chỉ cần nhìn xung quanh để tìm thấy chúng!) \n\nTrong đó bạn có thể tìm thấy Đá Suối Nhiệt."]
+	quest.5466CB622A637DCD.quest_desc: ["Trái cây Vực thẳm về mặt kỹ thuật có thể sinh sản ở bất kỳ vùng nước nào nhưng đó là loài duy nhất sống trong Sông Lấp lánh. \n\nNó phát triển giống như Tảo bẹ từ tầng trở lên, nhưng cũng hoạt động giống như Quả phát sáng khi trái phát triển và có thể thu thập được từ nó."]
+	quest.54DE8AAAE2181F18.quest_desc: ["Đại kiếm Vòng Trăng cần được chế tạo từ vật phẩm rơi ra của cả hai trùm! Rõ ràng là làm cho nó khó có được nhất và mạnh nhất! \n\nNó hoạt động giống như một thanh kiếm kiểu cũ (trước phiên bản 1.9). Nó có thể chặn các đòn tấn công như một tấm khiên, nhưng bạn không thể spam để gây sát thương liên tục."]
+	quest.5DFE3CB5B0130A7A.quest_desc: ["Có rất nhiều loài thực vật trên Sông Lấp lánh, một số bạn có thể đứng trên đó!"]
 	quest.60FDCA2FDFE74056.quest_desc: [
-		"IT'S PINK! \n\nỞ đây bạn sẽ tìm thấy Scarlet Trees với những chiếc lá rụng xếp chồng lên nhau bên dưới. Bạn cũng có thể tìm thấy Nấm phát sáng ở đây!"
+		"NÓ MÀU HỒNG! \n\nỞ đây bạn sẽ tìm thấy Cây Đỏ tươi với những chiếc lá rụng xếp chồng lên nhau bên dưới. Bạn cũng có thể tìm thấy Nấm phát sáng ở đây!"
 
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
-	quest.60FDCA2FDFE74056.title: "Scarlet Forest"
-	quest.62F33BBE7BDFE404.quest_desc: ["Đũa Dịch Chuyển là một sản phẩm khác từ Lunar Monstrosity, và chỉ có vậy thôi! \n\nBạn có thể giữ Right Click bằng Đũa phép để khởi động nó, sau đó khi bạn thả nó ra, nó sẽ dịch chuyển bạn đến Khối mà bạn đang nhìn cuối cùng! \n\nCó một phạm vi nhưng nó khá xa. Và có thời gian hồi chiêu sau khi sử dụng!"]
+	quest.60FDCA2FDFE74056.title: "Rừng Đỏ tươi"
+	quest.62F33BBE7BDFE404.quest_desc: ["Đũa Dịch Chuyển là một sản phẩm khác từ Quái vật Mặt trăng, và chỉ có vậy thôi! \n\nBạn có thể giữ nhấp chuột phải bằng Đũa phép để khởi động nó, sau đó khi bạn thả ra, nó sẽ dịch chuyển bạn đến Khối mà bạn đang nhìn cuối cùng! \n\nCó một phạm vi nhưng nó khá xa. Và có thời gian hồi chiêu sau khi sử dụng!"]
 	quest.6314B892B569A0A5.quest_desc: ["Ánh sao! \n\nMột chiều không gian liên tục là Hoàng hôn và không, bạn không thể thay đổi điều đó. \n\nCó hàng tá Quần xã, Mob, Trùm và thậm chí chỉ là Khối để tìm! Bạn có thể khám phá tất cả?"]
-	quest.6314B892B569A0A5.title: "Eternal Starlight"
+	quest.6314B892B569A0A5.title: "Ánh Sao Vĩnh Hằng"
 	quest.63362CC33B39C627.quest_desc: [
-		"Starlit Seas là những khối Nước khổng lồ nằm ngay ngắn giữa Warm Shores và đất liền. \n\nHọ chứa đựng nhiều điều kỳ diệu bên trong và lớn lên trong đó! \n\nHy vọng bạn đã mang theo kính bảo hộ của mình!"
+		"Biển Ánh sao là những khối Nước khổng lồ nằm ngay ngắn giữa Bờ ấm và đất liền. \n\nChúng chứa đựng nhiều điều kỳ diệu bên trong và sâu thẳm! \n\nHy vọng bạn đã mang theo kính bảo hộ của mình!"
 
 		"{image:atm:textures/questpics/eternal/starlight_starlitsea.png width:200 height:100 align:center}"
 	]
-	quest.63362CC33B39C627.title: "Starlit Sea"
+	quest.63362CC33B39C627.title: "Biển Ánh sao"
 	quest.636848ED1115A0B3.quest_desc: [
-		"Ratlins là Mob hòa bình có thể sinh sản trên Bề mặt. \n\nKhi chết, chúng sẽ rơi ra Ratlin Meat, Da và Cave Moss. \n\nCái sau có thể được sử dụng để nhân giống chúng lại với nhau!"
+		"Ratlin là mob hòa bình có thể sinh sản trên Bề mặt. \n\nKhi chết, chúng sẽ rơi ra Thịt Ratlin, Da và Rêu Hang động. \n\nCái sau có thể được sử dụng để nhân giống chúng lại với nhau!"
 
 		"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
 	]
-	quest.636848ED1115A0B3.title: "Ratlins"
+	quest.636848ED1115A0B3.title: "Ratlin"
 	quest.68B2D3B985FC1378.quest_desc: [
-		"Một khu rừng tươi sáng và xinh đẹp, đầy Torreya Trees và Dây leo."
+		"Một khu rừng tươi sáng và xinh đẹp, đầy Cây Torreya và Dây leo."
 
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
 	]
-	quest.68B2D3B985FC1378.title: "Torreya Forest"
+	quest.68B2D3B985FC1378.title: "Rừng Torreya"
 	quest.6B00D5DBB3552F15.quest_desc: [
-		"Rối là những kẻ thù sinh ra trong Cursed Garden. \n\nChúng có 10 Trái tim và sẽ tấn công bằng cách đánh bạn. Nếu bị trúng đòn, bạn sẽ nhận được một lượng nhỏ chất độc. \n\nKhi chết, chúng sẽ rơi ra Dây leo và Xương nhưng cũng sẽ sinh ra Tangled Skull! \n\nTangled Skulls hoạt động tương tự như Vexes, chúng sẽ bay vòng qua các khối và đánh bạn. Họ chỉ có 5 Trái tim và khi chết sẽ đưa cho bạn chúng như một Vật phẩm."
+		"Rối là những kẻ thù sinh ra trong Khu vườn Nguyền rủa. \n\nChúng có 10 Trái tim và sẽ tấn công bằng cách đánh bạn. Nếu bị trúng đòn, bạn sẽ nhận được một lượng nhỏ chất độc. \n\nKhi chết, chúng sẽ rơi ra Dây leo và Xương nhưng cũng sẽ sinh ra Sọ Rối! \n\nSọ Rối hoạt động tương tự như Yêu tinh Quấy phá, chúng sẽ bay vòng qua các khối và đánh bạn. Chúng chỉ có 5 Trái tim và khi chết sẽ đưa cho bạn chúng như một Vật phẩm."
 
 		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
 	]
-	quest.6B00D5DBB3552F15.title: "Tangled"
-	quest.6E970CF05B96EB20.quest_desc: ["Để làm hỏng Golem, bạn cần phải tắt nguồn điện của anh ta! \n\nĐể làm như vậy, bạn cần phải Right Click Energy Blocks khi chúng chuyển sang màu xanh lam. \n\nBạn thường có thể tìm thấy 2 cái ở góc phòng sếp và 2 cái phía trên ông ta!"]
+	quest.6B00D5DBB3552F15.title: "Rối"
+	quest.6E970CF05B96EB20.quest_desc: ["Để hạ gục Golem, bạn cần phải tắt nguồn điện của hắn! \n\nĐể làm như vậy, bạn cần nhấp chuột phải vào Khối Năng lượng khi chúng chuyển sang màu xanh lam. \n\nBạn thường có thể tìm thấy 2 cái ở góc phòng trùm và 2 cái phía trên hắn!"]
 	quest.6E970CF05B96EB20.title: "Tắt nguồn"
 	quest.6EC289857CDC4969.quest_desc: [
-		"Ent là một Mob yên bình khác sinh sản trên Bề mặt Ánh Sao. Những sinh sản trong rừng! \n\nNhững cây nhỏ này có thể rơi ra Gậy, Lunar Berries và Lunar Leaves khi chết. \n\nBạn có thể sử dụng Lunar Berries để nhân giống chúng!"
+		"Ent là một mob yên bình khác sinh sản trên Bề mặt Ánh Sao. Chúng sinh sản trong rừng! \n\nNhững cây nhỏ này có thể rơi ra Gậy, Quả Mặt trăng và Lá Cây Mặt trăng khi chết. \n\nBạn có thể sử dụng Quả Mặt trăng để nhân giống chúng!"
 
 		"{image:atm:textures/questpics/eternal/starlight_ent.png width:100 height:100 align:center}"
 	]
-	quest.6EC289857CDC4969.title: "Ents"
-	quest.70A82A5D17D558FB.quest_desc: ["Thanh kiếm Năng lượng chỉ có thể rơi ra từ Starlight Golem. \n\nNó hoạt động giống như một thanh Kiếm bình thường nhưng với Right Click bạn có thể lao vào chúng trong khi vung nó, giống như Genji trong Overwatch!"]
-	quest.713548E540B18E07.quest_desc: ["Cung Trăng chỉ có thể rơi ra từ Lunar Monstrosity. \n\nNó bắn Mũi tên giống như Cung bình thường nhưng Ground Spikes sẽ đi theo cùng hướng Mũi tên đã đi!"]
-	quest.713EF442D59501BA.quest_desc: ["Chuỗi Linh hồn chỉ có thể được chế tạo từ những vật phẩm rơi ra của Tangled Hatred và Lunar Monstrosity. \n\nĐó là một cái móc vật lộn! Tap Right Click để gửi nó và khi nó chạm vào thứ gì đó, nó sẽ bắt đầu cuốn bạn vào. Sau đó, bạn phải Right Click một lần nữa để tách nó ra. \n\nCũng cần thiết cho Ngôi sao ATM!"]
-	quest.71C58666D4BC2508.quest_desc: ["Hoạt động giống như Flint và Steel!"]
-	quest.770C0975CA61CE46.quest_desc: ["Glacite có thể được tìm thấy sâu dưới lòng đất ở Permafrost Forests. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ giúp chống lại sát thương Đóng băng!"]
+	quest.6EC289857CDC4969.title: "Ent"
+	quest.70A82A5D17D558FB.quest_desc: ["Kiếm Năng lượng chỉ có thể rơi ra từ Golem Ánh sao. \n\nNó hoạt động giống như một thanh kiếm bình thường, nhưng với nhấp chuột phải bạn có thể lao tới trong lúc vung kiếm!"]
+	quest.713548E540B18E07.quest_desc: ["Cung Trăng chỉ có thể rơi ra từ Quái vật Mặt trăng. \n\nNó bắn Mũi tên giống như Cung bình thường nhưng Gai mặt đất sẽ đi theo cùng hướng Mũi tên đã bay!"]
+	quest.713EF442D59501BA.quest_desc: ["Chuỗi Linh hồn chỉ có thể được chế tạo từ những vật phẩm rơi ra của Hận thù Rối và Quái vật Mặt trăng. \n\nĐó là một cái móc vật lộn! Nhấp chuột phải để bắn nó và khi nó chạm vào thứ gì đó, nó sẽ kéo bạn về phía đó. Sau đó, bạn phải nhấp chuột phải một lần nữa để gỡ nó ra. \n\nCũng cần thiết cho Ngôi sao ATM!"]
+	quest.71C58666D4BC2508.quest_desc: ["Hoạt động giống như Đá lửa và Thép!"]
+	quest.770C0975CA61CE46.quest_desc: ["Glacite có thể được tìm thấy sâu dưới lòng đất ở các Rừng Băng vĩnh cửu. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ giúp chống lại sát thương Đóng băng!"]
 	quest.7A16D2EB63359294.quest_desc: [
-		"Aurora Deers là loài động vật có móng guốc thân thiện cũng sống ở vùng giá lạnh. \n\nNhững con hươu này sẽ không cố gắng làm hại bạn nhưng nếu bạn cản đường chúng khi chạy, bạn có thể cảm thấy một số Gạc. \n\nNhững chiếc gạc cũng có thể bị chúng đánh rơi khi chết, có thể dùng làm vũ khí hoặc cuốc! \n\nHọ cũng có thể đánh rơi Da hoặc Aurora Deer Steak."
+		"Hươu Cực quang là loài động vật có móng guốc thân thiện cũng sống ở vùng giá lạnh. \n\nNhững con hươu này sẽ không cố gắng làm hại bạn nhưng nếu bạn cản đường chúng khi chạy, bạn có thể cảm thấy một số Gạc. \n\nNhững chiếc gạc cũng có thể bị chúng đánh rơi khi chết, có thể dùng làm vũ khí hoặc cuốc! \n\nChúng cũng có thể đánh rơi Da hoặc Bít tết Hươu Cực quang."
 
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
-	quest.7A16D2EB63359294.title: "Aurora Deer"
-	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite có thể được tìm thấy dưới lòng đất trong Starlight. \n\nNó hoạt động như một Viên đá bình thường và có thể được chế tạo thành các Khối khác. \n\nPhiên bản Its Molten hoạt động như phiên bản Magma Block bình thường!"]
-	quest.7B5D34650BBD97D9.quest_desc: ["Rất hiếm khi xảy ra Starlight Dimension a Meteor Shower. \n\nHầu hết các sao băng đều rất nhỏ và biến mất trước khi chạm đất. \n\nNhưng một số lớn hơn và tồn tại, ở đó bạn sẽ tìm thấy Aethersent Ore!"]
+	quest.7A16D2EB63359294.title: "Hươu Cực quang"
+	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite có thể được tìm thấy dưới lòng đất trong Ánh Sao. \n\nNó hoạt động như một viên đá bình thường và có thể được chế tạo thành các khối khác. \n\nPhiên bản Nóng chảy của nó hoạt động như phiên bản Khối Magma bình thường!"]
+	quest.7B5D34650BBD97D9.quest_desc: ["Rất hiếm khi Chiều không gian Ánh Sao có mưa sao băng. \n\nHầu hết các sao băng đều rất nhỏ và biến mất trước khi chạm đất. \n\nNhưng một số lớn hơn và tồn tại, ở đó bạn sẽ tìm thấy Quặng Aethersent!"]
 	quest.7D7BD1458CF12021.quest_desc: ["Đó là sa mạc tất nhiên là có xương rồng! \n\nXương rồng khi trưởng thành hoàn toàn có thể mọc Quả lên trên chúng!"]
-	quest.7E90138B0A2C3210.quest_desc: ["Cây Northland là những Cây to khỏe ở Permafrost Forests. \n\nChúng trông giống Spruce nhưng nhẹ hơn nhiều! Có lẽ họ là một cây vân sam bạch tạng. \n\nCây non của chúng cần được đặt trên Đất, không phải Cỏ và theo đội hình 2x2."]
-	quest.7FBB431AC055FE93.quest_desc: ["Soulit Spectator được chế tạo bằng Trapped Soul và Nightfal Spider Eye. \n\nNó hoạt động tương tự như Sticky Camera từ Tom Clancy's Splinter Cell. Bạn có thể Right Click để gửi Spectator và sau một thời gian bạn sẽ có thể nhìn thấy nó. Bạn thậm chí có thể nhìn thấy chính mình với nó! \n\nNó không thể kết thúc sớm nên hãy cẩn thận khi sử dụng nó. Nó cũng có độ bền và thời gian hồi chiêu."]
-	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud chỉ có thể được tìm thấy trong Dark Swamps. \n\nBạn có thể tạo ra nhiều Khối hơn từ nó!"]
-	task.0AD8AC7ECCD8002A.title: "AllRightsReserved"
-	task.2510A7EE5D886B63.title: "AllRightsReserved"
-	task.452736994864F623.title: "Hãy ghé thăm Shimmer River"
+	quest.7E90138B0A2C3210.quest_desc: ["Cây Northland là những Cây to khỏe ở các Rừng Băng vĩnh cửu. \n\nChúng trông giống Vân sam nhưng nhẹ hơn nhiều! Có lẽ chúng là một cây vân sam bạch tạng. \n\nCây non của chúng cần được đặt trên Đất, không phải Cỏ và theo đội hình 2x2."]
+	quest.7FBB431AC055FE93.quest_desc: ["Kẻ Quan sát Soulit được chế tạo bằng Linh hồn bị giam và Mắt Nhện Nightfall. \n\nNó hoạt động tương tự như một loại camera dính: bạn có thể nhấp chuột phải để thả Kẻ Quan sát, và sau một thời gian bạn sẽ có thể nhìn theo nó. Bạn thậm chí có thể nhìn thấy chính mình qua đó! \n\nKhông thể kết thúc sớm, nên hãy cẩn thận khi sử dụng. Nó cũng có độ bền và thời gian hồi chiêu."]
+	quest.7FF77463F2A0E210.quest_desc: ["Bùn Nightfall chỉ có thể được tìm thấy trong Đầm lầy tối. \n\nBạn có thể tạo ra nhiều Khối hơn từ nó!"]
+	task.0AD8AC7ECCD8002A.title: "Mọi quyền được bảo lưu"
+	task.2510A7EE5D886B63.title: "Mọi quyền được bảo lưu"
+	task.452736994864F623.title: "Hãy ghé thăm Sông Lấp lánh"
 	task.67690077D4273A36.title: "Tham quan Ánh sao"
 }

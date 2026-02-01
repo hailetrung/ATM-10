@@ -5,13 +5,13 @@
 	quest.003FF3813A864BA1.title: "Strange Matter Bee"
 	quest.0072C4F028C327CB.quest_subtitle: "Magmatic + Du mục"
 	quest.0072C4F028C327CB.title: "BlazBee"
-	quest.00A17728A387B426.quest_desc: ["Wood Nests được dùng để thu hút Carpenter Bees và Blue Banded Bee.\n\nDark Oak Nests thu hút 3 con ong khác nhau.\n\nChúng có thể được đặt trong bất kỳ Overworld Biome nào."]
+	quest.00A17728A387B426.quest_desc: ["Tổ gỗ được dùng để thu hút Carpenter Bees và Blue Banded Bee.\n\nTổ gỗ sồi đen thu hút 3 con ong khác nhau.\n\nChúng có thể được đặt trong bất kỳ quần xã Overworld nào."]
 	quest.00A17728A387B426.quest_subtitle: "Có thể được sử dụng trong bất kỳ quần xã Overworld nào"
-	quest.00A17728A387B426.title: "Wood Nests"
+	quest.00A17728A387B426.title: "Tổ gỗ"
 	quest.00FD36C207845895.quest_desc: ["Đặt Obsidian Nest ở cuối để dụ con ong này."]
 	quest.00FD36C207845895.quest_subtitle: "&9Yêu cầu Obsidian Nest"
 	quest.00FD36C207845895.title: "Draconic Bee"
-	quest.010A970FC91BD617.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.010A970FC91BD617.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.010A970FC91BD617.title: "Soularium Bee"
 	quest.019CC48531E7759B.quest_subtitle: "Sản xuất tại Dragonsteel Forge"
 	quest.019CC48531E7759B.title: "Ice Dragonsteel Bee"
@@ -22,7 +22,7 @@
 	quest.029AA03790F055E8.title: "Gold Bee"
 	quest.02F3133A9006BC1E.quest_subtitle: "Molten Steel trên Sắt/Coal Bee Spawn Trứng"
 	quest.02F3133A9006BC1E.title: "Steel Bee"
-	quest.035495984F84FB44.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.035495984F84FB44.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.035495984F84FB44.title: "Ong hợp kim đập"
 	quest.037FBF06E59E1027.quest_subtitle: "Sản xuất tại Clibano"
 	quest.037FBF06E59E1027.title: "Deorum Bee"
@@ -40,10 +40,10 @@
 	quest.06044B4452A6B720.quest_subtitle: "Thu hút ong vào Desert Biomes"
 	quest.065196033249A0AA.quest_subtitle: "Alloy Raw Biopolymer với Sắt Ong Trứng"
 	quest.065196033249A0AA.title: "Biosteel Bee"
-	quest.0691BDE968724213.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.0691BDE968724213.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.0691BDE968724213.title: "Vibrant Alloy Bee"
 	quest.06B352AE90DD0D3E.quest_desc: ["Việc &8BlazBee đang thụ phấn cho &4Obsidian Bee Spawn Egg&r sẽ chuyển đổi nó thành &2Infinity Bee Spawn Egg&r."]
-	quest.06B352AE90DD0D3E.title: "Bee Of Infinity"
+	quest.06B352AE90DD0D3E.title: "Ong Vô Cực"
 	quest.06B6786122F3DAF9.quest_desc: ["Ảnh hưởng đến thời gian trong ngày một con ong có thể làm việc. Có 3 cấp độ: &aDiurnal&r, &dNocturnal&r. &aOng ban ngày chỉ có thể làm việc vào ban ngày, &dOcturnal chỉ có thể làm việc vào ban đêm, &cOng của Metaturnal có thể làm việc vào bất kỳ thời điểm nào trong ngày. &cMetaturnal là những gì chúng tôi đang theo đuổi. BeeBee đương nhiên có đặc điểm &cMetaturnal. Như đã đề cập trong nhiệm vụ &a&lNăng suất, con ong này được tìm thấy trong The Other và là một loài đặc biệt nguy hiểm.\n\nNếu bạn không muốn đối phó với con ong chết người đó thì vẫn có một lựa chọn khác. Chúng ta sẽ cần phải xích một số con ong vào hàng rào vào ban đêm để biến chúng thành \"Người về đêm\", sau đó thả những con ong đó ra ngoài hàng rào vào ban ngày để biến chúng thành \"Người biến hình\". Chúng ta có thể bỏ qua một trong các bước này bằng Ghostly Bee, đương nhiên là &dNocturnal."]
 	quest.06B6786122F3DAF9.quest_subtitle: "Giấc ngủ dành cho người yếu đuối"
 	quest.06B6786122F3DAF9.title: "&e&lBehavior"
@@ -95,7 +95,7 @@
 	quest.104BF57D4A006688.quest_subtitle: "Đưa Sculk Block vào Digger Bee"
 	quest.104BF57D4A006688.title: "Sculk Bee"
 	quest.109AD73F016D576B.quest_desc: ["Sử dụng phương pháp vanilla, hãy tiếp tục và tạo cho mình một &9Beehive để có thiết lập nhỏ của riêng mình!\n\nMỗi cái này có thể chứa được 3 con ong, nhưng chúng ta sẽ không sử dụng nó lâu đâu...\n\nOng sẽ chỉ tạo ra Mật và Tổ Ong nếu chúng có đúng hoa. Ong vani có thể sử dụng bất kỳ loại hoa nào, nhưng hầu hết ong trong mod sẽ yêu cầu một khối cụ thể! Hãy nhớ kiểm tra JEI để biết thêm thông tin."]
-	quest.109AD73F016D576B.title: "Your First Beehive"
+	quest.109AD73F016D576B.title: "Tổ ong đầu tiên của bạn"
 	quest.10DF9DE4B6C03D6B.quest_subtitle: "Được chế tạo bằng Nature Altar"
 	quest.10DF9DE4B6C03D6B.title: "Tainted Gold Bee"
 	quest.114D668C691A2BDF.quest_subtitle: "Ashy Mining + Tinh thể"
@@ -151,9 +151,9 @@
 	quest.1540A9CDE2ED77E8.title: "Spirited Crystal Bee"
 	quest.15C9CCCC8E06D430.quest_subtitle: "Đưa Black Quartz Block vào Crystalline Bee"
 	quest.15C9CCCC8E06D430.title: "Black Quartz Bee"
-	quest.160BD0185954C891.quest_desc: ["Thay vì sử dụng Honey Treats, tổ ong này yêu cầu Gold Ingots để thu hút Ong."]
+	quest.160BD0185954C891.quest_desc: ["Thay vì sử dụng Honey Treats, tổ ong này yêu cầu Gold thỏi để thu hút Ong."]
 	quest.160BD0185954C891.quest_subtitle: "Thu hút Gold Bee khi được đặt ở Nether"
-	quest.16987C41D4F5BA47.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.16987C41D4F5BA47.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.16987C41D4F5BA47.title: "Copper Alloy Bee"
 	quest.170C31F3BAF050BC.quest_subtitle: "Sản xuất trong bộ tái xử lý"
 	quest.170C31F3BAF050BC.title: "Blutonium Bee"
@@ -195,7 +195,7 @@
 	quest.1A4FAE5705B53753.title: "Air Essence Bee"
 	quest.1ACB3EDBCB732514.quest_subtitle: "Đưa một khối Monazite vào Sulfur Bee"
 	quest.1ACB3EDBCB732514.title: "Monazite Bee"
-	quest.1B79F794EDAA810A.quest_desc: ["Phòng nhân giống có thể được sử dụng để nhân giống hai con ong với nhau một cách tự động. Nó có khả năng tự sinh sản, cũng như nhân giống 2 loại ong để tạo thành loại thứ ba (Ví dụ: Ashy Mining + Tinh thể -> Sắt). Nếu điều này dẫn đến xung đột (Tiếp tục ví dụ trước, Ashy Mining + Tinh thể -> Nhôm), hãy lấy một trong những con ong ra rồi đặt nó trở lại.\n\nCung cấp vật phẩm nuôi ong trong mỗi ô (thường là hoa, giữ SHIFT trên lồng ong nuôi một loại ong nhất định để xem nó sử dụng vật phẩm nuôi ong nào (Draconic Bees sử dụng 2 Draconic Dust chẳng hạn)) và một số lồng ong.\n\nChỉ cần...đừng làm...bất cứ điều gì để có được F.Bee.I. để theo đuổi bạn. Tôi sẽ đảm bảo bạn sẽ được thêm vào Sảnh xấu hổ nếu họ DO truy đuổi bạn."]
+	quest.1B79F794EDAA810A.quest_desc: ["Phòng nhân giống có thể được sử dụng để nhân giống hai con ong với nhau một cách tự động. Nó có khả năng tự sinh sản, cũng như nhân giống 2 loại ong để tạo thành loại thứ ba (Ví dụ: Ashy Mining + Tinh thể -> Sắt). Nếu điều này dẫn đến xung đột (Tiếp tục ví dụ trước, Ashy Mining + Tinh thể -> Nhôm), hãy lấy một trong những con ong ra rồi đặt nó trở lại.\n\nCung cấp vật phẩm nuôi ong trong mỗi ô (thường là hoa, giữ SHIFT trên lồng ong nuôi một loại ong nhất định để xem nó sử dụng vật phẩm nuôi ong nào (Draconic Bees sử dụng 2 Draconic Bụi chẳng hạn)) và một số lồng ong.\n\nChỉ cần...đừng làm...bất cứ điều gì để có được F.Bee.I. để theo đuổi bạn. Tôi sẽ đảm bảo bạn sẽ được thêm vào Sảnh xấu hổ nếu họ DO truy đuổi bạn."]
 	quest.1B79F794EDAA810A.quest_subtitle: "Làm Em Bé 2: Electric Beegaloo"
 	quest.1C0F4D1610530FEC.quest_subtitle: "Được sản xuất tại lò rèn Dragonsteel"
 	quest.1C0F4D1610530FEC.title: "Fire Dragonsteel Bee"
@@ -207,14 +207,14 @@
 	quest.1D720AC88431BD70.title: "Kim cương Bee"
 	quest.1D995548A159F291.quest_subtitle: "Đưa Soulium Dagger vào Ghostly Bee"
 	quest.1D995548A159F291.title: "Soulium Bee"
-	quest.1DC407272D9D9CCE.quest_subtitle: "Awakened Crafting"
+	quest.1DC407272D9D9CCE.quest_subtitle: "Awakened chế tạoing"
 	quest.1DC407272D9D9CCE.title: "Awakened Supremium Bee"
 	quest.1DF026030780AE96.quest_subtitle: "Extracts Genes từ Ong trong Tổ"
 	quest.1E9BD4B74DAEA9FC.quest_desc: ["Để thu hút Ong đến tổ này, bạn sẽ cần Popped Chorus Fruit thay vì Honey Treats."]
 	quest.1E9BD4B74DAEA9FC.quest_subtitle: "Thu hút Ender Bees khi được đặt vào Cuối"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "Cho Ghostly Bee vào Soulium Dagger"
 	quest.1EBD5E4410A6DF34.title: "Soulium Bee"
-	quest.205DE46ABA1CCC8F.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.205DE46ABA1CCC8F.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.205DE46ABA1CCC8F.title: "Conductive Alloy Bee"
 	quest.2086C73688C8BA51.quest_subtitle: "Nạp một nhóm Sulfuric Acid vào Lava Bee"
 	quest.2086C73688C8BA51.title: "Sulfuric Acid Bee"
@@ -222,7 +222,7 @@
 	quest.2182492BCC1B33D8.quest_subtitle: "Làm em bé"
 	quest.21FDF07571B5DCA7.quest_subtitle: "Feed Primogel Goo tới con ong sắt"
 	quest.21FDF07571B5DCA7.title: "Ferricore Bee"
-	quest.2226555D9552236E.quest_subtitle: "Sinh ra từ hầu hết Wood Nests"
+	quest.2226555D9552236E.quest_subtitle: "Sinh ra từ hầu hết Tổ gỗ"
 	quest.22647504C37E547C.quest_subtitle: "Đưa Cyanite Block vào Radioactive Bee"
 	quest.22647504C37E547C.title: "Cyanite Bee"
 	quest.22CF5AD56C1BB8D5.quest_subtitle: "Cho ong Kim cương ăn Dark Block"
@@ -231,7 +231,7 @@
 	quest.23820B0DCEC022D1.title: "Plastic Bee"
 	quest.244ACD7024566001.quest_subtitle: "Cho ăn Sweat Bee Ice"
 	quest.244ACD7024566001.title: "Frosty Bee"
-	quest.24846776077B52C3.quest_subtitle: "Infusion Crafting"
+	quest.24846776077B52C3.quest_subtitle: "Infusion chế tạoing"
 	quest.24846776077B52C3.title: "Supremium Bee"
 	quest.24888CAD50B32B04.quest_subtitle: "Được sinh ra bằng Stone Nest"
 	quest.24B147D251D0CFFF.quest_subtitle: "Feed Blazebloom Goo đến Gold Bee"
@@ -244,7 +244,7 @@
 	quest.26B9909717528D5E.title: "Utheric Bee"
 	quest.26FB7A789981BD3C.quest_subtitle: "Đưa Graphite Block vào Coal Bee"
 	quest.26FB7A789981BD3C.title: "Graphite Bee"
-	quest.28AE3B536D23E138.quest_subtitle: "Infusion Crafting"
+	quest.28AE3B536D23E138.quest_subtitle: "Infusion chế tạoing"
 	quest.28AE3B536D23E138.title: "Inferium Bee"
 	quest.2982D38BD5EE6349.quest_subtitle: "Cho ăn Shroombee Warped Fungus"
 	quest.2982D38BD5EE6349.title: "Warped Shroombee"
@@ -277,13 +277,13 @@
 	quest.2DFFEB29B6CBFD99.quest_subtitle: "Sắt + Blue Banded"
 	quest.2DFFEB29B6CBFD99.title: "Lead Bee"
 	quest.2E0275C21D3F0DA3.quest_desc: ["Đừng nhầm lẫn với Draconic Bee."]
-	quest.2E0275C21D3F0DA3.quest_subtitle: "Wyvern Fusion Crafting"
+	quest.2E0275C21D3F0DA3.quest_subtitle: "Wyvern Fusion chế tạoing"
 	quest.2E0275C21D3F0DA3.title: "Draconium Bee"
 	quest.2E51F09F6D9E5EF8.quest_desc: ["Đây là Breeder Bee."]
 	quest.2E51F09F6D9E5EF8.quest_subtitle: "Nông dân + Chủ trang trại"
 	quest.2F2597122C6202EF.quest_subtitle: "Được sản xuất tại Atomic Forge"
 	quest.2F2597122C6202EF.title: "Prometheum Bee"
-	quest.2FE088899C1AF39B.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.2FE088899C1AF39B.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.2FE088899C1AF39B.title: "Dark Steel Bee"
 	quest.3054D016D2EF25FF.quest_subtitle: "Molten Electrum trên Vàng/Silver Bee Spawn Trứng"
 	quest.3054D016D2EF25FF.title: "Electrum Bee"
@@ -315,7 +315,7 @@
 	quest.3466C70EB256026B.title: "Fire Essence Bee"
 	quest.349D19F2FCC34B84.quest_desc: ["Đặt Nether Brick Nest ở Nether sẽ thu hút Magmatic Bee khi được đưa Magma Cream."]
 	quest.349D19F2FCC34B84.quest_subtitle: "Mồi vào Magmatic Bee khi được đặt ở Nether"
-	quest.3567306F2B66BD20.quest_subtitle: "Infusion Crafting"
+	quest.3567306F2B66BD20.quest_subtitle: "Infusion chế tạoing"
 	quest.3567306F2B66BD20.title: "Imperium Bee"
 	quest.35E8F1CC0080E45E.quest_subtitle: "Cho một con ong Kim cương ăn một viên Ruby"
 	quest.35E8F1CC0080E45E.title: "RuBee"
@@ -326,7 +326,7 @@
 	quest.36541A2179A7E76B.quest_subtitle: "Feed Benitoite Ore tới BlazBee"
 	quest.36541A2179A7E76B.title: "Benitoite Bee"
 	quest.369D3AF332181DA8.quest_desc: ["Tổ Đá có thể được đặt trong bất kỳ quần xã sinh vật nào trên thế giới để thu hút Mason Bee hoặc Digger Bee."]
-	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees trong bất kỳ Overworld Biome"
+	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees trong bất kỳ quần xã Overworld"
 	quest.37045B986619A03D.quest_subtitle: "Vàng + Green Carpenter Bee"
 	quest.371E09ED2A3F6BDC.quest_subtitle: "Xuất hiện trong Advanced Beehives trống trong Dark Places"
 	quest.371E09ED2A3F6BDC.title: "ZomBee"
@@ -338,7 +338,7 @@
 	quest.37CD9BF281903F56.title: "Red Shroombee"
 	quest.38622692756F1F27.quest_subtitle: "Tinh thể + Ender"
 	quest.38622692756F1F27.title: "Spatial Bee"
-	quest.397E2D14BDE7DED0.quest_desc: ["All Bees sẽ cung cấp Comb Blocks thay vì Lược, tăng gấp bốn lần hiệu quả đầu ra!"]
+	quest.397E2D14BDE7DED0.quest_desc: ["Tất cả ong sẽ cung cấp Comb Blocks thay vì Lược, tăng gấp bốn lần hiệu quả đầu ra!"]
 	quest.397E2D14BDE7DED0.quest_subtitle: "Lược 4x"
 	quest.399882F3C51DD282.quest_subtitle: "Cho Skeletal Bee vào Withered Rose"
 	quest.399882F3C51DD282.title: "Withered Bee"
@@ -377,7 +377,7 @@
 	quest.419DD6FE84B91749.quest_subtitle: "Bộ kết hợp gen và rương"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["Khi được đặt ở Địa ngục và được tặng Đá phát sáng, Glowstone Nest sẽ thu hút Ong phát sáng."]
 	quest.41CF7CAEE4F60CCD.quest_subtitle: "Thu hút một con ong phát sáng ở Nether"
-	quest.41D0CC616B762F4C.quest_desc: ["Bạn có thể ném &9Fluix Bee Spawn Egg và &8Entro Dust vào Nước để tạo ra Entro Bee Spawn Egg."]
+	quest.41D0CC616B762F4C.quest_desc: ["Bạn có thể ném &9Fluix Bee Spawn Egg và &8Entro Bụi vào Nước để tạo ra Entro Bee Spawn Egg."]
 	quest.41D0CC616B762F4C.title: "Entro Bee"
 	quest.41FD145B911BD625.quest_subtitle: "Silver Bee Spawn Trứng vào Spiritfire"
 	quest.41FD145B911BD625.title: "Iesnium Bee"
@@ -442,7 +442,7 @@
 	quest.57ACD83205988834.title: "Platinum Bee"
 	quest.5867713D016143A6.quest_subtitle: "Được làm bằng thiết bị mê hoặc"
 	quest.5867713D016143A6.title: "Arcane Bee"
-	quest.5894A9DB9C379E91.quest_subtitle: "Infusion Crafting"
+	quest.5894A9DB9C379E91.quest_subtitle: "Infusion chế tạoing"
 	quest.5894A9DB9C379E91.title: "Prudentium Bee"
 	quest.589EB4602E3F9EEE.quest_desc: ["Tin Bees được tạo ra bằng cách nhân giống Crystalline Bee với Ashy Mining Bee."]
 	quest.589EB4602E3F9EEE.quest_subtitle: "Ashy Mining + Tinh thể"
@@ -458,7 +458,7 @@
 	quest.5B969BF6F00A84D8.quest_subtitle: "Máy ly tâm 6 RuBee Spawn Trứng thành 1 Chromium Bee Spawn Trứng"
 	quest.5B969BF6F00A84D8.title: "Chromium Bee"
 	quest.5CC9CB0911954215.quest_desc: ["Reed Nest sẽ hoạt động trong bất kỳ quần xã sinh vật nào trên thế giới và sẽ thu hút Mason Bee hoặc Reed Bee."]
-	quest.5CC9CB0911954215.quest_subtitle: "Thu hút ong ở bất kỳ Overworld Biome"
+	quest.5CC9CB0911954215.quest_subtitle: "Thu hút ong ở bất kỳ quần xã Overworld"
 	quest.5CF2A069A3CC4EF6.quest_subtitle: "Nhựa + Sậy"
 	quest.5CF2A069A3CC4EF6.title: "Silky Bee"
 	quest.5D71589555637DB0.quest_subtitle: "Feed Anglesite Ore đến Draconic Bee"
@@ -474,7 +474,7 @@
 	quest.60B985069E0E643E.title: "Obsidian Bee"
 	quest.614937A2F5823F3E.quest_subtitle: "Được sinh ra bằng Nether Brick Nest ở Nether"
 	quest.614937A2F5823F3E.title: "Magmatic Bee"
-	quest.618411DCC5C1A13C.quest_subtitle: "Feed Plutonium Dust đến Radioactive Bee"
+	quest.618411DCC5C1A13C.quest_subtitle: "Feed Plutonium Bụi đến Radioactive Bee"
 	quest.618411DCC5C1A13C.title: "Uranite Bee"
 	quest.655FB110E5F66DF0.quest_subtitle: "Feed Shadowpulse Goo đến Ancient Bee"
 	quest.655FB110E5F66DF0.title: "Eclipse Alloy Bee"
@@ -499,7 +499,7 @@
 	quest.68CE30097BADE20E.title: "Tìm kiếm tổ"
 	quest.68DFFEA05553B67E.quest_subtitle: "Tắc nghẽn + băng giá"
 	quest.68DFFEA05553B67E.title: "Froststeel Bee"
-	quest.692BC8AADCBF76C3.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.692BC8AADCBF76C3.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.692BC8AADCBF76C3.title: "Energetic Alloy Bee"
 	quest.6BEE3578BD2C713C.quest_subtitle: "Sinh ra từ Dirt Nest"
 	quest.6BFF78D4218DF1F2.quest_subtitle: "Được chế tạo trong Hephaestus Forge"
@@ -546,7 +546,7 @@
 	quest.71667FFC8011525C.title: "Coal Bee"
 	quest.7277D695C4CB7840.quest_subtitle: "Được làm bằng Energizer"
 	quest.7277D695C4CB7840.title: "Niotic Crystal Bee"
-	quest.728189EE56E5CAF7.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.728189EE56E5CAF7.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.728189EE56E5CAF7.title: "Redstone Alloy Bee"
 	quest.734A72A4C898BDFB.quest_subtitle: "Molten Invar qua Tin/Sắt Bee Spawn Trứng"
 	quest.734A72A4C898BDFB.title: "Invar Bee"
@@ -559,7 +559,7 @@
 		"Nó có thể thu hút Ashy Mining Bee, Chocolate Mining Bee và Leafcutter Bee."
 
 	]
-	quest.73C70B15582958A5.quest_subtitle: "Any Overworld Biome"
+	quest.73C70B15582958A5.quest_subtitle: "Any quần xã Overworld"
 	quest.74B3E4B62FA9565E.quest_subtitle: "Thủ công với bàn cúng dường"
 	quest.74B3E4B62FA9565E.title: "con ong bầu trời"
 	quest.75CD4EE6A542D687.quest_subtitle: "Tinh thể + Ashy Mining"
@@ -571,7 +571,7 @@
 	quest.76E94639E90FEB4E.title: "Skeletal Bee"
 	quest.78CCD8075249E2B7.quest_subtitle: "Magmatic + Nước"
 	quest.78CCD8075249E2B7.title: "BreezBee"
-	quest.79110ACAAC8412EA.quest_subtitle: "Infusion Crafting"
+	quest.79110ACAAC8412EA.quest_subtitle: "Infusion chế tạoing"
 	quest.79110ACAAC8412EA.title: "Tertium Bee"
 	quest.7941938014E97A30.quest_desc: ["Bạn đã bao giờ muốn bay trên một con ong?\n\nBumble Bees sinh sản tự nhiên trên thế giới và chúng có thể được sử dụng làm thú cưỡi!\n\nHãy biến mình thành một &6Treat on a Stick, đặt yên lên Bumble Bee và bay lên bầu trời!"]
 	quest.7941938014E97A30.quest_subtitle: "Xuất hiện ở Overworld từ Bumble Bee Nests"
@@ -580,7 +580,7 @@
 	quest.79CA2F401982C04F.title: "Rune Bee"
 	quest.79D6A251FE3761B3.quest_desc: ["Khi được đặt trong quần xã đầm lầy, Slimy Nest sẽ thu hút Slimy Bees."]
 	quest.79D6A251FE3761B3.quest_subtitle: "Mồi Slimy Bee vào Swamp Biome"
-	quest.7A2B26CF0EDAA724.quest_subtitle: "Sản xuất tại Alloy Smelter"
+	quest.7A2B26CF0EDAA724.quest_subtitle: "Sản xuất tại lò luyện hợp kim"
 	quest.7A2B26CF0EDAA724.title: "End Steel Bee"
 	quest.7AE1459B0B862737.quest_subtitle: "Bạn chỉ cần làm nó"
 	quest.7AE1459B0B862737.title: "Time Bee"
@@ -588,26 +588,26 @@
 	quest.7B0CE182D3FE3035.title: "Hoa thủ công"
 	quest.7B40A9DAA119DE59.quest_subtitle: "Tinh thể + Neon Cuckoo"
 	quest.7B40A9DAA119DE59.title: "Menril Bee"
-	quest.7B5A0BFD47D96BDE.quest_desc: ["Dùng để bắt những con ong đang bay xung quanh nó.\n\nBạn có thể sử dụng Filter Upgrade để lọc ra những con ong bạn muốn bắt, cũng như BaBee Upgrade để chỉ bắt những con ong con."]
+	quest.7B5A0BFD47D96BDE.quest_desc: ["Dùng để bắt những con ong đang bay xung quanh nó.\n\nBạn có thể sử dụng bộ lọc Upgrade để lọc ra những con ong bạn muốn bắt, cũng như BaBee Upgrade để chỉ bắt những con ong con."]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "Catches Bees"
-	quest.7B72CF322A3C985D.quest_desc: ["Việc &8Obsidian Bee đang thụ phấn cho &4Redstone Bee Spawn Egg&r sẽ chuyển đổi nó thành &2Flux Dust Bee Spawn Egg&r."]
-	quest.7B72CF322A3C985D.title: "Flux Dust Bee"
+	quest.7B72CF322A3C985D.quest_desc: ["Việc &8Obsidian Bee đang thụ phấn cho &4Redstone Bee Spawn Egg&r sẽ chuyển đổi nó thành &2Flux Bụi Bee Spawn Egg&r."]
+	quest.7B72CF322A3C985D.title: "Flux Bụi Bee"
 	quest.7B99AA20DC55263C.quest_subtitle: "Chì + Bạc"
 	quest.7B99AA20DC55263C.title: "Antimony Bee"
 	quest.7C169A4A39F37FAC.quest_desc: ["Với Tổ ong vani, chúng ta sẽ sử dụng nó để chế tạo &Tổ ong nâng cao. Nó có thể là gỗ sồi hoặc bất kỳ loại gỗ nào.\n\nOng sẽ bay vào và bay ra khỏi những thứ này và thả Tổ Ong vào kho. Bạn cũng có thể nhét chai thủy tinh vào để nhận Honey Bottles.\n\nChúng ta sẽ cần rất nhiều Honeycomb để chiêu đãi!"]
 	quest.7C169A4A39F37FAC.quest_subtitle: "Không còn cắt nữa."
 	quest.7C169A4A39F37FAC.title: "Advanced Beehive"
 	quest.7C651B90A738323E.quest_desc: ["Đừng nhầm lẫn với Awakened Supremium Bee."]
-	quest.7C651B90A738323E.quest_subtitle: "Draconic Fusion Crafting"
+	quest.7C651B90A738323E.quest_subtitle: "Draconic Fusion chế tạoing"
 	quest.7C651B90A738323E.title: "Awakened Bee"
-	quest.7E373212AE6B27D0.quest_subtitle: "Infusion Crafting"
+	quest.7E373212AE6B27D0.quest_subtitle: "Infusion chế tạoing"
 	quest.7E373212AE6B27D0.title: "Insanium Bee"
 	quest.7E57964F6AD5B060.quest_subtitle: "Leafcutter Bee có thể là Khát"
 	quest.7E57964F6AD5B060.title: "Tea Bee"
 	quest.7EAFF64FFE8B5378.quest_subtitle: "Sắt + Sweat"
 	quest.7EAFF64FFE8B5378.title: "Zinc Bee"
 	quest.7FD3C1784F32F2AF.quest_desc: [ ]
-	quest.7FD3C1784F32F2AF.quest_subtitle: "Chaotic Fusion Crafting"
+	quest.7FD3C1784F32F2AF.quest_subtitle: "Chaotic Fusion chế tạoing"
 	quest.7FD3C1784F32F2AF.title: "Chaos Bee"
 	task.065E5450AC87F1D5.title: "Ancient Comb"
 	task.0A77407CE9055F04.title: "Sweat Bee"

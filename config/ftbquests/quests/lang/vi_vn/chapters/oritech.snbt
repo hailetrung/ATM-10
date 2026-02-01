@@ -1,14 +1,14 @@
 {
 	quest.7CBAD1047B087803.quest_desc: [
-		"Now you have the &eclumps&r, using a fluid addon on a centrifuge will allow you to input &aSulphuric Acid&r into it. When &eclumps&r are processed with this acid, you will get gems."
+		"Giờ bạn đã có &eclumps&r; dùng fluid addon trên centrifuge sẽ cho phép bạn đưa &aSulphuric Acid&r vào. Khi &eclumps&r được xử lý với acid này, bạn sẽ nhận được gems."
 		""
-		"Alternatively, you can use &9Water&r for a lower yield."
+		"Ngoài ra, bạn có thể dùng &9Water&r nhưng sản lượng sẽ thấp hơn."
 		""
 		"&l&o&nNote&r"
 		""
-		"Currently, some recipes are broken which output dusts or nuggets."
+		"Hiện tại, một số recipe đang bị lỗi và có thể cho ra dusts hoặc nuggets."
 	]
 	quest.7CBAD1047B087803.quest_subtitle: "Centrifuging a clump gives me gems....?"
-	quest.7CBAD1047B087803.title: "Spinning into gems"
+	quest.7CBAD1047B087803.title: "Quay ra gems"
 	task.7C85CBE79E91F28B.title: "Addons"
 }

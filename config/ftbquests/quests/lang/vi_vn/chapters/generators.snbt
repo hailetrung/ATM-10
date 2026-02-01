@@ -4,7 +4,7 @@
 	quest.076A648E3E3245C9.quest_desc: ["Tốc độ tạo ra năng lượng từ nhiên liệu rất nhanh khiến nó rất hiệu quả. Vấn đề duy nhất là nó không thể nâng cấp được nữa. Vẫn dùng bình thường Furnace Fuel."]
 	quest.076A648E3E3245C9.title: "&aMáy phát điện ngọc lục bảo"
 	quest.07753C5D94312A50.quest_desc: [
-		"&3Augment's: Generator đối lập với &3Augment's: Factory, thay vì sử dụng Energy để Smelt thì Smelt for Energy. Bạn sẽ không còn nấu chảy vật phẩm trong đó nữa, mọi Nhiên liệu được sử dụng sẽ biến thành Năng lượng!"
+		"&3Augment's: Generator đối lập với &3Augment's: Factory, thay vì sử dụng Energy để nung thì nung for Energy. Bạn sẽ không còn nấu chảy vật phẩm trong đó nữa, mọi Nhiên liệu được sử dụng sẽ biến thành Năng lượng!"
 
 		""
 		"(Tôi tự hỏi liệu có tốt hơn nếu kết nối Máy phát điện và Factory Furnaces thay vì chỉ sử dụng Nhiên liệu trong một)"
@@ -65,7 +65,7 @@
 		"&dDragon's Breath là một vật phẩm mạnh mẽ, (bốc mùi) và bí ẩn. Mạnh mẽ có nghĩa là chúng ta có thể tạo ra Năng lượng từ nó và rất nhiều năng lượng! &5Máy tạo chứng hôi miệng tạo ra Năng lượng từ &Hơi thở của dDragon!"
 
 		""
-		"(BTW bạn có thể nuôi &dDragon's Breath bằng Extrator từ XyCraft với Dragon's Head)."
+		"(BTW bạn có thể nuôi &dDragon's Breath bằng Extrator từ Xychế tạo với Dragon's Head)."
 
 	]
 	quest.40DB6E3DE87F16EF.title: "&5Máy tạo chứng hôi miệng"
@@ -80,8 +80,8 @@
 	quest.538821E23E39BE97.title: "&2Tăng cường: Fuel Efficiency"
 	quest.552CA2ABE659A507.quest_desc: ["&cDung nham đi vào. Năng lượng thoát ra."]
 	quest.552CA2ABE659A507.title: "&cMáy tạo ma thuật"
-	quest.553220A2CD7CAFE4.quest_desc: ["Trong dịp Giáng sinh, tất cả các Rương đều trông giống như Quà... nhưng Lò nung lại lòi ra ngoài như ngón tay cái bị đau! Bây giờ điều đó có thể được thay đổi bằng Giấy gói! Bạn có thể Right Click nó vào bất kỳ &lLò sắt nào và mọi thứ sẽ sẵn sàng cho mùa nghỉ lễ! Và sau khi mùa giải kết thúc, bạn có thể Shift Right Click mở nó ra!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "All Wrapped lên"
+	quest.553220A2CD7CAFE4.quest_desc: ["Trong dịp Giáng sinh, tất cả các Rương đều trông giống như Quà... nhưng Lò nung lại lòi ra ngoài như ngón tay cái bị đau! Bây giờ điều đó có thể được thay đổi bằng Giấy gói! Bạn có thể nhấp chuột phải nó vào bất kỳ &lLò sắt nào và mọi thứ sẽ sẵn sàng cho mùa nghỉ lễ! Và sau khi mùa giải kết thúc, bạn có thể Shift + nhấp chuột phải mở nó ra!"]
+	quest.553220A2CD7CAFE4.quest_subtitle: "Quấn hết lên lên"
 	quest.61847F47CCA225D9.quest_desc: ["Theo cùng một khuôn mẫu, những cái này có mùi ở mức 140 Ticks hoặc 7 Giây.\n\nChúng có thể được chế tạo bằng &6Copper hoặc Iron Furnaces và có thể được sử dụng để chế tạo &Lò nung eGold."]
 	quest.61847F47CCA225D9.title: "Lò nung bạc"
 	quest.618F1434757C8E69.quest_desc: ["&lGenerator's Galore bổ sung thêm các Máy phát điện rất đơn giản. Những cái cơ bản nhất hoạt động giống như Lò nung với &3Augment: Generator. Họ sẽ lấy Nhiên liệu và biến nó thành Năng lượng! \n \nCó, bạn phải bắt đầu với &6Copper Generator."]
@@ -99,11 +99,11 @@
 
 	]
 	quest.661C072E48F8D41F.title: "&6Lò nung đồng"
-	quest.686B25F2E9D8CC97.quest_desc: ["Vào thời điểm viết bài này là cuối tháng 7 nên tôi còn khoảng 3 tháng nữa là đến Halloween. Nhưng không bao giờ là quá sớm để bắt đầu trở nên ma quái! Giống như Spirit Halloween chúng ta có thể có Spooky 3 tháng trước khi nó thực sự bắt đầu. Lần này là bởi Right Clicking một Lò nung có Máy ma quái! Khi đã đến lúc bắt đầu chuẩn bị sẵn sàng cho Lễ tạ ơn Nhấp chuột phải vào chúng để Un-Spook-Alate!"]
+	quest.686B25F2E9D8CC97.quest_desc: ["Vào thời điểm viết bài này là cuối tháng 7 nên tôi còn khoảng 3 tháng nữa là đến Halloween. Nhưng không bao giờ là quá sớm để bắt đầu trở nên ma quái! Giống như Spirit Halloween chúng ta có thể có Spooky 3 tháng trước khi nó thực sự bắt đầu. Lần này là bởi nhấp chuột phảiing một Lò nung có Máy ma quái! Khi đã đến lúc bắt đầu chuẩn bị sẵn sàng cho Lễ tạ ơn Nhấp chuột phải vào chúng để Un-Spook-Alate!"]
 	quest.686B25F2E9D8CC97.quest_subtitle: "\"Đây là Halloween\""
 	quest.68972BA647FDCF8F.quest_desc: ["Nếu bạn biết &l&6Productive Bees thì bạn nên biết đến LobsterJonn. Anh ấy đã tạo ra Galore của &l&6Productive Bees và &lGenerator's Galore (cùng với nhiều công ty khác). &6Honey Generator là một cách tốt để kết nối cả hai mod này! &6Honey Generator sử dụng &6Mật ong lỏng để tạo ra năng lượng."]
 	quest.68972BA647FDCF8F.title: "&6Máy tạo mật ong"
-	quest.69201157ECFBB426.quest_desc: ["Tôi luôn ghét khi tôi có &5Endermen's Farm với giá XP hoặc Apotheosis Gems nhưng cuối cùng lại có tất cả &3Ender Pearls này (hehe kết thúc, &3ender Pearls). Bây giờ bạn có thể sử dụng &3Ender Pearls đó để lấy Năng lượng với &3Ender Generator. Bạn thậm chí có thể tạo &aEyes of Ender để có thêm Năng lượng!"]
+	quest.69201157ECFBB426.quest_desc: ["Tôi luôn ghét khi tôi có &5Enderman's Farm với giá XP hoặc Apotheosis Gems nhưng cuối cùng lại có tất cả &3Ender Pearls này (hehe kết thúc, &3ender Pearls). Bây giờ bạn có thể sử dụng &3Ender Pearls đó để lấy Năng lượng với &3Ender Generator. Bạn thậm chí có thể tạo &aEyes of Ender để có thêm Năng lượng!"]
 	quest.69201157ECFBB426.title: "&3Ender Máy Phát Điện"
 	quest.6A1145678E80FB8E.quest_desc: ["Có rất nhiều &5 bùa mê vô dụng ngoài kia, tại sao bạn không tận dụng một ít Năng lượng từ chúng! Công cụ &bEnchantment Generator sử dụng &5Sách Enchanted để tạo ra Năng lượng. Cấp độ và độ hiếm của &5Sách mê hoặc sẽ thay đổi lượng Năng lượng bạn nhận được từ chúng."]
 	quest.6A1145678E80FB8E.title: "&bMáy tạo bùa mê"
@@ -120,17 +120,17 @@
 	]
 	quest.73FF01D830A669AA.quest_desc: ["&4Tăng cường: Vụ nổ biến Iron Furnace của bạn thành Iron Blast Furnace! Bây giờ nó sẽ chỉ nấu chảy quặng nhưng với tốc độ gấp đôi! Có, thứ này cộng dồn với hiệu ứng của các Tăng cường khác và các Cấp lò khác nhau."]
 	quest.73FF01D830A669AA.title: "&4Tăng cường: Nổ tung"
-	quest.757B14D08A9A03C4.quest_desc: ["Giống như hầu hết các máy Modded, Iron Furnaces có Cấu hình. Có thể tìm thấy cấu hình bằng cách nhấp vào Top Left. Sẽ có các kích hoạt Đầu vào, Đầu ra và Redstone. Kích hoạt Redstone thay đổi khi Lò nung chảy ra. Các nút trên cùng xác định xem nó tự động Đầu vào hay Đầu ra, có nghĩa là nó sẽ tự động di chuyển đến và đi từ Kho được kết nối. Các hộp nằm ở mỗi bên của Lò và xác định xem nó Nhập, Xuất, thực hiện cả hai, Inputs Fuel hay không làm gì cả. Điều này quan trọng đối với các Vật phẩm được đưa vào hoặc ra. Trình liên kết cài đặt lò sẽ sao chép tất cả các cài đặt này sang các Lò khác!"]
+	quest.757B14D08A9A03C4.quest_desc: ["Giống như hầu hết các máy Modded, Iron Furnaces có Cấu hình. Có thể tìm thấy cấu hình bằng cách nhấp vào góc trên bên trái. Sẽ có các kích hoạt Đầu vào, Đầu ra và Redstone. Kích hoạt Redstone thay đổi khi Lò nung chảy ra. Các nút trên cùng xác định xem nó tự động Đầu vào hay Đầu ra, có nghĩa là nó sẽ tự động di chuyển đến và đi từ Kho được kết nối. Các hộp nằm ở mỗi bên của Lò và xác định xem nó Nhập, Xuất, thực hiện cả hai, Inputs Fuel hay không làm gì cả. Điều này quan trọng đối với các Vật phẩm được đưa vào hoặc ra. Trình liên kết cài đặt lò sẽ sao chép tất cả các cài đặt này sang các Lò khác!"]
 	quest.757B14D08A9A03C4.title: "Configurations"
 	quest.78D1C97A542133D8.quest_desc: [
 		"Tăng cường là nâng cấp lên Iron Furnace Furnaces!"
 
 		""
-		"Trong Top Right của Lò GUI sẽ là nút để xem Augment Section. Sẽ có một điểm Đỏ, Xanh lục và Xanh lam, mỗi điểm có thể chứa 1 trong số các Tăng cường màu của chúng."
+		"Trong góc trên bên phải của Lò giao diện sẽ là nút để xem Augment Section. Sẽ có một điểm Đỏ, Xanh lục và Xanh lam, mỗi điểm có thể chứa 1 trong số các Tăng cường màu của chúng."
 
 	]
 	quest.78D1C97A542133D8.title: "&lAugments"
-	quest.79C4CF8D7312FC28.quest_desc: ["Vanilla tốt nhất được! &5Netherite! Đừng lo lắng bạn sẽ không cần Mẫu Smithing cho nó, chỉ cần rất nhiều &5Netherite. \n \nNó ngửi thấy một vật phẩm cứ sau 5 tích tắc, nghĩa là 4 Items Smelted mỗi giây. Vâng, nó không còn là S.P.S nữa. (Giây trên mỗi mùi) giờ là S.P.S. (Mùi mỗi giây). \n \nĐược chế tạo từ Lò nung dObsidian... chờ đã, đây không phải là Lò nung cuối cùng sao?"]
+	quest.79C4CF8D7312FC28.quest_desc: ["Vanilla tốt nhất được! &5Netherite! Đừng lo lắng bạn sẽ không cần Mẫu Smithing cho nó, chỉ cần rất nhiều &5Netherite. \n \nNó ngửi thấy một vật phẩm cứ sau 5 tích tắc, nghĩa là 4 Items nunged mỗi giây. Vâng, nó không còn là S.P.S nữa. (Giây trên mỗi mùi) giờ là S.P.S. (Mùi mỗi giây). \n \nĐược chế tạo từ Lò nung dObsidian... chờ đã, đây không phải là Lò nung cuối cùng sao?"]
 	quest.79C4CF8D7312FC28.title: "&5Netherite Lò nung&r"
 	quest.7A615E2A152917AD.quest_desc: ["Để làm được điều này, bạn cần 2 &5 Lò Netherite và 7 mảnh thủy tinh, mỗi mảnh có màu của Cầu vồng. &cRed&r, &6Orange&r, &eYellow&r, &2Green&r, &3Blue&r, &9Indig&r- &5Purple&r, và &5Vi&r-&dMagenta&r. Chuẩn rồi! Toàn bộ Roy G. Bpm!"]
 	quest.7A615E2A152917AD.title: "&zLõi cầu vồng"
