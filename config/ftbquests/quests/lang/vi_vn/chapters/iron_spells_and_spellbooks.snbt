@@ -79,7 +79,7 @@
 	quest.258B4890CF13D199.quest_desc: ["&aMagehunter là một Vũ khí rất kỳ lạ để có được. Kỳ lạ là ở cách thức để có được nó lại rất cụ thể. \n\nĐể có được nó, bạn cần đến &aEvoker Fort và &aVindicator’s ở Tầng 2 sẽ có nó. Giết hắn để lấy nó. \n\n&aSword là một thanh kiếm tốt, gây sát thương 10 &4Hearts ở mức bình thường Sword Speed. \n\nWhile Holding bạn sẽ nhận được một chút &3Kháng Phép. Ngoài ra, một số có thể đi kèm với Enchants, của tôi thì có!"]
 	quest.258B4890CF13D199.title: "&aMagehunter"
 	quest.25F79B40579B3909.quest_desc: ["&5Decrepit Flamberge là Thanh kiếm được lựa chọn cho &5Hiệp sĩ cổ đại và một số &5Cursed Armor Stands&r. \n\nĐó cũng là nơi chúng ta có thể lấy nó, Giết những kẻ đó! \n\nNó trông giống như một thanh &5Netherite Sword, chỉ là nó đang ngọ nguậy khi được chế tạo. \n\nNó gây sát thương 11 & 4Trái tim nhưng chậm hơn một chút so với Kiếm. \n\nNó có thể được nâng cấp bằng &6Pyrium để tăng Attack Speed."]
-	quest.25F79B40579B3909.title: "&5Flamberge suy sụp"
+	quest.25F79B40579B3909.title: "&5Flamberge suy giảm"
 	quest.2664373E8977E7BE.quest_desc: ["Ai biết được &4Blood giống như Ma cà rồng! Không ai cả, đó là ai! \n\nCuốn sách điện tử này không khó làm ngoài Ruined Book. \n\nCác Vật phẩm khác chỉ là &5Arcane Ingots và &4Bloody Vellum. &4Bloody Vellum được tạo ra bằng cách nhúng &dHogskin vào một Alchemist Cauldron chứa đầy &4Blood. \n\n&eSpellbook có 10 Spell Slots, và nó sẽ tăng thêm Cấp độ cho &4Blood Slash&r và &4Blood Step&r!"]
 	quest.2664373E8977E7BE.title: "&4Sách bùa chú ma cà rồng"
 	quest.27CF1A2587321A2C.quest_desc: ["Cuốn &eSpell Book hay nhất mà bạn có thể tưởng tượng! Khe cắm 15 &3 thần chú! Thậm chí còn có 15 &3 Phép thuật?!?! Ồ chờ đã, có 15 cũng không nhiều lắm... \n\nLàm tương tự như trước: Sách, Thỏi và Mẫu trước đó."]
@@ -202,7 +202,7 @@
 	quest.6046CA1F6AFE2AEA.title: "&4The Blood Staff"
 	quest.60FAD8BF235E381B.title: "&bRare&rInk"
 	quest.615C3E012B2DECD3.quest_desc: ["&eSách thần chú! Bạn sẽ đặt &3Spells ở đâu nữa? \n\nBạn có thể thêm &3Scrolls vào &eSpellbook bằng cách đặt cả hai vào Inscription Table. Họ có một số tiền nhất định có thể nắm giữ nhưng không còn phải lo lắng về Rarity nữa. \n\nKhi &3Scrolls được thêm vào &eSpellbook của bạn, chúng sẽ không bị tiêu hao mà thay vào đó Mana sẽ được tiêu thụ."]
-	quest.615C3E012B2DECD3.title: "&eSpellBooks!"
+	quest.615C3E012B2DECD3.title: "&eSách chính tả!"
 	quest.6187837A51BA09DC.quest_desc: ["&cCitadel's là Công trình lớn nhất mà Iron's Spells mang lại cho chúng ta. Nó gần như được làm hoàn toàn bằng &0Blackstone. \n\nNó có những Bức tường và Tháp khổng lồ bao quanh và kết nối với tòa nhà chính. Những thứ này có &5Kẻ sinh sản của Hiệp sĩ cổ đại và Thùng chiến lợi phẩm. \n\nTòa nhà chính có Thư viện/Research Room ở tầng một. Cái này có hàng tỷ Sách cũng như Rương và hơn thế nữa &5 Hiệp sĩ Cổ đại! \n\nTầng trên sẽ có Citadel Vaults cũng như &5Cursed Armor Stands&r. Cẩn thận cố gắng lấy Chiến lợi phẩm của họ, họ có thể bảo vệ tài sản của mình! \n\nTầng trên cùng là đấu trường..."]
 	quest.6187837A51BA09DC.title: "&cCitadel"
 	quest.637C87D8968CD51A.title: "&aUncommon&rInk"
@@ -221,7 +221,7 @@
 	quest.66762A4743104157.quest_desc: ["Một &eSpellbook' có thể chế tạo khác, cái này đắt hơn một chút! Nó sẽ cần Hogskin rơi ra từ Hoglins. \n\nCái này có thể chứa 8 &3Spells, về mặt kỹ thuật vẫn còn ở mức thấp nhưng tốt hơn!"]
 	quest.66762A4743104157.title: "Apprentice's Spell Book"
 	quest.67308C5DDF4A10D2.quest_desc: ["&9Wandering Magician Armor là điểm yếu nhất mà &lIron's Spells có thể cung cấp. \n\nNó thực sự là một bản nâng cấp của &7Leather Armor! Ai thậm chí còn tạo ra &7Leather Armor?!?!?! \n\nChỉ cần ném &7Áo giáp da của bạn cùng với &5Tinh hoa bí thuật vào Bàn chế tạo để chế tạo nó. \n\nĐiều này sẽ làm cho mỗi mảnh mang lại nhiều Armor Points hơn cũng như một chút Mana Boost!"]
-	quest.67308C5DDF4A10D2.title: "&9Lang thang Magician Outfit"
+	quest.67308C5DDF4A10D2.title: "&9Lăng thang Magician Outfit"
 	quest.67439337E29A308B.quest_desc: ["&eArtificer's Cane đắt hơn &7Graybeard Staff và do đó nó mạnh hơn. \n\nBây giờ nó sẽ gây ra 4 &4Sát thương và cho 15% Reduction Cooldown và Cast Time cũng như 10% &3Sức mạnh Phép thuật. \n\nTôi chỉ nói là tốt hơn chứ không nói là tốt hơn nhiều!"]
 	quest.67439337E29A308B.title: "&eGậy nghệ nhân"
 	quest.67A587F4BAD76C70.quest_desc: ["&eSpellbook cơ bản nhất, đồng thời cũng là cuốn sách rẻ nhất! \n\nNó chỉ có thể chứa tổng cộng 5 &3 Phép thuật."]
