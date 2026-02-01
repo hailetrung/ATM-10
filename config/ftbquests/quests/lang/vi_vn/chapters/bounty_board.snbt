@@ -1,58 +1,58 @@
 {
-	quest.08B60D8A25008CCC.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.08D1CC753F6B4283.quest_desc: ["The Elder Guardian was considered a third Boss for Minecraft before the Warden, but I consider him a Miniboss. \\n\\nThe Elder Guardians spawn in Ocean Monuments. Three of them spawn there and will inflict Mining Fatigue on anyone nearby. \\n\\nIf you want the treasures of the OCean Monument, you'll need to find and kill them! (Tip: I've always found 1 in the top Room, 1 on the far left, and 1 on the far right!) \\n\\nThey have 80 Hearts and attack like normal Guardians, Lasers and Thorns! \\n\\nOn death they will drop: Sponges, Prismarine, and their lunch..."]
-	quest.08D1CC753F6B4283.title: "Kill A Elder Guardian"
-	quest.09C82CDDA800D8C9.quest_desc: ["The Wither is the second Minecraft Boss, this one being more elective. \\n\\nYou'll have to build the Wither to spawn him in. Using 4 Soul Sand in a T shape and placing 3 Wither Skeleton Skulls on top will spawn him in! \\n\\nHe has 300 Hearts and will fly around shooting Wither Skulls at Players or Mobs. \\n\\nWhen taken to half Health he will gain a shield against Projectiles and will need to be killed with a Sword or Axe. \\n\\nOnce you kill him he'll drop: Nether Star, chance at a Withering Soul, and a ton of Corail Items."]
-	quest.09C82CDDA800D8C9.title: "Kill The Wither"
-	quest.0E20A9B79D1C6637.quest_desc: ["The Warden is a boss added in 1.20. \\n\\nHe spawns by having 3 naturally spawning Sculk Shriekers going off in a row, or any Shriekers going off after a first Warden has spawned. \\n\\nHe is the most powerful Mob added by Minecraft, with 500 Hearts and over 20 Hearts damage with his attacks. \\n\\nHis attacks include hitting you and Sonar Blasts for those farther. \\n\\nHis only weakness is being blind, but like daredevil it just made his other senses much stronger! If you are close he can smell you and careful with making noise! \\n\\nIf you somehow kill him he will drop: Sculk Catalysts, Warden Carapace, and Heart of the Deep."]
-	quest.0E20A9B79D1C6637.title: "Kill The Warden"
-	quest.0F55D0B4D5094EDB.quest_desc: ["While making a lot of the questlines for ATM7, the Trader Villager thought it'd be funny to constantly push me around in the quest screen.\\n\\n\\"Take them out. All of them.\\"\\n\\n- AlfredGG \\n\\n\\"I second this!\\" \\n\\n- Toshiba"]
-	quest.0F55D0B4D5094EDB.quest_subtitle: "\\"This is Personal\\" - AlfredGG"
-	quest.0F55D0B4D5094EDB.title: "Kill The Trader Villager và His Annoying Llamas"
-	quest.13BB75A7E1973488.quest_desc: ["The Lunar Monstrosity is the first Boss added in Eternal Starlight. \\n\\nThis one lives in the middle of the Cursed Garden, good luck finding and fighting him!"]
-	quest.13BB75A7E1973488.title: "Kill The Lunar Monstrosity"
-	quest.17F3AC15ADCFB175.title: "&l&9The End Bounty:&r&eEndermen"
-	quest.199932BF623A6785.quest_desc: ["The Forgotten Guardian is the Boss of the Undergarden. \\n\\nHe rests in the Catacomb Structure."]
-	quest.199932BF623A6785.title: "Kill The Forgotten Guardian"
-	quest.1F18B64C84C8809D.title: "&l&9Overworld Bounty:&r&eSpiders"
-	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers gives us many different varients of Creepers for different Biomes. \\n\\nEach have different drops and even some are friendly! \\n\\nAll are afraid of cats though..."]
+	quest.08B60D8A25008CCC.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.08D1CC753F6B4283.quest_desc: ["Elder Guardian được coi là Boss thứ ba của Minecraft trước Warden, nhưng tôi coi anh ta là Miniboss. \n\nNhững Người bảo vệ Elder xuất hiện trong Ocean Monuments. Ba trong số chúng sinh sản ở đó và sẽ gây Mệt mỏi khai thác cho bất kỳ ai ở gần. \n\nNếu bạn muốn có kho báu của OCean Monument, bạn sẽ cần phải tìm và tiêu diệt chúng! (Mẹo: Tôi luôn tìm thấy 1 ở Phòng trên cùng, 1 ở ngoài cùng bên trái và 1 ở ngoài cùng bên phải!) \n\nHọ có 80 Trái tim và tấn công như những Người bảo vệ, Laser và Gai bình thường! \n\nKhi chết, chúng sẽ rơi ra: Bọt biển, Prismarine và bữa trưa của chúng..."]
+	quest.08D1CC753F6B4283.title: "Giết A Elder Guardian"
+	quest.09C82CDDA800D8C9.quest_desc: ["The Wither là Minecraft Boss thứ hai, cái này mang tính tự chọn hơn. \n\nBạn sẽ phải chế tạo Wither để sinh ra anh ta. Sử dụng 4 Soul Sand theo hình chữ T và đặt 3 Wither Skeleton Skulls lên trên sẽ khiến anh ta xuất hiện! \n\nAnh ta có 300 Trái tim và sẽ bay xung quanh để bắn Wither Skulls vào Người chơi hoặc Mob. \n\nKhi bị giảm một nửa Máu, anh ta sẽ có được một lá chắn chống lại Đạn và sẽ cần phải bị giết bằng Kiếm hoặc Rìu. \n\nSau khi bạn giết hắn, hắn sẽ đánh rơi: Nether Star, cơ hội nhận được Linh hồn héo úa và rất nhiều Corail Items."]
+	quest.09C82CDDA800D8C9.title: "Giết Kẻ Héo"
+	quest.0E20A9B79D1C6637.quest_desc: ["Warden là một tên trùm được thêm vào trong phiên bản 1.20. \n\nAnh ta sinh sản bằng cách để 3 con Sculk Shriekers sinh sản tự nhiên liên tiếp hoặc bất kỳ Shrieker nào xuất hiện sau khi Người giám hộ đầu tiên xuất hiện. \n\nAnh ta là Mob mạnh nhất được Minecraft thêm vào, với 500 Trái tim và hơn 20 Trái tim sát thương với các đòn tấn công của mình. \n\nCác đòn tấn công của anh ta bao gồm đánh bạn và Sonar Blasts cho những đòn đánh xa hơn. \n\nĐiểm yếu duy nhất của anh ấy là bị mù, nhưng giống như sự liều lĩnh, nó chỉ khiến các giác quan khác của anh ấy mạnh mẽ hơn nhiều! Nếu bạn ở gần, anh ấy có thể ngửi thấy mùi của bạn và cẩn thận với việc gây ồn ào! \n\nNếu bạn giết anh ta bằng cách nào đó, anh ta sẽ rơi ra: Sculk Catalysts, Warden Carapace và Heart of the Deep."]
+	quest.0E20A9B79D1C6637.title: "Giết người cai ngục"
+	quest.0F55D0B4D5094EDB.quest_desc: ["Trong khi thực hiện rất nhiều dòng nhiệm vụ cho ATM7, Trader Villager nghĩ rằng sẽ rất buồn cười khi liên tục đẩy tôi đi loanh quanh trong màn hình nhiệm vụ.\n\n\"Lấy chúng ra. Tất cả chúng.\"\n\n- AlfredGG \n\n\"Tôi thứ hai này!\" \n\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "\"Đây là chuyện cá nhân\" - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Giết The Trader Villager và His Annoying Llamas"
+	quest.13BB75A7E1973488.quest_desc: ["Quái Vật Mặt Trăng là Boss đầu tiên được thêm vào trong Eternal Starlight. \n\nNgười này sống ở giữa Cursed Garden, chúc may mắn tìm thấy và chiến đấu với anh ta!"]
+	quest.13BB75A7E1973488.title: "Tiêu diệt quái vật mặt trăng"
+	quest.17F3AC15ADCFB175.title: "&l&9Phần thưởng cuối cùng:&r&eEndermen"
+	quest.199932BF623A6785.quest_desc: ["Người bảo vệ bị lãng quên là ông chủ của Undergarden. \n\nAnh ấy nghỉ ngơi trong Catacomb Structure."]
+	quest.199932BF623A6785.title: "Giết người bảo vệ bị lãng quên"
+	quest.1F18B64C84C8809D.title: "&l&9Overworld Bounty:&r&eNhện"
+	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers cung cấp cho chúng ta nhiều loại Creeper khác nhau cho các Quần xã khác nhau. \n\nMỗi loại đều có những giọt khác nhau và thậm chí một số còn rất thân thiện! \n\nTuy nhiên, tất cả đều sợ mèo..."]
 	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
-	quest.2001998045ABC04C.quest_desc: ["Tangled Hatred is a Miniboss in Eternal Starlight. \\n\\nIt spawns in Cursed Gardens right with the Lunar Monstrosity."]
-	quest.2001998045ABC04C.title: "Kill a Tangled Hatred"
+	quest.2001998045ABC04C.quest_desc: ["Tangled Hatred là Miniboss trong Eternal Starlight. \n\nNó sinh ra trong Cursed Gardens ngay với Lunar Monstrosity."]
+	quest.2001998045ABC04C.title: "Giết một Tangled Hatred"
 	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&eZombies"
-	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. \\n\\nHusks- spawn in Deserts. \\nDrowned- spawn Underwater. \\nGelid- spawn in Cold Biomes. \\nThickets- spawn in Jungles."]
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zombie có nhiều biến thể khác nhau xuất hiện ở các quần xã khác. \n\nTrấu- sinh sản ở Sa mạc. \nChết đuối- sinh sản dưới nước. \nGelid- sinh sản ở Cold Biomes. \nBụi cây- sinh sản trong Rừng rậm."]
 	quest.2BD077EFE77B8EBB.title: "Zombie Variants"
-	quest.2CA9394459C24012.quest_desc: ["Rotbeasts are Minibosses that spawn all over the Undergarden."]
-	quest.2CA9394459C24012.title: "Kill A Rotbeast"
-	quest.3371F9248D403664.title: "&l&cThe Nether Bounty:&r&eWither Skeletons"
-	quest.3813F5C1760C3A79.quest_desc: ["Piglin Brutes being here might cause controversey but I consider them Minibosses. \\n\\nThey spawn in Bastions with regular Piglins but these are Hostile not Neutral. Personally I hate that, especially since if you hit them all Piglins will turn Hostile on you. \\n\\nThey have 50 Hearts and a Golden Axe to hit you. Usually Golden Axes barely do any damage, but when they use it, it is god somehow! \\n\\nThey drop nothing and act more like an obstacle for Bastions!"]
-	quest.3813F5C1760C3A79.title: "Kill A Piglin Brute"
-	quest.41C0948CD9D50322.quest_desc: ["Here you'll find all of the rewards you can get by slaying enemies."]
-	quest.41C0948CD9D50322.quest_subtitle: "Killing All The Things"
+	quest.2CA9394459C24012.quest_desc: ["Rotbeast là những Miniboss xuất hiện khắp nơi trong Undergarden."]
+	quest.2CA9394459C24012.title: "Giết một con thú quay"
+	quest.3371F9248D403664.title: "&l&cTiền thưởng Nether:&r&eWither Skeletons"
+	quest.3813F5C1760C3A79.quest_desc: ["Piglin Brutes ở đây có thể gây tranh cãi nhưng tôi coi họ là Miniboss. \n\nChúng sinh sản trong Pháo đài với Lợn con thông thường nhưng đây là Lợn thù địch chứ không phải Trung tính. Cá nhân tôi ghét điều đó, đặc biệt là vì nếu bạn đánh trúng tất cả, Piglins sẽ trở nên thù địch với bạn. \n\nHọ có 50 Trái tim và Golden Axe để đánh bạn. Usually Golden Axes hầu như không gây sát thương gì, nhưng khi họ sử dụng nó, bằng cách nào đó, đó thật là thần thánh! \n\nChúng không đánh rơi thứ gì và hoạt động giống như một chướng ngại vật cho Bastions hơn!"]
+	quest.3813F5C1760C3A79.title: "Giết A Piglin Brute"
+	quest.41C0948CD9D50322.quest_desc: ["Tại đây bạn sẽ tìm thấy tất cả phần thưởng bạn có thể nhận được khi tiêu diệt kẻ thù."]
+	quest.41C0948CD9D50322.quest_subtitle: "Giết chết tất cả mọi thứ"
 	quest.41C0948CD9D50322.title: "Bounty Board"
-	quest.42822B1E8A53D051.title: "&l&9Overworld Bounty:&r&eSkeletons"
-	quest.56DA46DC82F6665D.quest_desc: ["The Wilden Chimera is a Boss added by Ars Nouveau and is needed for progressing through it. \\n\\nHe needs to be summoned through a ritual then fought!"]
-	quest.56DA46DC82F6665D.title: "Kill The Wilden Chimera"
-	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen is a similar Mod to Overhauled Creepers! Just with Endermen of course! \\n\\nYou'll find all these Endermen in all different Biomes and each are unique in their own ways! Some have different attacks, some drop different Pearls, and they all look different!"]
+	quest.42822B1E8A53D051.title: "&l&9Overworld Bounty:&r&eBộ xương"
+	quest.56DA46DC82F6665D.quest_desc: ["Wilden Chimera là một Boss được thêm vào bởi Ars Nouveau và cần thiết để vượt qua nó. \n\nAnh ta cần được triệu hồi thông qua một nghi lễ rồi chiến đấu!"]
+	quest.56DA46DC82F6665D.title: "Giết Chimera hoang dã"
+	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen là một Mod tương tự như Overhauled Creepers! Tất nhiên là chỉ với Endermen! \n\nBạn sẽ tìm thấy tất cả những Endermen này trong tất cả các Quần xã khác nhau và mỗi quần xã đều độc đáo theo cách riêng của chúng! Một số có các đòn tấn công khác nhau, một số rơi ra những viên Ngọc trai khác nhau và tất cả chúng đều trông khác nhau!"]
 	quest.570223A03231DF8C.title: "Overhauled Endermen"
-	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&eWitches"
-	quest.6141DE779232C8AA.title: "&l&cThe Nether Bounty:&r&eBlazes"
-	quest.6827836C8E675A94.quest_desc: ["Skeletons have different varients, like Zombies do! \\n\\nStrays- spawn in Cold Biomes. \\nBogged- spawn in Swamps and Trial Chambers. \\nMurks- spawn underwater in Coral Reefs. \\nVerdants- spawn in Jungles."]
+	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&eMa nữ"
+	quest.6141DE779232C8AA.title: "&l&cTiền thưởng Nether:&r&eBlazes"
+	quest.6827836C8E675A94.quest_desc: ["Bộ xương có nhiều loại khác nhau, giống như Zombie vậy! \n\nĐi lạc- sinh sản trong Cold Biomes. \nBogged- sinh sản ở Đầm lầy và Trial Chambers. \nMurks- sinh sản dưới nước trong Coral Reefs. \nVerdants- sinh sản trong Rừng."]
 	quest.6827836C8E675A94.title: "Skeleton Variants"
-	quest.6DCDD55786025911.quest_desc: ["The Starlight Golem is the second Boss in the Eternal Starlight. \\n\\nHe is charging in the Golem Forge awaiting for a Player to come fight him!"]
-	quest.6DCDD55786025911.title: "Kill The Starlight Golem"
-	quest.728BE1816DA23DC0.quest_desc: ["The Ender Dragon is the Boss that guards The End. \\n\\nWhen you enter an End Portal you'll arrive at the End Island where she spawns. \\n\\nShe has 200 Hearts and can attack with Fireballs or ramming into you. \\n\\nYou'll have to break the End Crystals on the pillars as they heal her, in order to kill her! \\n\\nOnce you do kill her, she'll drop: Arcane Essence, Epic Shaderbags, Dragonskin, Dragon Scales from two different mods, and a bunch of experience! \\n\\nThen the Portal will open up so you can return to the Overworld, or you can find an End Gateway to explore the outer islands. You'll also find a Dragon Egg on the Portal."]
-	quest.728BE1816DA23DC0.title: "Kill The Ender Dragon"
-	quest.734411D931A8CDBF.quest_desc: ["The Ravager is a Miniboss that only spawns in harder Raids. \\n\\nIf you don't know what Raids are or don't understand the updated way, that's perfectly fine, that's what Quests are for! \\n\\nBy killing Pillager Captains (ones that are holding Banners) you can get Ominous Potions, when you drink them you'll get Bad Omen Effect. Then, you can walk near a Village and start a Raid. \\n\\nRaids will spawn Pillagers, Vindicators, Evokers, Witches, and Ravagers to fight!"]
-	quest.734411D931A8CDBF.title: "Kill A Ravager"
-	quest.77FC692AC94D2EEF.title: "&l&9Overworld Bounty:&r&eCreepers"
+	quest.6DCDD55786025911.quest_desc: ["Starlight Golem là Boss thứ hai trong Eternal Starlight. \n\nAnh ta đang lao vào Golem Forge chờ Người chơi đến chiến đấu với anh ta!"]
+	quest.6DCDD55786025911.title: "Tiêu diệt Golem ánh sao"
+	quest.728BE1816DA23DC0.quest_desc: ["Ender Dragon là Boss bảo vệ The End. \n\nKhi bạn nhập End Portal bạn sẽ đến End Island nơi cô ấy xuất hiện. \n\nCô ấy có 200 Trái tim và có thể tấn công bằng Quả cầu lửa hoặc đâm vào bạn. \n\nBạn sẽ phải phá vỡ End Crystals trên các cây cột khi họ chữa lành vết thương cho cô ấy để giết cô ấy! \n\nSau khi bạn giết cô ấy, cô ấy sẽ đánh rơi: Arcane Essence, Epic Shaderbags, Dragonskin, Dragon Scales từ hai mod khác nhau và rất nhiều kinh nghiệm! \n\nSau đó, Cổng sẽ mở ra để bạn có thể quay lại Overworld hoặc bạn có thể tìm thấy End Gateway để khám phá các hòn đảo bên ngoài. Bạn cũng sẽ tìm thấy Dragon Egg trên Cổng thông tin."]
+	quest.728BE1816DA23DC0.title: "Tiêu diệt rồng Ender"
+	quest.734411D931A8CDBF.quest_desc: ["Ravager là một Miniboss chỉ xuất hiện trong các Cuộc đột kích khó hơn. \n\nNếu bạn không biết Đột kích là gì hoặc không hiểu cách thức cập nhật, điều đó hoàn toàn không sao cả, đó chính là mục đích của Nhiệm vụ! \n\nBằng cách tiêu diệt Pillager Captains (những người đang cầm Biểu ngữ) bạn có thể nhận được Ominous Potions, khi uống chúng bạn sẽ nhận được Bad Omen Effect. Sau đó, bạn có thể đi bộ gần Làng và bắt đầu Đột kích. \n\nCác cuộc đột kích sẽ sinh ra Kẻ cướp bóc, Người báo thù, Người gợi cảm, Phù thủy và Kẻ tàn ác để chiến đấu!"]
+	quest.734411D931A8CDBF.title: "Giết một tên cướp"
+	quest.77FC692AC94D2EEF.title: "&l&9Overworld Bounty:&r&eCây leo"
 	task.00CBF98DE4E9CC90.title: "AllRightsReserved"
-	task.171FD27057746E80.title: "Kill 1 Wither"
-	task.1809F1F9A3043683.title: "Kill 1 Ender Dragon"
-	task.1D136D138EF82DA9.title: "Kill 2 Trader Llamas"
-	task.2F28B803C75DA3B2.title: "Kill 1 Elder Guardian"
-	task.452B65E139D9E12D.title: "Kill 1 Wilden Chimera"
-	task.596ABB45C0612AAF.title: "Kill 1 Wandering Trader"
+	task.171FD27057746E80.title: "Giết 1 Wither"
+	task.1809F1F9A3043683.title: "Giết 1 Ender Dragon"
+	task.1D136D138EF82DA9.title: "Giết 2 Trader Llamas"
+	task.2F28B803C75DA3B2.title: "Giết 1 Elder Guardian"
+	task.452B65E139D9E12D.title: "Giết 1 Wilden Chimera"
+	task.596ABB45C0612AAF.title: "Giết 1 Thương nhân lang thang"
 	task.65E53C9C5AE98B69.title: "AllRightsReserved"
-	task.69678CAC075C8EA5.title: "Kill 1 Warden"
+	task.69678CAC075C8EA5.title: "Giết 1 cai ngục"
 }
