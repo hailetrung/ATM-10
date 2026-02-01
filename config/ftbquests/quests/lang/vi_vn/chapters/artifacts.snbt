@@ -1,163 +1,169 @@
 {
-	quest.010607466D565B53.quest_desc: ["Like get in touch with Mother Nature man. \\n\\nWith &aRooted Boots&r nature is your Bestfriend! When standing on Grass you will Regenerate Hearts. Also when you Eat Food when standing on Grass it will act as if you Bonemealed it."]
+	quest.010607466D565B53.quest_desc: ["Hãy liên hệ với Mother Nature người đàn ông. \n\nVới &aRooted Boots&r thiên nhiên chính là Người Bạn Thân Nhất của bạn! Khi đứng trên Cỏ bạn sẽ Regenerate Hearts. Ngoài ra, khi bạn Eat Food đứng trên Cỏ, nó sẽ hoạt động như thể bạn đã đập nát nó."]
 	quest.010607466D565B53.quest_subtitle: "Feet"
 	quest.010607466D565B53.title: "&aRooted Boots"
-	quest.0A1D4228271DECA3.quest_desc: ["Where'd you go?\\n\\nOh you're just half your previous size. Small enough to fit beneath a 1 Block gap."]
+	quest.0A1D4228271DECA3.quest_desc: ["Bạn đã đi đâu vậy?\n\nỒ, bạn chỉ bằng một nửa kích thước trước đây của bạn. Đủ nhỏ để vừa với khoảng cách 1 Khối."]
 	quest.0A1D4228271DECA3.quest_subtitle: "Necklace"
-	quest.0A1D4228271DECA3.title: "&5Charm of Shrinking&r"
-	quest.0E716B90E60C486B.quest_desc: ["Some times the best way to fight, is not to fight.. it's to run away! \\n\\nWith the &4Panic Necklace&r, when hit you will get Speed Effect for a small time. Just enough time to get away!"]
+	quest.0A1D4228271DECA3.title: "&5Sự quyến rũ của sự co lại&r"
+	quest.0E716B90E60C486B.quest_desc: ["Đôi khi cách tốt nhất để chiến đấu không phải là chiến đấu mà là bỏ chạy! \n\nVới &4Panic Necklace&r, khi đánh bạn sẽ nhận được Speed Effect trong một thời gian ngắn. Chỉ cần đủ thời gian để thoát khỏi!"]
 	quest.0E716B90E60C486B.quest_subtitle: "Necklace"
 	quest.0E716B90E60C486B.title: "&4Panic Necklace&r"
-	quest.11C5F17C6BB1237B.quest_desc: ["While wearing the &5Withered Bracelet&r Melee Attacks have a chance to give the Wither Effect.\\n\\nSorry Bow users!"]
-	quest.11C5F17C6BB1237B.quest_subtitle: "Wrists (Hands)"
+	quest.11C5F17C6BB1237B.quest_desc: ["Khi đeo &5Withered Bracelet&r Melee Attacks có cơ hội tặng Wither Effect.\n\nNgười dùng Sorry Bow!"]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Cổ tay (Bàn tay)"
 	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet&r"
-	quest.122E6E7CABCB17E7.quest_desc: ["For some reason Creepers are scared of Cats. Creepers are also extremely dumb and believe the Cats that your &7Slippers&r look like are real. \\n\\nAll Creepers will run away from you and won't be hostile when these &7Slippers&r are worn. \\n\\nAlso makes Kitty noises when you take damage! (Can't assure you that you will always land on your Feet though)."]
+	quest.122E6E7CABCB17E7.quest_desc: ["Vì lý do nào đó Creepers sợ Mèo. Dây leo cũng cực kỳ ngu ngốc và tin rằng Mèo rằng &7Dép&r của bạn trông giống như thật. \n\nAll Creepers sẽ chạy trốn khỏi bạn và sẽ không thù địch khi những &7Dép&r này bị mòn. \n\nĐồng thời tạo ra tiếng mèo kêu khi bạn nhận sát thương! (Tuy nhiên, không thể đảm bảo với bạn rằng bạn sẽ luôn tiếp đất bằng đôi chân của mình)."]
 	quest.122E6E7CABCB17E7.quest_subtitle: "Feet"
 	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers&r"
-	quest.145E7D1A88B83DDD.quest_desc: ["Where'd you go?"]
-	quest.145E7D1A88B83DDD.quest_subtitle: "Scarf (Necklace)"
-	quest.145E7D1A88B83DDD.title: "&9Scarf of Invisibility&r"
-	quest.161A90E134592D0E.quest_desc: ["Like regular Raw Beef, you can cook the &cEverlasting Beef&r to get &4Eternal Steak&r!\\n\\nWorks just like &cEverlasting Beef&r but more Food Points and Saturation."]
+	quest.145E7D1A88B83DDD.quest_desc: ["Bạn đã đi đâu vậy?"]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Khăn quàng cổ (Vòng cổ)"
+	quest.145E7D1A88B83DDD.title: "&9Chiếc khăn tàng hình&r"
+	quest.161A90E134592D0E.quest_desc: ["Giống như Raw Beef thông thường, bạn có thể nấu &cThịt bò bất diệt&r để nhận &4Eternal Steak&r!\n\nHoạt động giống như &cThịt bò vĩnh cửu&r nhưng hơn thế nữa Food Points và Độ bão hòa."]
 	quest.161A90E134592D0E.quest_subtitle: "Unique"
-	quest.161A90E134592D0E.title: "&4Everlasting Steak"
-	quest.16255FB20F35A9D9.quest_desc: ["The &3Snorkel&r gives you a small amount of Water Breathing when you enter &9Water&r. Similar to a Turtle Helmet! Careful though it runs out."]
+	quest.161A90E134592D0E.title: "&4Bít tết vĩnh cửu"
+	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r cung cấp cho bạn một lượng nhỏ Water Breathing khi bạn nhập &9Water&r. Tương tự như Turtle Helmet! Cẩn thận dù nó sắp hết."]
 	quest.16255FB20F35A9D9.quest_subtitle: "Head"
 	quest.16255FB20F35A9D9.title: "&3Snorkel"
-	quest.19B393433FB0C62F.quest_desc: ["The Strider's secret to walking on &cLava&r is within their Legs. So we took their Legs off of them and have you use them instead! \\n\\nWhen Sneaking you can walk safely ontop of &cLava&r! When you stop Sneaking you will fall into the &cLava&r though. These also allow you to safely walk over Magma blocks and other hot blocks!"]
+	quest.19B393433FB0C62F.quest_desc: ["Bí mật của Người Sải Bước để đi trên &cLava&r nằm ở trong Chân của họ. Vì vậy, chúng tôi đã tháo Chân của họ ra và để bạn sử dụng chúng thay thế! \n\nWhen Sneaking bạn có thể đi bộ an toàn trên đỉnh &cLava&r! Tuy nhiên, khi bạn dừng Lén lút, bạn sẽ rơi vào &cLava&r. Những thứ này cũng cho phép bạn đi qua các khối Magma và các khối nóng khác một cách an toàn!"]
 	quest.19B393433FB0C62F.quest_subtitle: "Feet"
 	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
-	quest.1E40ACF3E69A4100.quest_desc: ["Do you have to drink it? Idk it kinda just stays there and works... \\n\\nWith the &6Antidote Vessel&r, negative Effects (like Wither or Poison) will have their durations cut short! Very helpful when facing Witches or Wither Skeletons."]
+	quest.1E40ACF3E69A4100.quest_desc: ["Bạn có phải uống nó không? Tôi không biết nó chỉ ở đó và hoạt động ... \n\nVới &6Antidote Vessel&r, các Hiệu ứng tiêu cực (như Héo hoặc Ngộ độc) sẽ bị cắt ngắn thời lượng! Rất hữu ích khi đối mặt với Phù thủy hoặc Wither Skeletons."]
 	quest.1E40ACF3E69A4100.quest_subtitle: "Belt"
 	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel&r"
-	quest.2215FB0777D7029D.quest_desc: ["Spikes, Cleats, Crampons whatever they are! \\n\\n&7Steadfast Boots&r keep you steady on your Feet. You won't be knocked back from attacks and you won't slip on Ice anymore."]
+	quest.2215FB0777D7029D.quest_desc: ["Gai, Cleats, Crampons bất kể chúng là gì! \n\n&7Steadfast Boots&r giúp bạn đứng vững trên đôi chân của mình. Bạn sẽ không bị đẩy lùi sau các cuộc tấn công và bạn sẽ không bị trượt trên Băng nữa."]
 	quest.2215FB0777D7029D.quest_subtitle: "Feet"
 	quest.2215FB0777D7029D.title: "&7Steadfast Boots&r"
-	quest.221C9EDA651144BA.quest_desc: ["What &9Water&r? \\n\\nWith the &3Charm of Sinking&r you move through the &9Water&r as if it were Air! Still can't breath underwater though..."]
+	quest.221C9EDA651144BA.quest_desc: ["&9Nước&r là gì? \n\nVới &3Sức quyến rũ của sự chìm&r bạn di chuyển qua &9Nước&r như thể đó là Không khí! Nhưng vẫn không thở được dưới nước..."]
 	quest.221C9EDA651144BA.quest_subtitle: "Necklace"
-	quest.221C9EDA651144BA.title: "&3Charm of Sinking&r"
-	quest.2607F3DC07049785.quest_desc: ["Why spend time sitting down and eating a nice Home-Cooked meal when you can just Eat and Drink quickly! \\n\\nWith this very stylish &6Hat&r, Eating and Drinking is much faster."]
+	quest.221C9EDA651144BA.title: "&3Sự quyến rũ của sự chìm đắm&r"
+	quest.2607F3DC07049785.quest_desc: ["Tại sao phải dành thời gian ngồi xuống và ăn một bữa ăn ngon được nấu tại nhà khi bạn có thể Ăn và Uống nhanh chóng! \n\nVới &6Hat&r rất phong cách này, việc ăn uống sẽ nhanh hơn rất nhiều."]
 	quest.2607F3DC07049785.quest_subtitle: "Head"
 	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
-	quest.27E951F4F4F6F847.quest_desc: ["Similar to &aThorn Pendant&r, just a little hotter. No wait way hotter! \\n\\nThe &cFlame Pendant&r has a chance to light your attackers on Fire! When they are lit on fire the &cPendant&r will also give you Fire Resistance."]
+	quest.27E951F4F4F6F847.quest_desc: ["Tương tự như &aThorn Pendant&r, chỉ nóng hơn một chút. Không chờ đợi nóng hơn! \n\n&cFlame Pendant&r có cơ hội đốt cháy những kẻ tấn công bạn! Khi chúng được đốt cháy, &cPendant&r cũng sẽ cung cấp cho bạn Fire Resistance."]
 	quest.27E951F4F4F6F847.quest_subtitle: "Necklace"
 	quest.27E951F4F4F6F847.title: "&cFlame Pendant&r"
-	quest.29448D08C8777425.quest_desc: ["By tonight he'll be sleeping with the Fishes. \\n\\nThe &cAngler Hat&r helps you Lure Fish in and makes your chances at getting a Rare Drop higher!"]
+	quest.29448D08C8777425.quest_desc: ["Đến tối nay anh ấy sẽ ngủ với bọn Cá. \n\n&cAngler Hat&r giúp bạn Lure Fish tham gia và tăng cơ hội nhận được Rare Drop cao hơn!"]
 	quest.29448D08C8777425.quest_subtitle: "Head"
 	quest.29448D08C8777425.title: "&cAngler's Hat"
-	quest.2AD78E22988A92D3.quest_desc: ["I see you! \\n\\nWhen wearing &2Night Vision Goggles&r you get the ability to see in the dark! Not much else to them..."]
+	quest.2AD78E22988A92D3.quest_desc: ["Tôi thấy bạn! \n\nKhi đeo &2Night Vision Goggles&r bạn sẽ có khả năng nhìn trong bóng tối! Không có nhiều thứ khác đối với họ ..."]
 	quest.2AD78E22988A92D3.quest_subtitle: "Head"
 	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
-	quest.321F16645640C462.quest_desc: ["Enderpearls are a fun way of travel! (Helpful for the Bumblezone, I wonder if we'll get a Quest chapter for that Mod!) But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
+	quest.321F16645640C462.quest_desc: ["Enderpearls là một cách du lịch thú vị! (Hữu ích cho Bumblezone, tôi tự hỏi liệu chúng ta có chương Nhiệm vụ cho Mod đó không!) Nhưng bạn có ghét việc Enderpearl bị tiêu hao khi sử dụng và nhận 2 Trái tim sát thương sau mỗi lần sử dụng không? \n\nVới &9Warp Drive&r, tất cả đều biến mất, rõ ràng khiến Enderpearls trở thành phương tiện di chuyển tuyệt vời nhất! Cơn đói sẽ bị tiêu hao thay vì Enderpearl và không còn nhận sát thương khi sử dụng Enderpearl. Khi tất cả Hunger Bars cạn kiệt, nó sẽ quay trở lại tiêu thụ Enderpearls."]
 	quest.321F16645640C462.quest_subtitle: "Belt"
 	quest.321F16645640C462.title: "&9Warp Drive&r"
-	quest.3446803FB59D8875.quest_desc: ["Gives you Thorns. Not your Armor, you! Like a Pufferfish!"]
+	quest.3446803FB59D8875.quest_desc: ["Cung cấp cho bạn gai. Không phải áo giáp của bạn, bạn! Giống như một con cá nóc!"]
 	quest.3446803FB59D8875.quest_subtitle: "Necklace"
 	quest.3446803FB59D8875.title: "&aThorn Pendant&r"
-	quest.3525D5DCC3A534D9.quest_desc: ["Now these are one of my favorites! \\n\\n&9Digging Claws&r will 1. Increase your Mining Speed, so basically a level of Efficiency on all Pickaxes, and 2. Makes your Fists act as a Stone Pickaxe! \\n\\nSuper helpful for building and just playing in general!"]
+	quest.3525D5DCC3A534D9.quest_desc: ["Bây giờ đây là một trong những mục yêu thích của tôi! \n\n&9Digging Claws&r sẽ 1. Tăng Tốc độ khai thác của bạn, do đó, về cơ bản là mức Hiệu quả trên tất cả các Cuốc và 2. Làm cho Nắm đấm của bạn hoạt động như một Stone Pickaxe! \n\nSiêu hữu ích cho việc xây dựng và chơi nói chung!"]
 	quest.3525D5DCC3A534D9.quest_subtitle: "Hands"
-	quest.3525D5DCC3A534D9.title: "&9Digging Claws&r"
-	quest.3705D303CF423804.quest_desc: ["The other side of the &aFeral Claws&r, these increase the Damage you deal while wearing them."]
+	quest.3525D5DCC3A534D9.title: "&9Móng đào&r"
+	quest.3705D303CF423804.quest_desc: ["Mặt còn lại của &aFeral Claws&r, những thứ này làm tăng Thiệt hại mà bạn gây ra khi đeo chúng."]
 	quest.3705D303CF423804.quest_subtitle: "Hands"
 	quest.3705D303CF423804.title: "&ePower Glove&r"
-	quest.3B3BD39BA02DCA13.quest_desc: ["With the &6Pocket Piston&r your Attacks will hit your Enemies much farther! \\n\\nI wonder which wins, &6Pocket Piston&r or &7Steadfast Boots&r?"]
+	quest.3B3BD39BA02DCA13.quest_desc: ["Với &6Pocket Piston&r Cuộc tấn công của bạn sẽ tấn công Kẻ thù của bạn xa hơn nhiều! \n\nTôi tự hỏi cái nào thắng, &6Pocket Piston&r hay &7Steadfast Boots&r?"]
 	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
 	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
-	quest.3E0643EA9183CDAE.quest_desc: ["'It was his Hat Mr Krabs! He was Number 1!' \\n\\nDoes the same exact thing as the normal &6Drinking Hat&r, just looks much cooler!"]
+	quest.3E0643EA9183CDAE.quest_desc: ["'Đó là Hat Mr Krabs của anh ấy! Anh ấy là Số 1!' \n\nThực hiện tương tự như &6Mũ uống nước&r bình thường, trông ngầu hơn nhiều!"]
 	quest.3E0643EA9183CDAE.quest_subtitle: "Head"
 	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
-	quest.3E1A3BC8642390B3.quest_desc: ["'I'm Marry Poppins ya'll!' \\n\\n&4The Umbrella&r is a very useful tool added by &l&3Artifacts&r! It can be held infront of you to work as a Shield, by holding Right Click. Or it can be used to slow your fall by just holding it! "]
+	quest.3E1A3BC8642390B3.quest_desc: ["'I'm Marry Poppins được rồi!' \n\n&4The Umbrella&r là một công cụ rất hữu ích được thêm bởi &l&3Artifacts&r! Nó có thể được giữ trước mặt bạn để hoạt động như một Tấm khiên bằng cách giữ Right Click. Hoặc nó có thể được sử dụng để làm chậm cú rơi của bạn bằng cách giữ nó!"]
 	quest.3E1A3BC8642390B3.quest_subtitle: "Unique"
 	quest.3E1A3BC8642390B3.title: "&4Umbrella&r"
-	quest.3EC8A0B89788D079.quest_desc: ["I don't have Hands, I have &9Flippers&r. \\n\\n&9Flippers&r will act like a much better Depth Strider. You can Swim and Walk through &9Water&r much faster!"]
+	quest.3EC8A0B89788D079.quest_desc: ["Tôi không có Tay, tôi có &9Flippers&r. \n\n&9Flippers&r sẽ hoạt động tốt hơn nhiều Depth Strider. Bạn có thể Bơi và Đi bộ qua &9Water&r nhanh hơn nhiều!"]
 	quest.3EC8A0B89788D079.quest_subtitle: "Feet"
 	quest.3EC8A0B89788D079.title: "&9Flippers&r"
-	quest.427014BDE06DE631.quest_desc: ["Everything I hit, bursts into Flames!!!!!"]
+	quest.427014BDE06DE631.quest_desc: ["Mọi thứ tôi đánh trúng đều bùng cháy!!!!!"]
 	quest.427014BDE06DE631.quest_subtitle: "Hands"
 	quest.427014BDE06DE631.title: "&cFire Gauntlet&r"
-	quest.436E4E3515BCCDE9.quest_desc: ["With the &bCloud in a Bottle&r equipped you can hit Space Bar twice to double jump! Very helpful for parkour! \\n\\nAlso increases the height you can fall from, like &dBunny Hoppers&r!"]
+	quest.436E4E3515BCCDE9.quest_desc: ["Khi trang bị &bCloud in a Bottle&r, bạn có thể nhấn Space Bar hai lần để nhảy đôi! Rất hữu ích cho parkour! \n\nĐồng thời tăng độ cao mà bạn có thể rơi từ đó, như &dBunny Hoppers&r!"]
 	quest.436E4E3515BCCDE9.quest_subtitle: "Belt"
-	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle&r"
-	quest.4564B577CB4EC046.quest_desc: ["When slaughtering hundreds of Cows you might come across a Rare Beef. Not one with Mad Cow Disease, I mean the &cEverlasting Beef&r!\\n\\n&cEverlasting Beef&r can be eaten like a normal Raw Beef, but it won't be deleted when consumed! Instead it will have a cooldown before you can eat it again.\\n\\n(Also works with autofeeding backpacks!)"]
+	quest.436E4E3515BCCDE9.title: "&bMây trong chai&r"
+	quest.4564B577CB4EC046.quest_desc: ["Khi giết hàng trăm con Bò, bạn có thể gặp Rare Beef. Không phải loại có Mad Cow Disease, ý tôi là &cThịt bò bất diệt&r!\n\n&cThịt bò vĩnh cửu&r có thể ăn như Raw Beef bình thường, nhưng sẽ không bị xóa khi tiêu thụ! Thay vào đó nó sẽ có thời gian hồi chiêu trước khi bạn có thể ăn lại.\n\n(Cũng hoạt động với ba lô tự động cho ăn!)"]
 	quest.4564B577CB4EC046.quest_subtitle: "Unique"
-	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
-	quest.4933CF4675E77D50.quest_desc: ["After you take a hit from Fire Damage, the &5Obsidian Skull&r will activate giving you a period of Fire Resistance. Hopefully long enough to escape the flames!"]
+	quest.4564B577CB4EC046.title: "&cThịt bò bất diệt&r"
+	quest.4933CF4675E77D50.quest_desc: ["Sau khi bạn nhận đòn từ Fire Damage, &5Obsidian Skull&r sẽ kích hoạt trong khoảng thời gian Fire Resistance. Hy vọng đủ lâu để thoát khỏi ngọn lửa!"]
 	quest.4933CF4675E77D50.quest_subtitle: "Belt"
 	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
-	quest.4A7AEBEB87CEC274.quest_desc: ["I don't believe I have permission to use a specific brand name of &cRunning Shoes&r so use your imagination on which these are. \\n\\n&cRunning Shoes&r will give you a Speed Boost when Sprinting so you will be even faster when Running! Also gives you auto-jump when Sprinting..."]
+	quest.4A7AEBEB87CEC274.quest_desc: ["Tôi không tin rằng mình được phép sử dụng tên thương hiệu cụ thể là &cGiày chạy bộ&r vì vậy hãy sử dụng trí tưởng tượng của bạn để tìm ra những tên này. \n\n&cGiày chạy bộ&r sẽ mang lại cho bạn Speed Boost khi chạy nước rút nên bạn sẽ còn nhanh hơn nữa khi chạy! Cũng cung cấp cho bạn khả năng tự động nhảy khi chạy nước rút..."]
 	quest.4A7AEBEB87CEC274.quest_subtitle: "Feet"
-	quest.4A7AEBEB87CEC274.title: "&cRunning Shoes&r"
-	quest.4D3379D38237F830.quest_desc: ["While wearing &bthese&r on your Feet you can preform a miracle! Walking on &9Water&r! \\n\\nWell actually running on &9Water&r, you have to be Sprinting to be able to run over &9Water&r. Once you stop Sprinting you will start Sinking."]
+	quest.4A7AEBEB87CEC274.title: "&cGiày chạy bộ&r"
+	quest.4D3379D38237F830.quest_desc: ["Khi đeo &bcái này&r trên Bàn chân, bạn có thể tạo nên một điều kỳ diệu! Đi bộ trên &9Nước&r! \n\nThực ra là chạy trên &9Water&r, bạn phải Chạy nước rút mới có thể chạy qua &9Water&r. Một khi bạn ngừng chạy nước rút, bạn sẽ bắt đầu chìm."]
 	quest.4D3379D38237F830.quest_subtitle: "Feet"
 	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
-	quest.5040B3D29F238BC0.quest_desc: ["Bunny, hop. Bunny, hop. Bunny, hop.\\n\\nWith &dBunny Hoppers&r on you can jump twice as high and take half the fall damage as usual! Doesn't make you invincible to Fall Damage, you can still die it's just harder."]
+	quest.5040B3D29F238BC0.quest_desc: ["Thỏ, nhảy đi. Thỏ, nhảy đi. Thỏ, nhảy đi.\n\nKhi bật &dBunny Hoppers&r, bạn có thể nhảy cao gấp đôi và nhận một nửa sát thương khi rơi như bình thường! Không khiến bạn trở nên bất khả chiến bại trước Fall Damage, bạn vẫn có thể chết, chỉ là khó hơn."]
 	quest.5040B3D29F238BC0.quest_subtitle: "Feet"
 	quest.5040B3D29F238BC0.title: "&dBunny Hoppers&r"
-	quest.50A32AC6EDBC5854.quest_desc: ["Food by itself can get pretty boring, but it gets much better when you have a side with your dish! More specifically some (a) &6Onion Ring&r!\\n\\nWhen wearing the &6Onion Ring&r, everything you eat will give you slight Haste."]
+	quest.50A32AC6EDBC5854.quest_desc: ["Bản thân đồ ăn có thể khá nhàm chán, nhưng sẽ ngon hơn nhiều khi bạn có món ăn phụ kèm theo! Cụ thể hơn là một số (a) &6Onion Ring&r!\n\nKhi đeo &6Onion Ring&r, mọi thứ bạn ăn sẽ mang lại cho bạn một chút Sự vội vàng."]
 	quest.50A32AC6EDBC5854.quest_subtitle: "Hands"
 	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
-	quest.589F1D502F680075.quest_desc: ["Perfect for Pool Parties! \\n\\nBesides looking cute and funny the &dHelium Flamingo&r allows you to swim in Air. Yes you heard me! Swim... in... Air... \\n\\nWhen in the Air, like jumping, you can press CTRL to start Swimming in Air. You can move around just like in the Water: Swim up, Swim down, Swim all around!"]
+	quest.589F1D502F680075.quest_desc: ["Hoàn hảo cho Pool Parties! \n\nBên cạnh vẻ ngoài dễ thương và hài hước, &dHelium Flamingo&r cho phép bạn bơi trong không khí. Vâng, bạn đã nghe tôi nói! Bơi... trong... không khí... \n\nKhi ở trên không, chẳng hạn như nhảy, bạn có thể nhấn CTRL để bắt đầu Bơi trong không trung. Bạn có thể di chuyển giống như ở dưới nước: Bơi lên, Bơi xuống, Bơi xung quanh!"]
 	quest.589F1D502F680075.quest_subtitle: "Belt"
 	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
-	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r is a wonderful Mod that adds &l&3Artifacts&r that will make your Minecraft expereince much easier and much more fun!\\n\\nAll &l&3Artifacts&r can either be found from exploring, archeology, or killing Mimics!\\n\\nMimics are found in Campsites underground, looking like normal Chests! But once you get too close they'll attack!"]
+	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r là một Mod tuyệt vời bổ sung &l&3Artifacts&r sẽ giúp trải nghiệm Minecraft của bạn dễ dàng hơn và thú vị hơn nhiều!\n\nTất cả &l&3Artifacts&r có thể được tìm thấy từ việc khám phá, khảo cổ học hoặc tiêu diệt Mimic!\n\nMô phỏng được tìm thấy ở các Khu cắm trại dưới lòng đất, trông giống như Rương bình thường! Nhưng một khi bạn đến quá gần, chúng sẽ tấn công!"]
 	quest.5CE44C58A470E48E.title: "&l&3Artifacts"
-	quest.5DE7C4FD5FA29236.quest_desc: ["Don't you hate when you're just about to kill an Endermen and it teleports away? Well you don't hate you, you love it! You're just angry because you're envious! You want it! \\n\\nAnd with the &5Chorus Belt&r you can get it! You will teleport from a hit that would kill you."]
+	quest.5DE7C4FD5FA29236.quest_desc: ["Bạn có ghét khi bạn chuẩn bị giết một Endermen và nó dịch chuyển đi không? Vâng, bạn không ghét bạn, bạn yêu nó! Bạn chỉ giận vì bạn ghen tị thôi! Bạn muốn nó! \n\nVà với &5Chorus Belt&r bạn có thể có được nó! Bạn sẽ dịch chuyển tức thời khỏi một cú đánh có thể giết chết bạn."]
 	quest.5DE7C4FD5FA29236.quest_subtitle: "Belt"
 	quest.5DE7C4FD5FA29236.title: "&5Chorus Belt&r"
-	quest.5EB7CE3A1DCD3E9B.quest_desc: ["It's a &cMagnet&r."]
+	quest.5EB7CE3A1DCD3E9B.quest_desc: ["Đó là &cNam châm&r."]
 	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Belt"
 	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor&r"
-	quest.5F5E43B3F51CAE9E.quest_desc: ["'They're magically delicious!' \\n\\nThe &aSuperstitious Hat&r grants you an extra level of Looting to Mobs you kill! \\n\\nIt does stack with Enchants! "]
+	quest.5F5E43B3F51CAE9E.quest_desc: ["'Chúng ngon một cách kỳ diệu!' \n\n&aSuperstitious Hat&r cấp cho bạn thêm một cấp độ Cướp bóc đối với Mob mà bạn tiêu diệt! \n\nNó cộng dồn với Enchants!"]
 	quest.5F5E43B3F51CAE9E.quest_subtitle: "Head"
 	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat"
-	quest.5FD6A738754F6013.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.623796B1D7981E59.quest_desc: ["'Also try Terraria!'\\n\\nWhen equipped you will gain 5 extra Hearts! Or 10 whole points of Health! Adding up to on default 30 Health."]
+	quest.5FD6A738754F6013.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.623796B1D7981E59.quest_desc: ["'Cũng hãy thử Terraria!'\n\nKhi trang bị bạn sẽ có thêm 5 Trái tim! Hoặc toàn bộ 10 điểm Sức khỏe! Thêm tối đa 30 Sức khỏe theo mặc định."]
 	quest.623796B1D7981E59.quest_subtitle: "Belt"
 	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
-	quest.62622137648A4F56.quest_desc: ["Don't you hate having to Mine then Smelt your Ores with two different Items? Well now you can be lazier than ever with the &7Pickaxe Heater&r!\\n\\nWhile wearing the &7Pickaxe Heater&r, Ores that you Mined will automatically be Smelted!\\n\\nMight want to be careful with it if you want Ore Processing."]
+	quest.62622137648A4F56.quest_desc: ["Bạn có ghét việc phải khai thác rồi nấu chảy quặng của mình bằng hai vật phẩm khác nhau không? Bây giờ bạn có thể lười biếng hơn bao giờ hết với &7Pickaxe Heater&r!\n\nKhi đeo &7Pickaxe Heater&r, Quặng mà bạn khai thác sẽ tự động được nấu chảy!\n\nCó thể bạn muốn cẩn thận với nó nếu bạn muốn Ore Processing."]
 	quest.62622137648A4F56.quest_subtitle: "Hands"
 	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
-	quest.6A452BFC8A967C39.quest_desc: ["Wearing these &aClaws&r just makes you feel a certain way. Adrenaline pumping, thoughts ceasing, strength rising like no other! \\n\\nWith &aFeral Claws&r you will Attack much faster with your Weapons or Fists."]
+	quest.6A452BFC8A967C39.quest_desc: ["Đeo những chiếc &aClaws&r này chỉ khiến bạn cảm thấy theo một cách nhất định. Adrenaline bơm, suy nghĩ không còn, sức mạnh tăng lên không giống ai! \n\nVới &aFeral Claws&r bạn sẽ tấn công nhanh hơn nhiều bằng Vũ khí hoặc Nắm đấm của mình."]
 	quest.6A452BFC8A967C39.quest_subtitle: "Hands"
 	quest.6A452BFC8A967C39.title: "&aFeral Claws&r"
-	quest.6FBE5B5D5027B32C.quest_desc: ["Wearin' this here &7Hat&r makes yer critters run like the wind! \\n\\nIt's right purty too."]
+	quest.6FBE5B5D5027B32C.quest_desc: ["Đeo cái này ở đây &7Mũ&r khiến sinh vật của bạn chạy như gió! \n\nĐúng là thuần khiết quá."]
 	quest.6FBE5B5D5027B32C.quest_subtitle: "Head"
 	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat"
-	quest.70C7D92844089DEB.quest_desc: ["Like the other Pendants this has a chance to hurt your attacker, just with Lightning! \\n\\nAlso makes it so if you're (un)lucky enough to be hit by Lightning, it won't hurt you."]
+	quest.70C7D92844089DEB.quest_desc: ["Giống như các Mặt dây chuyền khác, nó có cơ hội làm tổn thương kẻ tấn công bạn, chỉ với Lightning! \n\nNgoài ra, nếu bạn (không) may mắn bị sét đánh thì điều đó sẽ không làm tổn thương bạn."]
 	quest.70C7D92844089DEB.quest_subtitle: "Necklace"
 	quest.70C7D92844089DEB.title: "&bShock Pendant&r"
-	quest.7188DC06A28AE30E.quest_desc: ["Wearin' dis &eGolden Hook&r will increase yar yield of experience from keel-hauled enemies!"]
+	quest.7188DC06A28AE30E.quest_desc: ["Đeo &eGolden Hook&r sẽ tăng lượng kinh nghiệm nhận được từ kẻ thù bị kéo bằng keel!"]
 	quest.7188DC06A28AE30E.quest_subtitle: "Hands"
 	quest.7188DC06A28AE30E.title: "&eVàng Hook&r"
-	quest.72D6265E35814927.quest_desc: ["Most games that have a Health and Damage system, have Invincibility Frames. After you take Damage you will have a few Invincibility Frames so 1. You don't die in an instant by a simple attack and 2. Gives you time to fight back. \\n\\nWith &eCross Necklace&r you get a few more Invincibility Frames. Which means a few more times to fight back!"]
+	quest.72D6265E35814927.quest_desc: ["Hầu hết các trò chơi có hệ thống Sức khỏe và Sát thương đều có Invincibility Frames. Sau khi nhận sát thương, bạn sẽ có một ít Invincibility Frames vì vậy 1. Bạn không chết ngay lập tức chỉ bằng một đòn tấn công đơn giản và 2. Cho bạn thời gian để chống trả. \n\nVới &eCross Necklace&r bạn sẽ nhận được thêm một vài Invincibility Frames. Có nghĩa là phải đánh trả thêm vài lần nữa!"]
 	quest.72D6265E35814927.quest_subtitle: "Necklace"
 	quest.72D6265E35814927.title: "&eCross Necklace&r"
-	quest.73B73870B29DFAD9.quest_desc: ["One of us! One of us! \\n\\nThe &eVillager Hat&r makes the Villagers believe you're from the same Town so they get rid of the Out-of-Towners Tax. Villager Trades are cheaper."]
+	quest.73B73870B29DFAD9.quest_desc: ["Một người trong chúng ta! Một người trong chúng ta! \n\n&eVillager Hat&r khiến Dân làng tin rằng bạn đến từ cùng một Thị trấn nên họ loại bỏ Out-of-Towners Tax. Villager Trades rẻ hơn."]
 	quest.73B73870B29DFAD9.quest_subtitle: "Head"
 	quest.73B73870B29DFAD9.title: "&eVillager Hat"
-	quest.73FC51144FC2DA52.quest_desc: ["With this &7Glove&r you will steal the life from any enemies you hit!\\n\\nOh yeah sorry I forgot... bleh bleh blehhh!"]
+	quest.73FC51144FC2DA52.quest_desc: ["Với &7Glove&r này, bạn sẽ cướp đi mạng sống của bất kỳ kẻ thù nào mà bạn đánh trúng!\n\nỒ vâng xin lỗi tôi quên mất... bleh bleh blehhh!"]
 	quest.73FC51144FC2DA52.quest_subtitle: "Hands"
 	quest.73FC51144FC2DA52.title: "&7Vampiric Glove&r"
-	quest.74B352457BF1541B.quest_desc: ["If you're like me, or any sane person you despise Powdered Snow. Thankfully &l&3Artifacts&r gives us a tool for dealing with it! Snowshoes! \\n\\nSnowshoes will allow you to safely walk over Powdered Snow just like how Leather Boots do. You will also get a Speed boost when walking on any Snow!"]
+	quest.74B352457BF1541B.quest_desc: ["Nếu bạn giống tôi hoặc bất kỳ người tỉnh táo nào mà bạn coi thường Powdered Snow. Rất may &l&3Artifacts&r cung cấp cho chúng tôi một công cụ để xử lý nó! Giày đi tuyết! \n\nGiày trượt tuyết sẽ cho phép bạn đi qua Powdered Snow một cách an toàn giống như cách Leather Boots làm. Bạn cũng sẽ được tăng Tốc độ khi đi trên bất kỳ Tuyết nào!"]
 	quest.74B352457BF1541B.quest_subtitle: "Feet"
-	quest.7503823ACDDB0491.quest_desc: ["This and the &aSuperstitious Hat&r gives you all the lucky charms you can need!\\nThe &2Lucky Scarf&r gives you an extra level of Fortune to your Pickaxes."]
-	quest.7503823ACDDB0491.quest_subtitle: "Scarf (Necklace)"
+	quest.7503823ACDDB0491.quest_desc: ["Cái này và &aSuperstitious Hat&r mang đến cho bạn tất cả những lá bùa may mắn mà bạn có thể cần!\n&2Lucky Scarf&r mang lại cho bạn một cấp độ May mắn bổ sung cho Pickaxes của bạn."]
+	quest.7503823ACDDB0491.quest_subtitle: "Khăn quàng cổ (Vòng cổ)"
 	quest.7503823ACDDB0491.title: "&2Lucky Scarf&r"
 	quest.789AF6D0A6321945.quest_desc: [
-		"The single most important! Most powerful! Most dangerous &l&3Artifact&r of them all!"
+		"Điều quan trọng nhất! Mạnh mẽ nhất! Nguy hiểm nhất là &l&3Artifact&r trong số đó!"
+
 		"{@pagebreak}"
-		"I'm not even sure if I should explain what it does, it's too dangerous!"
+		"Tôi thậm chí không chắc mình có nên giải thích nó làm gì không, nó quá nguy hiểm!"
+
 		"{@pagebreak}"
-		"If you're so sure you can handle its power, then maybe keep reading..."
+		"Nếu bạn chắc chắn mình có thể xử lý được sức mạnh của nó thì có thể tiếp tục đọc..."
+
 		"{@pagebreak}"
-		"Not too late to turn back!"
+		"Quay lại cũng chưa muộn!"
+
 		"{@pagebreak}"
-		"Okay I warned you..."
+		"Được rồi, tôi đã cảnh báo bạn..."
+
 		"{@pagebreak}"
-		"Press Shift for a chance to Fart when &dWhoopie Cushion&r is equipped."
+		"Press Shift để có cơ hội Đánh Rắm khi trang bị &dWhoopie Cushion&r."
+
 	]
 	quest.789AF6D0A6321945.quest_subtitle: "Unique"
 	quest.789AF6D0A6321945.title: "&dWhoopie Cushion&r"
 	task.376652638B9221C9.title: "AllRightsReserved"
-	task.68DC39876E14FC1B.title: "Kill 1 Mimic"
+	task.68DC39876E14FC1B.title: "Giết 1 con Mimic"
 	task.72E89066290E3040.title: "AllRightsReserved"
 }
