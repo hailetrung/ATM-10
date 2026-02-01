@@ -139,7 +139,7 @@
 	quest.49FDD8666356A3E7.quest_desc: ["Chúng ta có thể sử dụng một trong hai hoặc cả &2Vỏ chống nổ hoặc 256M Portable Item Cells để chế tạo &3&lKhông thể cải thiện Probability Device&r. \n\nĐợi đã, tôi đã nói một trong hai hay cả hai? \n\nVâng tôi đã làm vậy! Chúng ta có thể sử dụng 2 &2 Vỏ chống nổ hoặc 2 256M Portable Item Cells hoặc một trong số đó."]
 	quest.49FDD8666356A3E7.title: "Hoặc&2Vỏ chống nổ&fvà 256M Portable Item Cells"
 	quest.4B12425E74C5E511.quest_desc: ["&cExplosive Mycelial Generator thực hiện một công việc tuyệt vời trong việc hấp thụ các vụ nổ. \n\nChúng ta có thể sử dụng nó cho &d&lPulsating &8Black Hole!"]
-	quest.4B12425E74C5E511.title: "&cChất nổ Mycelial Generator"
+	quest.4B12425E74C5E511.title: "&cất nổ Mycelial Generator"
 	quest.4B7D387CEFF9667E.quest_desc: ["Cuối cùng! &6&lTạo đã được cập nhật và nó chắc chắn đáng để bạn chờ đợi! \n\n&6&lTạo là tất cả về việc xoay và sử dụng Rotational Power... hầu như phù hợp với mọi thứ! Chế tạo, nghiền, trộn, ủ, ETC. \n\nNếu đã quá lâu mà bạn không nhớ cách sử dụng &6&lTạo, bạn có thể sử dụng &7&lCông nghiệp hóa hiện đại để chế tạo &6&lATM Star."]
 	quest.4B7D387CEFF9667E.title: "&6&lCreate"
 	quest.4BD203AD481DDE8F.quest_desc: ["Máy hủy tài liệu &4Meat được làm từ &4Witherite, là sản phẩm rớt ra từ &4&lThe Harbringer. \n\nBạn sẽ cần tìm &4Ancient Factory nằm sâu dưới lòng đất trong &2&lOverworld. \n\nSau đó, bạn sẽ tìm thấy &4&lHarbringer đã tắt nguồn, để bật nguồn, chúng ta cần cấp nguồn cho nó Nether Star! \n\nSau đó, sau một trận đấu trùm rất khó khăn và kéo dài, bạn có thể Chế tạo &4Máy hủy thịt!"]
@@ -208,13 +208,15 @@
 
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap2/atmstar_layer1.png width:125 height:75 align:center}"
-		"Lớp 1 chỉ có &9Polished Darkstone, &9Polished Darkstone Stairs&r, và &6Arcane Polished Darkstone&r, cùng với &5Altar Block."
+		"Lớp 1 chỉ có &9Đá đen bóng, &9Đánh bóng Darkstone Stairs&r, và &6Arcane Polished Darkstone&r, cùng với &5Bàn thờ."
+
 
 		"{image:atm:textures/questpics/chap2/atmstar_layer2.png width:125 height:75 align:center}"
 		"Lớp thứ 2 có thêm &9Đá đen bóng, &9Cầu thang, và bây giờ là &6Được mạ vàng Chiseled Polished Darkstone&r."
 
 		"{image:atm:textures/questpics/chap2/atmstar_layer3.png width:125 height:100 align:center}"
-		"Lần thứ 3 thêm &bArcane Crystal Obelisks&r, &7Rune Blocks&r, &6Arcane Chiseled Polished Darkstone&r, và &9Polished Darkstone Slabs&r!"
+		"Lần thứ 3 bổ sung &bArcane Crystal Obelisks&r, &7Rune Blocks&r, &6Arcane Chiseled Polished Darkstone&r, và &9Polished Darkstone Slabs&r!"
+
 
 		"{image:atm:textures/questpics/chap2/atmstar_layer4.png width:125 height:100 align:center}"
 		"Lớp thứ 4 là nơi chúng ta có &6Bệ đá đen, &7Magnetized Darkstone Pedestal&r ở giữa và &6Arcane Polished Darkstone Pillars&r."
