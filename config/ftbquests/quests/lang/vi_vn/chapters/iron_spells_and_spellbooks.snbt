@@ -1,274 +1,300 @@
 {
-	quest.000C1ECD781F3F81.quest_desc: ["&2&lNature&r is made for using the Earth to our advantage by &2Poisoning&r and &2Weakening&r our enemies! Just like what Big Corporations do to the Earth itself! \\n&2&lNature's&r Focus Material is &2Poisonous Potato&r. \\n\\nThe &2Scrolls&r are &aLight Green&r with &2Dark Green&r text."]
+	quest.000C1ECD781F3F81.quest_desc: ["&2&lThiên nhiên được tạo ra để sử dụng Trái đất làm lợi thế cho chúng ta bởi &2Đầu độc và &2Làm suy yếu kẻ thù của chúng ta! Giống như những gì Big Corporations làm với chính Trái đất! \n&2&l Focus Material của Thiên nhiên là &2Khoai tây độc. \n\n&2Scrolls là &aLight Green với văn bản của &2Dark Green."]
 	quest.000C1ECD781F3F81.title: "&2&lNature"
-	quest.00D80AA4CDD8335C.quest_desc: ["&6&lPriest&r not &6Holy&r enough for you? Well you can Craft the &6Lightbringer Chestplate&r! \\n\\nFirst, you'll need the &6Priest Robes&r, which you can Craft. \\n\\nYou'll need 3 &bMithril Weaves&r which are made from &bMithril&r and Chains. \\n\\nThen, you will have to get the &dDivine Soulshard&r and you can Craft the &6Chestplate&r. \\n\\nThis &6Chestplate&r has the same Armor Points as the &6Priest Robes&r, but everything else gets much better! \\n\\nYou get Armor Toughness, Knockback Resistance, and of course more &3Spell Power&r and Mana."]
-	quest.00D80AA4CDD8335C.title: "&6Lightbringer Chestplate"
+	quest.00D80AA4CDD8335C.quest_desc: ["&6&lPriest &6Holy’ chưa đủ với bạn sao? Chà, bạn có thể Chế tạo &6Tấm giáp Người mang ánh sáng! \n\nĐầu tiên, bạn sẽ cần &6Priest Robes mà bạn có thể chế tạo. \n\nBạn sẽ cần 3 &bMithril Weaves được làm từ &bMithril’s và Chains. \n\nSau đó, bạn sẽ phải lấy &dDivine Soulshard và có thể Chế tạo &6Chestplate. \n\n&6Chestplate này có cùng Armor Points với &6Priest Robes, nhưng mọi thứ khác đều tốt hơn nhiều! \n\nBạn nhận được Armor Toughness, Knockback Resistance, và tất nhiên là nhiều hơn nữa &3Sức mạnh phép thuật và Năng lượng."]
+	quest.00D80AA4CDD8335C.title: "&6Tấm giáp mang ánh sáng"
 	quest.01119871B1D5C576.quest_desc: [
-		"Just about every &6Village&r can have &6&lPriests&r in them. This includes modded &6Villages&r. \\n\\nUsually they hang in the middle of the &6Village&r like by the Markets. Not every &6Village&r will have one."
+		"Gần như mọi &6Làng đều có thể có &6&lTư tế trong đó. Điều này bao gồm các &6 Làng đã được sửa đổi. \n\nThông thường, họ treo ở giữa &6Village giống như Chợ. Không phải mọi &6Village đều có một cái."
+
 		"{image:atm:textures/questpics/iron_spells/spells_village.png width:200 height:100 align:center}"
 	]
 	quest.01119871B1D5C576.title: "&6Village"
 	quest.0436DF3308681913.quest_desc: [
-		"Sitting on the Throne lies the remains of a past &4&lKing&r. But once you come close, and touch them, you will see them reanimate; the &4&lKing&r is dead no longer! But only murder will keep him alive... and well you're the closest living thing. \\n\\n&4&lThe Dead King&r is the hardest Boss, he has 400 &cHearts&r and is the only to have an actual Boss Bar (and music). He can use a variety of &3Spells&r from any class, &2Poison Arrow&r from &2Nature&r to &6Blight&r from &6Holy&r to even &aFangs&r from &aEvokation&r! He can also teleport, summon the dead, and hit you with the &4Blood Staff&r. \\n\\nIf you can kill him he will drop &3Scrolls&r of all sorts, &7Blank Runes&r, and possibly drop the &4Blood Staff&r and Necronomicon."
+		"Ngồi trên ngai vàng là tàn tích của vị vua &4&l trong quá khứ. Nhưng một khi bạn đến gần và chạm vào chúng, bạn sẽ thấy chúng sống lại; &4&lKing không còn chết nữa! Nhưng chỉ có giết người mới giữ được mạng sống của anh ta... và bạn là sinh vật sống gần gũi nhất. \n\n&4&lThe Dead King’s là Boss khó nhất, anh ta có 400 &cHearts và là người duy nhất có Boss Bar thực tế (và âm nhạc). Anh ta có thể sử dụng nhiều loại &3Phép thuật từ bất kỳ lớp nào, &2Mũi tên Độc từ &2Nature đến &6Blight từ &6Holy’s đến thậm chí &aFangs từ &aEvokation! Anh ta cũng có thể dịch chuyển tức thời, triệu hồi người chết và đánh bạn bằng &4Blood Staff. \n\nNếu bạn có thể giết anh ta, anh ta sẽ đánh rơi tất cả các loại &3Scrolls, &7Blank Runes, và có thể đánh rơi &4Blood Staff’s và Necronomicon."
+
 		"{image:atm:textures/questpics/iron_spells/spells_king.png width:100 height:200 align:center}"
 	]
 	quest.0436DF3308681913.title: "&4&lThe Dead King"
-	quest.0474C15D3AE3C2C9.quest_desc: ["&cDecrepit Scythe&r is what the &c&lEcho of Tyrus&r uses to Kill you. Just our version is much smaller. \\n\\nIt has very similar stats to the &5Decrepit Flamberge&r, just a slightly and I mean slighty quicker Attack Speed. \\n\\nIt can also be upgraded with &6Pyrium&r, this will give it more Damage plus a &3Spell&r! \\n\\nThe &3Spell &cHellrazer&r gets is &cRaise Hell&r. This will send a Wave of &cFire&r in all directions around you. This won't spread &cFire&r but it will do a ton of Damage to all Mobs near!"]
-	quest.0474C15D3AE3C2C9.title: "&cDecrepit Scythe"
+	quest.0474C15D3AE3C2C9.quest_desc: ["&cDecrepit Scythe là thứ mà &c&lEcho của Tyrus sử dụng để giết bạn. Chỉ là phiên bản của chúng tôi nhỏ hơn nhiều. \n\nNó có số liệu thống kê rất giống với &5Decrepit Flamberge, chỉ một chút thôi và ý tôi là nhanh hơn một chút Attack Speed. \n\nNó cũng có thể được nâng cấp với &6Pyrium, điều này sẽ mang lại cho nó nhiều sát thương hơn cộng với &3Spell! \n\n&3Spell &cHellrazer nhận được là &cRaise Hell&r. Điều này sẽ gửi một Làn sóng &cFire theo mọi hướng xung quanh bạn. Điều này sẽ không lan rộng &cFire nhưng nó sẽ gây ra rất nhiều Thiệt hại cho tất cả Mob ở gần!"]
+	quest.0474C15D3AE3C2C9.title: "&cLưỡi hái mục nát"
 	quest.05DBDD86FCFF3BA8.title: "&5Lightning&rNâng cấp Orb"
 	quest.06F2C42E6408149E.quest_desc: [
-		"I hope you didn't steal this from the &c&lPyromancer&r, he's the nice one!"
+		"Tôi hy vọng bạn không ăn cắp thứ này từ &c&lPyromancer, anh ấy là người tốt!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_pyromancer.png width:50 height:100 align:center}"
 	]
 	quest.06F2C42E6408149E.title: "&cPyromancer Outfit"
 	quest.06F8EDF7513F8611.title: "&dEpic&rInk"
-	quest.08767A1E6D48A5EA.quest_desc: ["The &7Graybeard Staff&r is a very cheap Staff. Cheap in price and quality. \\n\\nIt will only do 3 &4Damage&r but gives 25% Mana Regeneration and 10% &3Spell Power&r. \\n\\nPretty helpful if you're just using &3Spells&r to Kill!"]
-	quest.08767A1E6D48A5EA.quest_subtitle: "When will it become Whitebeards?"
-	quest.08767A1E6D48A5EA.title: "&7Graybeard Staff"
+	quest.08767A1E6D48A5EA.quest_desc: ["Nhân viên &7Graybeard là một nhân viên rất rẻ. Rẻ về giá cả và chất lượng. \n\nNó sẽ chỉ gây ra 3 &4Sát thương nhưng mang lại 25% Mana Regeneration và 10% &3Sức mạnh phép thuật. \n\nKhá hữu ích nếu bạn chỉ sử dụng &3Spells để tiêu diệt!"]
+	quest.08767A1E6D48A5EA.quest_subtitle: "Khi nào nó sẽ trở thành Râu Trắng?"
+	quest.08767A1E6D48A5EA.title: "&7Nhân viên râu xám"
 	quest.0CE1F6DE5FD6A6D9.title: "&aEvocation&rNâng cấp Orb"
 	quest.0E594BC58CC7476F.quest_desc: [
-		"He may be evil, but he still is fashionable. "
+		"Anh ấy có thể xấu xa nhưng vẫn rất thời trang."
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_archevoker.png width:60 height:100 align:center}"
 	]
 	quest.0E594BC58CC7476F.title: "&aArchevoker Outfit"
-	quest.0EED5D755D2C866A.quest_desc: ["&d&lEnder&r is used for taking all the powers of &dEndermen&r and the &dEnder Dragon&r, and of course using it for ourselves. &dTeleporting&r, &dFireballs&r, and &dDragon's Breath&r are only a few of these! \\n\\n&d&lEnder's&r Focus Material is the &dEnder Pearls&r. \\n\\nAnd its &dScrolls&r are &5Purple&r with &dPink&r text."]
+	quest.0EED5D755D2C866A.quest_desc: ["&d&lEnder’s được sử dụng để lấy tất cả sức mạnh của &dEndermen và &dEnder Dragon, và tất nhiên là sử dụng nó cho chính chúng ta. &dDịch chuyển, &dFireballs và &dDragon's Breath chỉ là một vài trong số đó! \n\n&d&lEnder's Focus Material là &dEnder Pearls. \n\nVà &dScrolls của nó là &5Purple với văn bản &dPink."]
 	quest.0EED5D755D2C866A.title: "&d&lEnder"
-	quest.0F8B349EBC9110D6.quest_desc: ["This one is a fun one to get! We'll first need a &5Lightning Rod&r as well as an &5Energized Core&r. \\n\\nThen, when it is Storming, Right Click the &5Energized Core&r onto the &5Lightning Rod&r. If done correctly, &5Lightning&r will Strike. This will turn the &5Lightning Rod&r into the &5Rod o' Lightning&r! \\n\\nThis Rod does 5 &4Damage&r and keeps the 15% Cast Time Reduction. But now it will only give 5% &3Spell Power&r and gives 15% &3Spell Power&f for &5Lightning Spells&r."]
-	quest.0F8B349EBC9110D6.title: "&5Rod o' Lightning"
-	quest.12498F8B5740F66E.quest_desc: ["The &bWizard Gear&r is the default Armor for &lIron's Spells&r! \\n\\nEvery other Armor will be Crafted with it, or Crafted from something Crafted from it! \\n\\nIt will only need &5Arcane Cloths&r to Craft. \\n\\nIt will give a huge boost in Max Mana, same Armor Points as &bDiamond Armor&r, and gives a Spell Power Boost!"]
-	quest.12498F8B5740F66E.title: "&bWizard Gear"
-	quest.1338EED4F26F3EFF.quest_desc: ["&3Spellbreaker&r is an expensive and powerful Weapon we can Craft. \\n\\nWe'll need &bWeapon Parts&r, &bDiamonds&f, and 2 &bMithril Ingots&r to make it. \\n\\n&3Spellbreaker&r does 10 &4Hearts of Damage&r and is slightly faster than a Sword. \\n\\nIt also has a &3Spell&r within it, &3Counterspell&r. When a Mob is using a &3Spell&r against you, use this one to stop them from using it!"]
+	quest.0F8B349EBC9110D6.quest_desc: ["Đây là một trong những niềm vui để có được! Đầu tiên chúng ta sẽ cần một &5Lightning Rod cũng như một &5Energized Core. \n\nSau đó, khi đang Bão tố, Right Click &5Lõi Năng lượng sẽ nằm trên &5Gậy Thu lôi. Nếu thực hiện đúng, &5Lightning sẽ tấn công. Điều này sẽ biến &5Rod o' Lightning thành &5Rod o' Lightning! \n\nThanh này gây ra 5 & 4 sát thương và giữ 15% Cast Time Reduction. Nhưng bây giờ nó sẽ chỉ cung cấp 5% &3Sức mạnh phép thuật và cung cấp 15% &3Sức mạnh phép thuật&f cho &5Sức mạnh phép thuật."]
+	quest.0F8B349EBC9110D6.title: "&5Cây gậy tia chớp"
+	quest.12498F8B5740F66E.quest_desc: ["&bWizard Gear là Giáp mặc định cho &lIron's Spells! \n\nMọi Áo giáp khác sẽ được Chế tạo từ nó hoặc Được Chế tạo từ thứ gì đó Được Chế tạo từ nó! \n\nNó sẽ chỉ cần &5Vải Arcane để Chế tạo. \n\nNó sẽ tăng mạnh năng lượng tối đa, giống như Armor Points như &bDiamond Armor, và mang lại Spell Power Boost!"]
+	quest.12498F8B5740F66E.title: "&bTrang bị phù thủy"
+	quest.1338EED4F26F3EFF.quest_desc: ["&3Spellbreaker là một Vũ khí đắt tiền và mạnh mẽ mà chúng ta có thể Chế tạo. \n\nChúng ta sẽ cần &bBộ phận vũ khí, &bDiamonds&f, và 2 &bPhôi Mithril để tạo ra nó. \n\n&3Spellbreaker gây ra 10 &4Hearts of Damage và nhanh hơn Sword một chút. \n\nNó cũng có &3Spell bên trong, &3Countersspell. Khi một Mob đang sử dụng &3Spell để chống lại bạn, hãy sử dụng cái này để ngăn chúng sử dụng nó!"]
 	quest.1338EED4F26F3EFF.title: "&3Spellbreaker"
 	quest.13F77C38AC015E9F.quest_desc: [
-		"High above the Mountains, high above the Clouds rests another &bTower&r. This one giving you shivers down your spine. \\n\\nThe &bTower&r is made of Stone, Dark Oak, and Deepslate. It has a second Tower branching off of it. There is a staircase on the outside that leads to the first floor. From there you can climb the inside staircase to go up to the bedroom or second tower. \\n\\nOr you can venture behind that staircase down the Ladder to the Basement, where the &b&lCryomancer&r will most likely be. \\n\\nIn the &bTower&r you can find Inscription Tables, Amethyst, and Loot Chests!"
+		"Cao trên những ngọn núi, cao trên những đám mây là một &bTháp khác. Điều này khiến bạn rùng mình sống lưng. \n\n&bTower được làm bằng Đá, Dark Oak và Deepslate. Nó có một Tháp thứ hai phân nhánh từ đó. Có một cầu thang ở bên ngoài dẫn lên tầng một. Từ đó bạn có thể leo lên cầu thang bên trong để lên phòng ngủ hoặc tháp thứ hai. \n\nHoặc bạn có thể đi theo cầu thang đó xuống Thang đến Tầng hầm, nơi có nhiều khả năng nhất sẽ có &b&lCryomancer. \n\nTrong &bTower, bạn có thể tìm thấy Inscription Tables, Thạch anh tím và Loot Chests!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
 	]
-	quest.13F77C38AC015E9F.title: "&bMountain Tower"
-	quest.161477ABCC437BD2.quest_desc: ["The &bBoreal Blade&r is a cool Sword! Both personality wise and temperature wise. \\n\\nIt's made from &bWeapon Parts&r, &bIce&r, &bMithril Ingots&r, and &bIce Venom Vials&r. \\n\\nCheck out the &b&lIce Spider&r Quest to get &bIce Venom&r! \\n\\nThis Blade does a ton of Damage! At 16 &4Hearts&r. It is slow to swing though, same speed as an Axe. \\n\\nThe &3Spell&r that comes with &bBoreal Blade&r is &bFrostbite&r. It's another Effect... not sure what it does."]
-	quest.161477ABCC437BD2.title: "&bBoreal Blade"
+	quest.13F77C38AC015E9F.title: "&bTháp Núi"
+	quest.161477ABCC437BD2.quest_desc: ["&bBoreal Blade là một thanh kiếm tuyệt vời! Cả tính cách khôn ngoan và nhiệt độ khôn ngoan. \n\nNó được làm từ &bBộ phận vũ khí, &bIce, &bMithril Ingots, và &bIce Venom Vials&r. \n\nHãy xem Nhiệm vụ của &b&lIce Spider để nhận được &bIce Venom! \n\nLưỡi kiếm này gây ra rất nhiều sát thương! Tại 16 &4Hearts. Tuy nhiên, nó vung rất chậm, tốc độ tương đương với Rìu. \n\n&3Spell đi kèm với &bBoreal Blade là &bFrostbite. Đó là một Hiệu ứng khác... không chắc nó có tác dụng gì."]
+	quest.161477ABCC437BD2.title: "&bLưỡi phương bắc"
 	quest.19542103E042BDB5.quest_desc: ["{image:atm:textures/questpics/iron_spells/spells_outfit_shadow.png width:60 height:100 align:center}"]
-	quest.19542103E042BDB5.title: "&dShadow-Walker Outfit"
-	quest.19B057DFF331E41C.quest_desc: ["The &4Scarecrow Outfit&r is slightly better than the &9Wandering Magician&r, with 3 times the Mana and more Armor Points. \\n\\nThis one will need more Items to Craft though. \\n\\nIt now needs &5Arcane Cloth&r instead of &5Essence&r, as well as &eHay Bales&r and &6Pumpkins&r."]
+	quest.19542103E042BDB5.title: "&dBóng-Walker Outfit"
+	quest.19B057DFF331E41C.quest_desc: ["Trang phục &4Scarecrow tốt hơn một chút so với &9Wandering Magician, với mana gấp 3 lần và hơn thế nữa Armor Points. \n\nTuy nhiên, cái này sẽ cần nhiều vật phẩm hơn để chế tạo. \n\nBây giờ nó cần &5Arcane Clothing thay vì &5Essence, cũng như &eHay Bales và &6Pumpkins."]
 	quest.19B057DFF331E41C.title: "&4Scarecrow Outfit"
-	quest.1A0368CB49B8CBFF.quest_desc: ["This &eSpell Book&r is a rare drop from &cBlazes&r. I remember that because I was confused when I got 1 from my &cBlaze&r Farm. \\n\\nIt gives a Boost to &cFire Spells&r and has 10 &3Spell&r Slots."]
-	quest.1A0368CB49B8CBFF.quest_subtitle: "Hot! Hot! Hot!"
+	quest.1A0368CB49B8CBFF.quest_desc: ["&eSpell Book này là một vật phẩm hiếm hoi rơi ra từ &cBlazes. Tôi nhớ điều đó vì tôi đã rất bối rối khi nhận được 1 con từ trang trại &cBlaze của mình. \n\nNó tăng cường &cFire Spells và có 10 &3Spell's Slots."]
+	quest.1A0368CB49B8CBFF.quest_subtitle: "Nóng! Nóng! Nóng!"
 	quest.1A0368CB49B8CBFF.title: "&cBlaze Instruction Manual"
-	quest.1BE69992D2C5085B.quest_desc: ["&n&aEvocation:&r\\nTo invoke a Spirit or Deity. \\n\\n&a&lEvokation&r is all about what &aEvokers&r do, mainly summoning. Whether it be &aFangs&r or &aVexes&r if it's summoned it's most likely an &aEvokation&r. \\n\\n&a&lEvokation's&r Focus Material is &aEmeralds&r. You can either craft the Rune or get it from the &a&lArchevoker&r. \\n\\n&aEvokation Scrolls&r are &fWhite&r with &0Black&r texts."]
+	quest.1BE69992D2C5085B.quest_desc: ["&n&aKêu gọi:&r\nĐể triệu tập một Tinh thần hoặc Thần linh. \n\n&a&lEvokation là tất cả những gì &aEvoker làm, chủ yếu là triệu hồi. Cho dù đó là &aFangs hay &aVexes nếu nó được triệu hồi thì rất có thể đó là một &aEvokation. \n\n&a&lEvokation's' Focus Material là &aEmeralds's. Bạn có thể chế tạo Ấn thạch hoặc lấy nó từ &a&lArchevoker. \n\n&aEvokation Scrolls là &fWhite với văn bản của &0Black."]
 	quest.1BE69992D2C5085B.title: "&a&lEvocation"
-	quest.1CAEC4C273EDDB99.quest_desc: ["It's here! It's there! It's everywhere and it's rotten! You can find these in most Chests. \\n\\nThey can hold 8 &3Spells&r but give you less Spell Resistance."]
+	quest.1CAEC4C273EDDB99.quest_desc: ["Nó ở đây! Nó ở đó! Nó ở khắp mọi nơi và mục nát! Bạn có thể tìm thấy những thứ này trong hầu hết các Rương. \n\nChúng có thể chứa 8 &3 Phép thuật nhưng cung cấp cho bạn ít hơn Spell Resistance."]
 	quest.1CAEC4C273EDDB99.title: "Rotten Spell Book"
 	quest.204B969DA081056A.quest_desc: [
-		"These can spawn almost anywhere &2Vanilla&r Hostile Mobs spawn in. They aren't bosses, just more Enemies! \\n\\nThey have 25 Points of &cHealth&r and have mulitple attacks: &aFangs&r from the ground like what &aEvokers&r do and a &bSnowball&r they can shoot you with. \\n\\nThey can also summon Zombies and Skeletons to help fight you. These won't drop anything and spawn with Armor from the ground. \\n\\nThey will drop Arcane Essence on death along with sometimes a &3Scroll&r!"
+		"Chúng có thể sinh ra ở hầu hết mọi nơi & Hostile Mobs của 2Vanilla xuất hiện. Chúng không phải là trùm, chỉ là nhiều Kẻ thù hơn! \n\nHọ có 25 Điểm &cSức khỏe và có nhiều đòn tấn công: &aFang từ mặt đất giống như những gì &aEvokers làm và &bSnowball’s mà họ có thể bắn bạn. \n\nHọ cũng có thể triệu tập Zombie và Skeleton để giúp chiến đấu với bạn. Những thứ này sẽ không làm rơi bất cứ thứ gì và sinh ra cùng với Giáp từ mặt đất. \n\nChúng sẽ rơi ra Arcane Essence khi chết cùng với &3Cuộn!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_necromancer.png width:100 height:200 align:center}"
 	]
 	quest.204B969DA081056A.title: "Necromancers"
-	quest.24150DE600C2D761.quest_desc: ["This one is single-handly taking us from E10 to Teen rating. &4&lBlood&r is all about slaying enemies for your own &cHealth&r! Most attacks will heal you back. \\n\\n&4&lBlood's&r Focus Material is &4Blood Vials&r which you get from cooking a Mob or Player in a Cauldron. \\n\\nIts &4Scrolls&r are Brown (there's no color for Brown) with &4Dark Red&r texts."]
+	quest.24150DE600C2D761.quest_desc: ["Điều này một mình đưa chúng ta từ xếp hạng E10 lên Thanh thiếu niên. &4&lMáu là việc tiêu diệt kẻ thù vì &cSức khỏe của chính bạn! Hầu hết các cuộc tấn công sẽ chữa lành vết thương cho bạn. \n\n&4&lBlood's Focus Material là &4Blood Lọ mà bạn nhận được khi nấu Mob hoặc Người chơi trong Vạc. \n\n&4Scrolls của nó có màu Nâu (không có màu cho Nâu) với văn bản của &4Dark Red."]
 	quest.24150DE600C2D761.title: "&4&lBlood"
 	quest.24BAC1C0392E950E.quest_desc: [
-		"I heard you can just take online classes to become one now."
+		"Tôi nghe nói bây giờ bạn chỉ cần tham gia các lớp học trực tuyến để trở thành một lớp học."
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_priest.png width:60 height:100 align:center}"
 	]
 	quest.24BAC1C0392E950E.title: "&6Priest Outfit"
-	quest.258B4890CF13D199.quest_desc: ["The &aMagehunter&r is a very weird Weapon to get. Weird as in the way to get it is very specific. \\n\\nTo get it, you'll need to go to the &aEvoker Fort&r and the &aVindicator&r on the 2nd Floor will have it. Kill him to get it. \\n\\nThe &aSword&r is a good Sword, doing 10 &4Hearts of Damage&r with normal Sword Speed. \\n\\nWhile Holding it you'll get a little &3Spell Resistance&r. Plus some might come with Enchants, mine did!"]
+	quest.258B4890CF13D199.quest_desc: ["&aMagehunter là một Vũ khí rất kỳ lạ để có được. Kỳ lạ là ở cách thức để có được nó lại rất cụ thể. \n\nĐể có được nó, bạn cần đến &aEvoker Fort và &aVindicator’s ở Tầng 2 sẽ có nó. Giết hắn để lấy nó. \n\n&aSword là một thanh kiếm tốt, gây sát thương 10 &4Hearts ở mức bình thường Sword Speed. \n\nWhile Holding bạn sẽ nhận được một chút &3Kháng Phép. Ngoài ra, một số có thể đi kèm với Enchants, của tôi thì có!"]
 	quest.258B4890CF13D199.title: "&aMagehunter"
-	quest.25F79B40579B3909.quest_desc: ["The &5Decrepit Flamberge&r is the Sword of choice for &5Ancient Knights&r and some &5Cursed Armor Stands&r. \\n\\nThat is also where we can get it from, Killing those guys! \\n\\nIt looks like a &5Netherite Sword&r, just if it was wiggling when being made. \\n\\nIt does 11 &4Hearts of Damage&r but is slightly slower than a Sword. \\n\\nIt can be upgraded with &6Pyrium&r to increase its Attack Speed."]
-	quest.25F79B40579B3909.title: "&5Decrepit Flamberge"
-	quest.2664373E8977E7BE.quest_desc: ["Who knows &4Blood&r like Vampires do! Nobody, that's who! \\n\\nThis &eSpellbook&r isn't that hard to make besides the Ruined Book. \\n\\nThe other Items are just &5Arcane Ingots&r and &4Bloody Vellum&r. &4Bloody Vellum&r is made by dipping &dHogskin&r into an Alchemist Cauldron full of &4Blood&r. \\n\\nThe &eSpellbook&r has 10 Spell Slots, and it will give an extra Level to &4Blood Slash&r and &4Blood Step&r!"]
-	quest.2664373E8977E7BE.title: "&4Vampiric Spellbook"
-	quest.27CF1A2587321A2C.quest_desc: ["The best &eSpell Book&r you can imagine! 15 &3Spell&r Slots! Are there even 15 &3Spells&r?!?! Oh wait yeah there is 15 isn't that much... \\n\\nDo the same as before: previous Book, Ingot, and Template."]
-	quest.27CF1A2587321A2C.title: "&5Unobtainium&rSpell Book"
-	quest.294418130521FDF4.quest_desc: ["&bMithril&r is an Ore that only spawns wayyy below the &2&lOverworld&r. \\n\\nIt will spawn around Y Levels -40 to &8Bedrock&r. Just around where the &cLava Pools&r are! \\n\\nYou'll need a &5Netherite Pickaxe&r to Mine it and it will only Drop 1 &bRaw Mithril&r unless you use Fortune. \\n\\nThis &bRaw Mithril&r can be Smelt to make &bMithril Scraps&r. These can be used in Recipes, or we can combine 4 of them to make a &bMithril Ingot&r!"]
+	quest.25F79B40579B3909.quest_desc: ["&5Decrepit Flamberge là Thanh kiếm được lựa chọn cho &5Hiệp sĩ cổ đại và một số &5Cursed Armor Stands&r. \n\nĐó cũng là nơi chúng ta có thể lấy nó, Giết những kẻ đó! \n\nNó trông giống như một thanh &5Netherite Sword, chỉ là nó đang ngọ nguậy khi được chế tạo. \n\nNó gây sát thương 11 & 4Trái tim nhưng chậm hơn một chút so với Kiếm. \n\nNó có thể được nâng cấp bằng &6Pyrium để tăng Attack Speed."]
+	quest.25F79B40579B3909.title: "&5Flamberge suy sụp"
+	quest.2664373E8977E7BE.quest_desc: ["Ai biết được &4Blood giống như Ma cà rồng! Không ai cả, đó là ai! \n\nCuốn sách điện tử này không khó làm ngoài Ruined Book. \n\nCác Vật phẩm khác chỉ là &5Arcane Ingots và &4Bloody Vellum. &4Bloody Vellum được tạo ra bằng cách nhúng &dHogskin vào một Alchemist Cauldron chứa đầy &4Blood. \n\n&eSpellbook có 10 Spell Slots, và nó sẽ tăng thêm Cấp độ cho &4Blood Slash&r và &4Blood Step&r!"]
+	quest.2664373E8977E7BE.title: "&4Sách bùa chú ma cà rồng"
+	quest.27CF1A2587321A2C.quest_desc: ["Cuốn &eSpell Book hay nhất mà bạn có thể tưởng tượng! Khe cắm 15 &3 thần chú! Thậm chí còn có 15 &3 Phép thuật?!?! Ồ chờ đã, có 15 cũng không nhiều lắm... \n\nLàm tương tự như trước: Sách, Thỏi và Mẫu trước đó."]
+	quest.27CF1A2587321A2C.title: "&5Sách thần chú của Unobtainium"
+	quest.294418130521FDF4.quest_desc: ["&bMithril là một loại quặng chỉ sinh sản ở bên dưới &2&lOverworld. \n\nNó sẽ xuất hiện ở cấp độ Y -40 đến &8Bedrock. Ngay xung quanh nơi có &cLava Pools! \n\nBạn sẽ cần một &5 chiếc Cuốc Netherite để khai thác nó và nó sẽ chỉ rơi ra 1 &bRaw Mithril trừ khi bạn sử dụng Fortune. \n\n&bMithril thô này có thể được nấu chảy để tạo ra &bPhế liệu Mithril. Chúng có thể được sử dụng trong Công thức nấu ăn hoặc chúng ta có thể kết hợp 4 trong số chúng để tạo thành &bMithril Ingot!"]
 	quest.294418130521FDF4.title: "Getting&bMithril"
-	quest.29605960803BE885.quest_desc: ["The &dAmethyst Rapier&r is decently cheap for what it does! \\n\\nIt is just &bWeapon Parts&f, &dAmethyst&r, and Chains. \\n\\nThe &dAmethyst Rapier&r does 8 &4Hearts of Damage&r, same as the &5Netherite Sword&r. Just this one Swings much faster with an Attack Speed of 2.3. \\n\\nThe special part of the &dAmethyst Rapier&r is the built in Spell it gets! &dEchoing Strike&r. \\n\\nBy pressing (V) while holding the &dRapier&r, and you'll get the &dEchoing Strike Effect&r. Any Mob Hit with the &dRapier&r will have a shockwave come out of them. This will Damage other Mobs near it."]
-	quest.29605960803BE885.title: "&dAmethyst Rapier"
-	quest.29BDCF3C1B11B4C6.quest_desc: ["The &6Pyrium Staff&r is the most powerful Staff... well &4Damage&r wise, not Power Wise. \\n\\nIt needs 2 &6Pyrium Ingots&r, a &5Netherite Ingot&r, and &5Arcane Cloth&r. \\n\\n&5Netherite Ingots&f and &5Arcane Cloths&r are easy, &6Pyrium&r... not so much. You'll need to Open 2 Vaults at the &cCitadel&r. \\n\\nThe &6Pyrium Staff&r will give 5% &3Spell Power&r and 15% to &cFire Spells&r. As well as 10% less Cast Time!"]
-	quest.29BDCF3C1B11B4C6.title: "&6Pyrium Staff"
+	quest.29605960803BE885.quest_desc: ["&dAmethyst Rapier có giá khá rẻ so với những gì nó làm được! \n\nNó chỉ là &bBộ phận vũ khí&f, &thạch anh tím và Dây chuyền. \n\n&dAmethyst Rapier gây ra 8 &4Hearts of Damage, giống như &5Netherite Sword. Chỉ cái này Xoay nhanh hơn nhiều với Attack Speed là 2,3. \n\nPhần đặc biệt của &dAmethyst Rapier là Phép thuật tích hợp trong nó! &dEchoing Strike&r. \n\nBằng cách nhấn (V) trong khi giữ &dRapier, bạn sẽ nhận được &dEchoing Strike Effect&r. Any Mob Hit với &dRapier sẽ có sóng xung kích phát ra từ chúng. Điều này sẽ gây sát thương cho các Mob khác ở gần nó."]
+	quest.29605960803BE885.title: "&dRapier thạch anh tím"
+	quest.29BDCF3C1B11B4C6.quest_desc: ["Nhân viên &6Pyrium là nhân viên mạnh nhất... à, khôn ngoan của &4Damage, không phải Power Wise. \n\nNó cần 2 &6 ThỏiPyrium, &5 Thỏi Netherite, và &5Vải Arcane. \n\n&5Netherite Ingots&f và &5Arcane Clothing rất dễ dàng, &6Pyrium... thì không quá nhiều. Bạn sẽ cần mở 2 Vault tại &cCitadel. \n\nNhân viên &6Pyrium sẽ cung cấp 5% &3Sức mạnh Phép thuật và 15% cho &cPhép thuật Lửa. Cũng như giảm 10% Cast Time!"]
+	quest.29BDCF3C1B11B4C6.title: "&6Nhân viên Pyrium"
 	quest.2A787B99A8B0C767.quest_desc: [
-		"A very important block and a very common one! Can be crafted or found in most &lIron Spells&r Structures. \\n\\nThese are used for adding and removing &3Scrolls&r from &eSpell Books&r! Throw the &eSpell Book&r in the Book Slot then the &3Scroll&r below it. If you want to remove a &3Scroll&r, click it then take it from the right and into your Inventory."
+		"Một khối rất quan trọng và rất phổ biến! Có thể được chế tạo hoặc tìm thấy trong hầu hết các công trình của &lIron Spells. \n\nChúng được sử dụng để thêm và xóa &3Scrolls khỏi &eSpell Books! Ném &eSpell Book vào Book Slot sau đó &3Scroll ở bên dưới nó. Nếu bạn muốn xóa &3Scroll, hãy nhấp vào nó rồi lấy nó từ bên phải và đưa vào Kho của bạn."
+
 		"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
 	]
-	quest.2B901ECF97FFA181.quest_desc: ["When you finally combine the Ancient Knowledge Fragments you'll get the... &9Eldritch Manuscript&r! That's what the last class is! \\n\\n&9Eldritch&r is the last class, the most powerful of all &3Spells&r. They are crafted with &9Echo Shards&r and need to be learned from the &9Manuscript&r to use them. Each &9Manuscript&r is only one use."]
-	quest.2B901ECF97FFA181.quest_subtitle: "9th Class"
+	quest.2B901ECF97FFA181.quest_desc: ["Cuối cùng khi bạn kết hợp Ancient Knowledge Fragments bạn sẽ nhận được... &9Bản thảo Eldritch! Buổi học cuối cùng là thế đấy! \n\n&9Eldritch là lớp cuối cùng, mạnh nhất trong tất cả &3Spells. Chúng được chế tạo bằng &9Mảnh Echo và cần học từ &9Bản thảo để sử dụng chúng. Mỗi &9Bản thảo chỉ được sử dụng một lần."]
+	quest.2B901ECF97FFA181.quest_subtitle: "lớp 9"
 	quest.2B901ECF97FFA181.title: "&9&lEldritch"
-	quest.2BB910B217DF3A12.quest_subtitle: "Why is it wet? Was it in a Lake?"
+	quest.2BB910B217DF3A12.quest_subtitle: "Tại sao nó ướt? Có phải nó ở trong hồ?"
 	quest.2BB910B217DF3A12.title: "&dEnder&rNâng cấp Orb"
-	quest.2D84DA544D7A24FA.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.2D84DA544D7A24FA.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
 	quest.2E6F1C8718EB8C66.title: "&4Blood&rNâng cấp Orb"
-	quest.3009018DEC1EC952.quest_desc: ["There's 6 structures in the &2Overworld&r that the bosses can spawn in! (There's a 7th but no boss in there)."]
-	quest.3009018DEC1EC952.title: "&lAdventure Time!"
-	quest.300F2E45D185A9A1.quest_desc: ["&lIron&r has brought us a wonderful and very fun Magic Mod! &lIron's Spells 'N Spellbooks!&r \\n\\n&lIron's Spells&r is all about making and using &3Spells&r! Each &3Spell&r has a Rarity, Level, and Class! And everyone of them can be used in a Spellbook. \\n\\nYou won't be able to just make whatever you want with &7Iron&r and &cRedstone&r, you'll need to get off your butt, Adventure, and Fight!"]
-	quest.300F2E45D185A9A1.title: "&lSắt's Spells 'N Spellbooks"
+	quest.3009018DEC1EC952.quest_desc: ["Có 6 công trình trong &2Overworld mà trùm có thể xuất hiện! (Có cái thứ 7 nhưng không có boss trong đó)."]
+	quest.3009018DEC1EC952.title: "&lThời gian phiêu lưu!"
+	quest.300F2E45D185A9A1.quest_desc: ["&lIron đã mang đến cho chúng ta một Magic Mod tuyệt vời và vô cùng thú vị! &lThần chú của Iron 'N Sách thần chú!&r \n\n&lIron's Spells's là về việc tạo và sử dụng &3Spells! Mỗi &3Spell đều có Độ hiếm, Cấp độ và Đẳng cấp! Và tất cả chúng đều có thể được sử dụng trong Sách Phép. \n\nBạn sẽ không thể làm bất cứ điều gì bạn muốn với &7Iron và &cRedstone, bạn sẽ cần phải thoát khỏi cuộc phiêu lưu và chiến đấu!"]
+	quest.300F2E45D185A9A1.title: "&lSắt's Spells 'N Sách Phép"
 	quest.30B7AF815D9D7553.quest_desc: [
-		"The &cBurned Tower&r of the &c&lPyromancer&r. Some say if you're close enough to see the &cTower&r, then you're close enough to feel the heat from it. \\n\\nThe &cPyromancer Tower&r is a burned tower of mainly Stone types with the inside being made of Spruce and Oak. There is also a second Building close to the &cTower&r that is part of the structure as well. \\n\\nAt the top you will find what's causing the smoke as well as an &5Armor Pile&r. \\n\\nIf you'd like to find the &c&lPyromancer&r you'll need to venture down into the Basement!"
+		"&cBurned Tower của &c&lPyromancer. Một số người nói rằng nếu bạn ở đủ gần để nhìn thấy &cTower thì bạn ở đủ gần để cảm nhận được sức nóng từ nó. \n\nTháp &cPyromancer là một tòa tháp bị đốt cháy chủ yếu bằng loại Đá với bên trong được làm từ Gỗ vân sam và Gỗ sồi. Ngoài ra còn có Tòa nhà thứ hai gần &cTower cũng là một phần của cấu trúc. \n\nỞ trên cùng, bạn sẽ tìm thấy nguyên nhân gây ra khói cũng như &5Cọc Giáp. \n\nNếu bạn muốn tìm &c&lPyromancer, bạn cần phải đi xuống tầng hầm!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancertower.png width:200 height:100 align:center}"
 	]
-	quest.30B7AF815D9D7553.title: "&cPyromancer Tower"
+	quest.30B7AF815D9D7553.title: "&cTháp Hỏa Thuật"
 	quest.32D2CE292E088939.title: "&cFire&rNâng cấp Orb"
-	quest.34FC02F47F52887F.quest_desc: ["This &eSpellbook&r definitely makes you work for the 12 &3Spell Slots&r! \\n\\nYou'll need &bIce Venom Vials&r, which are made from &bIcy Fangs&r or Looted from &bIce Spider Den&r. \\n\\n&5Arcane Cloths&r which are very easy to make. As well as &bMithril Scraps&r which you'll need to Mine for! \\n\\nJudging by how cold the &eSpellbook&r feels, I think it helps with &bIce Spells&r."]
-	quest.34FC02F47F52887F.title: "&bFrostbanded Spellbook"
-	quest.36B283532D70776A.quest_desc: ["&aBoots of Speed&r are the best Boots you can get here. \\n\\nFirst, we'll need the &aArchevokers Boots&r. If you don't like hand-me-downs, I'd recommend Crafting them yourself. \\n\\nThen, we'll need a &bMithril Weave&r. This is a combination of &bMithril Ingots&r and Chains. These are only used for Crafting Armor so you'll pretty much just need a few. \\n\\nLast is the &dDivine Soulshard&r. \\n\\nThese &aBoots&r will give more Mana than any other Boots, more &3Spell Power&r, plus they make you faster? How do they make you faster? By increasing your Movement and &3Spell Casting&r Speed!"]
-	quest.36B283532D70776A.title: "&aBoots of Speed"
-	quest.36F87173D8CD1D68.quest_desc: ["Ride the &5Lightning&r! &5&lLightning&r is all about using Electricity to kill and support yourself. Some attacks even work as real &5Lightning&r! \\n\\n&5&lLightning's&r Focus Material is &5Bottle 'O Lightning&r which you get from using an Empty Bottle on a Charged Creeper. You need the &5Lightning&r to make more &5Lightning&r! \\n\\nIts &5Scrolls&r are &7Grey&r with &bLight Blue&r text."]
+	quest.34FC02F47F52887F.quest_desc: ["&eSpellbook này chắc chắn sẽ khiến bạn phải làm việc cho 12 &3Spell Slots! \n\nBạn sẽ cần &bIce Venom Vials&r, được làm từ &bIcy Fangs&r hoặc Looted from &bIce Spider Den&r. \n\n&5Vải Arcane rất dễ làm. Cũng như &bMithril Scraps mà bạn sẽ cần để khai thác! \n\nDựa vào cảm giác lạnh lùng của &eSpellbook, tôi nghĩ nó sẽ giúp ích cho &bIce Spells."]
+	quest.34FC02F47F52887F.title: "&bSách chính tả băng giá"
+	quest.36B283532D70776A.quest_desc: ["&aBoots of Speed ​​là những Boots tốt nhất bạn có thể mua ở đây. \n\nĐầu tiên, chúng ta sẽ cần &aArchevokers Boots. Nếu bạn không thích những món đồ thủ công, tôi khuyên bạn nên tự mình chế tạo chúng. \n\nSau đó, chúng ta sẽ cần một &bMithril Weave. Đây là sự kết hợp giữa &bMithril Ingots và Chains. Những thứ này chỉ được sử dụng để chế tạo áo giáp nên bạn sẽ chỉ cần một ít. \n\nCuối cùng là &dDivine Soulshard. \n\nNhững đôi Boots này sẽ cung cấp nhiều Mana hơn bất kỳ đôi Boots nào khác, nhiều &3Spell Power hơn, cộng thêm chúng giúp bạn nhanh hơn? Làm thế nào để họ làm cho bạn nhanh hơn? Bằng cách tăng Tốc độ Di chuyển và &3Phép niệm của bạn!"]
+	quest.36B283532D70776A.title: "&aTăng tốc"
+	quest.36F87173D8CD1D68.quest_desc: ["Hãy cưỡi chiếc &5Lightning! &5&lLightning's là việc sử dụng Điện để giết và hỗ trợ bản thân. Một số cuộc tấn công thậm chí còn hoạt động như thật &5Lightning! \n\n&5&lLightning's Focus Material là &5Bottle 'O Lightning's mà bạn nhận được từ việc sử dụng Empty Bottle trên Charged Creeper. Bạn cần &5Lightning để kiếm thêm &5Lightning! \n\n&5Scrolls của nó là &7Grey với văn bản &bLight Blue."]
 	quest.36F87173D8CD1D68.title: "&5&lLightning"
-	quest.373EBEB2E96D9361.quest_desc: ["While exploring the Snowy Biomes you may come accross what might look like a run-down Church. \\n\\nExcept what is in it, isn't &6Holy&r! \\n\\nTravel down into the Basement to the Catacombs. Here will be plenty of Stray Spawners, Powder Snow traps, and Loot! \\n\\nAs well as &bIce Spider Eggs&r... try Breaking them and you will alert the..."]
-	quest.373EBEB2E96D9361.title: "&bIce Spider Den"
+	quest.373EBEB2E96D9361.quest_desc: ["Trong khi khám phá Snowy Biomes, bạn có thể bắt gặp những gì trông giống như một Nhà thờ đổ nát. \n\nNgoại trừ thứ ở trong đó, không phải là &6Thánh! \n\nĐi xuống tầng hầm đến Hầm mộ. Ở đây sẽ có rất nhiều bẫy Stray Spawners, Powder Snow và Loot! \n\nCũng như &bIce Spider Eggs&r... hãy thử Phá vỡ chúng và bạn sẽ cảnh báo..."]
+	quest.373EBEB2E96D9361.title: "&bĐá Spider Den"
 	quest.395A33977B18B9AD.quest_desc: [
-		"After trying to harvest the &5Piles of Armor&r they appear to come back to life as if there was a body using it. They can also come from Spawners. \\n\\nThey have 60 &4Hearts&r and they are different from other bosses as they don't use magic, rather I believe they are something made from magic. They will attack using their Sword either by swinging it or charging at you with it. \\n\\nFrom what I've seen they will attack everything they see besides other &5&lKnights&r! \\n\\nOnce killed they dropped Netherite Scraps and &cCinder Essence&r. Rarely they will Drop their &5Weapon&r and the ones in the &cCitadel&r will Drop Decrepit Keys."
+		"Sau khi cố gắng thu hoạch &5 Đống Giáp, chúng dường như sống lại như thể có một cơ thể nào đó đang sử dụng nó. Họ cũng có thể đến từ Spawners. \n\nChúng có 60 &4Hearts và chúng khác với những tên trùm khác vì chúng không sử dụng phép thuật, đúng hơn tôi tin rằng chúng là thứ được tạo ra từ phép thuật. Họ sẽ tấn công bằng Thanh kiếm của mình bằng cách vung nó hoặc dùng nó lao vào bạn. \n\nTheo những gì tôi thấy, chúng sẽ tấn công mọi thứ chúng nhìn thấy ngoài &5&lHiệp sĩ khác! \n\nSau khi bị giết, chúng rơi ra Netherite Scraps và &cinder Essence. Hiếm khi họ đánh rơi &5Vũ khí của mình và những vũ khí trong di chúc của &citadel Drop Decrepit Keys."
+
 		"{image:atm:textures/questpics/iron_spells/spells_knight.png width:100 height:150 align:center}"
 	]
-	quest.395A33977B18B9AD.title: "&5&lAncient Knight"
-	quest.3A85110725E81CDF.quest_desc: ["If you've played &2&lMinecraft&r before, you should know what Armor is and what it does! \\n\\n&lIron's Spells&r adds their own types of Armor as well. \\n\\nThese work like normal Armor but each will grant different boosts to your magical powers. Like higher &3Spell Power&r, more Mana, and even Elemental boosts."]
+	quest.395A33977B18B9AD.title: "&5&lHiệp sĩ cổ đại"
+	quest.3A85110725E81CDF.quest_desc: ["Nếu bạn đã từng chơi &2&lMinecraft trước đây thì bạn nên biết Armor là gì và nó có tác dụng gì! \n\n&lIron's Spells cũng bổ sung thêm các loại Giáp của riêng họ. \n\nChúng hoạt động giống như Áo giáp bình thường nhưng mỗi loại sẽ mang lại mức tăng sức mạnh ma thuật khác nhau cho bạn. Giống như &3Sức mạnh phép thuật cao hơn, nhiều mana hơn và thậm chí cả tăng nguyên tố."]
 	quest.3A85110725E81CDF.title: "&lArmor"
-	quest.3DCD38634176BD92.quest_desc: ["Combine the &6Allthemodium&r &eSpell Book&r with a Vibranium Ingot and Template in a Smithing Table.\\n\\nThis template can be obtained from Brushing Suspicious Soul Sand in a Bastion."]
-	quest.3DCD38634176BD92.title: "&3Vibranium&rSpell Book"
+	quest.3DCD38634176BD92.quest_desc: ["Kết hợp &sách eSpell của &6Allthemodium với Vibranium Ingot và Mẫu trong Bảng rèn.\n\nMẫu này có thể lấy được từ việc Đánh cát linh hồn khả nghi trong pháo đài."]
+	quest.3DCD38634176BD92.title: "&3Sách thần chú của Vibranium"
 	quest.3E8077AB45C79E6A.quest_desc: [
-		"Definitely better than a Normal Minecraft Cauldron! \\n\\nThe Alchemist Cauldron can: \\n1. Be used to get &4Blood&r by cooking Mobs or the Player. \\n2. Make and upgrade Potions. \\n3. Have half a chance at getting Ink from a Scroll. \\n4. Combine 4 Ink of a Rarity to a higher Rarity. "
+		"Chắc chắn là tốt hơn Normal Minecraft Cauldron! \n\nChiếc vạc giả kim có thể: \n1. Được sử dụng để nhận &4Blood bằng cách nấu Mob hoặc Người chơi. \n2. Chế tạo và nâng cấp Thuốc. \n3. Có một nửa cơ hội nhận được Mực từ Cuộn giấy. \n4. Kết hợp 4 loại Mực Rarity thành Rarity cao hơn."
+
 		"{image:atm:textures/questpics/iron_spells/spells_cauldron.png width:100 height:100 align:center}"
 	]
 	quest.401BB95B740385B7.title: "&6Holy&rNâng cấp Orb"
 	quest.4104ABDC0E577350.title: "&2Nature&rNâng cấp Orb"
-	quest.420CB9502DF8E1BC.quest_desc: ["The &b&lIce Spider&r. \\n\\nThis is an Enemy with 50 &4Hearts&r and 20 Armor Points. \\n\\nIf you get near they will Bite you or Smack you with one of their many Arms! \\nIf you get farther they will either Shoot some sort of &bIcy cocoon&r? I think? Whatever it is, it Damages you and &bFreezes&r you in place. Or they might send a line of &bIce Rocks&r toward you from the ground to Damage you. \\n\\nOn Death they'll Drop String, &5Arcane Essence&r, and sometimes an &bIcy Fang&r."]
-	quest.420CB9502DF8E1BC.title: "&b&lIce Spider"
-	quest.4407BD7B5F033765.quest_desc: ["Another Craftable &eSpell Book&r and following the pattern this one is even more expensive. It requires Arcane Clothes, Gold, and an Enchanted Book. It's not picky on which Book just needs to be Enchanted! \\n\\nIt has 10 &3Spell&r Slots and grants a huge Mana Boost!"]
+	quest.420CB9502DF8E1BC.quest_desc: ["&b&lIce Spider. \n\nĐây là Kẻ thù có 50 &4Trái tim và 20 Armor Points. \n\nNếu bạn đến gần, chúng sẽ Cắn bạn hoặc Đánh bạn bằng một trong nhiều Cánh tay của chúng! \nNếu bạn tiến xa hơn, họ sẽ bắn một số loại &kén băng giá? Tôi nghĩ vậy? Dù đó là gì đi nữa, nó cũng sẽ gây sát thương cho bạn và khiến bạn đứng yên tại chỗ. Hoặc họ có thể gửi một dòng Đá Băng từ mặt đất về phía bạn để gây sát thương cho bạn. \n\nKhi chết, chúng sẽ Drop String, &5Arcane Essence, và đôi khi là &bIcy Fang."]
+	quest.420CB9502DF8E1BC.title: "&b&lNhện băng"
+	quest.4407BD7B5F033765.quest_desc: ["Another Craftable &eSpell Book và theo mẫu này cái này còn đắt hơn nữa. Nó yêu cầu Arcane Clothes, Vàng và Enchanted Book. Không kén chọn cuốn sách nào chỉ cần mê hoặc! \n\nNó có 10 ô &3Spell và cấp Mana Boost khổng lồ!"]
 	quest.4407BD7B5F033765.title: "Enchanted Spell Book"
-	quest.445C21949ADA1FE3.quest_desc: ["Combine an Ancient Codex with an &6Allthemodium Ingot&r and Template in a Smithing Table.\\n\\nYou can get the Template from Brushing Suspicious Clay in an &9Ancient City&r."]
-	quest.445C21949ADA1FE3.title: "&6Allthemodium&rSpell Book"
-	quest.44E8D5DAD7E22724.quest_desc: ["Funny enough, this doesn't upgrade much. \\n\\n&3Spell Power&r stays the same, Mana stays the same, even Armor Points stay the same. Only change is the addition of Armor Toughness. \\n\\nThat makes sense though, it is only a &5Netherite Upgrade&r for &bWizard Gear&r!"]
+	quest.445C21949ADA1FE3.quest_desc: ["Kết hợp Ancient Codex với &6Allthemodium Ingot và Mẫu trong Bảng rèn.\n\nBạn có thể lấy Mẫu từ việc Quét đất sét khả nghi ở &9Thành phố cổ."]
+	quest.445C21949ADA1FE3.title: "&6Sách thần chú củaAllthemodium"
+	quest.44E8D5DAD7E22724.quest_desc: ["Buồn cười thay, điều này không nâng cấp nhiều. \n\n&3Sức mạnh Phép thuật vẫn giữ nguyên, Mana vẫn giữ nguyên, thậm chí Armor Points vẫn giữ nguyên. Thay đổi duy nhất là việc bổ sung Armor Toughness. \n\nTuy nhiên, điều đó cũng hợp lý, nó chỉ là bản nâng cấp &5Netherite dành cho &bWizard Gear!"]
 	quest.44E8D5DAD7E22724.title: "&cNetherite Battlemage Armor"
 	quest.4567A27C53A01903.quest_desc: [
-		"&c&lEcho of Tyrus&r is the first real Boss we get from &lIron's&r! \\n\\nHe has 1000 &4Hearts&r with 16 Armor Points. As well as the Ability to summon &5Ancient Knights&r to Fight with him! \\n\\nAs you can guess by his title of &c&lFirst Flamebearer&r, you'll know he uses &cFire Magic&r to Attack. \\n\\nHe can swing his &cScythe&r to Hit you or smack the Ground to release a Wave of &cFire&r in all directions. \\n\\nA few more Attacks involve &cFirey Swords&r, he can throw a bunch at you in a row or summon dozens to rise out of the Ground to Damage you. \\n\\nLast Attacks he has is using &cFireballs&r, which he will Throw at you either standing still or leaping high into the air! \\n\\nWhen you do a quarter of his &4Health&r he will kneel down. This is when you can Hit him the hardest! But once he gets to 300 &4Hearts&r he will upgrade his Weapons and Armor. Even upgrading his &5Ancient Knights&r too! \\n\\nIf you can somehow Kill him, he will Drop his &cScythe&r and a &dDivine Soulshard&r. Plus Essences but who cares about those we got a &cScythe&r!"
+		"&c&lEcho of Tyrus’s là Boss thực sự đầu tiên mà chúng tôi nhận được từ &lIron’s&r! \n\nAnh ấy có 1000 &4Trái tim với 16 Armor Points. Cũng như Khả năng triệu tập &5 Hiệp sĩ cổ đại để chiến đấu cùng anh ta! \n\nNhư bạn có thể đoán qua danh hiệu &c&lNgười cầm lửa đầu tiên của anh ấy, bạn sẽ biết anh ấy sử dụng &cFire Magic’s để tấn công. \n\nAnh ta có thể vung Lưỡi hái của mình để đánh bạn hoặc đập xuống đất để giải phóng một làn sóng lửa theo mọi hướng. \n\nMột vài đòn tấn công nữa liên quan đến & cFirey Swords, anh ta có thể ném một loạt vào bạn liên tiếp hoặc triệu tập hàng tá lao lên khỏi mặt đất để gây sát thương cho bạn. \n\nLast Attacks anh ấy đang sử dụng &cQuả cầu lửa, anh ấy sẽ ném vào bạn dù đứng yên hoặc nhảy cao lên không trung! \n\nKhi bạn làm được một phần tư &4Health của anh ấy, anh ấy sẽ quỳ xuống. Đây là lúc bạn có thể đánh anh ta mạnh nhất! Nhưng khi đạt tới 300 &4Trái tim, anh ấy sẽ nâng cấp Vũ khí và Áo giáp của mình. Thậm chí còn nâng cấp &5 Hiệp sĩ cổ đại của anh ấy nữa! \n\nNếu bạn bằng cách nào đó có thể giết được hắn, hắn sẽ đánh rơi &cScythe và một &dDivine Soulshard. Plus Essences nhưng ai quan tâm đến những thứ chúng ta có &cScythe!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_echo.png width:125 height:100 align:center}"
 	]
-	quest.4567A27C53A01903.title: "&c&lEcho of Tyrus, First Flamebearer"
+	quest.4567A27C53A01903.title: "&c&lTiếng vang của Tyrus, First Flamebearer"
 	quest.489833A2A6C39151.quest_desc: [
-		"He was mean you can steal it I don't care."
+		"Anh ta có ác ý là bạn có thể ăn trộm nó, tôi không quan tâm."
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_cryomancer.png width:60 height:100 align:center}"
 	]
-	quest.489833A2A6C39151.title: "&bCryomancecr Outfit"
-	quest.48C68664319B0294.quest_desc: ["To obtain this special Spell Book you'll need to slay the &4&lDead King&r! \\n\\nIt has 10 &3Spell&r Slots but 4 are taken up already. &4Blood Slash&r, &4Blood Step&r, &4Ray of Siphoning&r, and &4Blaze Storm&r come on it already and can't be taken off."]
+	quest.489833A2A6C39151.title: "&bTrang phục Cryomancecr"
+	quest.48C68664319B0294.quest_desc: ["Để có được Spell Book đặc biệt này, bạn cần phải tiêu diệt &4&lVua Chết! \n\nNó có 10 ô &3Spell nhưng đã có 4 ô trống rồi. &4Blood Slash, &4Blood Step, &4Ray of Siphoning, và &4Blaze Storm đã xuất hiện và không thể gỡ ra được."]
 	quest.48C68664319B0294.title: "Necronomicom"
 	quest.4CCA1E2AAA9AB9D9.quest_desc: [
-		"When's this one going to come to the Mod?"
+		"Cái này khi nào mới có trong Mod nhỉ?"
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_electromancer.png width:50 height:100 align:center}"
 	]
 	quest.4CCA1E2AAA9AB9D9.title: "&5Electromancer Outfit"
-	quest.4E3355FDCB65BB63.quest_desc: ["&aEvokers&r are known as being a powerful and deadly Miniboss of Minecraft. So of course &lIron&r added an even more powerful and deadly version! And yes this &eBook&r is a rare drop from both! \\n\\nIt has 10 Spell Slots but 3 are occupied. &aFang Strike&r, &aFang Ward&r, and &aVex Swarm&r all come with the &eBook&r and can not be moved. \\n\\nAlso gives a boost to &a&lEvocation&r!"]
+	quest.4E3355FDCB65BB63.quest_desc: ["&aEvoker được biết đến là một Miniboss mạnh mẽ và nguy hiểm của Minecraft. Vì vậy, tất nhiên &lIron đã thêm một phiên bản thậm chí còn mạnh hơn và chết người hơn! Và vâng, cuốn sách điện tử này là một sản phẩm hiếm hoi của cả hai! \n\nNó có 10 Spell Slots nhưng 3 đã bị chiếm dụng. &aFang Strike, &aFang Ward, và &aVex Swarm đều đi kèm với &eBook và không thể di chuyển được. \n\nĐồng thời thúc đẩy &a&lKêu gọi!"]
 	quest.4E3355FDCB65BB63.title: "&aGrimore of Evokation"
 	quest.541446863A72B96C.title: "&7Common&rInk"
 	quest.548F85EE6B6F1811.quest_desc: [
-		"Just like the Piglins the &2&lApotheocarist&r resembles, he is also Neutral. He doesn't care about &eGold&r like his fellow Piglins though, just people who attack him. \\n\\nYou can trade with him: giving him either Emeralds or Potion Ingrediants for Potions, Potion Ingrediants, and &2Nature Scrolls&r. \\n\\nIf you wish to slay him he has 60 Hearts. He will attack you with Potions and &2Nature Spells&r. When hurt he will try to heal with Potions, (I think he really likes Potions). \\n\\nWhen killed he will drop Arcane Essence, Inks, &2Nature Runes&r, and &2Nature Scrolls&r!"
+		"Giống như Piglins mà &2&lApotheocarist trông giống, anh ta cũng là người Trung lập. Tuy nhiên, anh ấy không quan tâm đến &eGold giống như những người bạn Piglins của mình, chỉ quan tâm đến những người tấn công anh ấy. \n\nBạn có thể giao dịch với anh ta: đưa cho anh ta Ngọc lục bảo hoặc Potion Ingrediants để lấy Độc dược, Potion Ingrediants và &2Nature Scrolls. \n\nNếu bạn muốn giết anh ta, anh ta có 60 Trái tim. Anh ta sẽ tấn công bạn bằng Độc dược và &2Phép thuật thiên nhiên. Khi bị thương anh ấy sẽ cố gắng chữa lành bằng Độc dược, (tôi nghĩ anh ấy rất thích Độc dược). \n\nKhi bị giết, anh ta sẽ rơi ra Arcane Essence, Mực, &2Nature Runes và &2Nature Scrolls!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_apotheocarist.png width:100 height:200 align:center}"
 	]
 	quest.548F85EE6B6F1811.title: "&2&lApothecarist"
 	quest.551A4916F032ACCF.quest_desc: [
-		"The Arcane Anvil has the most uses out of any block in &lIron Spells&r. \\n\\nYou can combine &3Spells&r with the same Ink to level it up. \\nIt can combine &3Scrolls&r into Weapons to be used with them, like a Sword. \\nYou can also set an Affinity to Rings using Upgrade Orbs, or add Upgrade Orbs to Weapons and Gear."
+		"Arcane Anvil có nhiều công dụng nhất trong số các khối trong &lIron Spells. \n\nBạn có thể kết hợp &3Spells với cùng một Ink để tăng cấp cho nó. \nNó có thể kết hợp &3Cuộn giấy thành Vũ khí để sử dụng cùng với chúng, giống như Kiếm. \nBạn cũng có thể đặt Mối quan hệ cho Nhẫn bằng cách sử dụng Upgrade Orbs hoặc thêm Upgrade Orbs vào Vũ khí và Trang bị."
+
 		"{image:atm:textures/questpics/iron_spells/spells_anvil_gui.png width:100 height:100 align:center}"
 	]
 	quest.555ED1E39131D91B.quest_desc: [
-		"Shouldn't have come into the &bTower&r, the &b&lCryomancer&r does not like Players, they are Hostile to you. \\n\\nThe &b&lCryomancer&r will immediately start attacking you with &bIce Spells&r. Might even use animals against you! Sacrificing animals to win a fight, he really is cold-hearted! \\n\\nOnce killed he will drop Arcane Essence, Inks, &bIce Runes&r, and &bIce Scrolls&r."
+		"Đáng lẽ không nên vào &bTower, &b&lCryomancer không thích Người chơi, họ thù địch với bạn. \n\n&b&lCryomancer sẽ ngay lập tức tấn công bạn bằng &bIce Spells. Thậm chí có thể sử dụng động vật để chống lại bạn! Hy sinh động vật để giành chiến thắng, anh ta thực sự là người lạnh lùng! \n\nSau khi bị giết, anh ta sẽ rơi ra Arcane Essence, Mực, &bIce Runes và &bIce Scrolls."
+
 		"{image:atm:textures/questpics/iron_spells/spells_cryomancer.png width:100 height:200 align:center}"
 	]
 	quest.555ED1E39131D91B.title: "&b&lCryomancer"
 	quest.59E68086A8B99EA7.quest_desc: [
-		"The &c&lPyromancer&r (different from the Pie Romancer) is another Neutral Mob added by &lIron's Spells&r. He will maybe set Mobs that are close to him on &cfire&r though... \\n\\nYou can trade him all things &cFire&r, Ink, and even &cFire Scrolls&r. \\n\\nIf you want to risk all the hair on your body by fighting him be prepared, he has 60 Hearts. He will set you on &cFire&r with &cFire Spells&r, not even a question. \\n\\nOn death he will drop Arcane Essence, Inks, &cFire Runes&r, and &cFire Spells&r!"
+		"&c&lPyromancer&r (khác với Pie Romancer) là một Neutral Mob khác được thêm bởi &lIron's Spells&r. Tuy nhiên, anh ấy có thể sẽ đặt Mob ở gần anh ấy vào &cfire... \n\nBạn có thể trao đổi với anh ta mọi thứ &cFire, Ink, và thậm chí cả &cFire Scrolls. \n\nNếu bạn muốn mạo hiểm hết lông trên cơ thể mình để chiến đấu với anh ta, hãy chuẩn bị sẵn sàng, anh ta có 60 Trái tim. Anh ta sẽ đặt bạn vào &cFire’s với &cFire Spells&r, thậm chí không một câu hỏi. \n\nKhi chết, anh ta sẽ rơi ra Arcane Essence, Mực, &cFire Runes và &cFire Spells!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
 	]
 	quest.59E68086A8B99EA7.title: "&c&lPyromancer"
-	quest.5B013A3A37D6902B.quest_desc: ["You can find the fragments of Ancient Knowledge spread out in the Chests of the &9Ancient City&r. \\n\\nYou'll also need &9Echo Shards&r to 1. Combine the Fragments to learn of the &9Spells&r and 2. Actually make the &9Spells&r."]
-	quest.5B013A3A37D6902B.title: "Into the Ancient City"
+	quest.5B013A3A37D6902B.quest_desc: ["Bạn có thể tìm thấy các mảnh của Ancient Knowledge nằm rải rác trong Rương của &9Thành Phố Cổ. \n\nBạn cũng sẽ cần &9Mảnh Echo thành 1. Kết hợp các mảnh để tìm hiểu về &9Spells và 2. Thực sự tạo ra &9Spells."]
+	quest.5B013A3A37D6902B.title: "Vào Ancient City"
 	quest.5DE863C3FB6492BE.quest_desc: ["{image:atm:textures/questpics/iron_spells/spells_outfit_cultist.png width:60 height:100 align:center}"]
 	quest.5DE863C3FB6492BE.title: "&4Cultist Outfit"
-	quest.5ED368C926E5F32C.quest_desc: ["There is a final class of &3Spells&r I forgot to mention. Well all knowledge of these &9Spells&r have been forgotten so it's not just me. \\n\\nIn order to regain memories we need to walk, quietly, down memory lane. Which happens to be the &9Ancient City&r."]
-	quest.5ED368C926E5F32C.title: "The Last Class..."
-	quest.6046CA1F6AFE2AEA.quest_desc: ["&4The Blood Staff&r is a Drop from &4&lThe Dead King&r. Probably because it is quite literally his Staff! \\n\\nThis Staff does 8 &4Damage&r, more than the previous ones. \\n\\nIt gives 5% &3Spell Power&r to all &3Spells&r and 15% to just &4Blood Spells&r as well as 10% Summon Power."]
+	quest.5ED368C926E5F32C.quest_desc: ["Còn một lớp cuối cùng của &3Spells mà tôi quên đề cập đến. Chà, tất cả kiến ​​thức về 9 Phép thuật này đều đã bị lãng quên nên không chỉ có tôi. \n\nĐể lấy lại ký ức, chúng ta cần bước đi, lặng lẽ, dọc theo con đường ký ức. Đó chính là &9Thành phố cổ."]
+	quest.5ED368C926E5F32C.title: "Lớp học cuối cùng..."
+	quest.6046CA1F6AFE2AEA.quest_desc: ["&4The Blood Staff&r là một phần của &4&lThe Dead King&r. Có lẽ bởi vì nó đúng đúng là Nhân viên của anh ấy! \n\nCây Trượng này gây sát thương 8 &4, nhiều hơn những cây trước. \n\nNó mang lại 5% &3Sức mạnh Phép thuật cho tất cả &3 Phép thuật và 15% cho chỉ &4Blood Spells cũng như 10% Summon Power."]
 	quest.6046CA1F6AFE2AEA.title: "&4The Blood Staff"
 	quest.60FAD8BF235E381B.title: "&bRare&rInk"
-	quest.615C3E012B2DECD3.quest_desc: ["&eSpellbooks&r! Where else would you put &3Spells&r? \\n\\nYou can add &3Scrolls&r to a &eSpellbook&r by putting both into an Inscription Table. They have a certain amount they can hold but no longer having to worry about Rarity. \\n\\nWhen &3Scrolls&r are added to your &eSpellbook&r they won't be consumed but rather Mana will be consumed."]
-	quest.615C3E012B2DECD3.title: "&eSpellBooks&r!"
-	quest.6187837A51BA09DC.quest_desc: ["The &cCitadel&r is the biggest Structure &lIron's Spells&r gives us. It is almost entirely made of &0Blackstone&r. \\n\\nIt has huge Walls and Towers surrounding and connecting to the main building. These have &5Ancient Knight&r Spawners and Barrels of Loot. \\n\\nThe main building has the Library/Research Room on the first floor. This one has billions of Books as well as Chests and more &5Ancient Knights&r! \\n\\nThe floor above will have the Citadel Vaults as well as &5Cursed Armor Stands&r. Careful trying to take their Loot off, they might defend their property! \\n\\nThe top floor is the arena..."]
+	quest.615C3E012B2DECD3.quest_desc: ["&eSách thần chú! Bạn sẽ đặt &3Spells ở đâu nữa? \n\nBạn có thể thêm &3Scrolls vào &eSpellbook bằng cách đặt cả hai vào Inscription Table. Họ có một số tiền nhất định có thể nắm giữ nhưng không còn phải lo lắng về Rarity nữa. \n\nKhi &3Scrolls được thêm vào &eSpellbook của bạn, chúng sẽ không bị tiêu hao mà thay vào đó Mana sẽ được tiêu thụ."]
+	quest.615C3E012B2DECD3.title: "&eSpellBooks!"
+	quest.6187837A51BA09DC.quest_desc: ["&cCitadel's là Công trình lớn nhất mà Iron's Spells mang lại cho chúng ta. Nó gần như được làm hoàn toàn bằng &0Blackstone. \n\nNó có những Bức tường và Tháp khổng lồ bao quanh và kết nối với tòa nhà chính. Những thứ này có &5Kẻ sinh sản của Hiệp sĩ cổ đại và Thùng chiến lợi phẩm. \n\nTòa nhà chính có Thư viện/Research Room ở tầng một. Cái này có hàng tỷ Sách cũng như Rương và hơn thế nữa &5 Hiệp sĩ Cổ đại! \n\nTầng trên sẽ có Citadel Vaults cũng như &5Cursed Armor Stands&r. Cẩn thận cố gắng lấy Chiến lợi phẩm của họ, họ có thể bảo vệ tài sản của mình! \n\nTầng trên cùng là đấu trường..."]
 	quest.6187837A51BA09DC.title: "&cCitadel"
 	quest.637C87D8968CD51A.title: "&aUncommon&rInk"
-	quest.639531AB27DCD267.quest_desc: ["&7Runes&r are how we make our Classes and their parts. To get a &7Blank Rune&r you can either kill the &4&lDead King&r or wipe clean an Inscribed Rune with a Shriving Stone. \\n\\nThere's 8 different classes (1 secret one) each having their own &3Scrolls&r, Focus Material, Upgrades, and Outfits. "]
+	quest.639531AB27DCD267.quest_desc: ["&7Runes là cách chúng tôi tạo Lớp và các phần của chúng. Để có được &7Blank Rune, bạn có thể tiêu diệt &4&lDead King hoặc xóa sạch Inscribed Rune bằng Shrive Stone. \n\nCó 8 lớp khác nhau (1 lớp bí mật), mỗi lớp có &3Scrolls, Focus Material, Nâng cấp và Trang phục riêng."]
 	quest.639531AB27DCD267.title: "&lClasses"
 	quest.641888DC7BC40AA9.quest_desc: [
-		"The heavily guarded &aFortress&r is home to the &a&lArchevoker&r and his followers. \\nYou'll know you see it by its huge Spruce Walls and the giant Stone &aFortress&r inside of them. \\n\\nIllagers, Vindicators, &aEvokers&r, and Ravagers can be found within the Walls and &aFortress&r. Once you get past them you can find your way up the stairs, parkour to the Roof, and meet the &a&lLeader of the Fort&r at the top. \\n\\nWith it being heavily guarded of course there is a ton of loot within the &aFort&r."
+		"Pháo đài được bảo vệ nghiêm ngặt là nơi ở của &a&lArchevoker và những người theo ông ta. \nBạn sẽ biết rằng bạn nhìn thấy nó bởi Spruce Walls khổng lồ và Viên đá & Pháo đài khổng lồ bên trong chúng. \n\nIllagers, Vindicators, &aEvokers và Ravagers có thể được tìm thấy trong Tường và &aPháo đài. Sau khi vượt qua họ, bạn có thể tìm đường lên cầu thang, đậu xe lên Mái nhà và gặp &a&lThủ lĩnh của Pháo đài ở trên cùng. \n\nVì nó được bảo vệ nghiêm ngặt nên tất nhiên có rất nhiều chiến lợi phẩm trong &aFort."
+
 		"{image:atm:textures/questpics/iron_spells/spells_evokerfort.png width:200 height:100 align:center}"
 	]
-	quest.641888DC7BC40AA9.title: "&aEvoker Fort"
-	quest.652A14E17DDE97E6.quest_desc: ["Another that needs the Ruined Book to Craft. You can find the Ruined Books in &9Ancient City&r Chests. \\n\\nYou'll also need Dragon Skin which drops from the &dEnder Dragon&r! \\n\\nIt will have 12 &3Spell&r Slots and give a boost to &dEnder Spells&r!"]
-	quest.652A14E17DDE97E6.title: "&dDragonskin Spell Book"
-	quest.660D8AD3EE975340.quest_desc: ["&bWeapon Parts&r will be needed to Craft a few Weapons. \\n\\nAnd yes, we'll need to Craft these as well. \\n\\nThey're pretty simple, just 3 &bMithril Ingots&r and 2 &5Arcane Ingots&r. \\n\\n&5Arcane Ingots&r are made from 1 &6Copper Ingot&r and 8 &5Arcane Essence&r."]
-	quest.660D8AD3EE975340.title: "&bWeapon Parts"
-	quest.66762A4743104157.quest_desc: ["Another craftable &eSpellbook&r, this one's a little more expensive! It'll need Hogskin which is a drop from Hoglins. \\n\\nThis one can hold 8 &3Spells&r which is technically still on the low side but it's better!"]
+	quest.641888DC7BC40AA9.title: "&aPháo đài Evoker"
+	quest.652A14E17DDE97E6.quest_desc: ["Một cái khác cần Ruined Book để chế tạo. Bạn có thể tìm thấy Ruined Books trong Rương &9Thành Phố Cổ. \n\nBạn cũng sẽ cần Dragon Skin rơi ra từ &dEnder Dragon! \n\nNó sẽ có 12 ô &3Spell và tăng sức mạnh cho &dEnder Spells!"]
+	quest.652A14E17DDE97E6.title: "&dDa rồng Spell Book"
+	quest.660D8AD3EE975340.quest_desc: ["&bCác bộ phận vũ khí sẽ cần thiết để chế tạo một số vũ khí. \n\nVà vâng, chúng ta cũng sẽ cần Chế tạo những thứ này. \n\nChúng khá đơn giản, chỉ có 3 &b Thỏi Mithril và 2 &5 Thỏi Arcane. \n\n&5 Thỏi Arcane được làm từ 1 &6Copper Ingot và 8 &5Arcane Essence."]
+	quest.660D8AD3EE975340.title: "&bBộ phận vũ khí"
+	quest.66762A4743104157.quest_desc: ["Một &eSpellbook' có thể chế tạo khác, cái này đắt hơn một chút! Nó sẽ cần Hogskin rơi ra từ Hoglins. \n\nCái này có thể chứa 8 &3Spells, về mặt kỹ thuật vẫn còn ở mức thấp nhưng tốt hơn!"]
 	quest.66762A4743104157.title: "Apprentice's Spell Book"
-	quest.67308C5DDF4A10D2.quest_desc: ["The &9Wandering Magician Armor&r is the weakest &lIron's Spells&r can offer. \\n\\nIt is literally an upgrade to &7Leather Armor&r! Who even makes &7Leather Armor&r?!?!?! \\n\\nJust toss your &7Leather Armor&r with &5Arcane Essence&r in a Crafting Table to Craft it. \\n\\nThis will make each piece give more Armor Points as well as a slight Mana Boost!"]
-	quest.67308C5DDF4A10D2.title: "&9Wandering Magician Outfit"
-	quest.67439337E29A308B.quest_desc: ["&eArtificer's Cane&r is more expensive than &7Graybeard Staff&r and because of that it is more powerful. \\n\\nIt will now do 4 &4Damage&r and gives 15% Reduction Cooldown and Cast Time as well as 10% &3Spell Power&r. \\n\\nI only said it was better, I didn't say it was much better!"]
-	quest.67439337E29A308B.title: "&eArtificer's Cane"
-	quest.67A587F4BAD76C70.quest_desc: ["The most basic &eSpellbook&r, which also makes it the cheapest! \\n\\nIt can only hold a total of 5 &3Spells&r."]
+	quest.67308C5DDF4A10D2.quest_desc: ["&9Wandering Magician Armor là điểm yếu nhất mà &lIron's Spells có thể cung cấp. \n\nNó thực sự là một bản nâng cấp của &7Leather Armor! Ai thậm chí còn tạo ra &7Leather Armor?!?!?! \n\nChỉ cần ném &7Áo giáp da của bạn cùng với &5Tinh hoa bí thuật vào Bàn chế tạo để chế tạo nó. \n\nĐiều này sẽ làm cho mỗi mảnh mang lại nhiều Armor Points hơn cũng như một chút Mana Boost!"]
+	quest.67308C5DDF4A10D2.title: "&9Lang thang Magician Outfit"
+	quest.67439337E29A308B.quest_desc: ["&eArtificer's Cane đắt hơn &7Graybeard Staff và do đó nó mạnh hơn. \n\nBây giờ nó sẽ gây ra 4 &4Sát thương và cho 15% Reduction Cooldown và Cast Time cũng như 10% &3Sức mạnh Phép thuật. \n\nTôi chỉ nói là tốt hơn chứ không nói là tốt hơn nhiều!"]
+	quest.67439337E29A308B.title: "&eGậy nghệ nhân"
+	quest.67A587F4BAD76C70.quest_desc: ["&eSpellbook cơ bản nhất, đồng thời cũng là cuốn sách rẻ nhất! \n\nNó chỉ có thể chứa tổng cộng 5 &3 Phép thuật."]
 	quest.67A587F4BAD76C70.title: "Flimsy Journal"
 	quest.67D40A1A9332C03D.title: "&6Legendary&rInk"
 	quest.68B44B9E939F4228.quest_desc: [
-		"At the top of the &aFort&r lies the &a&lArchevoker&r. Hostile to only the Player and whoever attacks him. \\n\\nHe has 60 Hearts, and attacks like a normal &aEvoker&r plus more! &aFireworks&r, &aShield&r, and &aBlast of Wind&r! \\n\\nOnce killed he will drop Arcane Essence, Inks, &aEvokation Runes&r, &aEvokation Scrolls&r, and rare drop of the &aGrimore of Evokation&r!"
+		"Trên cùng của &aFort là &a&lArchevoker. Chỉ thù địch với Người chơi và bất cứ ai tấn công anh ta. \n\nAnh ta có 60 Trái tim và tấn công như một &aEvoker bình thường và hơn thế nữa! &aPháo hoa, &aKhiên, và &aBlast of Wind&r! \n\nSau khi bị giết, anh ta sẽ rơi ra Arcane Essence, Mực, &aEvokation Runes, &aEvokation Scrolls, và hiếm khi rơi ra &aGrimore of Evokation!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_evoker.png width:100 height:200 align:center}"
 	]
 	quest.68B44B9E939F4228.title: "&a&lArchevoker"
 	quest.6963EC8A71D66AE3.quest_desc: [
-		"Deep in the muddy Mangrove Swamps lies the refuge of the hermit like Mob called the &2&lApotheocarist&r. \\n\\nWith nobody near, and only what he needs for his Potions is around. \\n\\nYou can find the &2&lApotheocarist&r in his &2Hut&r. \\n\\nThere you can also find Cauldrons and Brewing Stands with Potions!"
+		"Sâu trong bùn lầy Mangrove Swamps là nơi ẩn náu của ẩn sĩ như Mob được gọi là &2&lApotheocarist. \n\nKhông có ai ở gần, và chỉ có thứ anh ấy cần cho Độc dược của mình ở xung quanh. \n\nBạn có thể tìm thấy &2&lApotheocarist trong &2Hut&r của anh ấy. \n\nỞ đó bạn cũng có thể tìm thấy Vạc và Quầy pha chế thuốc!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_magrovehut.png width:200 height:100 align:center}"
 	]
-	quest.6963EC8A71D66AE3.title: "&2Mangrove Hut"
-	quest.69763C2E2F454A73.quest_desc: ["&c&lFire&r is obviously related to &cFire&r. Most of the Scrolls are with using &cFire&r to burn and hurt things. \\n\\n&c&lFire's&r Focus Material is &cBlaze Rods&r. You can craft &cFire Runes&r or get them from killing the &c&lPyromancer&r. \\n\\nIts &cScrolls&r are &cLight Red&r with &8Grey&r text."]
+	quest.6963EC8A71D66AE3.title: "&2Túp lều ngập mặn"
+	quest.69763C2E2F454A73.quest_desc: ["&c&lFire’s rõ ràng có liên quan đến &cFire’s. Hầu hết các Cuộn giấy đều sử dụng &cFire để đốt cháy và làm tổn thương mọi thứ. \n\n&c&lFire's Focus Material là &cBlaze Rods&r. Bạn có thể chế tạo &cFire Runes hoặc yêu cầu chúng tiêu diệt &c&lPyromancer. \n\n&cScrolls của nó là &cLight Red với văn bản &8Grey."]
 	quest.69763C2E2F454A73.title: "&c&lFire"
 	quest.69838E3F12218D68.quest_desc: [
-		"Scroll Forge, you can guess what it does! \\n\\nIt makes &3Scrolls&r! \\n\\nAdd an Ink to set the Rarity. Paper for the actual &3Scroll&r. Then the Item of what type of &3Spell&r you want (&cBlaze Rod&r for &c&lFire&r, &2Poisonous Potato&r for &2&lNature&r, ETC). Finally chose the &3Spell&r you want and it'll be created!"
+		"Scroll Forge, bạn có thể đoán xem nó làm gì! \n\nNó tạo nên &3Scrolls! \n\nThêm Mực để đặt Độ hiếm. Giấy cho &3Scroll thực tế. Sau đó, Vật phẩm thuộc loại &3Phép thuật mà bạn muốn (&cBlaze Rod cho &c&lLửa, &2Poisonous Potato của cho &2&lNature&r, ETC). Cuối cùng hãy chọn &3Spell mà bạn muốn và nó sẽ được tạo!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_scroll_gui.png width:150 height:100 align:center}"
 	]
-	quest.6CE7115DA2B23776.quest_desc: ["Not much better than the Flimsy one... \\n\\nThis can hold a single &3Spell&r more than the Flimsy Journal! That's one more very powerful &3Spell&r at the ready!"]
+	quest.6CE7115DA2B23776.quest_desc: ["Không tốt hơn nhiều so với Flimsy ... \n\nCái này có thể chứa nhiều &3Spell hơn Flimsy Journal! Đó là một &3Spell rất mạnh mẽ nữa đã sẵn sàng!"]
 	quest.6CE7115DA2B23776.title: "Ironbound Journal"
 	quest.6D232F6D8E8DA546.quest_desc: [
-		"Very popular around Halloween!"
+		"Rất phổ biến vào dịp Halloween!"
+
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_plagued.png width:60 height:100 align:center}"
 	]
 	quest.6D232F6D8E8DA546.title: "&2Plagued Outfit"
 	quest.6DB5732177AABB87.quest_desc: [
-		"The biggest and hardest Structure from &lIron's Spells&r. \\n\\nThese are deep underground structures similar to Trial Chambers. You can also use Wayward Compasses to help find it! \\n\\nIn it are plenty of Spawners, Trial Spawners, and of course Loot. \\n\\nThe most important room is the Throne Room, once you arrive there, the Skeleton of the &4&lDead King&r will reanimate! (If it doesn't you might need to click him)."
+		"Cấu trúc lớn nhất và khó nhất từ ​​&lIron's Spells. \n\nĐây là những công trình ngầm sâu tương tự như Trial Chambers. Bạn cũng có thể sử dụng Wayward Compasses để giúp tìm thấy nó! \n\nTrong đó có rất nhiều Spawners, Trial Spawners, và tất nhiên là Loot. \n\nCăn phòng quan trọng nhất là Throne Room, khi bạn đến đó, Bộ xương của &4&lVua Chết sẽ sống lại! (Nếu không, bạn có thể cần phải nhấp vào anh ấy)."
+
 		"{image:atm:textures/questpics/iron_spells/spells_catacombs.png width:200 height:100 align:center}"
 	]
 	quest.6DB5732177AABB87.title: "&4Catacombs"
-	quest.6F5F1C525CF08F96.quest_desc: ["Staffs and... Staff like Items, are Weapons which will give Magic Boosts when they are Held! \\n\\nPlus they're stylish!"]
-	quest.6F5F1C525CF08F96.title: "Staffs, Rods, và Canes"
-	quest.71F0E9C36AA02B46.quest_desc: ["Well this arena seems pretty empty... oh wait what is this! \\n\\nThe &cCinderous Soul Rune&r. Looks like a Keyhole almost, just the Decrepit Keys don't work on them. \\n\\nTrust me, they don't. \\n\\nInstead we'll need the &cCinderous Soulcaller&r! Which is made from &cCinder Essence&r, &5Netherite Scraps&r, and an &9Echo Shard&r. \\n\\n&5Netherite Scraps&r are from &5Ancient Debris&r, &9Echo Shards&r are from &9Ancient City&r, and &cCinder Essence&r is Drops from &5Ancient Knights&r!"]
-	quest.71F0E9C36AA02B46.title: "&cCinderous Soulcaller"
-	quest.7270A37E31A70C91.quest_desc: ["&6&lHoly&r is for all the Medic/Support players. It's mostly meant for healing and helping. \\n\\n&6&lHoly's&r Focus Material is &6Divine Pearls&r which are crafted. You can make Runes with those or kill the &6&lPriest&r to get &6Holy Runes&r. \\n\\n&6Holy Scrolls&r are &fWhite&r with &6Gold&r texts."]
+	quest.6F5F1C525CF08F96.quest_desc: ["Nhân viên và... Nhân viên giống như Vật phẩm, là Vũ khí sẽ mang lại Magic Boosts khi chúng được giữ! \n\nThêm vào đó họ rất phong cách!"]
+	quest.6F5F1C525CF08F96.title: "Gậy, Gậy, Gậy"
+	quest.71F0E9C36AA02B46.quest_desc: ["Chà, đấu trường này có vẻ khá vắng... ồ chờ đã, đây là cái gì vậy! \n\n&cCinderous Soul Rune&r. Gần giống như một Keyhole, chỉ có điều Decrepit Keys không hoạt động với chúng. \n\nHãy tin tôi, họ không làm vậy. \n\nThay vào đó chúng ta sẽ cần &cCinderous Soulcaller! Được làm từ &cinder Essence, &5Netherite Scraps, và &9Echo Shard. \n\n&5Mảnh vụn Netherite là từ &5Mảnh vỡ cổ xưa, &9 Mảnh vỡ tiếng vọng là từ &9Thành phố cổ đại, và &Cinder Essence là Rớt từ &5Hiệp sĩ cổ đại!"]
+	quest.71F0E9C36AA02B46.title: "&cNgười gọi hồn bằng than"
+	quest.7270A37E31A70C91.quest_desc: ["&6&lHoly’s dành cho tất cả người chơi Medic/Hỗ trợ. Nó chủ yếu nhằm mục đích chữa bệnh và giúp đỡ. \n\n&6&lHoly's Focus Material là &6Divine Pearls được chế tác. Bạn có thể tạo ra các Ấn thạch bằng những thứ đó hoặc tiêu diệt &6&lPriest để nhận được &6Holy Runes. \n\n&6Holy Scrolls là &fWhite với văn bản của &6Gold."]
 	quest.7270A37E31A70C91.title: "&6&lHoly"
-	quest.72AB70FD8D8FABBF.quest_subtitle: "&cThe Nether&r!"
-	quest.72AB70FD8D8FABBF.title: "On a Highway to..."
-	quest.73D6B980D35082A0.quest_desc: ["This one takes awhile to explain so have patience. \\n\\nFirst, find an &aEvoker Fort&r. \\nNext, find a Research Book hidden in it. Then, have a Trader who's hostage in the &aFort&r translate it. (Like our hostage Quest Translators!) \\nOnce, it's translated bring it to a &6&lPriest&r in a &6Village&r to trade it for the &eSpell Book&r! \\n\\nIt gives a boost to &6Holy Spells&r and don't worry the hostage Traders are very very rare, keep looking!"]
-	quest.73D6B980D35082A0.title: "&6Villager Bible"
-	quest.7408CCF998D9CD37.quest_desc: ["A Craftable &eSpell Book&r... yeah it's not easy to craft. \\n\\nHardest to get would be the Ruined Book, which you can find in &9Ancient City&r Chests. &4Blood Vials&r can be obtained from either putting a Mob (or even yourself) into a Cauldron above a Campfire or an Alchemical Cauldron. &5Bottle O' Lightning&r comes from using a Bottle on a Charged Creeper. \\n\\nOnce you do all that you can craft the Ancient Codex. Its 12 &3Spell&r Slots is very helpful!"]
+	quest.72AB70FD8D8FABBF.quest_subtitle: "&cNether!"
+	quest.72AB70FD8D8FABBF.title: "Trên đường cao tốc tới..."
+	quest.73D6B980D35082A0.quest_desc: ["Điều này cần một chút thời gian để giải thích vì vậy hãy kiên nhẫn. \n\nĐầu tiên, hãy tìm &aEvoker Fort. \nTiếp theo, tìm Research Book ẩn trong đó. Sau đó, nhờ một Nhà giao dịch làm con tin trong &aFort dịch nó. (Giống như con tin của chúng tôi Quest Translators!) \nSau khi dịch xong, hãy mang nó đến &6&lPriest ở &6Village để đổi nó lấy &eSpell Book! \n\nNó giúp tăng cường &6Thần chú và đừng lo lắng về con tin Người buôn bán rất rất hiếm, hãy tiếp tục tìm kiếm!"]
+	quest.73D6B980D35082A0.title: "&6Kinh thánh của dân làng"
+	quest.7408CCF998D9CD37.quest_desc: ["Một cuốn Sách Thần chú có thể chế tạo được... vâng, việc chế tạo không hề dễ dàng. \n\nKhó nhất để có được là Ruined Book, bạn có thể tìm thấy nó trong Rương của &9Thành Phố Cổ. &4 Lọ máu có thể nhận được bằng cách đặt Mob (hoặc thậm chí là chính bạn) vào Vạc phía trên Lửa trại hoặc Alchemical Cauldron. &5Chai O' Lightning&r xuất phát từ việc sử dụng Chai trên Charged Creeper. \n\nSau khi làm tất cả những điều đó, bạn có thể tạo ra Ancient Codex. Slots 12 &3Spell của nó rất hữu ích!"]
 	quest.7408CCF998D9CD37.title: "Ancient Codex"
 	quest.76558D23A70AFF78.title: "&bIce&rNâng cấp Orb"
-	quest.78AA7BFABBFB9973.quest_desc: ["&2&lNature's&r &eSpell Book&r. \\n\\nIt has 10 &3Spells&r and gives a boost to &2Nature Spells&r! \\n\\nYou need a Rotten Spell Book to craft it though..."]
-	quest.78AA7BFABBFB9973.title: "&2Druidic Tome"
-	quest.794D6F9B8DB31E7D.quest_desc: ["&bIce Staff&r confused me for quite a bit but thankfully I now know! \\n\\nYou'll need a &bPermafrost Shard&r and a &bFrosted Helve&r. The &bPermafrost Shard&r is Loot within the Ice Breaker Structure. These are Shipwrecks in Icy Biomes. \\n\\nThe &bFrosted Helve&r is a Crafted Item. It uses &5Arcane Ingots &fand&b Frozen Bones&r. The latter is Drops from &bStrays&r. \\n\\nThe &bIce Staff&r does 5 &4Damage&r and gives 25% Mana Regeneration. It gives 5% &3Spell Power&r to all &3Spell&r, and 15% for just &bIce Spells&r."]
-	quest.794D6F9B8DB31E7D.title: "&bIce Staff"
-	quest.79EC8A49368421BF.quest_desc: ["&6Pyrium&r is a confirmed Loot from &cCitadels&r Vaults... \\n\\nExcept these Vaults don't take normal Trials Keys. Wow, it is almost like one Key can't open every Lock! \\n\\nWe'll need the Decrepit Key, which is a Drop from &5Ancient Knights&r at the &cCitadel&r. They spawn in the Towers and lower level of the Library."]
+	quest.78AA7BFABBFB9973.quest_desc: ["&2&lSách Phép thuật của Thiên nhiên. \n\nNó có 10 &3 Phép thuật và tăng sức mạnh cho &2 Phép thuật Thiên nhiên! \n\nTuy nhiên, bạn cần có Rotten Spell Book để chế tạo nó..."]
+	quest.78AA7BFABBFB9973.title: "&2Sách Druid"
+	quest.794D6F9B8DB31E7D.quest_desc: ["&bIce Staff đã làm tôi khá bối rối nhưng may mắn là giờ tôi đã biết! \n\nBạn sẽ cần một &bMảnh băng vĩnh cửu và một &bNgăn đỡ băng giá. &bMảnh băng vĩnh cửu là Chiến lợi phẩm trong Ice Breaker Structure. Đây là những vụ đắm tàu ​​ở Icy Biomes. \n\n&bFrosted Helve là Crafted Item. Nó sử dụng &5Arcane Ingots &fand&b Frozen Bones&r. Cái sau là Drops từ &bStrays. \n\nGậy Băng gây ra 5 & 4 sát thương và cho 25% Mana Regeneration. Nó mang lại 5% &3Sức mạnh thần chú cho tất cả &3Spell, và 15% cho chỉ &bIce Spells."]
+	quest.794D6F9B8DB31E7D.title: "&bNhân viên băng"
+	quest.79EC8A49368421BF.quest_desc: ["&6Pyrium là Chiến lợi phẩm đã được xác nhận từ Kho tiền của &cCitadels... \n\nNgoại trừ những Vault này không dùng Trials Keys bình thường. Wow, gần như một Chìa khóa không thể mở được mọi Ổ khóa! \n\nChúng ta sẽ cần Decrepit Key, rơi ra từ &5Ancient Knights tại &cCitadel. Chúng sinh sản trong Tháp và tầng thấp hơn của Thư viện."]
 	quest.79EC8A49368421BF.title: "&6Pyrium"
-	quest.7C79BCE482A06199.quest_desc: ["&b&lIce&r is all about Winter time Spells. Using &bIce&r and &bSnow&r to chill and harm enemies. \\n\\n&b&lIce's&r Focus Material is the &bFrozen Bone&r which are drops from &bStrays&r. You can use those to craft the &bIce Rune&r or kill the &b&lCryomancer&r to get it. \\n\\nIts &bScrolls&r are &bLight Blue&r with a &9Darker Blue&r text."]
+	quest.7C79BCE482A06199.quest_desc: ["&b&lIce’s là tất cả về Phép thuật Thời gian Mùa đông. Sử dụng &bIce’s và &bSnow’s để làm lạnh và gây sát thương cho kẻ thù. \n\n&b&lIce's Focus Material là &bFrozen Bone được rớt ra từ &bStrays. Bạn có thể sử dụng chúng để chế tạo &bIce Rune hoặc tiêu diệt &b&lCryomancer để lấy nó. \n\n&bScrolls của nó là &bLight Blue với văn bản &9Darker Blue."]
 	quest.7C79BCE482A06199.title: "&b&lIce"
 	quest.7F85669FEA41CD97.quest_desc: [
-		"The Neutral protector of the &6Village&r. He will attack all nearby Hostile Mobs. Like an Iron Golem but he look familiar for some reason? Could it be someone we know in a costume? \\n\\nYou can trade Healing Potions with him and Emeralds for a Furled Map which will soon be made to help against &aEvoker Forts&r! \\n\\nIf you do wish to kill him he will repeatedly attack you with &6Holy Spells&r. He will also Heal himself when getting low. \\n\\nOnce killed he will drop Arcane Essence, Inks, &6Holy Runes&r, and &6Holy Scrolls&r."
+		"Người bảo vệ trung lập của &6 Làng. Anh ta sẽ tấn công tất cả những người ở gần Hostile Mobs. Giống như Iron Golem nhưng vì lý do nào đó mà anh ấy trông quen quen? Đó có thể là ai đó mà chúng ta biết trong bộ trang phục? \n\nBạn có thể trao đổi Thuốc chữa bệnh với anh ta và Ngọc lục bảo để lấy Furled Map sẽ sớm được tạo ra để giúp chống lại &aEvoker Forts! \n\nNếu bạn muốn giết anh ta, anh ta sẽ liên tục tấn công bạn bằng &6Holy Spells. Anh ta cũng sẽ tự chữa lành vết thương khi xuống thấp. \n\nSau khi bị giết, anh ta sẽ rơi ra Arcane Essence, Mực, &6Holy Runes, và &6Holy Scrolls."
+
 		"{image:atm:textures/questpics/iron_spells/spells_priest.png width:100 height:200 align:center}"
 	]
 	quest.7F85669FEA41CD97.title: "&6&lPriest"
 	quest.7FC54AF87CBDD222.quest_desc: [
-		"&5Ancient Battlegrounds&r are only a fragment of the past. \\n\\nWho knows what happened. \\n\\nWho knows who fought who. All we have now are parts of the walls and these &5Piles of Armor&r. Might as well just pick them up by Mining them with your Pickaxe."
+		"&5Chiến trường cổ đại chỉ còn là một phần của quá khứ. \n\nAi biết được chuyện gì đã xảy ra. \n\nAi biết ai đánh ai. Tất cả những gì chúng tôi có bây giờ là các phần của bức tường và &5 đống áo giáp này. Bạn cũng có thể nhặt chúng bằng cách Khai thác chúng bằng Cuốc của mình."
+
 		"{image:atm:textures/questpics/iron_spells/spells_battleground.png width:200 height:100 align:center}"
 	]
-	quest.7FC54AF87CBDD222.title: "&5Ancient Battleground"
+	quest.7FC54AF87CBDD222.title: "&5Chiến trường cổ đại"
 	task.00C6A5CB44392D7E.title: "AllRightsReserved"
-	task.1CC0E97BB8DC4F35.title: "Kill 5 Necromancers"
-	task.6D7DD99A02A8F451.title: "Visit The Deep Dark"
+	task.1CC0E97BB8DC4F35.title: "Tiêu diệt 5 Necromancer"
+	task.6D7DD99A02A8F451.title: "Ghé thăm bóng tối sâu thẳm"
 	task.76B722B1AE7B6CF2.title: "AllRightsReserved"
 }
