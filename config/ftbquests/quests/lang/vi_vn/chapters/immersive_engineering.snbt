@@ -1,457 +1,554 @@
 {
-	quest.007A11C49E06F15F.quest_desc: ["These can be Crafted. \\n\\nThe &9Crafting Component Blueprint&r is one of the most important &9Blueprints&r. \\n\\nIt is used to help the &6Engineer's Workbench&r make small Mechanical Components for cheaper than Crafting Tables. \\n\\nIt also can be used for Crafting unique Items like Light Bulbs and Circuits!"]
-	quest.007A11C49E06F15F.title: "&9Crafting Components Blueprints"
+	quest.007A11C49E06F15F.quest_desc: ["Những thứ này có thể được chế tạo. \n\n&9Crafting Component Blueprint là một trong những &9Blueprints quan trọng nhất. \n\nNó được sử dụng để giúp Bàn làm việc của &6Engineer tạo ra Mechanical Components nhỏ với giá rẻ hơn so với Bàn chế tạo. \n\nNó cũng có thể được sử dụng để Chế tạo các Vật phẩm độc đáo như Light Bulbs và Mạch điện!"]
+	quest.007A11C49E06F15F.title: "&9Chế tạo Components Blueprints"
 	quest.04DD3F761C210822.quest_desc: [
-		"The &c&lCrude Blast Furnace&r is our very simple (and crude) way of producing &8Steel&r. \\n\\nYou'll need to feed it an &7Iron Ingot&r and either &0Charcoal&r or &0Coke&r. \\n\\nEach &8Steel Ingot&r takes 60 seconds to bake. &0Charcoal&r gives us 15 seconds while &0Coke&r gives us the whole 60 seconds. These can also be multiplied with their Block forms. \\n\\nWe also get Slag... it's pretty useless."
+		"&c&lCrude Blast Furnace&r là cách sản xuất &8Steel rất đơn giản (và thô sơ) của chúng tôi. \n\nBạn sẽ cần cho nó ăn &7Iron Ingot và &0Charcoal's hoặc &0Coke's. \n\nMỗi &8Steel Ingot mất 60 giây để nướng. &0Charcoal cho chúng ta 15 giây trong khi &0Coke cho chúng ta toàn bộ 60 giây. Chúng cũng có thể được nhân với các dạng Khối của chúng. \n\nChúng tôi cũng nhận được Xỉ... nó khá vô dụng."
+
 		"{@pagebreak}"
-		"This one is another 3x3x3, just now with &cBlast Bricks&r."
+		"Cái này là một cái khác 3x3x3, vừa mới có &cBlast Bricks."
+
 		"{image:atm:textures/questpics/immersive/immersive_crude1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude3.png width:100 height:100 align:center}"
-		"Another time where we Right Click the Front Middle Block with our trusty &6Hammer&r!"
+		"Một lần khác, nơi chúng tôi Right Click the Front Middle Block cùng với &6Hammer đáng tin cậy của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_crude.png width:100 height:100 align:center}"
 	]
-	quest.04DD3F761C210822.title: "&l&cCrude Blast Lò nung"
-	quest.063241B72BB3403E.quest_desc: ["The &0&lHeavy Plated Shield&r is used just like a normal Shield, hold it in your Offhand and use it to defend yourself. \\nThe &0&lHeavy Plated Shield&r does have much more Durability and protects from more Damage. \\n\\nOh yeah it also has Upgrades! These upgrades can be added on with the &6Engineer's Workbench&r. \\n\\nThe Shield can hold 2 Upgrades."]
-	quest.063241B72BB3403E.title: "&8&lHeavy Plated Shield"
+	quest.04DD3F761C210822.title: "&l&c Vụ nổ thô Lò nung"
+	quest.063241B72BB3403E.quest_desc: ["&0&lNặng Plated Shield& được sử dụng giống như Khiên bình thường, giữ nó trong Tay trái của bạn và sử dụng nó để tự vệ. \n&0&lHeavy Plated Shield có ​​độ bền cao hơn nhiều và bảo vệ khỏi nhiều sát thương hơn. \n\nỒ vâng, nó cũng có Bản nâng cấp! Những nâng cấp này có thể được bổ sung bằng &6Engineer's Workbench. \n\nKhiên có thể chứa 2 bản nâng cấp."]
+	quest.063241B72BB3403E.title: "&8&lNặng Plated Shield"
 	quest.066B8A75B299AED8.quest_desc: [
-		"The &9&lSqueezer&r is a simple Machine that squeezes &eItems&r to make other &eItems&r or &bFluids&r. \\n\\nWe can use the 2 Ports in the Back to &9Input &eItems&r. We'll then need to use the Port on the Right Side of the Barrels to take &eItems&r &6out&r. The Port below that one will &6Output &bFluids&r. \\n\\nThis will mainly be used to squeeze Plant Oil out of Crop Seeds like Wheat Seeds or Hemp Seeds! \\n\\nSome Seeds give more Oil, check the &6Guide&r to see what each gives. \\n\\nWe'll also need to use the &9&lSqueezer&r to get &0HOP Graphite Dust&r from 8 &0Coke Dust&r."
+		"&9&lSqueezer là một Máy đơn giản có thể ép &eItems để tạo ra các &eItems' hoặc &bFluids&r. \n\nChúng ta có thể sử dụng 2 cổng ở phía sau &9Input &eItems&r. Sau đó, chúng ta sẽ cần sử dụng Cổng trên Right Side của Thùng để lấy &eItems &6out. Cổng bên dưới sẽ &6Xuất ra &bChất lỏng. \n\nĐiều này chủ yếu sẽ được sử dụng để ép Plant Oil ra khỏi Crop Seeds như Wheat Seeds hoặc Hemp Seeds! \n\nSome Seeds tặng thêm Dầu, kiểm tra &6Guide để xem mỗi loại cho thêm gì. \n\nChúng ta cũng sẽ cần sử dụng &9&lSqueezer để lấy &0HOP Graphite Dust&r từ 8 &0Coke Dust&r."
+
 		"{@pagebreak}"
-		"Literally the exact same start as the &2&lFermenter&r."
+		"Theo nghĩa đen, sự khởi đầu giống hệt như &2&lFermenter."
+
 		"{image:atm:textures/questpics/immersive/immersive_squeezer1.png width:100 height:100 align:center}"
-		"Just like the &2&lFermenter&r as well, just instead of Cauldrons use Barrels!"
+		"Cũng giống như &2&lFermenter, thay vì sử dụng Cauldrons, hãy sử dụng Barrels!"
+
 		"{image:atm:textures/questpics/immersive/immersive_squeezer2.png width:100 height:100 align:center}"
-		"Above the Barrel between the &eLight Engineering Block&r and &4Redstone Engineering Block&r place a Piston. On top of the other 3 Barrels place &8Steel Fence&r!"
+		"Phía trên Thùng giữa vị trí của &eLight Engineering Block và &4Redstone Engineering Block là một Piston. Trên hết là vị trí 3 Thùng khác & Hàng rào 8Steel!"
+
 		"{image:atm:textures/questpics/immersive/immersive_squeezer3.png width:100 height:100 align:center}"
-		"Very easy &6Hammer&r Right Click on the Barrel beneath the Piston."
+		"Rất dễ dàng &6Hammer's Right Click trên Thùng bên dưới Piston."
+
 		"{image:atm:textures/questpics/immersive/immersive_squeezer.png width:100 height:100 align:center}"
 	]
 	quest.066B8A75B299AED8.title: "&9&lSqueezer"
-	quest.0A7B0D0B81E138DE.quest_desc: ["The &e&lEngineer's Toolbox&r works as a segregated Shulker. \\n\\nIt has sections: Food, which you can only put Food in. Tools, which can hold &8&lIE&r Tools or other Tools just not &bBuckets&r. &cWiring&r, which can have &cWires&r, &cConnectors&r, or &cRelays&r. And Anything, which doesn't discriminate. Try to be more like the Anything section! \\n\\nSome Items can't be held within it though, like &bBuckets full of Fluids&r or Accumulator Backpacks. \\n\\nYou can Shift Right Click to place down the &e&lToolbox&r to make it act like a Chest, then you can do the same to pick it up."]
-	quest.0A7B0D0B81E138DE.title: "&e&lEngineer's Toolbox"
-	quest.0ACC0092A8F722C6.quest_desc: ["Most Machines in &8&lIE&r will need &cEnergy&r to work, and &cWires&r are how we move it! \\n\\n&cWires&r are attached by Right Clicking one part with the &cWire Coil&r, then Right Clicking the second part with the same &cCoil&r. Their way can't be obstructed or else it won't connect. \\n\\nTo pick up &cWires&r we can break what they are connected to, or use our trusty &6Wire Cutters&r! \\n\\nThe different Tiers of &cWires&r effect how much they transfer, &5HV&r moving the most."]
-	quest.0ACC0092A8F722C6.title: "&cWire Coils"
-	quest.0AE6AD813928DE4F.quest_desc: ["The External Heater can be used with Furnaces, like the &2&lVanilla&r ones, not &c&lCrude Blast Furnace&r! \\n\\nIt takes in &cEnergy&r from the Bottom and uses it for Heat. \\n\\nThe Heat comes out of the other sides of it, to adjacent Blocks. \\n\\nIt is technically used for the &4&lImproved Blast Furnace&r, by Crafting the Preheaters but I don't count that!"]
-	quest.0D212038C0A45E0B.quest_desc: ["Casull Cartridges are the default Bullets. They deal 5 Hearts of Damage, and that's it! \\n\\nArmor Piercing Cartridges will have a higher chance of ignoring Armor Points. This is perfect against Mobs like the Bulwark. \\n\\nBuckshot Shells will instead of shooting 1 Projectile, it will shoot multiple Projectiles. Use in close range for best effects! \\n\\nSilver Cartridges will act like Casull Cartridges but with higher Damage to the Undead Mobs: Zombies and Skeletons!"]
+	quest.0A7B0D0B81E138DE.quest_desc: ["Hộp công cụ &e&lEngineer's hoạt động như một Shulker tách biệt. \n\nNó có các phần: Thực phẩm, bạn chỉ có thể đặt Thực phẩm vào. Công cụ, có thể chứa &8&lIE Công cụ hoặc các Công cụ khác chứ không phải &bBuckets. &cWiring's, có thể có &cWires's, &cConnectors's, hoặc &cRelays'r. Và bất cứ điều gì, không phân biệt đối xử. Hãy cố gắng giống phần Bất cứ điều gì hơn! \n\nTuy nhiên, Some Items không thể được giữ bên trong nó, chẳng hạn như &bXô chứa đầy Chất lỏng hoặc Accumulator Backpacks. \n\nBạn có thể Shift Right Click đặt &e&lHộp công cụ xuống để làm cho nó hoạt động giống như một Rương, sau đó bạn có thể làm tương tự để nhặt nó lên."]
+	quest.0A7B0D0B81E138DE.title: "&e&lHộp công cụ của kỹ sư"
+	quest.0ACC0092A8F722C6.quest_desc: ["Most Machines trong &8&lIE sẽ cần &cEnergy để hoạt động và &cWires là cách chúng tôi di chuyển nó! \n\n&cDây được gắn bởi Right Clicking một phần với &cCuộn dây, sau đó là Right Clicking phần thứ hai có cùng &cCuộn dây. Đường đi của họ không thể bị cản trở nếu không nó sẽ không kết nối được. \n\nĐể nhận &cWires, chúng ta có thể ngắt những gì chúng được kết nối hoặc sử dụng &6Wire Cutters đáng tin cậy của chúng tôi! \n\nCác Cấp khác nhau của &cWires ảnh hưởng đến số tiền chúng chuyển và &5HV di chuyển nhiều nhất."]
+	quest.0ACC0092A8F722C6.title: "&cCuộn dây"
+	quest.0AE6AD813928DE4F.quest_desc: ["Bộ gia nhiệt bên ngoài có thể được sử dụng với Lò nung, như lò &2&lVanilla, không phải &c&lCrude Blast Furnace&r! \n\nNó lấy &cNăng lượng từ dưới lên và sử dụng nó để tạo Nhiệt. \n\nNhiệt tỏa ra từ các phía bên kia của nó, đến các Khối liền kề. \n\nVề mặt kỹ thuật, nó được sử dụng cho &4&lCải tiến Blast Furnace&r, bằng cách Chế tạo Bộ sấy sơ bộ nhưng tôi không tính điều đó!"]
+	quest.0D212038C0A45E0B.quest_desc: ["Casull Cartridges là đạn mặc định. Họ gây ra 5 Trái tim sát thương, thế là xong! \n\nArmor Piercing Cartridges sẽ có khả năng bỏ qua Armor Points cao hơn. Điều này là hoàn hảo để chống lại Mob như Bulwark. \n\nBuckshot Shells sẽ thay vì bắn 1 Đạn, nó sẽ bắn nhiều Đạn. Sử dụng ở cự ly gần để có hiệu quả tốt nhất! \n\nSilver Cartridges sẽ hoạt động giống như Casull Cartridges nhưng có sát thương cao hơn đối với Undead Mobs: Zombie và Skeleton!"]
 	quest.0D212038C0A45E0B.title: "Common Projectiles"
-	quest.0D2D1F99945BA209.quest_desc: ["It is supposed to Equip your &8&lHeavy Plated Shield&r when you Double Tap S... emphasis on supposed to. \\n\\nReminder that &8&lIE&r is in Beta still! Mod Development takes a lot of time and effort, be respectful of such!"]
-	quest.0F14270F0A718C01.quest_desc: ["&cMagma&r- 1300 K \\n&cLava&r- 1300 K \\n&aUranium&r- 2000 K"]
-	quest.0F14270F0A718C01.title: "&cWarm Items"
+	quest.0D2D1F99945BA209.quest_desc: ["Nó được cho là sẽ Trang bị cho &8&lNặng Plated Shield của bạn khi bạn Double Tap S... nhấn mạnh vào nghĩa vụ phải làm. \n\nXin nhắc rằng &8&lIE vẫn đang trong giai đoạn Beta! Mod Development mất rất nhiều thời gian và công sức, hãy tôn trọng điều đó!"]
+	quest.0F14270F0A718C01.quest_desc: ["&cMagma'r- 1300 K \n&cDung nham- 1300 K \n&aUranium- 2000 K"]
+	quest.0F14270F0A718C01.title: "&cĐồ ấm"
 	quest.13471E64CDE49D27.quest_desc: [
-		"The &a&lRefinery&r will take 2 &bFluids&r and combine and refine them into 1 better &bFluid&r! \\n\\nThe 2 &bFluids&r can be &9Input&r from the Ports and the Left and Right sides. The Fluid Output will come out the Front Port. \\n\\nYou can use &bBuckets&r to deposit &bFluids&r into the Tanks as well! Don't forget to Right Click the &a&lRefinery&r to open its GUI. There we will need to place in a Catalyst, in order to start the Machine. \\nAlong with a Catalyst, it'll need &cEnergy&r which can be added via the Port in the Back!"
+		"&a&lNhà máy lọc dầu sẽ lấy 2&bFluids và kết hợp và tinh chế chúng thành 1 &bFluid&r tốt hơn! \n\n2 &bChất lỏng có thể là &9Đầu vào từ các Cổng và bên Trái và Bên Phải. Đầu ra Chất lỏng sẽ xuất hiện Front Port. \n\nBạn cũng có thể sử dụng &bBuckets để gửi &bFluids vào Tanks! Đừng quên Right Click &a&lRefinery's để mở GUI. Ở đó chúng ta sẽ cần đặt Chất xúc tác để khởi động Máy. \nCùng với Chất xúc tác, nó sẽ cần &cEnergy's có thể được bổ sung thông qua Cổng ở phía sau!"
+
 		"{@pagebreak}"
-		"To start make a line of 5 &bFluid Pipes&r. In the middle place &eLight Engineering Block&r on one side, and a &7Heavy Engineering Block&r on the other. Next to the rest of the &bFluid Pipes&r place &8Steel Scaffolding&r."
+		"Để bắt đầu tạo một dòng gồm 5 ống chất lỏng. Ở vị trí chính giữa là & Khối Kỹ thuật Ánh sáng ở một bên và & Khối Kỹ thuật Hạng nặng ở bên kia. Bên cạnh phần còn lại của &bFluid Pipes &8Steel Giàn giáo."
+
 		"{image:atm:textures/questpics/immersive/immersive_refinery1.png width:150 height:100 align:center}"
-		"Place more Engineering Blocks on the previous ones. To the right of the &7Heavy Engineering Block&r, skip 1 Block and place a &4Redstone Engineering Block&r. Next to the &eLight Engineering Block&r place 2 2x2 of &7Iron Sheetmetal&r."
+		"Đặt thêm các Khối kỹ thuật lên các khối trước đó. Ở bên phải của &7Khối kỹ thuật hạng nặng, bỏ qua 1 Khối và đặt &4Khối kỹ thuật hạng nặng. Bên cạnh vị trí của &eLight Engineering Block 2 2x2 của &7Iron Sheetmetal."
+
 		"{image:atm:textures/questpics/immersive/immersive_refinery2.png width:150 height:100 align:center}"
-		"Now just a few more &7Iron Sheetmetals&r!"
+		"Bây giờ chỉ còn một vài &7Iron Sheetmetals nữa thôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_refinery3.png width:150 height:100 align:center}"
-		"For this one we'll need to Right Click the top &7Heavy Engineering Block&r with our &6Hammer&r."
+		"Đối với phần này, chúng ta sẽ cần Right Click &7Khối kỹ thuật hạng nặng hàng đầu cùng với &6Hammer của chúng ta."
+
 		"{image:atm:textures/questpics/immersive/immersive_refinery.png width:100 height:100 align:center}"
 	]
 	quest.13471E64CDE49D27.title: "&l&aRefinery"
-	quest.135A16EDEEE27FA9.quest_desc: ["Everything related to &cWires&r and &cpower&r in &8&lIE&r can be Tiered. &6Low Voltage&r (&6LV&r), &eMedium Voltage&r (&eMV&r), and &5High Voltage&r (&5HV&r). \\n\\nThe higher the Voltage the more &cEnergy&r can be moved and used. Some Machines will need higher Voltage to be used. \\n\\nIn order to transfer different Voltages you'll need &cTransformers&r, check out their Quest!"]
+	quest.135A16EDEEE27FA9.quest_desc: ["Mọi thứ liên quan đến &cWires và &cpower trong &8&lIE’s đều có thể được phân cấp. &6Điện áp thấp (&6LV&r), &eĐiện áp trung bình (&eMV&r) và &5Điện áp cao (&5HV&r). \n\nĐiện áp càng cao thì càng có nhiều &cNăng lượng có thể được di chuyển và sử dụng. Some Machines sẽ cần sử dụng Điện áp cao hơn. \n\nĐể truyền các Điện áp khác nhau mà bạn cần & cTransformers, hãy xem Nhiệm vụ của họ!"]
 	quest.135A16EDEEE27FA9.title: "Tiered Voltage"
-	quest.13AF35A3108B02AF.quest_desc: ["Gotta go fast!"]
-	quest.1759A4E2AF0D2C88.quest_desc: ["Think of the &eLight Engineering Block&r, now just make all its components much harder to make! \\n\\n1st we need &eElectrum&r, which is an Alloy of &eGold&r and &7Silver&r made in the &6&lAlloy Kiln&r. \\n\\n2nd we need 4 &8Steel Sheetmetal&r, which like the &7Iron Sheetmetal&r, needs 4 &8Plates&r combined together. \\n\\n3rd is our &8Steel Mechanical Components&r which are either one &6Copper Ingot&r and 4 &8Steel Plates&r in a Crafting Table. or made cheaper in the &6Engineer's Workbench&r."]
-	quest.1759A4E2AF0D2C88.title: "&7Heavy Engineering Block"
-	quest.18A9392BBCF5A871.quest_desc: ["Like every Machine Mod, &8&lImmersive Engineering&r needs a way of moving &eItems&r, &bFluids&r, and more! \\n\\nMost Machines will have default set &6Outputs&r and &9Inputs&r but these can be configured, like with the &6Engineer's Screwdriver&r! You also might need to use an &6Engineer's Hammer&r but that's different."]
-	quest.18A9392BBCF5A871.title: "&8&lImmersive Engineering&rLogistics"
-	quest.1A13039D6302ADA5.quest_desc: ["You can check previous Quests to learn how to build some of these: &7Iron Mechanical Components&r in the &eLight Engineering Blocks&r and &8Steel Sheetmetal&r in &7Heavy Engineering Blocks&r. \\nThe &eElectrum Coils&r will be a bit different though... \\n\\n&eElectrum Coils&r need an Iron Ingot and 8 MV Wire Coils. To get MV Wire Coils we'll need to cut up some &eElectrum&r with Engineer's Wire Cutters."]
-	quest.1A13039D6302ADA5.title: "&6Generator Block"
-	quest.1A3F053E0F693002.quest_desc: ["The Advanced Lubrication System will act like Unbreaking to our &8Drill Heads&r and &8Buzzsaw Blades&r. \\n\\nThey will lose less Durability on use."]
-	quest.1A3F053E0F693002.quest_subtitle: "Stop laughing at its name!"
-	quest.1A6A383B4EF26B20.quest_desc: ["The &4&lMining Drill&r doesn't have many choices, we have an &7Iron Drill Head&r or a &8Steel Drill Head&r. \\n\\n&7Iron Drill Heads&r Mine in a 2x2 Area at the Tier of an &7Iron Pickaxe&r. It also does 6 Damage and has less Durability than the... \\n\\n&8Steel Drill Heads&r Mine in a 3x3 Area at the same Tier of a &bDiamond Pickaxe&r. These do 7 Damage and have more Durability!"]
-	quest.1A6A383B4EF26B20.title: "&8Drill Heads"
-	quest.1A8F2408970BFCCF.quest_desc: ["&eElectrum&r is an Alloy made from &eGold&r and &7Silver&r. \\n\\nYou can guess by its name it is used a ton in everything electricity related. Wires, Connectors, Transformers, ETC!"]
-	quest.1A8F2408970BFCCF.title: "&eElectrum Ingot&r"
-	quest.1BF02D43986ABB03.quest_desc: ["&eBelts&r come in all different shapes and sizes and uses! \\n\\nFirst, all &eConveyor Belts&r can be Crafted with &8Steel Scaffolding&r to give them covers. &eCovered Belts&r will make it so &eItems&r can't be picked up from Players while on it. \\n\\nThe first and simplest version of the &eBelt&r is the &eVertical Belt&r. It simply takes &eItems&r upwards! \\n\\n&eSplitting Belts&r... split the directions the &eItems&r going in, go. It will switch for every &eItem&r: 1 goes Left, 1 goes Right, 1 goes Left, 1 goes Right. \\n\\n&eDropping Belts&r will drop the &eItems&r either into an Inventory below it, or if there is open space it will just drop the &eItems&r. These can be configured with &4Redstone&r to not drop &eItems&r. \\n\\nThe last is the &eExtracting Belt&r, this one will automatically take &eItems&r out from Inventories and deploy it on its &eBelt&r. These can also be used with some Machines!"]
-	quest.1BF02D43986ABB03.title: "Types of&eBelts"
+	quest.13AF35A3108B02AF.quest_desc: ["Phải đi nhanh lên!"]
+	quest.1759A4E2AF0D2C88.quest_desc: ["Hãy nghĩ đến &eLight Engineering Block, bây giờ chỉ cần làm cho tất cả các thành phần của nó khó chế tạo hơn nhiều! \n\nĐầu tiên chúng ta cần &eElectrum, là Hợp kim của &eGold và &7Silver được sản xuất tại Lò nung &6&lAlloy. \n\nThứ 2, chúng ta cần 4 &8Steel Sheetmetal, giống như &7Iron Sheetmetal, cần 4 &8Plates kết hợp với nhau. \n\nThứ 3 là &8Thép Mechanical Components của chúng tôi, bao gồm một &6Than đồng và 4 &8Tấm thép trong Bàn chế tạo. hoặc được làm rẻ hơn trong &6Engineer's Workbench."]
+	quest.1759A4E2AF0D2C88.title: "&7Khối kỹ thuật nặng"
+	quest.18A9392BBCF5A871.quest_desc: ["Giống như mọi Machine Mod, &8&lKỹ thuật nhập vai cần một cách để di chuyển &eItems, &bFluids, v.v. \n\nMost Machines sẽ có cài đặt mặc định &6Đầu ra và &9Đầu vào nhưng những thứ này có thể được cấu hình, giống như với &6Engineer's Screwdriver! Bạn cũng có thể cần sử dụng &6Engineer's Hammer nhưng điều đó thì khác."]
+	quest.18A9392BBCF5A871.title: "&8&lKỹ thuật nhập vai&rLogistics"
+	quest.1A13039D6302ADA5.quest_desc: ["Bạn có thể kiểm tra các Nhiệm vụ trước đó để tìm hiểu cách xây dựng một số nhiệm vụ sau: &7Iron Mechanical Components&r trong &eLight Engineering Blocks và &8Steel Sheetmetal&r trong &7Heavy Engineering Blocks. \nTuy nhiên, &eElectrum Coils sẽ có một chút khác biệt... \n\n&eCuộn dây điện cần có Iron Ingot và 8 MV Wire Coils. Để có được MV Wire Coils chúng ta cần cắt một số &eElectrum bằng Engineer's Wire Cutters."]
+	quest.1A13039D6302ADA5.title: "&6Khối máy phát điện"
+	quest.1A3F053E0F693002.quest_desc: ["Hệ thống bôi trơn nâng cao sẽ hoạt động giống như Unbreak cho &8Đầu khoan và &8Lưỡi cưa Buzzsaw của chúng tôi. \n\nHọ sẽ mất ít độ bền hơn khi sử dụng."]
+	quest.1A3F053E0F693002.quest_subtitle: "Đừng cười vào tên của nó!"
+	quest.1A6A383B4EF26B20.quest_desc: ["Máy khoan &4&lMining không có nhiều sự lựa chọn, chúng tôi có &7Iron Drill Head&r hoặc &8Steel Drill Head&r. \n\nMỏ &7Iron Drill Heads trong khu vực 2x2 ở cấp độ của &7Cuốc sắt. Nó cũng gây 6 sát thương và có độ bền kém hơn... \n\nMỏ &8Thép Drill Heads trong khu vực 3x3 ở cùng Cấp độ của &bìa cuốc kim cương. Chúng gây ra 7 sát thương và có độ bền cao hơn!"]
+	quest.1A6A383B4EF26B20.title: "&8Đầu khoan"
+	quest.1A8F2408970BFCCF.quest_desc: ["&eElectrum là một hợp kim được làm từ &eGold và &7Silver. \n\nBạn có thể đoán qua tên của nó, nó được sử dụng rất nhiều trong mọi thứ liên quan đến điện. Dây điện, Đầu nối, Máy biến áp, ETC!"]
+	quest.1A8F2408970BFCCF.title: "&ePhôi điện"
+	quest.1BF02D43986ABB03.quest_desc: ["&eBelts có đủ hình dạng, kích cỡ và cách sử dụng khác nhau! \n\nĐầu tiên, tất cả các &Băng tải điện tử đều có thể được Chế tạo bằng &&8Steel Giàn giáo để làm vỏ bọc cho chúng. &ECovered Belts sẽ khiến cho &eItems không thể nhặt được từ Người chơi khi đang đeo trên đó. \n\nPhiên bản đầu tiên và đơn giản nhất của &eBelt là &eVertical Belt. Nó chỉ cần &eItems trở lên! \n\n&eSplitting Belts... phân chia các hướng đi của &eItems, đi. Nó sẽ chuyển đổi cho mỗi &eItem: 1 sang trái, 1 sang phải, 1 sang trái, 1 sang phải. \n\n&EDropping Belts sẽ thả &eItems vào Kho bên dưới nó, hoặc nếu có không gian trống, nó sẽ chỉ thả &eItems. Chúng có thể được cấu hình bằng &4Redstone để không làm rơi &eItems. \n\nCái cuối cùng là &eExtracting Belt, cái này sẽ tự động lấy &eItems ra khỏi Kho và triển khai nó trên &eBelt của nó. Những thứ này cũng có thể được sử dụng với một số Máy!"]
+	quest.1BF02D43986ABB03.title: "Các loại&eThắt lưng"
 	quest.1C76E244AE3582E6.quest_desc: [
-		"The &5&lAssembler&r, unlike most Machines, work mostly in its GUI. \\n\\nRight Click the Machine and set up 3 Recipes, by putting them into the Grids at the top of the screen. The order they are in, is the order it will follow for priority. \\n\\nYou can &9Input &eItems&r from the &eBelts&r and they will &6Output&r out of the back &aBelts&r. You can also &6Input &bFluids&r which will be used to refill &bBuckets&r or &bTanks&r used in Crafting! \\n\\nYou'll also need to power it with &cEnergy&r from the Top."
+		"&5&lAssembler, không giống như hầu hết các Máy khác, hoạt động chủ yếu ở GUI của nó. \n\nRight Click Máy và thiết lập 3 Công thức nấu ăn, bằng cách đặt chúng vào Lưới ở đầu màn hình. Thứ tự của chúng là thứ tự ưu tiên mà nó sẽ tuân theo. \n\nBạn có thể &9Nhập &eItems từ &eBelts và chúng sẽ &6Output từ phía sau &aBelts. Bạn cũng có thể &6Nhập &bChất lỏng sẽ được sử dụng để nạp &bXô hoặc &bXe tăng được sử dụng trong Chế tạo! \n\nBạn cũng sẽ cần cấp nguồn cho nó bằng &cEnergy từ Top."
+
 		"{@pagebreak}"
-		"Place 2 parallel lines of 3 &8Steel Scaffolding&r with a Block of space in between them. Between them place a &eLight Engineering Block&r in the center, and &4Redstone Engineering Blocks&r around it."
+		"Đặt 2 đường thẳng song song của Giàn giáo thép 3 &8 với một khối không gian ở giữa chúng. Giữa chúng đặt &Khối kỹ thuật eLight ở trung tâm và &4Khối kỹ thuật Redstone ở xung quanh nó."
+
 		"{image:atm:textures/questpics/immersive/immersive_assembler1.png width:100 height:100 align:center}"
-		"On the sides with &4Redstone Engineering Blocks&r place &7Iron Sheetmetal&r. Then, above the &eLight Engineering Block&r we of course will need another. After, place &eConveyor Belts&r going to and through the &eLight Engineering Block&r!"
+		"Ở hai bên là vị trí của &4Redstone Engineering Blocks &7Iron Sheetmetal. Sau đó, phía trên &eLight Engineering Block, tất nhiên chúng ta sẽ cần một khối khác. Sau đó, đặt &eConveyor Belts đi tới và xuyên qua &eLight Engineering Block!"
+
 		"{image:atm:textures/questpics/immersive/immersive_assemble2.png width:100 height:100 align:center}"
-		"This one might be confusing just be sight alone; place &7Iron Sheetmetal Slabs&r on our previously placed &7Iron Sheetmetal&r. Then, between them place full &7Iron Sheetmetal&r."
+		"Điều này có thể gây nhầm lẫn nếu chỉ nhìn thôi; đặt &7Iron Sheetmetal Slabs vào trên &7Iron Sheetmetal đã đặt trước đó của chúng tôi. Sau đó, giữa chúng đặt đầy đủ &7Iron Sheetmetal."
+
 		"{image:atm:textures/questpics/immersive/immersive_assembler3.png width:100 height:100 align:center}"
-		"To build our &5&lAssembler&r Right Click the first &eConveyor Belt&r with our lovely &6Hammer&r!"
+		"Để xây dựng &5&lAssembler's Right Click của &eConveyor Belt đầu tiên với &6Hammer's đáng yêu của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_assembler.png width:100 height:100 align:center}"
 	]
 	quest.1C76E244AE3582E6.title: "&5&lAssembler"
-	quest.1D4E7F548431263A.quest_desc: ["Easily the simplest of these Blocks to make. \\n\\nIron and &4Redstone&r you'll just get from &2&lVanilla&r gameplay, the only \\"difficult\\" Item is the &7Iron Sheetmetal&r."]
-	quest.1D4E7F548431263A.title: "&4Redstone Engineering Block"
+	quest.1D4E7F548431263A.quest_desc: ["Dễ dàng thực hiện đơn giản nhất trong số các Khối này. \n\nSắt và &4Redstone bạn sẽ nhận được từ lối chơi của &2&lVanilla, Vật phẩm \"khó\" duy nhất là &7Iron Sheetmetal."]
+	quest.1D4E7F548431263A.title: "&4Khối kỹ thuật Redstone"
 	quest.1F7DA060792D716A.quest_desc: [
-		"The &d&lMixer&r is just like the ones your Mother/Grandmother uses to mix eggs into flour and sugar to bake whatever delicious treat they are making! \\n\\nThe &d&lMixer&r will mix &eItems&r and &bFluids&r. To get &bFluids&r in we'll need to use the Port on the Left Side of the &d&lMixer&r. To give it &eItems&r we'll need to use the Ports at the back. \\n\\nIn order to work it'll need &cEnergy&r put into it from the Port at the Top of the Front of the &d&lMixer&r. \\n\\nOnce it mixes, our result will come out the Port in the Front of the Machine!"
+		"&d&lMixer cũng giống như cái mà Mẹ/Bà của bạn sử dụng để trộn trứng với bột mì và đường để nướng bất kỳ món ngon nào mà họ đang làm! \n\n&d&lMixer sẽ trộn &eItems&r và &bFluids&r. Để đưa &bFluids vào, chúng ta cần sử dụng Cổng trên Left Side của &d&lMixer. Để cung cấp &eItems, chúng ta cần sử dụng Cổng ở phía sau. \n\nĐể hoạt động, nó cần được cấp &cEnergy từ Cổng ở phía trên cùng của Mặt trước của &d&lMixer. \n\nSau khi trộn xong, kết quả của chúng tôi sẽ xuất hiện ở Cổng ở phía trước máy!"
+
 		"{@pagebreak}"
-		"The first layer of the &d&lMixer&r is built like a Wifi Symbol! First is &eLight Engineering Block&r, then &bFluid Pipes&r, and &8Steel Scaffolding&r."
+		"Lớp đầu tiên của &d&lMixer được xây dựng giống như Wifi Symbol! Đầu tiên là &eLight Engineering Block, sau đó là &bFluid Pipes, và &8Steel Scaffolding."
+
 		"{image:atm:textures/questpics/immersive/immersive_mixer1.png width:100 height:100 align:center}"
-		"Above our &eLight Engineering Block&r we'll put another and one to the left of the newly placed one. On the far right &8Scaffolding&r we'll place a &4Redstone Engineering Block&r. Then, we'll place a 2x2 of &7Iron Sheetmetal&r on the back of our Machine."
+		"Phía trên &Khối kỹ thuật eLight của chúng ta, chúng ta sẽ đặt một khối khác và một khối khác ở bên trái của khối mới được đặt. Ở ngoài cùng bên phải &8Scaffolding, chúng ta sẽ đặt &4Redstone Engineering Block. Sau đó, chúng ta sẽ đặt một tấm kim loại 2x2 &7Iron ở mặt sau của Máy."
+
 		"{image:atm:textures/questpics/immersive/immersive_mixer2.png width:100 height:100 align:center}"
-		"On top of the third &eLight Engineering Block&r we'll place a singular &8Steel Fence&r, and to the right of it will be a fourth &eLight Engineering Block&r."
+		"Trên đầu &Khối kỹ thuật eLight thứ ba, chúng tôi sẽ đặt một &8Hàng rào thép đơn lẻ, và ở bên phải của nó sẽ là &Khối kỹ thuật eLight thứ tư."
+
 		"{image:atm:textures/questpics/immersive/immersive_mixer3.png width:100 height:100 align:center}"
-		"To create the &d&lMixer&r Right Click the &7Iron Sheetmetal&r between our &eLight Engineering Block&r and &4Redstone Engineering Block&r with a &6Engineer's Hammer&r!"
+		"Để tạo &d&lMixer Right Click, &7Iron Sheetmetal&giữa &eLight Engineering Block của chúng tôi và &4Redstone Engineering Block bằng &6Engineer's Hammer!"
+
 		"{image:atm:textures/questpics/immersive/immersive_mixer.png width:100 height:100 align:center}"
 	]
 	quest.1F7DA060792D716A.title: "&l&dMixer"
-	quest.1FA44E8FEE004AB4.quest_desc: ["Hemp Rope and &8Steel Cables&r are placed like normal &cWires&r on &cConnectors &fand &cRelays&r but won't transfer &cEnergy&r. \\n\\nInstead they are for Decor or using the &6&lEngineer's Skyhook&r!"]
-	quest.1FA44E8FEE004AB4.title: "Safe for&6&lSkyhook&rusage!"
-	quest.2224AA108FC006F3.quest_desc: ["The Revolver Speedloader isn't actually an Upgrade, rather it is a seperate Item that's used to help. \\n\\nFill it with Cartridges like the &d&lRevolver&r, but now whenever you need to Reload the &d&lRevolver&r you can just Right Click with it to instantly reload!"]
-	quest.2224AA108FC006F3.quest_subtitle: "Did I shoot 6 times? Or only 5?"
-	quest.2262AB9F934165D0.quest_desc: ["I don't care how you got it, I just need you to get it! \\n\\n&8&lImmersive Engineering&r adds a whole lot more uses to &8Steel&r than just simple builds, almost everything will need &8Steel&r to make it! \\n\\nTools, Mechanical Parts, and Building Blocks mainly. A lot are made with &8Steel Plates&r or &8Scaffolding&r. \\n\\nYou'll need a lot of it but the &l&cCrude Blast Furnace&r and &l&6Alloy Kin&r can't be automated so we might need a... "]
-	quest.2262AB9F934165D0.title: "&8Steel Ingot"
-	quest.231E0C0A9B0C0509.quest_desc: ["This one can attach to your &c&lAccumulator Backpack&r. \\n\\nWhen the &c&lBackpack&r is worn, &eItems&r nearby will be sucked into your Inventory!"]
-	quest.23FDFA44A162023A.quest_desc: ["The &6Engineer's Workbench&r is a necessary Block needed for many Crafts and Upgrades. \\n\\nWe can use it with &9Blueprints&r to Craft special Items that we can't Craft elsewhere. Put the &9Blueprints&r in the Left Slot, and our &eCrafting Items&r into the Right Slots.\\n\\nOr we can throw our Tools into it, to add Upgrades to them, like the Revolver or Mining Drill! \\n\\nAlso when you add &eItems&r and &9Blueprints&r you can see them on the &6Block&r itself, pretty cool!"]
-	quest.23FDFA44A162023A.title: "&6Engineer's Workbench"
-	quest.251464B43353D4C6.quest_desc: ["Our beloved Garden Cloche! It is an automatic Farm, and with this Quest is simple to use! \\n\\nTo start it will need &cEnergy &6Input&r from either the Left, Right, or Top! \\n\\nIt will then need &9Water&r from Back Port, (try using a &9Sink&r). \\n\\nNext, we'll need to Input our Seeds, Farmland, and optional Fertilizer by the &eItem &6Input&r at the Bottom! \\n\\nIt will need the correct Farmland for the Seeds, you can check this all by Right Clicking the Cloche to see its GUI BTW! \\n\\nOnce it has all that, it will quickly grow and harvest your Crops and &6Output&r them on the Front of the Dome. \\n\\nLast notes: it will keep the original Seed and Farmland and won't use them up, Dirt will be made into Farmland, and the Fertilizers are Sulfur, Slag, Nitrate, and Industrial Fertilizer."]
-	quest.252A24CED69C1882.quest_desc: ["The Thermoelectric Generator, which I am going to just be calling a Thermo, is a unique Generator. \\n\\nOn its own it won't do anything, what we'll need to do is place Blocks or Fluids of differenting Temperatures on different sides of the Thermo. \\n\\nThe bigger the difference in Temperature the more Energy it creates!"]
-	quest.252A24CED69C1882.title: "Energy from Temperature"
-	quest.257C80468B080B3C.quest_desc: ["The Electromagnet is &8&lIE's&r take on the Absorption Hopper. \\n\\nWell, kinda! It won't hold the &eItems&r rather they will be moved closest to the Top face of the Electromagnet. \\n\\nThis can be used to get them onto &eBelts&r or hoppers! \\n\\nIt will require &cEnergy&r to be used though."]
-	quest.27FA2DB7839172BB.quest_desc: ["The &c&lBackpack&r by default will only charge &eItems&r in your Hand and Armor you are wearing. But what if we wanted to charge more than that! \\n\\nThen we'll need the Induction Charger! With this attached, every &eItem&r in your Inventory that can take charge, will charge."]
-	quest.288406DE6DA31BA6.quest_desc: ["Lots of things need &cEnergy&r, especially in &8&lIE&r. To get started we'll need some &6Engineer's Wire Cutters&r! \\n\\nYou can use those to snip some Plates into &cWires&r which can then be put into &cCoils&r, ready for use. \\n\\nThey are also used for taking &cWires&r off &cConnectors&r."]
-	quest.288406DE6DA31BA6.title: "&8&lImmersive Engineering&rPower!"
-	quest.28847A536C38EEA0.quest_desc: ["&cTransformers&r are how we go from &6LV&r Connections to &eMV&r Connections. The little &cConnector&r is &6LV&r and bigger one is &eMV&r! \\n\\nIf you want to go from &eMV&r to &5HV&r we'll need an &5HV Transformer&r. These work the same as the other &cTransformer&r, just the smaller &cConnector&r is &eMV&r and bigger one is &5HV&r! \\n\\nNo, you can't go from &6LV&r to &5HV&r without &eMV&r!"]
-	quest.28847A536C38EEA0.quest_subtitle: "Directed by Michael Bay"
+	quest.1FA44E8FEE004AB4.quest_desc: ["Hemp Rope và &8Steel Cables được đặt như &cWires bình thường trên &cConnectors &quạt và &cRelays nhưng sẽ không truyền &cEnergy. \n\nThay vào đó chúng dùng để trang trí hoặc sử dụng &6&lEngineer's Skyhook!"]
+	quest.1FA44E8FEE004AB4.title: "An toàn cho&6&lSkyhook&rusage!"
+	quest.2224AA108FC006F3.quest_desc: ["Revolver Speedloader thực chất không phải là một Bản nâng cấp, mà nó là một Vật phẩm riêng biệt được sử dụng để trợ giúp. \n\nĐổ đầy hộp mực như &d&lRevolver, nhưng giờ đây, bất cứ khi nào bạn cần Tải lại &d&lRevolver, bạn chỉ cần Right Click với nó để tải lại ngay lập tức!"]
+	quest.2224AA108FC006F3.quest_subtitle: "Tôi đã bắn 6 lần à? Hay chỉ có 5?"
+	quest.2262AB9F934165D0.quest_desc: ["Tôi không quan tâm làm thế nào bạn có được nó, tôi chỉ cần bạn có được nó! \n\n&8&lImmersive Engineering bổ sung thêm rất nhiều công dụng cho &8Steel thay vì chỉ xây dựng đơn giản, hầu hết mọi thứ sẽ cần &8Steel để tạo ra nó! \n\nChủ yếu là Công cụ, Mechanical Parts và Khối xây dựng. Rất nhiều thứ được làm bằng &8Tấm thép hoặc &8Giàn giáo. \n\nBạn sẽ cần rất nhiều nhưng &l&cCrude Blast Furnace&r và &l&6Alloy Kin không thể được tự động hóa nên chúng tôi có thể cần..."]
+	quest.2262AB9F934165D0.title: "&8Thép Thỏi"
+	quest.231E0C0A9B0C0509.quest_desc: ["Cái này có thể gắn vào &c&lBa lô tích lũy của bạn. \n\nKhi &c&lBa lô bị đeo, &eVật phẩm ở gần đó sẽ bị hút vào Kho đồ của bạn!"]
+	quest.23FDFA44A162023A.quest_desc: ["&6Engineer's Workbench là Khối cần thiết cho nhiều Chế tạo và Nâng cấp. \n\nChúng ta có thể sử dụng nó với &9Blueprints để Chế tạo các Vật phẩm đặc biệt mà chúng ta không thể Chế tạo ở nơi khác. Đặt &9Bản thiết kế vào Left Slot và &Vật phẩm chế tạo điện tử của chúng tôi vào Right Slots.\n\nHoặc chúng ta có thể ném Công cụ của mình vào đó để thêm các Bản nâng cấp cho chúng, như Revolver hoặc Mining Drill! \n\nNgoài ra, khi bạn thêm &eItems và &9Blueprints, bạn có thể thấy chúng trên chính &6Block, khá tuyệt!"]
+	quest.23FDFA44A162023A.title: "&6Bàn làm việc của kỹ sư"
+	quest.251464B43353D4C6.quest_desc: ["Garden Cloche yêu quý của chúng tôi! Đó là một Trang trại tự động và với Nhiệm vụ này, việc sử dụng rất đơn giản! \n\nĐể bắt đầu, nó sẽ cần &cNăng lượng &6Đầu vào từ Bên trái, Bên phải hoặc Trên cùng! \n\nSau đó, nó sẽ cần &9Water từ Back Port, (thử sử dụng &9Sink). \n\nTiếp theo, chúng ta sẽ cần Nhập Hạt giống, Đất nông nghiệp và Phân bón tùy chọn bằng &eItem &6Đầu vào ở dưới cùng! \n\nNó sẽ cần Đất nông nghiệp chính xác cho Hạt giống, bạn có thể kiểm tra tất cả điều này bằng Right Clicking Cloche để xem GUI BTW của nó! \n\nKhi đã có tất cả những thứ đó, nó sẽ nhanh chóng phát triển và thu hoạch Cây trồng của bạn và &6xuất chúng ở Mặt trước của Mái vòm. \n\nLưu ý cuối cùng: nó sẽ giữ lại Hạt giống và Đất nông nghiệp ban đầu và không sử dụng hết, Đất sẽ được chế tạo thành Đất nông nghiệp và Phân bón là Lưu huỳnh, Xỉ, Nitrate và Industrial Fertilizer."]
+	quest.252A24CED69C1882.quest_desc: ["Máy phát nhiệt điện, mà tôi sẽ gọi là Thermo, là một Máy phát điện độc đáo. \n\nBản thân nó sẽ không làm được gì cả, điều chúng ta cần làm là đặt Khối hoặc Chất lỏng có Nhiệt độ khác nhau trên các mặt khác nhau của Bình giữ nhiệt. \n\nSự chênh lệch về Nhiệt độ càng lớn thì năng lượng tạo ra càng nhiều!"]
+	quest.252A24CED69C1882.title: "Năng lượng từ nhiệt độ"
+	quest.257C80468B080B3C.quest_desc: ["Nam châm điện là sản phẩm của &8&lIE dựa trên Absorption Hopper. \n\nVâng, đại loại thế! Nó sẽ không giữ các &eItems mà thay vào đó chúng sẽ được di chuyển đến gần mặt trên nhất của Nam châm điện. \n\nĐiều này có thể được sử dụng để đưa chúng vào &eBelts hoặc phễu! \n\nTuy nhiên, nó sẽ yêu cầu sử dụng &cEnergy."]
+	quest.27FA2DB7839172BB.quest_desc: ["&c&lBa lô theo mặc định sẽ chỉ sạc &eVật phẩm trong Tay và Áo giáp bạn đang mặc. Nhưng nếu chúng ta muốn tính phí nhiều hơn thế thì sao! \n\nVậy thì chúng ta sẽ cần Induction Charger! Với điều này được đính kèm, mọi Vật phẩm trong Kho của bạn có thể tính phí sẽ tính phí."]
+	quest.288406DE6DA31BA6.quest_desc: ["Rất nhiều thứ cần &cEnergy, đặc biệt là trong &8&lIE. Để bắt đầu, chúng tôi sẽ cần một số &6Engineer's Wire Cutters&r! \n\nBạn có thể sử dụng chúng để cắt một số Tấm vào &cWires, sau đó có thể đưa vào &cCoils, sẵn sàng để sử dụng. \n\nChúng cũng được sử dụng để tắt &cWires &cConnectors."]
+	quest.288406DE6DA31BA6.title: "&8&lSức mạnh của kỹ thuật nhập vai!"
+	quest.28847A536C38EEA0.quest_desc: ["&cTransformers là cách chúng tôi đi từ Kết nối của &6LV đến Kết nối của &eMV. &cConnector nhỏ là &6LV và lớn hơn là &eMV&r! \n\nNếu bạn muốn chuyển từ &eMV sang &5HV, chúng ta sẽ cần Máy biến áp &5HV. Những cái này hoạt động tương tự như các &cTransformer khác, chỉ có &cConnector nhỏ hơn là &eMV&r và lớn hơn là &5HV&r! \n\nKhông, bạn không thể đi từ &6LV đến &5HV mà không có &eMV&r!"]
+	quest.28847A536C38EEA0.quest_subtitle: "Đạo diễn Michael Bay"
 	quest.28847A536C38EEA0.title: "&cTransformers"
-	quest.28E99A6E17E86709.quest_desc: ["Moving &bFluids&r is an essential part of &8&lIE&r, just think of the Creosote Oil and Plant Oil! \\n\\n&bFluid Pipes&r are our basic ways of moving &bFluids&r, if you want them faster check out &bFluid Pumps&r. \\n\\n&bFluid Pipes&r, like Energy Connectors, are determined where to &9Input&r and &6Output&r from what they are connected to. Some Machines need &4Redstone Signals&r to &6Output&r to &bFluid Pipes&r, like the &b&lTank&r! \\n\\nWe can use an &6Engineer's Hammer&r to change what the &bPipes&r connect to, plus we can use &8Steel Scaffolding&r on them to cover them, or Dye to dye them!"]
+	quest.28E99A6E17E86709.quest_desc: ["Di chuyển &bChất lỏng là một phần thiết yếu của &8&lIE, chỉ cần nghĩ đến Creosote Oil và Plant Oil! \n\n&bỐng chất lỏng là cách cơ bản để chúng ta di chuyển &bChất lỏng, nếu bạn muốn chúng nhanh hơn hãy xem &bBơm chất lỏng. \n\n&bFluid Pipes, như Energy Connectors, được xác định vị trí của &9Đầu vào và &6Đầu ra từ những gì chúng được kết nối. Some Machines cần &4Tín hiệu Redstone để &6Xuất ra &bFluid Pipes, giống như &b&lTank! \n\nChúng ta có thể sử dụng &6Engineer's Hammer để thay đổi kết nối của &bPipes, ngoài ra chúng ta có thể sử dụng &8Steel Scaffolding's trên chúng để che phủ chúng, hoặc Dye để nhuộm chúng!"]
 	quest.28E99A6E17E86709.title: "Moving&bFluids"
-	quest.29C9F8719DA63D8D.quest_desc: ["The &2&lBuzzsaw&r works similar to the &4&lMining Drill&r, just for &2Trees&r! \\n\\nIt requires &2Bio-Diesel&r as Fuel, which I won't explain how to get here either! \\n\\nAnd some sort of &8Sawblade&r. Which you can attach via the Top Slot in the &6Engineer's Workbench&r. \\n\\nSimply break Logs on a &2Tree&r and every Log, Leaf, and Birds Nest will come down with it! You can hold Shift to not break everything attached. \\n\\nThe &2&lBuzzsaw&r also does 10 Damage! Dang, why even use a Sword? Oh yeah &8Saws&r have Durability and it needs &2Bio-Diesel&r. \\n\\nThe &2&lBuzzsaw&r can hold 1 &8Blade&r or &8Disk&r and 2 Upgrades."]
+	quest.29C9F8719DA63D8D.quest_desc: ["&2&lBuzzsaw hoạt động tương tự như &4&lMining Drill, chỉ dành cho &2Trees! \n\nNó yêu cầu &2Bio-Diesel làm Nhiên liệu, tôi cũng sẽ không giải thích cách đến đây! \n\nVà một số loại &8Sawblade. Bạn có thể đính kèm thông qua Top Slot trong &6Bàn làm việc của Kỹ sư. \n\nĐơn giản chỉ cần phá Nhật ký trên &2Cây và mọi Nhật ký, Lá và Birds Nest sẽ bị phá hủy cùng với nó! Bạn có thể giữ phím Shift để không làm gãy mọi thứ đính kèm. \n\n&2&lBuzzsaw cũng gây ra 10 sát thương! Đặng, tại sao lại sử dụng Kiếm? Ồ vâng & 8Saws có Độ bền và nó cần & 2Bio-Diesel. \n\n&2&lBuzzsaw có thể chứa 1 &8Blade hoặc &8Disk&r và 2 bản nâng cấp."]
 	quest.29C9F8719DA63D8D.title: "&2&lBuzzsaw"
-	quest.2A1BFB2E0F1F3312.quest_desc: ["&dEnd Rod&r does 10 Damage as well as hits Endermen. \\n&5Enderpearls&r won't hit Mobs, rather they will teleport you much farther when shot. \\n&3Trident&r acts like a normal &3Trident&r throw, dealing 8 Damage. \\n&cBlaze Rods&r deal 10 Damage and set the Mobs on Fire!"]
-	quest.2A1BFB2E0F1F3312.title: "&5&lRailgun&rAmmo from&2&lMinecraft"
-	quest.2E89A03BA809634E.quest_desc: ["These can only be Traded with Gunsmiths for. \\n\\nSpecialized Projectiles are ones that do unique things! \\n\\nHoming, Explosive, and Flares are needed to be Crafted with these &9Blueprints&r."]
-	quest.2E89A03BA809634E.title: "&9Specialized Projectiles Blueprints"
-	quest.2E9D1131DC21CC5B.quest_desc: ["&lIndustrial Foregoing&r has its sleak futuristic design, &5&lMekanism&r has its dull modern design, and &8&lImmersive Engineering&r takes it much more retro! \\n\\nEverything is &6Brown&r, &7Grey&r, and &8Dark Grey&r! \\n\\nThe Mod all starts with the &6Engineer's Hammer&r. These can be used to make Plates, Dust, or just building our Multiblocks! \\n\\nBTW, did I tell you we'll be making a lot of those in this Mod? Hope you like them!"]
-	quest.2E9D1131DC21CC5B.title: "&8&lImmersive Engineering"
-	quest.2F19529214CA9559.quest_desc: ["It's like Thorns but doesn't Damage, just disorients Attackers. \\n\\nIt'll just stop Mobs for a little, it is much more effective (and aggravating) to Players!"]
-	quest.2F19529214CA9559.quest_subtitle: "Blitz?"
-	quest.2F8D117F802FEAF0.quest_desc: ["Commandos are the light troops. \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon is a &d&lRevolver&r and a Shield they hold in their Offhand. \\n\\nOn death they will drop Revolver parts with different stats, similar to Apotheosis stats!"]
+	quest.2A1BFB2E0F1F3312.quest_desc: ["&dEnd Rod gây 10 sát thương cũng như tấn công Endermen. \n&5Enderpearls sẽ không bắn trúng Mob, thay vào đó chúng sẽ dịch chuyển bạn đi xa hơn nhiều khi bị bắn. \n&3Trident hoạt động giống như cú ném &3Trident bình thường, gây 8 sát thương. \n&cBlaze Rods gây 10 sát thương và đốt cháy Mob!"]
+	quest.2A1BFB2E0F1F3312.title: "&5&lĐạn của Railgun từ&2&lMinecraft"
+	quest.2E89A03BA809634E.quest_desc: ["Những thứ này chỉ có thể được giao dịch với Thợ rèn súng. \n\nSpecialized Projectiles là những người làm những điều độc đáo! \n\nCần có Homing, Thuốc nổ và Pháo sáng để được chế tạo bằng &9Bản thiết kế này."]
+	quest.2E89A03BA809634E.title: "&9Chuyên dụng Projectiles Blueprints"
+	quest.2E9D1131DC21CC5B.quest_desc: ["&lIndustrial Foregoing có thiết kế tương lai bóng bẩy, &5&lMekanism có thiết kế hiện đại buồn tẻ, và &8&lImmersive Engineering của nó mang hơi hướng cổ điển hơn nhiều! \n\nMọi thứ đều là &6Brown, &7Grey, và &8Dark Grey! \n\nBản Mod đều bắt đầu bằng &6Engineer's Hammer. Những thứ này có thể được sử dụng để chế tạo Tấm, Bụi hoặc chỉ để xây dựng các Khối đa năng của chúng ta! \n\nBTW, tôi đã nói với bạn là chúng tôi sẽ tạo ra nhiều thứ như vậy trong Mod này chưa? Hy vọng bạn thích chúng!"]
+	quest.2E9D1131DC21CC5B.title: "&8&lKỹ thuật nhập vai"
+	quest.2F19529214CA9559.quest_desc: ["Nó giống như Thorns nhưng không gây sát thương, chỉ làm mất phương hướng của kẻ tấn công. \n\nNó sẽ chỉ ngăn chặn Mob một chút, nó hiệu quả hơn nhiều (và gây khó chịu) cho Người chơi!"]
+	quest.2F19529214CA9559.quest_subtitle: "Chớp nhoáng?"
+	quest.2F8D117F802FEAF0.quest_desc: ["Commandos là quân nhẹ. \n\nHọ có 12 Trái tim và không có Giáp. \n\nVũ khí của họ là &d&lRevolver và một chiếc Khiên mà họ cầm trên tay. \n\nKhi chết, chúng sẽ rơi ra các bộ phận của Revolver với các chỉ số khác nhau, tương tự như chỉ số Apotheosis!"]
 	quest.2F8D117F802FEAF0.title: "Commando"
-	quest.30EA16BB8C169F86.quest_desc: ["This one is a combination of &6Copper&r and &7Tin&r! \\n\\nIt's used a ton in &7&lModern Industrialization&r! But in &8&lIE&r... not that much..."]
-	quest.30EA16BB8C169F86.title: "&6Bronze Ingot"
-	quest.31324A6F96CAC112.quest_desc: ["&bFluid Pumps&r aren't just used for Bottlers, they can also be used to move &bFluids&r... quicker! \\n\\nUsing an &6Engineer's Hammer&r we can set Sides of the &bFluid Pump&r to &9Inputs&r and &6Outputs&r. \\n\\nThen, we can Power it with &4Redstone&r or &cEnergy&r, with &cEnergy&r moving &bFluids&r much faster than &4Redstone&r."]
-	quest.31324A6F96CAC112.title: "&bFluid Pump"
-	quest.320EE52EB022FAD3.quest_desc: ["Now this is a fun one! \\n\\n&bFluid Outlets&r can be set to &9Input &bFluids&r, and then we can have it so it places those &bFluids&r as Source Blocks next to the &6Output&r Sides! \\n\\nThis means we can automate placing of &9Water&r, &cLava&r, or pretty much any &bFluids&r! "]
-	quest.320EE52EB022FAD3.title: "&bFluid Outlet"
+	quest.30EA16BB8C169F86.quest_desc: ["Cái này là sự kết hợp giữa &6Copper và &7Tin! \n\nNó được sử dụng rất nhiều trong &7&lCông nghiệp hóa hiện đại! Nhưng trong &8&lIE... không nhiều đến thế..."]
+	quest.30EA16BB8C169F86.title: "&6T thỏi đồng"
+	quest.31324A6F96CAC112.quest_desc: ["&bBơm chất lỏng không chỉ được sử dụng cho Người đóng chai, chúng còn có thể được sử dụng để di chuyển &bChất lỏng... nhanh hơn! \n\nBằng cách sử dụng &6Engineer's Hammer, chúng ta có thể đặt Các mặt của &bBơm chất lỏng thành &9Đầu vào và &6Đầu ra. \n\nSau đó, chúng ta có thể cấp nguồn cho nó bằng &4Redstone hoặc &cEnergy, với tốc độ di chuyển của &bFluids của &cEnergy nhanh hơn nhiều so với &4Redstone."]
+	quest.31324A6F96CAC112.title: "&bBơm chất lỏng"
+	quest.320EE52EB022FAD3.quest_desc: ["Bây giờ đây là một trong những niềm vui! \n\n&bFluid Outlets có thể được đặt thành &9Input &bFluids&r, sau đó chúng ta có thể đặt nó để đặt các &bFluids đó thành Source Blocks bên cạnh các cạnh &6Output! \n\nĐiều này có nghĩa là chúng tôi có thể tự động hóa việc đặt &9Water, &cLava, hoặc gần như bất kỳ &bFluids nào!"]
+	quest.320EE52EB022FAD3.title: "&bỐng xả chất lỏng"
 	quest.32384DE59539557D.quest_desc: [
-		"The &4&lCrusher&r is a very dangerous and loud Machine. \\n\\nYou can &9Input &eItems&r (or Mobs) into the Top Grates, and it will &4&lCrush&r them into their Drops! \\n\\nThis can be very helpful especially with taking Raw Ores into Dust. If we use Raw Ore Blocks it will give us more Dust than what the &6Hammer&r will give, also some have a chance at giving an entirely new type of Dust! \\n\\nAll the Drops will come out of the Bottom Front Block, automatically &6ejecting&r. It will also need &cEnergy&r Input from the Top Right Side."
+		"&4&lCrusher là một cỗ máy rất nguy hiểm và ồn ào. \n\nBạn có thể &9Nhập &eItems (hoặc Mob) vào Top Grates, và nó sẽ &4&lĐè bẹp chúng thành Giọt nước của chúng! \n\nĐiều này có thể rất hữu ích, đặc biệt khi đưa Raw Ores vào Bụi. Nếu chúng ta sử dụng Raw Ore Blocks nó sẽ cung cấp cho chúng ta nhiều Bụi hơn những gì mà &6Hammer mang lại, đồng thời một số người còn có cơ hội tạo ra một loại Bụi hoàn toàn mới! \n\nTất cả Giọt sẽ thoát ra khỏi Bottom Front Block, tự động &6đẩy ra. Nó cũng sẽ cần đầu vào &cEnergy từ Top Right Side."
+
 		"{@pagebreak}"
-		"The &4&lCrusher&r is pretty big, we'll need to place this layout of &8Steel Scaffolding&r and &eLight Engineering Blocks&r. The direction the &eLight Engineering Blocks&r face is the Front side!"
+		"&4&lCrusher khá lớn, chúng ta sẽ cần đặt bố cục này của &8Steel Scaffolding và &eLight Engineering Blocks. Hướng mặt của &eLight Engineering Blocks là Mặt trước!"
+
 		"{image:atm:textures/questpics/immersive/immersive_crusher1.png width:100 height:150 align:center}"
-		"On top of our 3 &eLight Engineering Blocks&r we'll place 3 more. We'll also place a &4Redstone Engineering Block&r and &eLight Engineering Block&r on the Left Side. Then, put another &eLight Block&r in the middle and surround it with &8Steel Fences&r."
+		"Ngoài 3 &Khối kỹ thuật eLight của chúng tôi, chúng tôi sẽ đặt thêm 3 khối nữa. Chúng tôi cũng sẽ đặt &4Khối kỹ thuật Redstone và &Khối kỹ thuật eLight trên Left Side. Sau đó, đặt một &eLight Block khác vào giữa và bao quanh nó bằng &8Steel Fences."
+
 		"{image:atm:textures/questpics/immersive/immersive_crusher2.png width:100 height:100 align:center}"
-		"Finally, we just throw 9 Hoppers on top of the &8Steel Fences&r and in the middle!"
+		"Cuối cùng, chúng ta chỉ cần ném 9 Phễu lên trên &8Hàng rào thép và ở giữa!"
+
 		"{image:atm:textures/questpics/immersive/immersive_crusher3.png width:100 height:100 align:center}"
-		"You'll need to smack the middle &8Fence&r to make the Multiblock."
+		"Bạn sẽ cần phải đập vào giữa &8Fence để tạo Multiblock."
+
 		"{image:atm:textures/questpics/immersive/immersive_crusher.png width:100 height:100 align:center}"
 	]
 	quest.32384DE59539557D.title: "&l&4Crusher"
-	quest.33732EE8110A0911.quest_desc: ["The &8&lIE&r Dev forgot the &4&lMining Drill&r can also be used for Mining so last minute he put in Fortune III. \\n\\nThat being the Rock Softening Acid."]
-	quest.340F93695FFF8D76.quest_desc: ["With this the &b&lChemical Thrower&r will be more of a Chemical Shooter. \\n\\nThe range will be increased but the spray width will be decreased. So it is more accurate!"]
-	quest.341BB1353A1E45EA.quest_desc: ["Gun Turrets will act as a &d&lRevolver&r with a Computer brain! \\n\\nThey'll need &cEnergy&r from below it, and a &4Redstone Signal&r to turn on. Or use an &6Engineer's Screwdriver&r on it to make it always on. \\n\\nIt uses the same Ammo as a &d&lRevolver&r, that includes Speciality Projectiles! You can &9Input&r Bullets into it and &6Output&r the Casings, or just have them dropped out with the Expel Casing Button. \\n\\nBefore it starts shooting, we'll need to set its targeting. First, it won't attack the person who placed it. We also have a Type Bar we can add any Player or Mob name to Add in. These will make it so it spares them! \\n\\nIt is automatically set to Blacklist, if it is Blacklisted that means it'll Shoot what is listed. We then have Animals which means Passive Mobs. Players means just Players. Neutral stands for any Neutral Mobs and Villagers. Don't worry it was always target Hostile Mobs!"]
-	quest.34D09336FA3E272A.quest_desc: ["The Chemthrower Turret has the same exact targeting as the Gun Turret so check there for more info! \\n\\nJust like the Gun Turret, the Chemthrower Turret needs &cEnergy&r from its ports. But it will also need &bFluids&r Piped in to hold and shoot. &9Input &bFluids&r with Pipes as you can't use &bBuckets&r to fill it, only &bPipes&r. \\n\\nThe Chemthrower Turret has a storage of 4,000mB or 4 &bBuckets&r. You can also press a Button to Ignite &bFluids&r that are thrown. This will set Flammable &bFluids&r, on fire!"]
-	quest.35E399D88D2EDCB6.quest_desc: ["With this Upgrade everyone who attacks you will 1. be Stunned which will stop them for a second 2. hurt them and 3. destroy any Projectiles. \\n\\nI think it's worth the Upgrade!"]
-	quest.35E399D88D2EDCB6.quest_subtitle: "Clash?"
+	quest.33732EE8110A0911.quest_desc: ["Nhà phát triển của &8&lIE quên rằng Máy khoan khai thác &4&l cũng có thể được sử dụng để Khai thác nên phút cuối anh ấy đã đưa vào Fortune III. \n\nĐó là Rock Softening Acid."]
+	quest.340F93695FFF8D76.quest_desc: ["Với điều này, &b&lNgười ném hóa chất sẽ giống một Chemical Shooter hơn. \n\nPhạm vi sẽ tăng lên nhưng độ rộng phun sẽ giảm. Như vậy thì chính xác hơn!"]
+	quest.341BB1353A1E45EA.quest_desc: ["Gun Turrets sẽ hoạt động như một &d&lRevolver với bộ não Máy tính! \n\nHọ sẽ cần &cEnergy ở bên dưới nó và &4Redstone Signal để bật. Hoặc sử dụng Tuốc nơ vít &6Engineer's trên nó để làm cho nó luôn bật. \n\nNó sử dụng cùng loại đạn với &d&lRevolver, bao gồm Speciality Projectiles! Bạn có thể &9Nhập Đạn vào đó và &6Xuất Vỏ bọc, hoặc chỉ cần loại bỏ chúng bằng Expel Casing Button. \n\nTrước khi nó bắt đầu bắn, chúng ta cần đặt mục tiêu cho nó. Đầu tiên, nó sẽ không tấn công người đặt nó. Chúng tôi cũng có Thanh Loại, chúng tôi có thể thêm bất kỳ tên Người chơi hoặc Tên Mob nào vào Thêm vào. Những điều này sẽ giúp nó tránh được chúng! \n\nNó tự động được đặt thành Danh sách đen, nếu nó nằm trong Danh sách đen có nghĩa là nó sẽ Bắn những gì được liệt kê. Sau đó chúng ta có Động vật có nghĩa là Mob thụ động. Người chơi có nghĩa chỉ là Người chơi. Trung lập là viết tắt của bất kỳ Neutral Mobs và Dân làng nào. Đừng lo lắng nó luôn là mục tiêu Hostile Mobs!"]
+	quest.34D09336FA3E272A.quest_desc: ["Tháp pháo hóa học có mục tiêu chính xác giống như Gun Turret vì vậy hãy kiểm tra ở đó để biết thêm thông tin! \n\nGiống như Gun Turret, Chemthrower Turret cần &cEnergy từ các cổng của nó. Nhưng nó cũng sẽ cần Ống dẫn chất lỏng để giữ và bắn. &9Nhập &bChất lỏng bằng Ống vì bạn không thể sử dụng &bBuckets để đổ đầy nó, chỉ &bPipes&r. \n\nTháp pháo hóa học có dung lượng lưu trữ 4.000mB hoặc 4 thùng. Bạn cũng có thể nhấn Nút để Đốt cháy & chất lỏng được ném ra. Điều này sẽ khiến Chất lỏng & Chất lỏng dễ cháy bốc cháy!"]
+	quest.35E399D88D2EDCB6.quest_desc: ["Với Bản nâng cấp này, tất cả những người tấn công bạn sẽ 1. Bị choáng, điều này sẽ khiến họ dừng lại trong một giây 2. làm tổn thương họ và 3. phá hủy bất kỳ Đạn nào. \n\nTôi nghĩ nó đáng để nâng cấp!"]
+	quest.35E399D88D2EDCB6.quest_subtitle: "Đụng độ?"
 	quest.36EB83BB41A9E621.quest_desc: [
-		"The &b&lTank&r is just like the &l&eSilo&r but for &bFluids&r! \\n\\nIt can hold only 1 type of &bFluid&r, but it can hold 512 Buckets of that &bFluid&r. \\n\\nYou can &9Input &bFluid&r from the Top or Bottom Side, but you can only &6Output&r from the Bottom."
+		"&b&lTank cũng giống như &l&eSilo nhưng dành cho &bFluids! \n\nNó chỉ có thể chứa 1 loại &bFluid, nhưng nó có thể chứa 512 Xô chứa &bFluid đó. \n\nBạn có thể &9Nhập &bChất lỏng từ Trên cùng hoặc Bottom Side, nhưng bạn chỉ có thể &6Xuất ra từ Dưới cùng."
+
 		"{@pagebreak}"
-		"The &b&lTank&r is built similar to the &e&lSilo&r, start with our Treated Fences and singular &7Iron Sheetmetal&r."
+		"&b&lTank được xây dựng tương tự như &e&lSilo, bắt đầu với Treated Fences và số ít &7Iron Sheetmetal&r của chúng tôi."
+
 		"{image:atm:textures/questpics/immersive/immersive_tank1.png width:125 height:100 align:center}"
-		"Now we build our hollow squares of &7Iron Sheetmetals&r above our Fences, this time 3 Blocks high."
+		"Bây giờ chúng tôi xây dựng các hình vuông rỗng của &7Iron Sheetmetals phía trên Hàng rào của chúng tôi, lần này cao 3 Khối."
+
 		"{image:atm:textures/questpics/immersive/immersive_tank2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_tank3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_tank4.png width:100 height:100 align:center}"
-		"Then, top it off with a filled in square of &7Iron Sheetmetal&r!"
+		"Sau đó, phủ lên trên một hình vuông &7Iron Sheetmetal đầy!"
+
 		"{image:atm:textures/questpics/immersive/immersive_tank5.png width:100 height:100 align:center}"
-		"Right Click the same Block as in the &e&lSilo&r to create our &b&lTank&r."
+		"Right Click Khối tương tự như trong &e&lSilo để tạo &b&lTank của chúng tôi."
+
 		"{image:atm:textures/questpics/immersive/immersive_tank.png width:100 height:120 align:center}"
 	]
 	quest.36EB83BB41A9E621.title: "&b&lTank"
-	quest.373668AE257A7A94.quest_desc: ["High Explosive Cartridges will shoot explosives at your Enemies, blowing up everything nearby like TNT would! \\n\\nDragon's Breath Shells work like Buckshot, but now the Projectiles are on Fire!!!!! \\n\\nPhial Cartridges give Potion Effects based on the Potion used in its creation. \\n\\nFlare Shells work like Fireworks in a Crossbow. \\n\\nHoming Cartridges will aim after whatever Mob is closest to you... let's hope it's a dangerous Mob. \\n\\nWolfpack Shells are like Buckshot Shells but now the Projectiles are Homing Cartridges!"]
+	quest.373668AE257A7A94.quest_desc: ["High Explosive Cartridges sẽ bắn chất nổ vào Kẻ thù của bạn, làm nổ tung mọi thứ gần đó giống như TNT! \n\nDragon's Breath Shells hoạt động giống như Buckshot, nhưng bây giờ Đạn đang bốc cháy!!!!! \n\nPhial Cartridges tặng Potion Effects dựa trên Thuốc được sử dụng để tạo ra nó. \n\nFlare Shells hoạt động giống như Pháo hoa trong nỏ. \n\nHoming Cartridges sẽ nhắm tới bất kỳ Mob nào gần bạn nhất... hãy hy vọng đó là một Mob nguy hiểm. \n\nWolfpack Shells giống như Buckshot Shells nhưng giờ đây Đạn là Hộp đạn dẫn đường!"]
 	quest.373668AE257A7A94.title: "Specialized Projectiles"
-	quest.38C98FCB6A2D4226.quest_desc: ["The Miniture Telsa Coil will act like the Thorns Enchantment. \\n\\nAnyone who hits you, while you are wearing the &c&lBackpack&r, will be Shocked. Dealing Damage and giving an Effect!"]
-	quest.38F01BAEC74D5D68.quest_desc: ["It's the same as the other Preheater I just wanted it to be symmetrical :D."]
-	quest.39DAC0592300992A.quest_desc: ["&9Metal Press Mold Blueprints&r can be Crafted. \\n\\n&7&lMetal Press Multiblock&r will automate the creation of &7Metal Plates&r and &eItems&r. \\n\\nTo press the &7Metals&r we'll need Molds. \\n\\nIn order to make the Molds will need these &9Blueprints&r!"]
-	quest.39DAC0592300992A.title: "&9Metal Press Molds Blueprints"
-	quest.3A4A8EAA3022C7BA.quest_desc: ["Water Wheels are one of the Machines we can use for the Kinetic Dynamo. \\n\\nThese are much more compact but also expensive, compared to the Windmill. \\n\\nTo use them you'll need &9Water&r flowing over the Waterwheel. The more &9Water&r around it, the faster it'll go. Just make sure the &9Water&r isn't flowing in 2 different ways! \\n\\nBeing more compact means we can place 3 Waterwheels on 1 Kinetic Dynamo to get even more Energy."]
-	quest.3DE14F16F3109229.quest_desc: ["By combining 8 Planks of any Wood, with a &7Bucket of Creosote Oil&r, we'll get Treated Wood! \\n\\nTreated Wood is used in almost every single Item &8&lIE&r gives us, plus most of the simple Machines. \\n\\nMost important is the &6Engineer's Workbenches&r! These will give us a ton of new Recipes."]
+	quest.38C98FCB6A2D4226.quest_desc: ["Cuộn dây Telsa thu nhỏ sẽ hoạt động giống như Thorns Enchantment. \n\nBất cứ ai đánh bạn khi bạn đang đeo &c&lBa lô sẽ bị Sốc. Gây sát thương và tạo hiệu ứng!"]
+	quest.38F01BAEC74D5D68.quest_desc: ["Nó cũng giống như cái Preheater kia thôi mình chỉ muốn nó đối xứng thôi :D."]
+	quest.39DAC0592300992A.quest_desc: ["&9Kim loại Press Mold Blueprints có thể được Chế tạo. \n\n&7&lMetal Press Multiblock&r sẽ tự động tạo ra &7Tấm kim loại và &eItems. \n\nĐể nhấn nút &7Metals chúng ta cần Khuôn mẫu. \n\nĐể tạo ra các Khuôn mẫu sẽ cần những &9Bản thiết kế này!"]
+	quest.39DAC0592300992A.title: "&9Kim loại Press Molds Blueprints"
+	quest.3A4A8EAA3022C7BA.quest_desc: ["Water Wheels là một trong những Máy chúng tôi có thể sử dụng cho Kinetic Dynamo. \n\nNhững thứ này nhỏ gọn hơn nhiều nhưng cũng đắt tiền so với Cối xay gió. \n\nĐể sử dụng chúng, bạn sẽ cần &9Nước chảy qua Bánh xe nước. Càng có nhiều &9Nước xung quanh nó, nó sẽ di chuyển càng nhanh. Chỉ cần đảm bảo rằng &9Water không chảy theo 2 hướng khác nhau! \n\nNhỏ gọn hơn có nghĩa là chúng ta có thể đặt 3 Bánh xe nước trên 1 Kinetic Dynamo để nhận được nhiều Năng lượng hơn."]
+	quest.3DE14F16F3109229.quest_desc: ["Bằng cách kết hợp 8 tấm gỗ bất kỳ với &7Xô Creosote Oil&r, chúng ta sẽ nhận được Treated Wood! \n\nTreated Wood được sử dụng trong hầu hết mọi Vật phẩm &8&lIE cung cấp cho chúng ta, cùng với hầu hết các Máy đơn giản. \n\nQuan trọng nhất là &6Bàn làm việc của kỹ sư! Những thứ này sẽ cung cấp cho chúng ta rất nhiều Công thức nấu ăn mới."]
 	quest.3DE14F16F3109229.title: "Treated Wood"
-	quest.3E32450DBB7529AA.quest_desc: ["&eItem Batcher&r works kinda like the line for a Roller Coaster. \\n\\nThe Roller Coaster won't leave until all seats are filled! The same way the &eBatcher&r won't &6Output&r &eItems&r until the set Filter and Amount has been matched. \\n\\nPerfect for stuff like &5&lMekanism&r Ore Processing which needs certain amounts of &eItems&r &9Inputed&r or else it will bottleneck."]
-	quest.3E32450DBB7529AA.title: "&eItem Batcher"
-	quest.3E89034E0CB8D687.quest_desc: ["Wooden Crates act as Barrels... but &2&lMinecraft&r ones, so Chests that can be opened from any side! \\n\\nThey have 27 Slots but can be Shift Right Clicked with an &6Engineer's Hammer&r (multiple times) to shut them closed! This means they can be broken and preserve the &eItems&r inside. \\n\\nYou can also edit the Text of the Crate to change its name as if it were in an Anvil. \\n\\nThe Reinforced Crate works exactly the same as the normal one, just can't be blown up!"]
+	quest.3E32450DBB7529AA.quest_desc: ["&eItem Batcher hoạt động giống như dòng dành cho Roller Coaster. \n\nTàu lượn siêu tốc sẽ không rời đi cho đến khi tất cả chỗ ngồi đã được lấp đầy! Tương tự như vậy, &eBatcher sẽ không &6Output’s &eItems cho đến khi Bộ lọc và Số tiền đã đặt được khớp. \n\nHoàn hảo cho những nội dung như Ore Processing của &5&lMekanism cần một lượng &eItems&9Inputed&r nhất định nếu không nó sẽ tắc nghẽn."]
+	quest.3E32450DBB7529AA.title: "&eTrình phân loại vật phẩm"
+	quest.3E89034E0CB8D687.quest_desc: ["Wooden Crates đóng vai trò là Thùng... nhưng là &2&lMinecraft, vì vậy Rương có thể mở được từ mọi phía! \n\nChúng có 27 Khe cắm nhưng có thể Shift Right Clicked bằng &6Búa kỹ sư (nhiều lần) để đóng chúng lại! Điều này có nghĩa là chúng có thể bị vỡ và bảo quản được các &eItems bên trong. \n\nBạn cũng có thể chỉnh sửa Văn bản của Thùng để thay đổi tên của nó như thể nó ở trong Đe. \n\nThùng Gia cố hoạt động giống hệt như thùng bình thường, chỉ là không thể nổ tung được!"]
 	quest.3E89034E0CB8D687.title: "Storing&eItems"
-	quest.3ED40CC40458087E.quest_desc: ["The &c&lAccumulator Backpack&r doesn't do much on your own, we'll need to give it an &cAccumulator&r in order to get some work out of it! Any &cAccumulator&r it's not judgy! \\n\\nOnce you give it an &cAccumulator&r in an &6Engineer's Workbench&r, you can now charge it up. Once charged it will provide &cEnergy&r to Items in your Hand and Armor you are wearing. \\n\\nYou can wear it on your Back Slot in Curios, your Chestplate Slot, or combine it with a Chestplate in a Crafting Table. \\n\\nThe Backpack can hold 1 &cAccumulator&r and 3 Upgrades."]
-	quest.3ED40CC40458087E.title: "&c&lAccumulator Backpack"
-	quest.3EDDF96EA5056D28.quest_desc: ["&6Copper&r and &7Nickel&r will make &6Constantan&r! \\nFinally this one is used quite a bit in &8&lIE&r, especially in Machines or Items using Heat and Metal, like Generators."]
-	quest.3EDDF96EA5056D28.title: "&6Constantan Ingot"
+	quest.3ED40CC40458087E.quest_desc: ["&c&lAccumulator Backpack không tự mình làm được nhiều việc, chúng ta sẽ cần cung cấp cho nó một &c&cAccumulator để có thể xử lý nó! Bất kỳ &cBộ tích lũy nào đều không đáng phán xét! \n\nSau khi bạn cấp cho nó &cBộ tích lũy trong &6Bàn làm việc của Kỹ sư, bây giờ bạn có thể sạc pin. Sau khi được sạc, nó sẽ cung cấp &năng lượng cho Vật phẩm trên tay và Áo giáp bạn đang mặc. \n\nBạn có thể đeo nó trên Back Slot của bạn trong Curios, Chestplate Slot của bạn, hoặc kết hợp nó với Tấm giáp ngực trong Bàn chế tạo. \n\nBa lô có thể chứa 1 &cBộ tích lũy và 3 Nâng cấp."]
+	quest.3ED40CC40458087E.title: "&c&lBa lô tích lũy"
+	quest.3EDDF96EA5056D28.quest_desc: ["&6Đồng và &7Nickel sẽ tạo nên &6Constantan! \nCuối cùng, cái này được sử dụng khá nhiều trong &8&lIE, đặc biệt là trong Máy móc hoặc Vật phẩm sử dụng Nhiệt và Kim loại, như Máy phát điện."]
+	quest.3EDDF96EA5056D28.title: "&6 Thỏi Constantan"
 	quest.3EE95747CA6DFB1A.quest_desc: [
-		"The &7&lMetal Press&r is our Best Friend for all Crafting Recipes with &7Metal&r! \\n\\nIt's very simple, we place our Molds onto the Press, attach some &cEnergy&r to the top, and toss our &eItems&r onto the &eConveyor Belts&r. \\n\\nOur &eItems&r will pass through, get &7&lPressed&r, and become a new &eItem&r that keeps moving on the &eBelt&r! \\n\\nThese can be used to make &cWires&r, &7Plates&r, &8Rods&r, and... &2Melon Slices&r?"
+		"&7&lMetal Press’s là Best Friend của chúng tôi dành cho tất cả các Công thức chế tạo với &7Metal&r! \n\nRất đơn giản, chúng tôi đặt Khuôn mẫu của mình lên Máy ép, gắn một số &năng lượng lên trên cùng và ném các &eItems của chúng tôi lên &eConveyor Belts. \n\n&eItems của chúng ta sẽ đi qua, nhận được &7&lPressed và trở thành một &eItems mới tiếp tục di chuyển trên &eBelt! \n\nNhững thứ này có thể được sử dụng để làm &cWires's, &7Plates's, &8Rods's, và... &2Melon Slices?"
+
 		"{@pagebreak}"
-		"First layer is very simple, just &8Steel Scaffolding&r and both sides of a &4Redstone Enginerring Block&r."
+		"Lớp đầu tiên rất đơn giản, chỉ có &8Steel Scaffolding và cả hai mặt của &4Redstone Enginerring Block."
+
 		"{image:atm:textures/questpics/immersive/immersive_press1.png width:150 height:75 align:center}"
-		"Next, we place a Piston, facing Down, above the &4Redstone Engineering Block&r and add two Conveyor Belts next to it."
+		"Tiếp theo, chúng tôi đặt một Piston hướng xuống dưới, phía trên Khối kỹ thuật &4Redstone và thêm hai Conveyor Belts bên cạnh nó."
+
 		"{image:atm:textures/questpics/immersive/immersive_press2.png width:125 height:100 align:center}"
-		"Then, we place a single &7Heavy Engineering Block&r above our Piston!"
+		"Sau đó, chúng tôi đặt một &7 Khối Kỹ thuật Hạng nặng duy nhất phía trên Piston của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_press3.png width:100 height:100 align:center}"
-		"Last, we Right Click the Piston with the Engineer's Hammer!"
+		"Cuối cùng, chúng tôi Right Click Piston với Engineer's Hammer!"
+
 	]
-	quest.3EE95747CA6DFB1A.title: "&l&7Metal Press"
-	quest.407C2D00F22BD89D.quest_desc: ["This Upgrade gives space for 6 more Bullets! Making the total up to 14."]
+	quest.3EE95747CA6DFB1A.title: "&l&7Máy ép kim loại"
+	quest.407C2D00F22BD89D.quest_desc: ["Bản nâng cấp này mang lại không gian cho thêm 6 viên đạn! Làm tổng số lên tới 14."]
 	quest.4104C5D003D4705A.quest_desc: [
-		"Another Multiblock that uses &eBelts&r, I'm seeing a pattern. First, we need to set a &9Blueprint&r. Right Click the &6&lAutomated Workbench&r to open its GUI and place a &9Blueprint&r in the Right most slot. \\n\\nThen, we can have our &eItems&r go through the &eBelts&r to be used in Recipes if possible. \\n\\nAfter that, the Crafted &eItem&r (and &eItems&r that were accidentally put on the &eBelts&r) will go out the &eBelts&r. \\n\\nThis is useful for automating Bullets, &0HOP Graphite&r, and &7Mechanical Components&r."
+		"Another Multiblock sử dụng &eBelts, tôi thấy một mẫu. Đầu tiên, chúng ta cần thiết lập &9Blueprint. Right Click &6&lAutomated Workbench để mở GUI và đặt &9Blueprint vào ô bên phải nhất. \n\nSau đó, chúng ta có thể đưa &eItems của mình đi qua &eBelts để sử dụng trong Công thức nấu ăn nếu có thể. \n\nSau đó, &eItem's Thủ công (và các &eItems vô tình được đeo vào &eBelts) sẽ biến mất khỏi &eBelts. \n\nĐiều này hữu ích cho việc tự động hóa Bullets, &0HOP Graphite và &7Mechanical Components."
+
 		"{@pagebreak}"
-		"We start a lot of these with shapes using &8Steel Scaffolding&r, this time it is a diagonal line. On the smaller corner we'll place a &7Heavy Engineering Block&r. On the bigger corner we'll place 2 &eLight Engineering Blocks&r and a &4Redstone Engineering Block&r."
+		"Chúng ta bắt đầu rất nhiều trong số này với các hình dạng sử dụng &8Steel Giàn giáo, lần này nó là một đường chéo. Ở góc nhỏ hơn, chúng tôi sẽ đặt &7Khối kỹ thuật hạng nặng. Ở góc lớn hơn, chúng tôi sẽ đặt 2 &Khối kỹ thuật eLight và &4Khối kỹ thuật Redstone."
+
 		"{image:atm:textures/questpics/immersive/immersive_automated1.png width:100 height:100 align:center}"
-		"Next, we'll place more &eLight Engineering&r and &7Heavy Engineering Blocks&r on top of their former selves. Above the &4Redstone Engineering Block&r and the &8Steel Scaffolding&r to the left of it we'll place Treated Wood Slabs. Within the rest of the space we'll place &eConveyor Belts&r in the order shown."
+		"Tiếp theo, chúng tôi sẽ đặt thêm &eLight Engineering's và &7Heavy Engineering Blocks lên trên bản thân trước đây của chúng. Phía trên Khối kỹ thuật &4Redstone và &8Giàn giáo thép ở bên trái của nó, chúng tôi sẽ đặt Treated Wood Slabs. Trong phần còn lại của không gian, chúng tôi sẽ đặt &Băng tải điện tử theo thứ tự được hiển thị."
+
 		"{image:atm:textures/questpics/immersive/immersive_automated2.png width:100 height:100 align:center}"
-		"To get our &6&lAutomated Workbench&r, smack the left Treated Wood Slab with the &6Engineer's Hammer&r!"
+		"Để có được &6&lBàn làm việc tự động của chúng tôi, hãy đập vào bên trái Treated Wood Slab bằng &6&lBúa kỹ sư!"
+
 		"{image:atm:textures/questpics/immersive/immersive_automated.png width:100 height:100 align:center}"
 	]
-	quest.4104C5D003D4705A.title: "&l&6Automated Workbench"
+	quest.4104C5D003D4705A.title: "&l&6Bàn làm việc tự động"
 	quest.41B99DBD03EB74FF.quest_desc: [
-		"Trust me the Multiblock ain't lying when it says it's improved! \\n\\nThis one can be automated to recieve &9Inputs&r from the Top, and &6Outputs&r from the Front and Back Slots. \\n\\nAlso, we can add Preheaters to its Left and Right! \\n\\nAll this makes it much faster and of course, more efficient!"
+		"Hãy tin tôi rằng Multiblock không nói dối khi nói rằng nó đã được cải thiện! \n\nĐiều này có thể được tự động hóa để nhận &9Đầu vào từ Trên cùng và &6Đầu ra từ Mặt trước và Back Slots. \n\nNgoài ra, chúng ta có thể thêm Bộ sấy sơ bộ ở bên trái và bên phải! \n\nTất cả điều này làm cho nó nhanh hơn nhiều và tất nhiên là hiệu quả hơn!"
+
 		"{@pagebreak}"
-		"Finally a different one! You'll start with a base of 3x3x3 &4Reinforced Blast Bricks&r."
+		"Cuối cùng là một cái khác! Bạn sẽ bắt đầu với nền 3x3x3 &4Được gia cố Blast Bricks&r."
+
 		"{image:atm:textures/questpics/immersive/immersive_blast1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_blast2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_blast3.png width:100 height:100 align:center}"
-		"Then, place a Hopper on the Top of the Middle Block."
+		"Sau đó, đặt Phễu lên trên Middle Block."
+
 		"{image:atm:textures/questpics/immersive/immersive_blast4.png width:100 height:125 align:center}"
-		"Now Right Click the Middle Block of the 2nd layer with the &6Engineer's Hammer&r."
+		"Now Right Click Middle Block của lớp thứ 2 với &6Búa kỹ sư."
+
 		"{image:atm:textures/questpics/immersive/immersive_blast.png width:100 height:150 align:center}"
 	]
-	quest.41B99DBD03EB74FF.title: "&l&4Improved Blast Lò nung"
-	quest.4295C863C9A81F28.quest_desc: ["The Telsa Coil is a very fun and &cEnergy&r hungry home defence! \\n\\nFirst, power it with &cEnergy&r from any of its Ports. Then, either give it a &4Redstone Signal&r to turn it on, or use a &6Engineer's Screwdriver&r to make it always on! \\n\\nOnce it is on it will be actively using &cEnergy&r and when a Mob comes near it, it will Stun them and hurt them! Hurting Mobs makes it take more &cEnergy&r though. \\n\\nYou can Shift Right Click with an &6Engineer's Screwdriver&r to set it to low power mode. It will take less &cEnery&r but also have less Range and deal less Damage!"]
-	quest.431C62A6F8ECB4EC.quest_desc: ["&7Aluminum Rod&r - 10 \\n&7Iron Rod&r - 16 \\n&8Steel Rod&r - 24 \\n&8Sawblade&r - 12 \\n&0Graphite Electrode&r - 30"]
-	quest.431C62A6F8ECB4EC.title: "&5&lRailgun&rAmmo from&8&lIE&r"
-	quest.442B1A1900BADAFC.quest_desc: ["Some Machines in &8&lIE&r aren't Multiblocks, rather they are single-blocked! \\n\\nDon't think that, just because they are made with 1 Block that, they aren't important though! "]
+	quest.41B99DBD03EB74FF.title: "&l&4Lò nung cải tiến"
+	quest.4295C863C9A81F28.quest_desc: ["Cuộn dây Telsa là một cách phòng thủ nhà rất thú vị và & cEnergy! \n\nĐầu tiên, cấp nguồn cho nó bằng &cEnergy từ bất kỳ Cổng nào của nó. Sau đó, cung cấp cho nó &4Redstone Signal để bật nó hoặc sử dụng &6Engineer's Screwdriver để bật nó luôn! \n\nMột khi nó được bật, nó sẽ tích cực sử dụng &cNăng lượng và khi Mob đến gần nó, nó sẽ làm choáng và làm chúng bị thương! Tuy nhiên, việc tấn công Mob sẽ tốn nhiều &cNăng lượng hơn. \n\nBạn có thể Shift Right Click với &6Engineer's Screwdriver để đặt nó ở chế độ năng lượng thấp. Nó sẽ tiêu tốn ít năng lượng hơn nhưng cũng có phạm vi ít hơn và gây ít sát thương hơn!"]
+	quest.431C62A6F8ECB4EC.quest_desc: ["&7Thanh nhôm - 10 \n&7Quần Sắt - 16 \n&8Thanh Thép - 24 \n&8Lưỡi cưa - 12 \n&0Điện cực than chì - 30"]
+	quest.431C62A6F8ECB4EC.title: "&5&lĐạn của Railgun từ&8&lIE’s"
+	quest.442B1A1900BADAFC.quest_desc: ["Some Machines trong &8&lIE không phải là Multiblocks, mà là chúng bị chặn đơn! \n\nĐừng nghĩ rằng, chỉ vì chúng được tạo ra bằng 1 Block nên chúng không quan trọng đâu!"]
 	quest.442B1A1900BADAFC.title: "Small Machines"
-	quest.452EF09F6CB4AD99.quest_desc: ["&cRelays&r don't connect &cWires&r to Machines, rather they connect &cWires&r to more &cWires&r! \\n\\n&cRelays&r work by combining a bunch of &cWires&r into one spot, so it will take all the &9Input &cEnergy&r and send them to &cConnectors&r to all the &6Outputs&r connected. \\n\\nThis is helpful for when you have either one Power Generator that you want to charge multiple Machines!"]
+	quest.452EF09F6CB4AD99.quest_desc: ["&cRelays không kết nối &cWires với Máy móc, thay vào đó họ kết nối &cWires với nhiều &cWires hơn! \n\n&cRelays hoạt động bằng cách kết hợp nhiều &cWires vào một chỗ, do đó, nó sẽ lấy tất cả &9Input &cEnergy và gửi chúng đến &cConnectors tới tất cả &6Outputs được kết nối. \n\nĐiều này rất hữu ích khi bạn có một Power Generator mà bạn muốn sạc nhiều Máy!"]
 	quest.452EF09F6CB4AD99.title: "&cRelays"
-	quest.458265FCD6B3068E.quest_desc: ["Everybody loved the Crafting Stations from &lTinker's Construct&r and apparently so did the &8&lIE&r Devs! \\n\\nThe &6Engineer's Crafting Table&r will act like a normal Crafting Table, with an added 18 Slots of Storage in it, plus it keeps your &eItems&r in the Grid when you stop viewing it! \\n\\nWhat more could you want!"]
-	quest.458265FCD6B3068E.title: "&6Engineer's Crafting Table"
-	quest.47656073894224AF.quest_desc: ["Yes, it is just like the ones on giant Battleships! \\n\\nThe &5&lRailgun&r is a special Gun. For 1. it uses special Ammo, not Cartridges like the Revolver uses 2. it uses &cEnergy&r and needs to charge before shooting. \\n\\nThe Ammo it uses is &eItems&r from your Inventory: &7Aluminum&r, &7Iron&r, and &8Steel Rods&r, &0Graphite Electrodes&r, Sawblades, Enderpearls, Tridents, Blaze Rods, and End Rods. \\n\\nIt'll take whatever is in your Inventory, to change what it Shoots, Hold Shift and Scroll. \\n\\nNext, it needs &cEnergy&r within it to Shoot, to charge it we can use any &cItem Charger&r, including the one added by &8&lImmersive Engineering&r! \\n\\nOnce we have all this, Hold Right Click until the Railgun gets to Level 99, then release! \\n\\nThe &5&lRailgun's&r Upgrades are: Precision Scope and Heatsinks. \\n\\nIt can hold 2 Upgrades, well that makes sense it can't use anymore than that!"]
+	quest.458265FCD6B3068E.quest_desc: ["Mọi người đều yêu thích các Trạm chế tạo từ &lTinker's Construct và dường như các Nhà phát triển của &8&lIE cũng vậy! \n\n&6Engineer's Crafting Table sẽ hoạt động giống như một Bàn chế tạo thông thường, với thêm 18 Khe lưu trữ trong đó, ngoài ra nó còn giữ &eItems của bạn trong Lưới khi bạn ngừng xem nó! \n\nBạn còn muốn gì hơn nữa!"]
+	quest.458265FCD6B3068E.title: "&6Bàn chế tạo của kỹ sư"
+	quest.47656073894224AF.quest_desc: ["Vâng, nó giống như những gì trên Chiến hạm khổng lồ! \n\n&5&lRailgun là một loại súng đặc biệt. Đối với 1. nó sử dụng Đạn đặc biệt, không phải Hộp đạn như Revolver sử dụng 2. nó sử dụng &năng lượng và cần phải sạc trước khi bắn. \n\nĐạn mà nó sử dụng là &eVật phẩm từ Kho của bạn: &7Nhôm, &7Sắt, và &8Thanh thép, &0Điện cực than chì, Lưỡi cưa, Ngọc trai Enderpearls, Cây đinh ba, Blaze Rods và End Rods. \n\nNó sẽ lấy bất cứ thứ gì có trong Kho của bạn để thay đổi thứ nó Bắn, Hold Shift và Cuộn. \n\nTiếp theo, nó cần &cNăng lượng bên trong để Bắn, để sạc nó, chúng ta có thể sử dụng bất kỳ &cBộ sạc Vật phẩm nào, bao gồm cả bộ được thêm bởi &8&lImmersive Engineering! \n\nKhi chúng ta có tất cả những thứ này, Hold Right Click cho đến khi Railgun đạt Cấp 99, sau đó thả ra! \n\nCác nâng cấp của &5&lRailgun là: Precision Scope và Tản nhiệt. \n\nNó có thể chứa 2 Bản nâng cấp, điều đó có nghĩa là nó không thể sử dụng được nữa!"]
 	quest.47656073894224AF.title: "&5&lRailgun"
-	quest.47E32A084CAA1512.quest_desc: ["Can be Traded with a Gunsmith or Crafted. \\n\\nGuns aren't much fun without Bullets, so let's Craft some! In order to Craft them though we'll need this &9Blueprint&r."]
-	quest.47E32A084CAA1512.title: "&9Common Projectiles Blueprint"
-	quest.481735FE3164C8D5.quest_desc: ["&bBlue Ice&r- 200 K \\n&bPacked Ice&r- 240 K \\n&bIce&r- 260 K \\nSnow- 273 K \\n&9Water&r- 300"]
-	quest.481735FE3164C8D5.title: "&bCold Items"
-	quest.4AAB3899F530CC19.quest_desc: ["Chutes can take &eItems&r (and some Entities) and drop them without worry of despawning! \\n\\nThey also drop &eItems&r pretty darn quickly. \\n\\nYou can use the &6Engineer's Hammer&r to make a Chute curve to toss the &eItems&r onto a &eBelt&r!"]
+	quest.47E32A084CAA1512.quest_desc: ["Có thể giao dịch với Thợ súng hoặc Chế tạo. \n\nSúng sẽ không còn thú vị nếu không có Đạn, vì vậy hãy cùng Chế tạo một số khẩu súng! Tuy nhiên, để chế tạo chúng, chúng ta sẽ cần &9Blueprint này."]
+	quest.47E32A084CAA1512.title: "&9Thông thường Projectiles Blueprint"
+	quest.481735FE3164C8D5.quest_desc: ["&bBlue Ice'r- 200 K \n&bĐá đóng gói- 240 K \n&bĐá- 260 K \nTuyết- 273 K \n&9Nước-300"]
+	quest.481735FE3164C8D5.title: "&bĐồ nguội"
+	quest.4AAB3899F530CC19.quest_desc: ["Máng có thể lấy &eItems (và một số Thực thể) và thả chúng mà không lo bị biến mất! \n\nHọ cũng đánh rơi &eItems khá nhanh chóng. \n\nBạn có thể sử dụng &6Engineer's Hammer để tạo một đường cong Chute nhằm ném các &eItems lên một &ebelt!"]
 	quest.4AAB3899F530CC19.quest_subtitle: "No Ladders?"
-	quest.4B42D962FE910CB3.quest_desc: ["With this added on to your &d&lRevolver&r, your Bullets will give the Mobs you hit the Stunned Effect."]
+	quest.4B42D962FE910CB3.quest_desc: ["Với tính năng này được thêm vào &d&lRevolver của bạn, Đạn của bạn sẽ mang lại cho Mob mà bạn bắn trúng Stunned Effect."]
 	quest.4BA2F4AC2A08C294.quest_desc: [
-		"What's that? It's only the hardest and most expensive Multiblock in &8&lImmersive Engineering&r. The &c&lExcavator&r! \\n\\nThis giant behemoth will automatically collect Ores and Blocks from the Ground. \\n\\nThe Items it picks up will be &6Output&r from a Port in the Back of it. If there's no Inventory next to it, it will dispense the Items. \\n\\nThis is also a super &cEnergy&r hungry Machine, you'll need to use the Energy Ports on the Left Side of it to feed it!"
+		"Đó là cái gì vậy? Đây chỉ là Multiblock cứng nhất và đắt nhất trong &8&lImmersive Engineering. &c&lMáy xúc! \n\nCon quái vật khổng lồ này sẽ tự động thu thập Quặng và Khối từ Mặt đất. \n\nVật phẩm nó nhặt được sẽ là &6Đầu ra từ một Cổng ở phía sau nó. Nếu không có Kho đồ bên cạnh, nó sẽ phân phối Vật phẩm. \n\nĐây cũng là một Cỗ máy cực kỳ ngốn Năng lượng, bạn sẽ cần sử dụng Energy Ports trên Left Side của nó để cung cấp năng lượng cho nó!"
+
 		"{@pagebreak}"
-		"Place a &8Steel Block&r."
+		"Đặt &8Khối thép."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator1.png width:100 height:100 align:center}"
-		"Add 3 &8Steel Scaffolding&r above the &8Steel Block&r and place 2 &8Steel Blocks&r on the ends."
+		"Thêm 3 &8Steel Giàn giáo phía trên &8Khối thép và đặt 2 &8Khối thép ở cuối."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator2.png width:175 height:100 align:center}"
-		"After that place a 3x3 of &8Steel Scaffolding&r above the previous &8Scaffolding&r, and an extra one on each of the &8Steel Blocks&r. Then, using &8Steel Sheetmetal&r make a hoop off of the &8Scaffolding&r, including a &eLight Engineering Block&r and a &8Radiator Block&r. "
+		"Sau đó, đặt 3x3 &8Steel Scaffolding lên trên &8Scaffolding trước đó, và thêm một cái nữa vào mỗi &8Steel Blocks. Sau đó, sử dụng &8Steel Sheetmetal để tạo thành một vòng cho &8Scaffolding, bao gồm cả &eLight Engineering Block và &8Radiator Block."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator3.png width:150 height:100 align:center}"
-		"Above the &8Steel Scaffolding&r add more, with a &8Steel Block&r in the middle. Then, attach more &8Steel Blocks&r to the ends of those. On one side it'll be 3 &eLight Engineering Blocks&r and the other will be 3 &7Heavy Engineering Blocks&r. Above the &eLight Engineering Block&r in the last layer, will be another. And above the &8Radiator Block&r will be a &4Redstone Engineering Block&r. Next to it will be another &7Heavy Engineering Block&r and the rest will be &8Steel Sheetmetal&r."
+		"Phía trên &8Steel Scaffolding có thêm nhiều chi tiết khác, với &8Steel Block ở giữa. Sau đó, gắn thêm &8Khối thép vào đầu của những khối đó. Một bên sẽ là 3 & Khối kỹ thuật hạng nhẹ và bên kia sẽ là 3 &7 Khối kỹ thuật hạng nặng. Phía trên &Khối kỹ thuật eLight ở lớp cuối cùng sẽ là một khối khác. Và phía trên &8Radiator Block sẽ là &4Redstone Engineering Block. Bên cạnh nó sẽ là &7Heavy Engineering Block khác và phần còn lại sẽ là &8Steel Sheetmetal."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator4.png width:150 height:100 align:center}"
-		"Now for the middle part we'll be repeating what we did below the half, so now it's just &8Steel Scaffolding&r. On the side next to it with &eLight Engineering Blocks&r will be 3 more, same with the random &eLight Engineering Block&r on the otherside. Next to the 3 &eLight Engineering Blocks&r will be 2 &8Radiator Blocks&r, and everything else is &8Sheetmetal&r."
+		"Bây giờ đối với phần giữa, chúng ta sẽ lặp lại những gì chúng ta đã làm ở phần dưới, vì vậy bây giờ chỉ là &8Steel Scaffolding. Ở phía bên cạnh nó có &eLight Engineering Blocks sẽ có thêm 3 cái nữa, tương tự với &eLight Engineering Block ngẫu nhiên ở phía bên kia. Bên cạnh 3 &eLight Engineering Blocks sẽ là 2 &8Radiator Blocks, và mọi thứ còn lại là &8Sheetmetal."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator5.png width:150 height:100 align:center}"
-		"Above the &8Steel Scaffolding&r will be 1 &8Steel Block&r followed by 3 &8Scaffolding&r and another &8Block&r."
+		"Phía trên &8Giàn giáo thép sẽ là 1 &8Khối thép, tiếp theo là 3 &8Giàn giáo và một &8Khối khác."
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator6.png width:150 height:100 align:center}"
-		"The final cherry on top, &8Steel Block&r!"
+		"Quả anh đào cuối cùng ở trên cùng, &8Steel Block!"
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator7.png width:150 height:100 align:center}"
-		"Then, we just Right Click the &7Heavy Engineering Block&r in the back with our &6Hammer&r and it'll become the mighty &c&lExcavator&r!"
+		"Sau đó, chúng ta chỉ cần Right Click &7Khối Kỹ thuật Hạng nặng ở phía sau cùng với &6Búa của chúng ta và nó sẽ trở thành &c&lMáy xúc hùng mạnh!"
+
 		"{image:atm:textures/questpics/immersive/immersive_excavator.png width:125 height:100 align:center}"
 	]
 	quest.4BA2F4AC2A08C294.title: "&l&cExcavator"
 	quest.4BBF987FEF639801.quest_desc: [
-		"Alloys are combinations of 2 different Metals. \\n\\nMetals aren't usually liquid at room temperature so we'll need to smelt them a bit (thanks Mercury)! \\n\\nAdd the 2 Metals into the top slots, and a Furnace Fuel like &0Charcoal&r into the bottom slot. \\n\\nWait... &8Steel&r is an Alloy!"
+		"Hợp kim là sự kết hợp của 2 kim loại khác nhau. \n\nKim loại thường không ở dạng lỏng ở nhiệt độ phòng nên chúng ta sẽ cần nấu chảy chúng một chút (cảm ơn Sao Thủy)! \n\nThêm 2 Kim loại vào các ô trên cùng và Furnace Fuel như &0Charcoal vào ô dưới cùng. \n\nĐợi đã... &8Steel là hợp kim!"
+
 		"{@pagebreak}"
-		"The &6&lAlloy Kiln&r is a 2x2x2 of &6Kiln Bricks&r."
+		"Lò nung &6&lAlloy là 2x2x2 của &6Kiln Bricks."
+
 		"{image:atm:textures/questpics/immersive/immersive_alloy1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_alloy2.png width:100 height:100 align:center}"
-		"Then Right Click the Top Right Block with an &6Engineer's Hammer&r to make it!"
+		"Sau đó Nhấp chuột phải vào Top Right Block cùng với &6Búa kỹ sư để tạo ra nó!"
+
 		"{image:atm:textures/questpics/immersive/immersive_alloy.png width:100 height:100 align:center}"
 	]
-	quest.4BBF987FEF639801.title: "&l&6Alloy Kiln"
-	quest.4C4C9ADAC6107F89.quest_desc: ["The &eLight Engineering Block&r is pretty easy recipe. \\n\\nYou'll need 1 &6Copper Ingot&r, which I shouldn't have to explain it's literally a &2&lVanilla&r feature. \\n\\n4 &7Ironsheetmetal&r, which are just 4 &7Iron Plates&r combined with each other! \\n\\nYou'll also need 4 &7Iron Mechanical Components&r, which are either 4 &7Iron Plates&r and a &6Copper Ingot&r in a Crafting Table, or 2 &7Iron Plates&r and a &6Copper Ingot&r in the &6Engineer's Workbench&r."]
-	quest.4C4C9ADAC6107F89.title: "&eLight Engineering Block"
+	quest.4BBF987FEF639801.title: "&l&6Lò nung hợp kim"
+	quest.4C4C9ADAC6107F89.quest_desc: ["Công thức &eLight Engineering Block khá dễ dàng. \n\nBạn sẽ cần 1 &6Copper Ingot, tôi không cần phải giải thích vì nó thực sự là một tính năng của &2&lVanilla. \n\n4 &7Tấm sắt, chỉ là 4 &7Tấm sắt kết hợp với nhau! \n\nBạn cũng sẽ cần 4 &7Iron Mechanical Components&r, gồm 4 &7Tấm sắt và &6Phiến đồng trong Bàn chế tạo, hoặc 2 &7Tấm sắt và &6Phôi đồng trong &6Bàn làm việc của kỹ sư."]
+	quest.4C4C9ADAC6107F89.title: "&eKhối kỹ thuật ánh sáng"
 	quest.4D193D60A3CAF435.quest_desc: [
-		"This is the Generator you will most likely be using, the &2&lDiesel Generator&r! \\n\\nYou will &9Input&r Fuel in the bottom left and right corners of the &2&lDiesel Generator&r. The Fuel can be: Creasote Oil, Biodiesel, and High-Cetane Biodiesel. Those are in order from worst to best! \\n\\nThe &2&lDiesel Generator&r will burn the Fuel and produce &cEnergy&r which can be &6Output&r from the 3 connectors in the front."
+		"Đây là Máy phát điện mà bạn có nhiều khả năng sẽ sử dụng nhất, &2&lMáy phát điện Diesel! \n\nBạn sẽ &9Nhập nhiên liệu ở góc dưới bên trái và bên phải của &2&lMáy phát điện Diesel. Nhiên liệu có thể là: Creasote Oil, Diesel sinh học và High-Cetane Biodiesel. Đó là theo thứ tự từ tệ nhất đến tốt nhất! \n\n&2&lMáy phát điện Diesel sẽ đốt cháy Nhiên liệu và tạo ra &cNăng lượng có thể là &6Đầu ra từ 3 đầu nối ở phía trước."
+
 		"{@pagebreak}"
-		"In the back of the &2&lDiesel Generator&r we'll need 3 &8Radiator Blocks&r. The middle will be &bFluid Pipes&r surrounded by &8Steel Scaffolding&r. With the front having a &6Generator Block&r and 2 &bFluid Pipes&r next to it."
+		"Ở mặt sau của &2&lMáy phát điện Diesel, chúng ta sẽ cần 3 &8Khối tản nhiệt. Ở giữa sẽ là &bỐng chất lỏng được bao quanh bởi &8Giàn giáo thép. Với mặt trước có &6 Khối máy phát điện và 2 &bỐng chất lỏng ở bên cạnh."
+
 		"{image:atm:textures/questpics/immersive/immersive_diesel1.png width:100 height:150 align:center}"
-		"Above the 3 &8Radiator Blocks&r will be 3 more &8Radiator Blocks&r! And the &6Generator Block&r and &bFluid Pipes&r next to it, will have 3 &6Generator Blocks&r above them. The rest will be filled with &7Heavy Engineering Blocks&r and a single &4Redstone Engineering Block&r."
+		"Phía trên 3 &8 Khối tản nhiệt sẽ có thêm 3 &8 Khối tản nhiệt nữa! Và &6Khối máy phát điện và &bỐng chất lỏng bên cạnh nó, sẽ có 3 &6Khối máy phát điện phía trên chúng. Phần còn lại sẽ được lấp đầy bằng &7Khối kỹ thuật hạng nặng và một &4Khối kỹ thuật Redstone duy nhất."
+
 		"{image:atm:textures/questpics/immersive/immersive_diesel2.png width:100 height:100 align:center}"
-		"To finish we'll need 3 more &8Radiator Blocks&r above the other ones, and next to it we'll make a cross of &7Heavy Engineering Blocks&r."
+		"Để hoàn tất, chúng ta sẽ cần thêm 3 &8 Khối tản nhiệt phía trên các khối khác và bên cạnh nó, chúng ta sẽ tạo hình chữ thập &7Khối kỹ thuật nặng."
+
 		"{image:atm:textures/questpics/immersive/immersive_diesel3.png width:100 height:100 align:center}"
-		"Last step is to Right Click the middle and top &6Generator Block&r with our &6Engineer's Hammer&r!"
+		"Bước cuối cùng là Right Click khối máy phát điện &6 ở giữa và trên cùng bằng &6Engineer's Hammer của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_diesel.png width:100 height:100 align:center}"
 	]
-	quest.4D193D60A3CAF435.title: "&2&lDiesel Generator"
-	quest.4D8190E94851C546.quest_desc: ["Live &cWires&r (&cWires&r transporting &cEnergy&r are Live &cWires&r) will hurt you when using a &6&lSkyhook&r on them. \\n\\nUnless you Insulate your Grip!"]
-	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsinks are our only &5&lRailgun&r exclusive Upgrades. \\n\\nIt will make it so the &5&lRailgun&r charges up much faster!"]
-	quest.4E8860056D068610.quest_desc: ["These can't be Crafted, instead they are last Trades from a Machinist Villager. \\n\\n&0Graphite Electrodes&r are used as Fuel for the &8&lArc Furnace&r (also for Fluorescent Lights). \\n\\nTo get them we'll need this special &9Blueprint&r."]
-	quest.4E8860056D068610.title: "&9Arc Lò nung Electrodes Blueprints"
+	quest.4D193D60A3CAF435.title: "&2&lMáy phát điện Diesel"
+	quest.4D8190E94851C546.quest_desc: ["Live &cWires (&cWires đang vận chuyển &cEnergy's là Live &cWires&r) sẽ gây tổn hại cho bạn khi sử dụng &6&lSkyhook trên chúng. \n\nTrừ khi bạn cách nhiệt tay cầm của mình!"]
+	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsinks là bản nâng cấp độc quyền &5&lRailgun của chúng tôi. \n\nNó sẽ giúp cho &5&lRailgun nạp điện nhanh hơn nhiều!"]
+	quest.4E8860056D068610.quest_desc: ["Đây không thể được Chế tạo, thay vào đó chúng là Giao dịch cuối cùng từ Machinist Villager. \n\n&0Điện cực than chì được sử dụng làm nhiên liệu cho Lò nung &8&lArc (cũng cho Fluorescent Lights). \n\nĐể có được chúng, chúng ta cần có &9Blueprint đặc biệt này."]
+	quest.4E8860056D068610.title: "&9Arc nung lò Electrodes Blueprints"
 	quest.4F56BFE6E4716F6D.quest_desc: [
-		"The &8&lArc Furnace&r is a massive and helpful Machine. It makes most other Machines useless! \\n\\nTo start you'll need &cEnergy&r Input from the outlets in the Back of the &8&lArc Furnace&r. It'll then need Fuel which are &0Graphite Electrodes&r. These can only be placed into its GUI, they can't be automated. \\n\\nYou'll then need to &6Input&r the &eItems&r into the Top Ports, near where the &0Graphite Electrodes&r are. When fueled and powered it'll melt down, just about anything. From &7Iron Rods&r to &7Iron Ingots&r, to &bFroststeel Helmets&r to &bFroststeel&r, to &eGold Pickaxes&r to &eGold&r! \\n\\nThe melted down &eItems&r will be &6Output&r into the Back below the Power Outlets. \\n\\nIt can also make Alloys from Metals!"
+		"&8&lArc Furnace là một cỗ máy khổng lồ và hữu ích. Nó làm cho hầu hết các Máy khác trở nên vô dụng! \n\nĐể bắt đầu, bạn sẽ cần Đầu vào của &cNăng lượng từ các ổ cắm ở phía sau của &8&lLò hồ quang. Sau đó nó sẽ cần Nhiên liệu là &0Điện cực than chì. Những thứ này chỉ có thể được đặt vào GUI của nó, chúng không thể được tự động hóa. \n\nSau đó, bạn sẽ cần &6Nhập &eItems vào Top Ports, gần vị trí của &0Graphite Electrodes. Khi được cung cấp nhiên liệu và cung cấp năng lượng, nó sẽ tan chảy, gần như bất cứ thứ gì. Từ &7Iron Rods đến &7Iron Ingots, đến &bFroststeel Mũ bảo hiểm đến &bFroststeel’s, đến &eGold Pickaxes đến &eGold! \n\n&eItems được nấu chảy sẽ là &6Xuất ra ở Mặt sau bên dưới Power Outlets. \n\nNó cũng có thể tạo ra Hợp kim từ Kim loại!"
+
 		"{@pagebreak}"
-		"1st layer starts off with a U made of &8Steel Sheetmetal&r with the center being &7Heavy Engineering Block&r and the tips being &8Steel Blocks&r. The rest will be &8Steel Sheetmetal Slabs&r with a stray &8Steel Scaffolding&r and Cauldron."
+		"Lớp thứ nhất bắt đầu với chữ U được làm từ &8Steel Sheetmetal với phần giữa là &7Heavy Engineering Block và các đầu là &8Steel Blocks. Phần còn lại sẽ là &8Steel Sheetmetal Slabs với một &8Steel Giàn giáo và Cauldron đi lạc."
+
 		"{image:atm:textures/questpics/immersive/immersive_arc1.png width:100 height:100 align:center}"
-		"2nd layer starts with, above the &7Heavy Engineering Block&r and the 2 Blocks next to it will be &eLight Engineering Blocks&r. Then, the sides of the U will be &7Heavy Engineering Blocks&r. With more &8Steel Blocks&r above the previous ones. We'll also need a 2x3 of &4Reinforced Blast Bricks&r above the &8Slabs&r. Don't forget the &4Redstone Engineering Block&r above the &8Scaffolding&r!"
+		"Lớp thứ 2 bắt đầu với, phía trên &7Khối Kỹ thuật Hạng nặng và 2 Khối bên cạnh nó sẽ là &Khối Kỹ thuật Điện tử. Sau đó, các cạnh của chữ U sẽ là &7Khối kỹ thuật hạng nặng. Với nhiều &8Khối thép hơn các khối trước đó. Chúng ta cũng sẽ cần 2x3 &4Reinforced Blast Bricks& ở trên &8Slabs. Đừng quên &4Khối kỹ thuật Redstone phía trên &8Scaffolding!"
+
 		"{image:atm:textures/questpics/immersive/immersive_arc2.png width:100 height:100 align:center}"
-		"3rd has more &8Steel Blocks&r, more &eLight Engineering Blocks&r, and an extension of our &4Reinforced Blast Bricks&r. We'll also need 1 &8Steel Sheetmetal&r on each side."
+		"Thứ 3 có thêm &8Khối thép, thêm &Khối kỹ thuật eLight và phần mở rộng của &4Reinforced Blast Bricks&r của chúng tôi. Chúng ta cũng sẽ cần 1 &8Steel Sheetmetal ở mỗi bên."
+
 		"{image:atm:textures/questpics/immersive/immersive_arc3.png width:100 height:100 align:center}"
-		"4th needs a &eLight Engineering Block&r placed in the middle above the others. Next to it will be 2 &8Steel Scaffolding&r. And we'll need to add more &4Reinforced Blast Brick&r but this time a Block of length short!"
+		"Thứ 4 cần một &Khối Kỹ thuật eLight được đặt ở giữa phía trên các khối khác. Bên cạnh sẽ là Giàn giáo thép 2 &8. Và chúng ta sẽ cần thêm &4Reinforced Blast Brick&r nhưng lần này là một Block có độ dài ngắn!"
+
 		"{image:atm:textures/questpics/immersive/immersive_arc4.png width:100 height:100 align:center}"
-		"5th and final layer is just 2 more &8Steel Scaffolding&r on top of the others. Then, &eLight Engineering Blocks&r above the previous one and in a line in front of it."
+		"Lớp thứ 5 và cuối cùng chỉ là 2 lớp &8Giàn giáo thép nằm trên các lớp khác. Sau đó, &eLight Engineering Blocks nằm phía trên khối trước đó và nằm ở một hàng phía trước nó."
+
 		"{image:atm:textures/questpics/immersive/immersive_arc5.png width:100 height:100 align:center}"
-		"Finally Right Click the Cauldron with the &6Hammer&r to finish it!"
+		"Finally Right Click Cái vạc với &6Búa để hoàn thành nó!"
+
 		"{image:atm:textures/questpics/immersive/immersive_arc.png width:100 height:100 align:center}"
 	]
 	quest.4F56BFE6E4716F6D.title: "&8&lArc Lò nung"
-	quest.50326B1D6EE8FA0B.quest_desc: ["&cAccumulators&r are &8&lIE&r's version of batteries. \\n\\nThey hold &cEnergy&r with &6LV&r holding 100kFE, &eMV&r holds 1MFE, and &5HV&r holds 4MFE! \\n\\nBy default they have a top slot which only allows &9Input&r, but any side can be changed with the &6Engineer's Hammer&r to &9Input&r, &6Output&r, or Neither."]
+	quest.50326B1D6EE8FA0B.quest_desc: ["&cẮc quy là phiên bản pin của &8&lIE. \n\nHọ nắm giữ &cEnergy trong khi &6LV nắm giữ 100kFE, &eMV nắm giữ 1MFE, và &5HV nắm giữ 4MFE! \n\nTheo mặc định, chúng có một khe trên cùng chỉ cho phép &9Input&r, nhưng bất kỳ bên nào cũng có thể được thay đổi bằng &6Engineer's Hammer’s thành &9Input&r, &6Output&r hoặc Không."]
 	quest.50326B1D6EE8FA0B.title: "&cAccumulators"
-	quest.506F20AF8E857559.quest_desc: ["The Kinetic Dynamo is a Generator which uses momentum to make Energy! \\n\\nTo start making Energy you'll need either a Waterwheel or Windmill attached to the side with the giant gaping hole in it! \\n\\nThe Kinetic Dynamo doesn't have an internal Energy storage, rather it provides Energy to connected Blocks like Connectors or Accumulators."]
-	quest.506F20AF8E857559.title: "Energy from moving things!"
-	quest.50F1C4521D282C60.quest_desc: ["The Bulwark are the heavy units of these militants. \\n\\nThey have 12 Hearts with 18 Armor Points! \\n\\nTheir weapon is the &b&lChemthrower&r with a &8&lHeavy Plated Shield&r in the Offhand. \\n\\nIf you somehow kill one you will get &aEmeralds&r and Masterwork Shader Bags!"]
+	quest.506F20AF8E857559.quest_desc: ["Kinetic Dynamo là Máy phát điện sử dụng động lượng để tạo ra Năng lượng! \n\nĐể bắt đầu tạo ra Năng lượng, bạn sẽ cần Bánh xe nước hoặc Cối xay gió được gắn bên cạnh với lỗ hổng khổng lồ bên trong! \n\nKinetic Dynamo không có bộ lưu trữ Năng lượng bên trong, thay vào đó nó cung cấp Năng lượng cho các Khối được kết nối như Bộ kết nối hoặc Bộ tích lũy."]
+	quest.506F20AF8E857559.title: "Năng lượng từ việc di chuyển mọi thứ!"
+	quest.50F1C4521D282C60.quest_desc: ["Bulwark là đơn vị hạng nặng của những chiến binh này. \n\nHọ có 12 Trái tim với 18 Armor Points! \n\nVũ khí của họ là &b&lChemthrower với &8&lHeavy Plated Shield&r trong Offhand. \n\nNếu bạn bằng cách nào đó giết được một con, bạn sẽ nhận được &aEmeralds và Masterwork Shader Bags!"]
 	quest.50F1C4521D282C60.title: "Bulwark"
-	quest.520904C106D7D93D.quest_desc: ["These make the &6&lSkyhook&r act similar to a Mace, you'll do extra Damage hurting Mobs if you are falling while you hit them. \\n\\nIn Bioshock Infinite it's called a Skystrike!"]
-	quest.520904C106D7D93D.quest_subtitle: "Press LMB to Skystrike"
-	quest.5218DAE147AC9F44.quest_desc: ["The Blade Quiver allows you to hold more &8Blades&r or &8Blade like Items&r on the &2&lBuzzsaw&r. \\n\\nTo switch between the &8Blades&r (or &8Blade like Items&r) Hold Shift and Scroll. \\n\\nThis is useful for replacing broken &8Blades&r or even switching to &8Grinding Disks&r!"]
-	quest.553ADA7040B652CD.quest_desc: ["The &4&lMining Drill&r, &2&lBuzzsaw&r, and &b&lChemical Thrower&r normally hold 1,000mB or 1 Bucket worth of &bFluid&r. \\n\\nNormally doesn't mean always! With the Large Tank they can now hold 2,000mB or 2 Buckets worth. \\n\\nIt doesn't sound like a lot but trust me it is."]
-	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lATM10&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
-	quest.5585130028BB8298.quest_subtitle: "Do you feel lucky, Punk?"
+	quest.520904C106D7D93D.quest_desc: ["Những điều này làm cho &6&lSkyhook hoạt động giống như một chiếc Chùy, bạn sẽ gây thêm sát thương làm tổn thương Mob nếu bạn bị ngã trong khi đánh chúng. \n\nTrong Bioshock Infinite nó được gọi là Skystrike!"]
+	quest.520904C106D7D93D.quest_subtitle: "Nhấn LMB để Skystrike"
+	quest.5218DAE147AC9F44.quest_desc: ["Blade Quiver cho phép bạn chứa nhiều &8Blades hoặc &8Blade hơn giống như các vật phẩm trên &2&lBuzzsaw. \n\nĐể chuyển đổi giữa &8Blades (hoặc &8Blade như Item) Hold Shift và Scroll. \n\nĐiều này rất hữu ích để thay thế các &8Blades bị hỏng hoặc thậm chí chuyển sang &8Grinding Disks!"]
+	quest.553ADA7040B652CD.quest_desc: ["&4&lMáy khoan khai thác, &2&lBuzzsaw và &b&lMáy ném hóa chất thường chứa 1.000mB hoặc 1 Xô chất lỏng&bFluid. \n\nBình thường không có nghĩa là luôn luôn! Với Large Tank giờ đây họ có thể chứa giá trị 2.000mB hoặc 2 Xô. \n\nNghe có vẻ không nhiều nhưng hãy tin tôi đi."]
+	quest.5585130028BB8298.quest_desc: ["Loại súng cơ bản nhất mà chúng ta có thể tìm thấy trong &6&lATM10, &d&lRevolver! \n\nShift Right Click để mở &d&lRevolver, sau đó di chuyển một số Đạn vào Khe. Sau đó, chỉ cần Right Click để bắn! \n\nBạn có thể áp dụng 2 Nâng cấp cho nó. Các bản nâng cấp gồm có: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes và Precision Scope. \n\n&d&lRevolver chỉ có thể chứa 2 Bản nâng cấp nhưng Speedloader thì khác về mặt kỹ thuật."]
+	quest.5585130028BB8298.quest_subtitle: "Bạn có thấy may mắn không, Punk?"
 	quest.5585130028BB8298.title: "&d&lRevolver"
-	quest.56CE6CF9C99FB522.quest_desc: ["For &8Radiators&r we'll need the usual &8Steel Sheetmetal&r, a &9Water Bucket&r which is a new one! And &6Constantan Plates&r. \\n\\n&6Constantan&r is an Alloy made by combining &6Copper&r and &7Nickel&r in an &l&6Alloy Kiln&r."]
-	quest.56CE6CF9C99FB522.title: "&8Radiator Block"
-	quest.56E30438AE512475.quest_desc: ["Let's get these flames burning! \\n\\nThe Preheater is a very simple addition to the &l&4Improved Blast Furnace&r. \\n\\nSimply place them on the Left and Right of the &l&4Improved Blast Furnace&r. Then, connect power to the top of it and it will start speeding up the &l&4Improved Blast Furnace&r."]
+	quest.56CE6CF9C99FB522.quest_desc: ["Đối với &8Radiators, chúng ta sẽ cần &8Steel Sheetmetal thông thường, &9Water Bucket là một loại mới! Và &6Tấm Constantan. \n\n&6Constantan là một Hợp kim được tạo ra bằng cách kết hợp &6Copper và &7Nickel trong Lò nung &l&6Alloy."]
+	quest.56CE6CF9C99FB522.title: "&8Khối tản nhiệt"
+	quest.56E30438AE512475.quest_desc: ["Hãy đốt cháy những ngọn lửa này! \n\nBộ làm nóng sơ bộ là một phần bổ sung rất đơn giản cho &l&4Cải tiến Blast Furnace&r. \n\nChỉ cần đặt chúng ở bên trái và bên phải của &l&4Improved Blast Furnace&r. Sau đó, kết nối nguồn với đầu của nó và nó sẽ bắt đầu tăng tốc &l&4Improved Blast Furnace&r."]
 	quest.573C2242EAB85B49.quest_desc: [
-		"&0&lCoke Oven&r is how we make our &0Coal Coke&r, take a guess what it's made of! \\n\\nWe can use the &0&lOven&r to smelt Logs into &0Charcoal&r, or smelt &0Coal&r and &0Coal Blocks&r into &0Coke&r! \\n\\nEither of these will produce Creosote Oil as well as the normal recipe."
+		"&0&lLò nướng Coke là cách chúng tôi làm ra &0Coal Coke, hãy đoán xem nó được làm bằng gì! \n\nChúng ta có thể sử dụng &0&lOven&r để nấu chảy Gỗ thành &0Charcoal&r, hoặc nấu chảy &0Coal&r và &0Coal Blocks&r thành &0Coke&r! \n\nMột trong hai thứ này sẽ tạo ra Creosote Oil giống như công thức thông thường."
+
 		"{@pagebreak}"
-		"The &0&lCoke Oven&r is a very simple Multiblock, 3x3x3 of &0Coke Bricks&r."
+		"Lò nướng &0&lCoke là một Multiblock rất đơn giản, có kích thước 3x3x3 của &0&0Coke Bricks."
+
 		"{image:atm:textures/questpics/immersive/immersive_coke1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke3.png width:100 height:100 align:center}"
-		"Simply Right Click the Middle Block of the Front Side with an &6Engineer's Hammer&r to create it."
+		"Simply Right Click Middle Block của Front Side với &6Búa kỹ sư để tạo ra nó."
+
 		"{image:atm:textures/questpics/immersive/immersive_coke.png width:100 height:100 align:center}"
 	]
-	quest.573C2242EAB85B49.title: "&l&8Coke Oven"
-	quest.586F6FD38CF85DCA.quest_desc: ["The &4&lMining Drill&r does as the name suggests, it Mines! \\n\\nIt works like a Pickaxe, just needing &8Drill Heads&r and &2Bio-Diesel&r. &8Drill Heads&r determine its Mining Level and have Durability which means they'll need to be replaced. You can attach &8Drill Heads&r in the &6Engineer's Workbench&r, in the Top Slot. \\n\\n&2Bio-Diesel&r is a &bLiquid Fuel&r which has a very difficult recipe to make... that's for a different Quest though we're just looking for how to Fuel it! You can use the &4&lDrill&r on any &bTank&r or Machine holding &2Bio-Diesel&r to fill it. \\n\\nThe &4&lMining Drill&r will mine in a 3x3 or 2x2 area, unless you are Shifting while breaking! \\n\\nYou can also Hit Mobs with it to do the same amount of Damage as a Netherite Sword, this takes up Fuel as well as Durability though. \\n\\nThe &4&lMining Drill&r can hold 1 Drill Head and 3 Upgrades."]
-	quest.586F6FD38CF85DCA.quest_subtitle: "Would you kindly?"
-	quest.586F6FD38CF85DCA.title: "&4&lMining Drill"
-	quest.591E6964ABCC638C.quest_desc: ["&eConveyor Belts&r are how we can move &eItems&r (and some Entities). \\n\\nWhen &eItems&r are dropped onto &eBelts&r they will hold them and move them. These can then be moved into different Inventories, if we want to extract from Inventories we'll need a special type of &eBelt&r! \\n\\nThe way you place your &eBelt&r will determine where it moves, this can also be changed with the &6Engineer's Hammer&r! \\nThey need to be placed on Blocks but funny enough don't need Blocks below to keep standing and working!"]
-	quest.591E6964ABCC638C.quest_subtitle: "và some Entities!"
+	quest.573C2242EAB85B49.title: "&l&8Lò nướng cocacola"
+	quest.586F6FD38CF85DCA.quest_desc: ["Máy khoan khai thác &4&l đúng như tên gọi của nó, nó là Mỏ! \n\nNó hoạt động giống như một cái cuốc, chỉ cần &8 Đầu khoan và &2Bio-Diesel. &8Đầu khoan xác định Cấp độ khai thác và Độ bền, nghĩa là chúng sẽ cần được thay thế. Bạn có thể gắn &8Đầu khoan vào trong &6Bàn làm việc của Kỹ sư, trong Top Slot. \n\n&2Bio-Diesel là một &bNhiên liệu lỏng có công thức rất khó thực hiện... đó là một Nhiệm vụ khác mặc dù chúng tôi chỉ đang tìm cách cung cấp nhiên liệu cho nó! Bạn có thể sử dụng &4&lDrill trên bất kỳ &bTank hoặc Machine nào đang giữ &2Bio-Diesel để lấp đầy nó. \n\n&4&lMáy khoan khai thác sẽ khai thác trong khu vực 3x3 hoặc 2x2, trừ khi bạn Dịch chuyển trong khi phá vỡ! \n\nBạn cũng có thể Hit Mobs với nó để gây ra lượng sát thương tương tự như Netherite Sword, tuy nhiên, điều này sẽ tiêu tốn Nhiên liệu cũng như Độ bền. \n\n&4&lMáy khoan khai thác có thể chứa 1 Drill Head và 3 bản nâng cấp."]
+	quest.586F6FD38CF85DCA.quest_subtitle: "Bạn có vui lòng không?"
+	quest.586F6FD38CF85DCA.title: "&4&lKhai thác mỏ"
+	quest.591E6964ABCC638C.quest_desc: ["&eConveyor Belts là cách chúng ta có thể di chuyển eItems (và một số Thực thể). \n\nKhi &eItems được thả vào &eBelts, chúng sẽ giữ chúng và di chuyển chúng. Sau đó, những thứ này có thể được chuyển vào các Kho khác nhau, nếu chúng ta muốn trích xuất từ ​​Kho, chúng ta sẽ cần một loại &eBelt đặc biệt! \n\nCách bạn đặt Thắt lưng của bạn sẽ xác định vị trí nó di chuyển, điều này cũng có thể được thay đổi bằng &6Engineer's Hammer! \nChúng cần được đặt trên các Khối nhưng buồn cười là không cần các Khối bên dưới để tiếp tục đứng và làm việc!"]
+	quest.591E6964ABCC638C.quest_subtitle: "và một số Thực thể!"
 	quest.591E6964ABCC638C.title: "Moving&eItems&r"
-	quest.598DE7CEDA864B50.quest_desc: ["Why just have 1 Tank, when we can use 3! \\n\\nYou can now hold 3 different &bFluids&r in your &b&lChemical Thrower&r. Hold Shift and Scroll to switch between them. \\n\\nThis can't be used with the Large Tank though..."]
-	quest.5A2A718C569F3C19.quest_desc: ["By Smelting &0Coal&r in a &lCoke Oven&r we can get &0Coal Coke&r! Or as I will call it, just &0Coke&r! \\n\\nIt pretty much is just &0Coal&r but has more uses in &8&lIE&r. \\n\\nYou can combine it with Iron to get &7Steel&r, Crush it to get &0Coke Dust&r which will be needed for &0Graphite&r, or use as Fuel for a Blast Furnace."]
+	quest.598DE7CEDA864B50.quest_desc: ["Tại sao chỉ có 1 Xe tăng, trong khi chúng ta có thể sử dụng 3! \n\nGiờ đây, bạn có thể chứa 3 &bChất lỏng khác nhau trong &b&lMáy ném hóa chất của mình. Hold Shift và Di chuyển để chuyển đổi giữa chúng. \n\nTuy nhiên, điều này không thể được sử dụng với Large Tank..."]
+	quest.5A2A718C569F3C19.quest_desc: ["Bằng cách nấu chảy &0Than trong lò &lò Coke, chúng ta có thể thu được &0Coal Coke! Hoặc như tôi sẽ gọi nó, chỉ là &0Coke! \n\nVề cơ bản nó chỉ là &0Coal nhưng có nhiều công dụng hơn trong &8&lIE. \n\nBạn có thể kết hợp nó với Sắt để có &7Steel, Nghiền nát nó để có &0Coke Dust cần thiết cho &0Graphite, hoặc sử dụng làm Nhiên liệu cho Blast Furnace."]
 	quest.5A2A718C569F3C19.title: "&8Coke&r"
-	quest.5C5546A5103BCF55.quest_desc: ["This one is supposed to shoot Chemicals like &bFluids&r or Gases... but it won't do it for me. \\n\\nIt can hold 2 Upgrades atleast! Those work!"]
-	quest.5C5546A5103BCF55.title: "&b&lChemical Thrower"
+	quest.5C5546A5103BCF55.quest_desc: ["Cái này lẽ ra có thể bắn được các Hóa chất như Chất lỏng hoặc Khí... nhưng nó không có tác dụng với tôi. \n\nNó có thể chứa ít nhất 2 bản nâng cấp! Những công việc đó!"]
+	quest.5C5546A5103BCF55.title: "&b&lMáy ném hóa chất"
 	quest.5DE3F2A96715BA2E.quest_desc: [
-		"The &e&lSilo&r is a Multiblock made for storing tons of just one type of &eItem&r, like a Drawer. \\n\\nYou can &9deposit&r the &eItem&r and its duplicates in the Top Side or Bottom Side, but to &6extract&r you'll need to use the Bottom Side! \\n\\nIt can hold 41,472 &eItems&r, just only of the same type."
+		"&e&lSilo là một Multiblock được tạo ra để lưu trữ hàng tấn chỉ một loại &eItem, giống như một Ngăn kéo. \n\nBạn có thể &9gửi &eItem và các bản sao của nó trong Top Side hoặc Bottom Side, nhưng để &6giải nén, bạn sẽ cần sử dụng Bottom Side! \n\nNó có thể chứa 41.472 &eItems, chỉ cùng loại."
+
 		"{@pagebreak}"
-		"First we place a square of Treated Wood Fences with an &7Iron Sheetmetal&r in the center."
+		"Đầu tiên, chúng ta đặt một hình vuông Treated Wood Fences với &7Iron Sheetmetal ở giữa."
+
 		"{image:atm:textures/questpics/immersive/immersive_silo1.png width:125 height:100 align:center}"
-		"Next, we make a full square of &7Iron Sheetmetal&r above our Fences, while leaving a space in the center hollow. Do this 5 times!"
+		"Tiếp theo, chúng ta tạo một hình vuông đầy đủ của &7Iron Sheetmetal phía trên Hàng rào, đồng thời chừa một khoảng trống ở giữa. Làm điều này 5 lần!"
+
 		"{image:atm:textures/questpics/immersive/immersive_silo2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo4.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo5.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo6.png width:100 height:100 align:center}"
-		"Then, the final layer which is an entire square of &7Iron Sheetmetal&r, including us filling in the center Block."
+		"Sau đó, lớp cuối cùng là toàn bộ hình vuông của &7Iron Sheetmetal, bao gồm cả việc chúng ta điền vào Khối trung tâm."
+
 		"{image:atm:textures/questpics/immersive/immersive_silo7.png width:100 height:100 align:center}"
-		"After that, Right Click the Middle &7Iron Sheetmetal&r on the second layer with our &6Hammer&r to create our &e&lSilo&r!"
+		"Sau đó, Right Click Tấm kim loại ở giữa &7Iron ở lớp thứ hai cùng với &6Hammer của chúng tôi để tạo ra &e&lSilo của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_silo.png width:100 height:125 align:center}"
 	]
 	quest.5DE3F2A96715BA2E.title: "&l&eSilo"
-	quest.5E228ACA1B13AD04.quest_desc: ["Now it shoots and smacks!"]
+	quest.5E228ACA1B13AD04.quest_desc: ["Bây giờ nó bắn và đập!"]
 	quest.5EE1DF1C8F0C1FF9.quest_desc: [
-		"After building the &l&5Lightning Coil&r we can have Lightning Strike the &8Steel Fences&r, which will then become &cEnergy&r in its own &cEnergy&r reservoir. \\n\\nThe more &8Steel Fences&r the higher chance of Lightning! \\n\\nI wonder if we can use other Mods to summon Lightning?"
+		"Sau khi xây dựng &l&5Lightning Coil, chúng ta có thể có Lightning Strike &8Steel Fences, sau đó sẽ trở thành &cEnergy trong kho chứa &cEnergy của chính nó. \n\nCàng nhiều &8Hàng rào thép thì cơ hội Sấm sét càng cao! \n\nTôi tự hỏi liệu chúng ta có thể sử dụng các Mod khác để triệu hồi Lightning không?"
+
 		"{@pagebreak}"
-		"To harness the power of Mother Nature's most devastating we'll need to start with a &5High-Voltage Coil Block&r. Then, place &5HV Accumulators&r adjacent to the &5High-Voltage Coil Block&r. On the corners place down &8Steel Scaffolding&r."
+		"Để khai thác sức mạnh tàn khốc nhất của Mother Nature's, chúng ta cần bắt đầu với &5Cao-Voltage Coil Block&r. Sau đó, đặt Bộ tích lũy &5HV cạnh &5High-Voltage Coil Block&r. Ở các góc đặt &8Giàn giáo thép."
+
 		"{image:atm:textures/questpics/immersive/immersive_lightning1.png width:100 height:100 align:center}"
-		"For the next layer, place another &5High-Voltage Coil Block&r on top of the previous one. Adjacent to that one, will be &eLight Engineering Blocks&r. On the corners will just be simple Treated Fences!"
+		"Đối với lớp tiếp theo, đặt một &5High-Voltage Coil Block& khác lên trên lớp trước. Liền kề với cái đó sẽ là &eLight Engineering Blocks. Ở các góc sẽ rất đơn giản Treated Fences!"
+
 		"{image:atm:textures/questpics/immersive/immersive_lightning2.png width:100 height:100 align:center}"
-		"Now, we need a third &5High-Voltage Coil Blocks&r above the others, and surrounding it will be 8 &6Copper Coil Blocks&r."
+		"Bây giờ, chúng ta cần &5High-Voltage Coil Blocks&r thứ ba phía trên những cái khác và xung quanh nó sẽ là 8 &6Copper Coil Blocks&r."
+
 		"{image:atm:textures/questpics/immersive/immersive_lightning3.png width:100 height:100 align:center}"
-		"Then, Right Click the &eLight Engineering Block&r on the Front Side with a &6Hammer&r to convert it to the &5&lLightning Coil&r!"
+		"Sau đó, Right Click &eLight Engineering Block trên Front Side với &6Hammer để chuyển đổi nó thành &5&lLightning Coil!"
+
 		"{image:atm:textures/questpics/immersive/immersive_lightning.png width:100 height:100 align:center}"
-		"I didn't make a picture for this step but you will need &8Steel Fences&r on top of the &5&lLightning Coil&r in order to get Lightning to hit it!"
+		"Tôi không tạo hình ảnh cho bước này nhưng bạn sẽ cần &8Steel Fences bên trên &5&lLightning Coil để khiến Lightning đánh trúng nó!"
+
 	]
-	quest.5EE1DF1C8F0C1FF9.title: "&5&lLightning Coil"
+	quest.5EE1DF1C8F0C1FF9.title: "&5&lCuộn dây sét"
 	quest.5F4F7637044BD4F1.quest_desc: [
-		"The &2&lFermenter&r will hold your Food &eItems&r and after awhile will form them into Ethanol. \\n\\nThere is a list of Items, you can find it in the &6Engineer's Manual&r, of &eItems&r that can be put into the &2&lFermenter&r by the Ports in the Back and Left side. \\n\\nIf you use &6Honey Bottles&r, you can &6Extract&r the Bottles out from the Port on the Right Side. \\n\\nThe &2&lFermenter&r will need &cEnergy&r which will come from a Port on Top of the &2&lFermenter&r! "
+		"&2&lNgười lên men sẽ giữ Thực phẩm &Vật phẩm của bạn và sau một thời gian sẽ biến chúng thành Ethanol. \n\nCó một danh sách các Vật phẩm, bạn có thể tìm thấy trong &6Engineer's Manual, của &eItems có thể được đưa vào &2&lFermenter's bằng các Cổng ở phía sau và bên trái. \n\nNếu bạn sử dụng &6Chai Mật ong, bạn có thể &6Trích xuất các Chai ra khỏi Cổng trên Right Side. \n\n&2&lFermenter sẽ cần &cEnergy sẽ đến từ một cổng phía trên &2&lFermenter!"
+
 		"{@pagebreak}"
-		"Pretty simple start, make a backwards n out of &8Steel Scaffolding&r and within it place &bFluid Pipes&r and on the corner place a &eLight Engineering Block&r."
+		"Bắt đầu khá đơn giản, thực hiện một cú lộn ngược từ &8Steel Giàn giáo và đặt bên trong đó &bFluid Pipes’ và ở góc đặt một &eLight Engineering Block."
+
 		"{image:atm:textures/questpics/immersive/immersive_fermenter1.png width:100 height:100 align:center}"
-		"Above the &eLight Engineering Block&r place another. To the right of it, skip a Block, then place a &4Redstone Engineering Block&r. To the left of the &eLight Engineering Block&r we'll place a 2x2 of Cauldrons."
+		"Phía trên khối kỹ thuật &eLight là một vị trí khác. Ở bên phải của nó, bỏ qua Khối, sau đó đặt &4Khối kỹ thuật Redstone. Ở bên trái của &Khối kỹ thuật eLight, chúng ta sẽ đặt một cái vạc 2x2."
+
 		"{image:atm:textures/questpics/immersive/immersive_fermenter2.png width:100 height:100 align:center}"
-		"Another simple step, just place &7Iron Sheetmetal&r above all the Cauldrons!"
+		"Một bước đơn giản khác, chỉ cần đặt &7Iron Sheetmetal lên trên tất cả các Vạc!"
+
 		"{image:atm:textures/questpics/immersive/immersive_fermenter3.png width:100 height:100 align:center}"
-		"Right Click the Cauldron between the &eLight Engineering Block&r and &4Redstone Engineering Block&r with a &6Hammer&r."
+		"Right Click Cái vạc giữa &eLight Engineering Block và &4Redstone Engineering Block với &6Hammer."
+
 		"{image:atm:textures/questpics/immersive/immersive_fermenter.png width:100 height:100 align:center}"
 	]
 	quest.5F4F7637044BD4F1.title: "&l&2Fermenter"
-	quest.607D9B53C632DEDE.quest_desc: ["&bPipe Valves&r work at helping sort and stop &bFluid&r flow! \\n\\nWhen used with &bFluid Pipes&r, they will make it so the &bFluid&r only goes in direction with the arrows on the &bPipe Valve&r. \\n\\nYou can also send it a &4Redstone Signal&r to which it will completely stop &bFluid&r flow!"]
-	quest.607D9B53C632DEDE.title: "&bPipe Valve"
-	quest.6140EAA6E042EF7C.quest_desc: ["The &6&lSkyhook&r works both as a Tool and Weapon. \\n\\nYou can just smack Mobs with it as if it were a Sword or you can use it for moving around you base! \\n\\nWhen you get close to a &cWire&r (&6LV&r, &eMV&r, &5HV&r, Insulated, Hemp, &8Steel&r, &4Redstone&r) you can Hold Right Click to attach to them. Then, you can move around to slide down the &cWires&r! \\n\\nIf you want to use it on active &cWires&r, you'll need some Upgrades! Upgrades like: High Torque Motor, Insulated Grip, and Heavy Impact Hooks. \\n\\nIt can hold 2 Upgrades."]
-	quest.6140EAA6E042EF7C.quest_subtitle: "Booker catch!"
-	quest.6140EAA6E042EF7C.title: "&6&lEngineer's Skyhook"
+	quest.607D9B53C632DEDE.quest_desc: ["&bPipe Valves hoạt động trong việc giúp phân loại và ngăn chặn dòng chảy của &bChất lỏng! \n\nKhi được sử dụng với &bFluid Pipes, chúng sẽ làm cho &bFluid chỉ đi theo hướng với các mũi tên trên &bPipe Valve. \n\nBạn cũng có thể gửi cho nó một Tín hiệu &4Redstone để nó sẽ ngăn chặn hoàn toàn dòng chảy của &bFluid!"]
+	quest.607D9B53C632DEDE.title: "&bVan ống"
+	quest.6140EAA6E042EF7C.quest_desc: ["&6&lSkyhook hoạt động như một Công cụ và Vũ khí. \n\nBạn có thể dùng nó đập mob như thể nó là một thanh Kiếm hoặc bạn có thể sử dụng nó để di chuyển xung quanh căn cứ của mình! \n\nKhi bạn đến gần &cWire (&6LV&r, &eMV&r, &5HV&r, Insulated, Hemp, &8Steel&r, &4Redstone&r), bạn có thể Hold Right Click để gắn vào chúng. Sau đó, bạn có thể di chuyển xung quanh để trượt xuống &cWires! \n\nNếu bạn muốn sử dụng nó trên các &cWires đang hoạt động, bạn sẽ cần một số Nâng cấp! Các nâng cấp như: High Torque Motor, Insulated Grip và Heavy Impact Hooks. \n\nNó có thể chứa 2 bản nâng cấp."]
+	quest.6140EAA6E042EF7C.quest_subtitle: "Booker bắt!"
+	quest.6140EAA6E042EF7C.title: "&6&lSkyhook của kỹ sư"
 	quest.63F5314A1072FA05.quest_desc: [
-		"The &e&lSawmill&r works similar to the &7&lMetal Press&r, using &eConveyor Belts&r and needing extra Items. \\n\\nIt works in 2 stages, first it Strips the Logs. If it doesn't have a Sawblade within it, it will only Strip Logs. Second stage is cutting the Log into Planks, this needs a Sawblade. \\n\\nSawblades are Crafted with a ton of &8Steel&r. They have Durability and to insert them, Right Click the Slots near the Back of the Sawmill. If you wish to take them out, turn off the Sawmill with &4Redstone&r, then Shift Right Click where you inserted them. \\n\\nYou'll need to give it &cEnergy&r on the Top of the Back Side, and you can &9Input &eItems&r via the &eConveyor Belts&r. The &eItems&r will &6Output&r with those same &eBelts&r, but the Sawdust comes out of a Port in Front of the &e&lMachine&r."
+		"&e&lSawmill hoạt động tương tự như &7&lMetal Press, sử dụng &eConveyor Belts và cần thêm vật phẩm. \n\nNó hoạt động theo 2 giai đoạn, đầu tiên là Tách nhật ký. Nếu nó không có Sawblade bên trong, nó sẽ chỉ Strip Logs. Giai đoạn thứ hai là cắt Gỗ thành Ván, giai đoạn này cần có Lưỡi cưa. \n\nLưỡi cưa được chế tạo bằng rất nhiều &8Steel. Chúng có Độ bền và để lắp chúng vào, Right Click các Khe gần Phía sau Máy cưa. Nếu bạn muốn lấy chúng ra, hãy tắt Sawmill bằng &4Redstone, sau đó Shift Right Click nơi bạn đã lắp chúng vào. \n\nBạn sẽ cần cung cấp cho nó &cEnergy ở trên cùng của Back Side và bạn có thể &9Nhập &eItems&r thông qua &eConveyor Belts. Ý chí &eItems &6Xuất ra với cùng những &ebelts đó, nhưng mùn cưa đi ra từ một cổng phía trước &e&lMachine."
+
 		"{@pagebreak}"
-		"Make an I shape with &8Steel Scaffolding&r (don't forget the &7Heavy Engineering Block&r) and fill in one part with &eLight Engineering Blocks&r and the other with &7Iron Sheetmetal&r."
+		"Tạo hình chữ I với &8Steel Scaffolding (đừng quên &7Heavy Engineering Block) và điền vào một phần bằng &7Iron Sheetmetal&r."
+
 		"{image:atm:textures/questpics/immersive/immersive_saw1.png width:150 height:100 align:center}"
-		"Place 3 more &eLight Engineering Blocks&r on their lower comrades. Add 1 &7Iron Sheetmetal&r on the Left most &7Iron Sheetmetal&r and next to it place a &4Redstone Engineering Block&r. Next to top &7Iron Sheetmetal&r we'll need another &7Heavy Engineering Block&r. Don't forget to add the Conveyor Belts, these are needed to Build it!"
+		"Đặt thêm 3 &Khối kỹ thuật eLight cho những người đồng đội thấp hơn của họ. Thêm 1 &7Iron Sheetmetal ở bên trái nhất &7Iron Sheetmetal và bên cạnh nó đặt &4Redstone Engineering Block. Bên cạnh &7Iron Sheetmetal chúng ta sẽ cần một &7Heavy Engineering Block& khác. Đừng quên thêm Conveyor Belts, những thứ này cần thiết để Xây dựng nó!"
+
 		"{image:atm:textures/questpics/immersive/immersive_saw2.png width:100 height:100 align:center}"
-		"Right Click the middle &7Iron Sheetmetal&r with our Hammer!"
+		"Right Click ở giữa &7Sắt tấm kim loại với Búa của chúng tôi!"
+
 		"{image:atm:textures/questpics/immersive/immersive_saw.png width:100 height:100 align:center}"
 	]
 	quest.63F5314A1072FA05.title: "&e&lSawmill"
-	quest.662DD269B027B6C8.quest_desc: ["You can't wirelessly charge your &c&lAccumulator Backpack&r... but you can charge it &cwired&r! \\n\\nSimply attach your Charging Antenna to your &c&lAccumulator Backpack&r and walk up to any &cWires&r transporting &cEnergy&r and some of it will come to your &c&lBackpack&r."]
-	quest.67940C0774E73217.quest_desc: ["&eItem Router&r will &9Input &eItems&r and &6Output&r them to certain locations based on the Filtering set in its UI! \\n\\nThese can be set to &eBelts&r, Crates, or other Inventories."]
-	quest.67940C0774E73217.title: "&eItem Router"
-	quest.679E80EBB9A2AE7E.quest_desc: ["&bFluid Routers&r sort and filter &bFluids&r passing through. \\n\\nYou'll need to set configs within its UI to set the Filters and which Side. Once you do that, it will take all &bFluids&r coming in and send them to where they are set to go!"]
-	quest.679E80EBB9A2AE7E.title: "&bFluid Router"
-	quest.67FB03BE6685AFE1.quest_desc: ["To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, shoot a Pillager with a &d&lRevolver&r. \\n\\nThis will start the spawning of new and harder Pillagers!"]
-	quest.67FB03BE6685AFE1.title: "Offense và Defense"
-	quest.6B2BD6F939136F50.quest_desc: ["Turntable is pretty simple. The Top face with the &7Grey&r square will be the moving part. \\n\\nThe other faces are the &4Redstone Ports&r, where you will give a &4Redstone Signal&r to activate it. \\n\\nWhen activated it will rotate whatever Block is attached to the Top. \\n\\nYou might need to use your &6Engineer's Hammer&r on it to change how it rotates!"]
+	quest.662DD269B027B6C8.quest_desc: ["Bạn không thể sạc không dây Ba lô tích lũy của mình... nhưng bạn có thể sạc nó bằng dây nối! \n\nChỉ cần gắn Ăng-ten sạc vào Ba lô tích lũy của bạn và đi tới bất kỳ &cDây điện nào đang vận chuyển & Năng lượng và một số năng lượng sẽ đến với &c&lBa lô của bạn."]
+	quest.67940C0774E73217.quest_desc: ["&eItem Router sẽ &9Nhập &eItems và &6Xuất chúng đến các vị trí nhất định dựa trên bộ Lọc trong UI của nó! \n\nChúng có thể được đặt thành &eBelts, Crates hoặc Kho khác."]
+	quest.67940C0774E73217.title: "&eBộ định tuyến mục"
+	quest.679E80EBB9A2AE7E.quest_desc: ["&bBộ định tuyến chất lỏng sắp xếp và lọc &bChất lỏng đi qua. \n\nBạn sẽ cần đặt cấu hình trong UI của nó để đặt Bộ lọc và Mặt nào. Khi bạn làm điều đó, nó sẽ đưa tất cả &bFluids đến và gửi chúng đến nơi chúng được thiết lập!"]
+	quest.679E80EBB9A2AE7E.title: "&bBộ định tuyến linh hoạt"
+	quest.67FB03BE6685AFE1.quest_desc: ["Để bắt đầu một cuộc chiến, trước tiên chúng ta cần phải tuyên bố nó! \n\nĐùa thôi, chúng ta cứ bắt tay vào bắn thôi! Không có chuyện ngoại giao tào lao quanh đây! \n\nĐể bắt đầu, hãy bắn một Pillager bằng &d&lRevolver. \n\nĐiều này sẽ bắt đầu sinh ra những kẻ cướp bóc mới và khó khăn hơn!"]
+	quest.67FB03BE6685AFE1.title: "Tấn công và phòng thủ"
+	quest.6B2BD6F939136F50.quest_desc: ["Bàn xoay khá đơn giản. Mặt trên có hình vuông &7Grey sẽ là bộ phận chuyển động. \n\nCác mặt còn lại là &4Redstone Ports, nơi bạn sẽ đưa ra &4Redstone Signal để kích hoạt nó. \n\nKhi được kích hoạt, nó sẽ xoay bất kỳ Khối nào được gắn vào Top. \n\nBạn có thể cần phải sử dụng &6Engineer's Hammer của mình lên nó để thay đổi cách nó xoay!"]
 	quest.6BD348735C27BB44.quest_desc: [
-		"The &b&lBottling Machine&r will fill up whatever &eItem&r comes by on the &eBelt&r. \\n\\nUse the Ports in the Back to fill the &b&lMachine&r with &bFluids&r, you'll know it is working when the Tank is full of that &bFluid&r! \\n\\nThen, when a &bBucket&r, &bTank&r, or any &bFluid Storage&r comes down the &eBelt&r, it will be filled with that &bFluid&r. \\n\\nThe &bBucket&r, &bTank&r, or whatever will then move down the &eBelts&r full of that &bFluid&r! \\n\\nBy the way, like everything in life, the &b&lBottling Machine&r will need &cEnergy&r in the Ports at the Top of the Back side!"
+		"&b&lMáy đóng chai sẽ lấp đầy mọi thứ &eItem có trên &eBelt. \n\nSử dụng các Cổng ở phía sau để đổ đầy &bFluids&r vào &b&lMáy, bạn sẽ biết nó đang hoạt động khi Bình chứa đầy &bFluid&r đó! \n\nSau đó, khi &bBucket, &bTank hoặc bất kỳ &bFluid Storage nào đi xuống &eBelt, nó sẽ được lấp đầy bằng &bFluid đó. \n\n&bBucket, &bTank&r, hoặc bất cứ thứ gì sau đó sẽ di chuyển xuống &eBelts chứa đầy &bFluid&r đó! \n\nNhân tiện, giống như mọi thứ trong cuộc sống, &b&lMáy đóng chai sẽ cần &cNăng lượng ở các cổng ở trên cùng của mặt sau!"
+
 		"{@pagebreak}"
-		"To start, make a triangle out of &8Steel Scaffolding&r. Then fill the holes with &7Iron Sheetmetal&r, &4Redstone Engineering Block&r, and a &eLight Engineering Block&r."
+		"Để bắt đầu, hãy tạo một hình tam giác từ &8Giàn giáo thép. Sau đó lấp đầy các lỗ bằng &7Iron Sheetmetal, &4Redstone Engineering Block và &eLight Engineering Block."
+
 		"{image:atm:textures/questpics/immersive/immersive_bottler1.png width:100 height:100 align:center}"
-		"Now we just add a &eConveyor Belt&r across the front side. Then, add a second &7Iron Sheetmetal&r on the other, a &bFluid Pump&r next to it, and a &eLight Engineering Block&r on the previous one!"
+		"Bây giờ chúng ta chỉ cần thêm một băng tải điện tử ở phía trước. Sau đó, thêm &7Iron Sheetmetal thứ hai vào bên kia, &bFluid Pump bên cạnh nó, và &eLight Engineering Block’ vào cái trước đó!"
+
 		"{image:atm:textures/questpics/immersive/immersive_bottler2.png width:100 height:100 align:center}"
-		"Simply &6Hammer&r the middle &eConveyor Belt&r and BOOM done!"
+		"Đơn giản chỉ cần &6Búa ở giữa &Băng tải điện tử và BOOM là xong!"
+
 		"{image:atm:textures/questpics/immersive/immersive_bottler.png width:100 height:100 align:center}"
 	]
-	quest.6BD348735C27BB44.title: "&b&lBottling Machine"
-	quest.6D42D0102D1CBC19.quest_desc: ["The Additional Augers are Sharpness... just for the &4&lDrill&r though! \\n\\nOh yeah and you can have 3 at a time, for stacked power."]
-	quest.6F3C82072672FD17.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.7060290E107D92AB.quest_desc: ["A lot of things will need &cEnergy&r, including some &eItems&r that can't be placed down, like the &5&lRailgun&r! So how do we charge them? \\n\\nThe Charging Station is our man for that job! \\n\\nSimply &6Input &cEnergy&r from either the Back or Bottom, and it will be ready to charge any &eItem&r put within it! \\n\\nThis includes &5&lRailguns&r, &cAccumulators&r, and stuff from other Mods! It can't charge Blocks near it though..."]
-	quest.72CE46D28C9E7452.quest_desc: ["The Precision Scope can be used on both the &5&lRailgun&r and the &d&lRevolver&r. \\n\\nWith the &d&lRevolver&r and &5&lRailgun&r you can press down Middle Click to use the Scope, then you can Scroll to adjust the magnification."]
-	quest.73110103EF23BFDF.quest_desc: ["A mix of &6Copper&r and &7Zinc&r. \\n\\nNot really used for much in &8&lIE&r... You can make Signs with it I guess..."]
-	quest.73110103EF23BFDF.title: "&6Brass Ingot"
-	quest.763AE58CF620695E.quest_desc: ["This &9Blueprint&r, like many others, can be Crafted. \\n\\n&8&lImmersive Engineering&r comes with it's own Banner Patterns! \\n\\nYou'll need &9Blueprints&r to craft them though."]
-	quest.763AE58CF620695E.title: "&9Banner Patterns Blueprints"
-	quest.767E4FC03B6F6534.quest_desc: ["Invar Ingots are made with &7Iron&r and &7Nickel&r. \\n\\nLike a lot of these Alloys they aren't useful in &8&lIE&r."]
-	quest.767E4FC03B6F6534.title: "&7Invar Ingot"
-	quest.7744BEC5CD328262.quest_desc: ["In order to mine Blocks &bunderwater&r you'll need this Upgrade. \\n\\nIt also gives you Aqua Affinity! (That means being in &bWater&r doesn't slow down your Mining.)"]
-	quest.78DA970F97002975.quest_desc: ["Barrels are simple ways of holding &bFluids&r. \\n\\nThere's Wooden Barrels and Metal Barrels. Wooden ones can only hold cold and room temperature &bFluids&r, not warm &bFluids&r or Gases. While Metal Barrels can hold all types of &bFluids&r and Gases. \\n\\nBoth Barrels can hold 12 Buckets of &bFluid&r. They automatically &9Input&r from the Top side and &6Output&r to the Bottom but this can be changed."]
+	quest.6BD348735C27BB44.title: "&b&lMáy đóng chai"
+	quest.6D42D0102D1CBC19.quest_desc: ["Các mũi khoan bổ sung có độ sắc bén... tuy nhiên chỉ dành cho &4&lKhoan! \n\nỒ vâng và bạn có thể có 3 cái cùng một lúc để có sức mạnh tổng hợp."]
+	quest.6F3C82072672FD17.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks. \n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng. \n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.7060290E107D92AB.quest_desc: ["Rất nhiều thứ sẽ cần &cEnergy, bao gồm một số &eItem không thể đặt xuống, như &5&lRailgun! Vậy chúng ta tính phí họ như thế nào? \n\nTrạm sạc là người của chúng tôi cho công việc đó! \n\nChỉ cần &6Nhập &cNăng lượng từ Mặt sau hoặc Dưới cùng và nó sẽ sẵn sàng sạc bất kỳ &eItem nào được đặt bên trong nó! \n\nĐiều này bao gồm &5&lRailguns’s, &cAccumulators’s và nội dung từ các Mod khác! Tuy nhiên, nó không thể sạc các Khối ở gần nó..."]
+	quest.72CE46D28C9E7452.quest_desc: ["Ống ngắm chính xác có thể được sử dụng trên cả &5&lRailgun và &d&lRevolver. \n\nVới &d&lRevolver’s và &5&lRailgun’s, bạn có thể nhấn Middle Click để sử dụng Ống ngắm, sau đó bạn có thể Cuộn để điều chỉnh độ phóng đại."]
+	quest.73110103EF23BFDF.quest_desc: ["Sự kết hợp giữa &6Copper và &7Zinc. \n\nKhông thực sự được sử dụng nhiều trong &8&lIE... Tôi đoán là bạn có thể tạo các Dấu hiệu bằng nó..."]
+	quest.73110103EF23BFDF.title: "&6Phôi đồng thau"
+	quest.763AE58CF620695E.quest_desc: ["Bản thiết kế &9 này, giống như nhiều bản kế hoạch khác, có thể được Chế tạo. \n\n&8&lKỹ thuật nhập vai đi kèm với Banner Patterns của riêng nó! \n\nTuy nhiên, bạn sẽ cần &9Blueprints để chế tạo chúng."]
+	quest.763AE58CF620695E.title: "&9Biểu ngữ Patterns Blueprints"
+	quest.767E4FC03B6F6534.quest_desc: ["Invar Ingots được làm bằng &7Iron và &7Nickel. \n\nGiống như nhiều Hợp kim này, chúng không hữu ích trong &8&lIE."]
+	quest.767E4FC03B6F6534.title: "&7Phôi Invar"
+	quest.7744BEC5CD328262.quest_desc: ["Để khai thác Khối và nước bunderwater, bạn sẽ cần Bản nâng cấp này. \n\nNó cũng mang lại cho bạn Aqua Affinity! (Điều đó có nghĩa là việc ở trong &bWater không làm chậm quá trình Khai thác của bạn.)"]
+	quest.78DA970F97002975.quest_desc: ["Thùng là cách đơn giản để đựng chất lỏng. \n\nThere's Wooden Barrels và Metal Barrels. Những cái bằng gỗ chỉ có thể giữ lạnh và nhiệt độ phòng của Chất lỏng, không giữ được chất lỏng hoặc khí. While Metal Barrels có thể chứa tất cả các loại Chất lỏng và Khí. \n\nBoth Barrels có thể chứa 12 thùng chất lỏng. Chúng tự động &9Nhập từ phía trên và &6Đầu ra xuống dưới cùng nhưng điều này có thể thay đổi."]
 	quest.78DA970F97002975.title: "Storing&bFluids"
-	quest.79BEECD4E545793F.quest_desc: ["Razor Wire works like Cobwebs... just sharper! \\n\\nThe Razor Wire will Damage and Slow anything that tries to go through it, including us! \\n\\nWe can safely take it apart with our &6Engineer's Wirecutters&r. \\n\\nOr we can use &6LV &cWires&r to make it do more Damage and a Stun Effect!"]
-	quest.7A1E3E7E2DF17AD2.quest_desc: ["First, is the &8Sawblade&r. This is used for cutting down &2Trees&r. It will chop every Log and Leaf in the &2Tree&r above the Log that is cut. \\n\\nSecond, is the &8Rockcutter Blade&r. This one can not break &2Trees&r, rather it is used as a Pickaxe with Silk Touch. It will break Stone and give you Stone instead of Cobble. \\n\\nThird is the &8Grinding Disk&r. It won't break &2Trees&r or Stone rather it'll break &7Metal Blocks&r! Good for &8Steel Scaffolding&r and scraping Oxidization off &6Copper&r!"]
-	quest.7A1E3E7E2DF17AD2.title: "Ammo for&2&lBuzzsaw&r"
-	quest.7A41038180C06B00.quest_desc: ["&cConnectors&r are what... well connect! They connect &cWires&r from Machines, to &cAccumulators&r, to Generators, from pretty much everything! \\n\\nWhether a &cConnector &9Inputs &for &6Outputs&r is determined by the configuration of what it is attached to! \\n\\nThey also have their own internal &cEnergy&r storage, the Tier of Voltage determines how much."]
+	quest.79BEECD4E545793F.quest_desc: ["Razor Wire hoạt động giống như Mạng nhện... chỉ sắc nét hơn! \n\nDây Razor sẽ gây sát thương và làm chậm bất cứ thứ gì cố gắng đi qua nó, kể cả chúng ta! \n\nChúng tôi có thể tháo nó ra một cách an toàn bằng Máy cắt dây của &6Engineer's. \n\nHoặc chúng ta có thể sử dụng &6LV &cWires để khiến nó gây ra nhiều sát thương hơn và Stun Effect!"]
+	quest.7A1E3E7E2DF17AD2.quest_desc: ["Đầu tiên là &8Sawblade. Cái này được sử dụng để chặt hạ &2Trees. Nó sẽ chặt mọi Gỗ và Lá trong &2Cây phía trên Khúc gỗ bị cắt. \n\nThứ hai, là &8Rockcutter Blade. Cái này không thể phá vỡ &2Trees, thay vào đó nó được sử dụng làm Cuốc với Silk Touch. Nó sẽ phá vỡ Stone và cho bạn Stone thay vì Cobble. \n\nThứ ba là &8Đĩa mài. Nó sẽ không phá vỡ &2Cây hay Đá mà sẽ phá vỡ &7Khối kim loại! Tốt cho &8Giàn giáo thép và cạo bỏ quá trình oxy hóa &6Đồng!"]
+	quest.7A1E3E7E2DF17AD2.title: "Đạn cho&2&lBuzzsaw"
+	quest.7A41038180C06B00.quest_desc: ["&cĐầu nối là thứ... kết nối tốt! Họ kết nối &cDây điện từ Máy móc, đến &cBộ tích lũy, đến Máy phát điện, từ hầu hết mọi thứ! \n\nLiệu &cConnector &9Inputs &for &6Outputs&r có được xác định bởi cấu hình của những gì nó được gắn vào hay không! \n\nHọ cũng có bộ lưu trữ &năng lượng nội bộ của riêng mình, Cấp điện áp xác định số lượng."]
 	quest.7A41038180C06B00.title: "&cConnectors"
-	quest.7AE85F4FF4DDF4F2.quest_desc: ["The Windmill is another option we can use with the Kinetic Dynamo! \\n\\nThese will automatically start moving and with its speed we get Energy, so more speed more Energy. \\n\\nHow do we get speed? Well for one, it needs space in front of it to work. The less blocks in front of it, the quicker it goes! \\n\\nAnother factor into speed is Windmill Sails. You can add 8 Windmill Sails in total by Right Clicking the middle Windmill Block with the Sails in hand."]
-	quest.7B447E986493AD6B.quest_desc: ["&7Creosote Oil&r is a byproduct of the &lCoke Oven&r. \\n\\nIts main use will be for making Treated Wood, an essential Building Block of &8&lIE&r. \\n\\nYou will also need it for a different Fluid later, we'll worry about it when we get there."]
-	quest.7B447E986493AD6B.title: "&7Creosote Oil"
-	quest.7B9672C4FCFFB887.quest_desc: ["These &9Blueprints&r can be Crafted and boy are they cheap! \\n\\nWarning Signs are very simple decorations we can make with &7Metal Plates&r, Dyes, and this &9Blueprint&r."]
-	quest.7B9672C4FCFFB887.title: "&9Warning Signs Blueprints"
-	quest.7FE273141D3DFFFD.quest_desc: ["The Fusilier is the medium unit of the new Pillagers! \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon of choice is a &5&lRailgun&r that is charged by their Accumulator Backpack they wear! \\n\\nOn death they will drop &aEmeralds&r and &7Iron Rods&r."]
+	quest.7AE85F4FF4DDF4F2.quest_desc: ["Cối Xay Gió là một lựa chọn khác mà chúng ta có thể sử dụng với Kinetic Dynamo! \n\nNhững thứ này sẽ tự động bắt đầu di chuyển và với tốc độ của nó, chúng ta nhận được Năng lượng, vì vậy tốc độ càng cao thì càng có nhiều Năng lượng. \n\nLàm thế nào để chúng ta có được tốc độ? Vâng, đối với một người, nó cần không gian phía trước để hoạt động. Càng ít khối ở phía trước, nó càng đi nhanh hơn! \n\nMột yếu tố khác ảnh hưởng đến tốc độ là Windmill Sails. Bạn có thể thêm tổng cộng 8 Windmill Sails vào Right Clicking ở giữa Windmill Block với Cánh buồm trong tay."]
+	quest.7B447E986493AD6B.quest_desc: ["&7Dầu Creosote là sản phẩm phụ của &lLò nướng Coke. \n\nCông dụng chính của nó là để tạo ra Treated Wood, một Khối Xây dựng thiết yếu của &8&lIE. \n\nSau này bạn cũng sẽ cần nó cho một Chất lỏng khác, chúng tôi sẽ lo lắng về điều đó khi chúng tôi đến đó."]
+	quest.7B447E986493AD6B.title: "&7Dầu Creosote"
+	quest.7B9672C4FCFFB887.quest_desc: ["Những &9Bản thiết kế này có thể được chế tạo và chúng rất rẻ! \n\nBiển cảnh báo là những đồ trang trí rất đơn giản mà chúng ta có thể thực hiện bằng Thuốc nhuộm, Thuốc nhuộm và &9Bản thiết kế này."]
+	quest.7B9672C4FCFFB887.title: "&9Cảnh báo Signs Blueprints"
+	quest.7FE273141D3DFFFD.quest_desc: ["Fusilier là đơn vị hạng trung của những kẻ cướp bóc mới! \n\nHọ có 12 Trái tim và không có Giáp. \n\nVũ khí họ lựa chọn là &5&lRailgun được sạc bằng Accumulator Backpack họ đeo! \n\nKhi chết, chúng sẽ rơi ra &aEmeralds và &7Iron Rods."]
 	quest.7FE273141D3DFFFD.title: "Fusilier"
 	task.02B26D0D73E5E361.title: "Belts"
-	task.0837FA64B9C50048.title: "Ammo for Buzzsaw"
+	task.0837FA64B9C50048.title: "Đạn cho Buzzsaw"
 	task.0B62C759781950A1.title: "IE Railgun Ammo"
 	task.0CD67A3D64E9B49B.title: "Decor Wires"
 	task.0D7C60D7BFBD8CF0.title: "AllRightsReserved"
