@@ -1,24 +1,24 @@
 {
-	quest.002B8F2DE2CB4D2C.quest_desc: ["Giữ Khiên trong tay thuận của bạn và &7Cuộn tăng cường trong tay chính của bạn và giữ Right Click."]
-	quest.002B8F2DE2CB4D2C.title: "Strong Shield"
+	quest.002B8F2DE2CB4D2C.quest_desc: ["Giữ Khiên ở tay phụ và &7Cuộn tăng cường&r ở tay chính, rồi giữ nhấp chuột phải."]
+	quest.002B8F2DE2CB4D2C.title: "Khiên cường hóa"
 	quest.012912FDAFCD1C66.quest_desc: ["&e&lCaliburn sẽ khởi đầu không tốt hơn nhiều so với&bDiamond Sword nhưng một khi đã được nâng cấp; &bDiamond Sword trông giống một cây gậy bình thường hơn là &e&lCaliburn! \nCả &4&lMorgan và &e&lCaliburn đều có Thiệt hại thực tế và Innate Cap của họ. \n\nInnate Cap là Sát thương tối đa có thể tăng lên. Để tăng Innate Cap của &e&lCaliburn, hãy mê hoặc nó bằng &5Smite sau đó ném nó vào &3Lake&r với Nether Stars. \n\nĐể có được Max Cap, bạn cần 6 Nether Stars. Sau khi nâng cấp, nó không thể được nâng cấp nữa vì vậy hãy đảm bảo bạn ném cả 6 cái cùng một lúc! \n\nĐể tăng sát thương thông thường, bạn cần phù phép nó bằng &5Smite rồi quay trở lại &3Hồ! Bạn sẽ cần nhiều sát thương hơn để..."]
-	quest.012912FDAFCD1C66.title: "Upgrading&l&eCaliburn"
+	quest.012912FDAFCD1C66.title: "Nâng cấp&l&eCaliburn"
 	quest.03DCDFB32CD4BD85.quest_desc: ["&e&lCaliburn yêu cầu một số thứ, một số đã được nêu trong nhiệm vụ, một số thì chưa. \nĐầu tiên, bạn cần có &3Mahou Lake và 5000 &4Mahou. \n\nSau đó, bạn sẽ cần một thanh Enchanted &bDiamond Sword với &5Smite (cấp càng cao thì càng tốt). \n\nCuối cùng, ném &bSword vào &3Lake và bạn sẽ tìm thấy &e&lCaliburn ở dưới cùng!"]
 	quest.03DCDFB32CD4BD85.title: "&e&lCaliburn"
 	quest.0A1FBDA0C1314DE1.quest_desc: ["Hài hòa &bDiamond’s/&aEmeralds là pin của &4Mahou và bạn sẽ cần rất nhiều &4Mahou để nhận được &4&lMorgan. \n\nAttuned &bDiamonds nắm giữ 2000 &4Mahou và Attuned &aEmeralds nắm giữ 1000. \n\nBạn sẽ cần 5000 &4Mahou cho Nghi lễ, vì vậy bạn có thể cần một ít!"]
 	quest.0A1FBDA0C1314DE1.title: "Đủ&4Mahou chưa? Có lẽ!"
-	quest.0D19FB62C2C1D9F7.quest_desc: ["Khi bạn đã có ít nhất 200 &4Mahou, bạn có thể muốn tạo Ranh giới là Life Drain. \n\nĐối với mỗi Mob chết trong ranh giới đó, bạn sẽ nhận lại được 10 &4Mahou, nhưng đây là quy trình SLOW."]
+	quest.0D19FB62C2C1D9F7.quest_desc: ["Khi bạn đã có ít nhất 200 &4Mahou, bạn có thể muốn tạo Boundary of Life Drain. \n\nVới mỗi mob chết trong ranh giới đó, bạn sẽ nhận lại 10 &4Mahou, nhưng đây là một quá trình rất chậm."]
 	quest.0D19FB62C2C1D9F7.title: "Ranh giới của Life Drain"
-	quest.146AF0937D9C63DE.quest_desc: ["Giữ Cung trong tay thuận của bạn và &7Cuộn tăng cường trong tay chính của bạn và giữ Right Click."]
-	quest.146AF0937D9C63DE.title: "Strong Bow"
-	quest.21D323D95F5A7DB3.quest_desc: ["Giữ một Cây gậy trong tay thuận của bạn và &7Cuộn tăng cường trong tay chính của bạn và giữ Right Click."]
-	quest.21D323D95F5A7DB3.title: "Strong Stick"
+	quest.146AF0937D9C63DE.quest_desc: ["Giữ Cung ở tay phụ và &7Cuộn tăng cường&r ở tay chính, rồi giữ nhấp chuột phải."]
+	quest.146AF0937D9C63DE.title: "Cung cường hóa"
+	quest.21D323D95F5A7DB3.quest_desc: ["Giữ một Cây gậy ở tay phụ và &7Cuộn tăng cường&r ở tay chính, rồi giữ nhấp chuột phải."]
+	quest.21D323D95F5A7DB3.title: "Gậy cường hóa"
 	quest.2D08BCF993B241B8.quest_desc: ["Cuộn thứ hai bạn cần kích hoạt để nhận &8&lBản sao là &7Cuộn của Immunity Exchange&r. \n\nĐể có được nó, bạn cần có Nghi thức Immunity Exchange; cần 1 &3Powded Eye và 2 &aPowdered Emeralds."]
 	quest.2D08BCF993B241B8.title: "&7Cuộn Immunity Exchange"
-	quest.34DACB973CBDE129.quest_desc: ["Sử dụng sức mạnh! \n\nĐây là một trò vui khác &a&lStaff, bạn có thể sử dụng nó để ném các Thực thể! Bao gồm cả chính bạn! \n\nHold Right Click vào thứ bạn muốn ném, nếu đó là mục tiêu của bạn nhắm xuống đất. Sau đó, di chuyển Chuột của bạn theo hướng bạn muốn xảy ra! \n\nBạn giữ càng lâu thì cú ném càng mạnh! Sau một thời gian, nó sẽ đạt mức tối đa và bất chấp điều đó."]
+	quest.34DACB973CBDE129.quest_desc: ["Sử dụng sức mạnh! \n\nĐây là một cây &a&lStaff&r vui khác, bạn có thể dùng nó để hất văng các thực thể! Kể cả chính bạn! \n\nGiữ nhấp chuột phải vào thứ bạn muốn hất; nếu là chính bạn thì hãy nhắm xuống đất. Sau đó, di chuyển chuột theo hướng bạn muốn bị hất! \n\nGiữ càng lâu thì lực càng mạnh! Một lúc sau nó sẽ đạt mức tối đa và tự hất văng."]
 	quest.34DACB973CBDE129.title: "&a&lMất phương hướng trong không gian"
-	quest.378105383747DD48.quest_desc: ["Bây giờ cái này phức tạp. \n\nĐể có được &8&lBản sao, trước tiên hãy chuẩn bị sẵn 5 Linh hồn, Damage Exchange và Immunity Exchange. \n\nSau đó, giữ Strengthened Shield của bạn để chặn đòn tấn công, bạn sẽ nhận được &8&lBản sao!"]
-	quest.378105383747DD48.title: "&8&lReplica"
+	quest.378105383747DD48.quest_desc: ["Bây giờ cái này phức tạp. \n\nĐể có được &8&lBản sao&r, trước tiên hãy chuẩn bị sẵn 5 Linh hồn, Damage Exchange và Immunity Exchange. \n\nSau đó, dùng Strengthened Shield để chặn một đòn tấn công; bạn sẽ nhận được &8&lBản sao&r!"]
+	quest.378105383747DD48.title: "&8&lBản sao"
 	quest.3907E68572324333.quest_desc: ["Để có được &4&lMorgan, bạn cần có &e&lCaliburn&r. \n\nĐể có được &e&lCaliburn bạn cần có &3Mahou Lake. \n\nĐể có được &3Mahou Lake, bạn cần có Power Consolidation Ritual. \n\nĐiều này có thể được thực hiện giống như bất kỳ nghi lễ nào khác chỉ với 2 viên kim cương dạng bột và 1 viên ngọc lục bảo dạng bột. \n\nFYI đừng làm điều đó gần căn cứ của bạn, Nghi lễ sẽ ở giữa &3Hồ!"]
 	quest.3907E68572324333.title: "Power Consolidation Ritual"
 	quest.3E89BC6875790952.quest_desc: ["Chỉ cần 2 & b Bột kim cương và 1 & 3 Bột Enderpearl (hãy tin tôi rằng & 3Enderpearl rất quan trọng đối với nó!). \n\nSử dụng 3 loại Bột này lên &7Spell Fabric để nhận &7Scroll của chúng tôi! \n\nSử dụng &7Scroll của bạn để nhận &7&lKeys của bạn, bây giờ bạn có thể mở khóa bất kỳ Cánh cửa nào! \n\nKhông, đợi nhầm phím..."]
@@ -29,27 +29,27 @@
 	quest.3FF97A4B5029C0E7.title: "&7Cuộn Weapon Projectiles"
 	quest.4A88472F1581EE7E.quest_desc: ["Chào mừng đến với &4&lMahou Tsukai. \n\nKhông, bạn không thể nhận ngay &4&lMorgan Sword mà bạn cần phải chơi bản mod một chút. \n\nĐể bắt đầu nhận một số thiệt hại. Bạn sẽ có hiệu ứng chảy máu. Trước khi nó mờ dần, hãy giữ shift và nhấn M trên một khối vững chắc để đặt &cMahou Circle đầu tiên của bạn. \n\nAKA &cMahoujin!"]
 	quest.4A88472F1581EE7E.title: "&4&lMahou Tsukai"
-	quest.4C647369D976E67E.quest_desc: ["&c&lStaff này có 3 Chế độ: Beam, AOE, hoặc Big Explosion, mỗi chế độ được thay đổi thông qua Shift Right Click! (Đừng lo lắng tất cả đều có thể gây nổ!) \n\nBeam hoạt động như đã được báo trước, nó sẽ bắn một Beam khổng lồ tới nơi bạn đang chỉ, tiêu diệt mọi Khối và Mob cản đường nó! \n\nAOE triệu tập hàng chục vòng tròn trước mặt bạn, mỗi vòng bắn một vụ nổ tới nơi nó nhắm tới. \n\nBig Explosion là Chế độ thú vị nhất, chỉ cần Hold Right Click vào một mục tiêu... tiếp tục giữ. Sẽ mất một chút thời gian khi tất cả các dòng đã phát triển xong. Sau đó, thả ra! \n\nBOOM! một quả bom hạt nhân khổng lồ sẽ nổ tung! Phá hủy một khu vực khổng lồ, vì vậy đừng sử dụng gần căn cứ của bạn. Trên thực tế, đừng sử dụng bất kỳ Chế độ nào gần nó..."]
+	quest.4C647369D976E67E.quest_desc: ["&c&lStaff&r này có 3 Chế độ: Beam, AOE, hoặc Big Explosion; chuyển bằng Shift + nhấp chuột phải! (Đừng lo, cái nào cũng nổ!) \n\nBeam hoạt động như đã được báo trước: nó sẽ bắn một Beam khổng lồ tới nơi bạn đang chỉ, tiêu diệt mọi Khối và mob cản đường! \n\nAOE triệu hồi hàng chục vòng tròn trước mặt bạn, mỗi vòng bắn một vụ nổ tới nơi nó nhắm. \n\nBig Explosion là Chế độ thú vị nhất: chỉ cần giữ nhấp chuột phải vào một mục tiêu... tiếp tục giữ. Sẽ mất một chút thời gian khi các đường vẽ xong. Sau đó, thả ra! \n\nBOOM! một quả bom hạt nhân khổng lồ sẽ nổ tung! Phá hủy một khu vực rất lớn, vì vậy đừng dùng gần căn cứ. Thực tế là đừng dùng bất kỳ Chế độ nào gần đó..."]
 	quest.4C647369D976E67E.title: "&c&lChất nổ Mana Condensation"
 	quest.5149BDF6BC4B3857.quest_desc: ["Hoặc, tạo Durability Exchange và ném các vật phẩm mạnh (nhưng không quá mạnh) vào đó. \n\nTôi khuyên bạn nên sử dụng các Vật phẩm như &5Xẻng Netherite!"]
 	quest.5149BDF6BC4B3857.title: "Durability Exchange"
 	quest.5212A4D67B1851EF.quest_desc: ["Những &7&lKeys nhỏ vui nhộn này hoạt động tương tự như Wolverine Claws, chúng trông rất giống! \n\nKhi cầm chúng, một Vòng tròn sẽ xuất hiện xung quanh Mục tiêu, hãy sử dụng Left Click đến TP vào Mục tiêu và Đánh chúng! \n\nĐiều này có thể được sử dụng cho một khoảng cách rất lớn! (Tôi đã tìm thấy hơn một trăm Khối). \n\nNó gây sát thương tương tự như Iron Sword."]
 	quest.5212A4D67B1851EF.title: "&7&lPhím của Proximity Projection"
-	quest.53829B3E51936ACD.quest_desc: ["Giữ &bDiamond Sword trong tay thuận của bạn và &7Cuộn tăng cường trong tay chính của bạn và giữ Right Click."]
-	quest.53829B3E51936ACD.title: "Strong Sword"
+	quest.53829B3E51936ACD.quest_desc: ["Giữ &bDiamond Sword&r ở tay phụ và &7Cuộn tăng cường&r ở tay chính, rồi giữ nhấp chuột phải."]
+	quest.53829B3E51936ACD.title: "Kiếm cường hóa"
 	quest.54E6C0D1BB442184.quest_desc: ["Để nhận được &eSpells, bạn cần Powdered Items. \n\nĐể có được Powdered Items bạn sẽ cần &9Cữa và chày."]
 	quest.54E6C0D1BB442184.title: "&9Cữa và chày"
 	quest.565703CBB06CEABF.quest_desc: ["Tôi biết lý do các bạn ở đây vì &4&lMorgan Sword. \n\nMột trong những Thanh kiếm mạnh mẽ trong tất cả các Modpack &6&lATM. \n\nHãy thực hiện theo các Nhiệm vụ này và bạn sẽ trở thành một thế lực không thể ngăn cản!"]
-	quest.565703CBB06CEABF.title: "Getting&4&lMorgan"
+	quest.565703CBB06CEABF.title: "Lấy&4&lMorgan"
 	quest.59FD3C4E415EEDDD.quest_desc: ["Khi Nghi lễ đã bắt đầu, bạn sẽ thấy &3Hồ đang được tạo ra. \n\nNó sẽ phát triển thành một khu vực có kích thước khoảng 20x20 chứa đầy &3Murky Water. \n\n&3Murky Water sẽ không giết bạn; trừ khi bạn quên hít thở không khí."]
 	quest.59FD3C4E415EEDDD.title: "&3Hồ Mahou"
 	quest.5EF54E0EB14024D1.quest_desc: ["2 &ePowdered Gold và 1 &3Powdered Enderpearl’s (đừng nhầm lẫn chúng nếu không bạn sẽ nhận được Thăng thiên!). \n\nSử dụng những thứ này trên &7Spell Fabric để nhận &7Scroll của chúng tôi! \n\nSau đó, bằng cách sử dụng &7Scroll đó, chúng ta sẽ có &a&lStaff&ar ít Nổ hơn nhưng vẫn thú vị!"]
 	quest.5EF54E0EB14024D1.title: "&7Cuộn Spatial Disorientation"
 	quest.5F9B8ACCE0C8389E.quest_desc: ["Để có được nhiều niềm vui hơn, vũ khí của &4&lMahou Tsukai nhỏ bé, bạn sẽ cần một &7Cuộn tăng cường sức mạnh. \n\nĐể có được một cái, hãy đặt &7Spell Fabric xuống, sau đó thực hiện Nghi thức tăng cường sức mạnh lên trên nó và nhặt &7Cloth."]
 	quest.5F9B8ACCE0C8389E.title: "&7Cuộn tăng cường"
-	quest.5FD4FB9D24586B9B.quest_desc: ["Tôi tự hỏi bạn cần làm gì để có được &9Gậy Sấm Sét? \n\nNó có thể bị &9Lightning tấn công khi đang cầm Strengthened Stick không?\n\nTôi nghĩ vậy! \n\nKhi bạn đã có &9&lEmrys cầm nó trên tay và giữ Right Click, kết quả sẽ SỐC!"]
+	quest.5FD4FB9D24586B9B.quest_desc: ["Tôi tự hỏi bạn cần làm gì để có được &9Gậy Sấm Sét&r? \n\nCó phải là bị &9Lightning&r đánh khi đang cầm Strengthened Stick không?\n\nTôi nghĩ vậy! \n\nKhi bạn đã có &9&lEmrys&r, hãy cầm nó ở tay phụ và giữ nhấp chuột phải; kết quả sẽ SỐC!"]
 	quest.5FD4FB9D24586B9B.title: "&9&lEmrys"
-	quest.63768C7B988ED22B.quest_desc: ["Đưa &bĐược tăng cường Diamond Sword&của bạn vào trong nhóm &dDragon's Breath và bạn sẽ nhận được &d&lClarent! \n\n&d&lClarent hoạt động như Khiên và Kiếm. \n\nHold Right Click chặn bằng &d&lClarent và bất kỳ đòn tấn công nào mà nó chặn, nó sẽ gây ra lượng sát thương tương tự như nó đã chặn."]
+	quest.63768C7B988ED22B.quest_desc: ["Đưa &bStrengthened Diamond Sword&r của bạn vào một vũng &dDragon's Breath&r và bạn sẽ nhận được &d&lClarent&r! \n\n&d&lClarent&r hoạt động như Khiên và Kiếm. \n\nGiữ nhấp chuột phải để chặn bằng &d&lClarent&r; bất kỳ đòn tấn công nào nó chặn được sẽ gây lại đúng lượng sát thương đó."]
 	quest.63768C7B988ED22B.title: "&d&lClarent"
 	quest.667B95A687703D6D.quest_desc: ["Bạn có bao giờ muốn bắn Diamond Swords từ Cung không? Hoặc cuốc Netherite? Hoặc về cơ bản là bất kỳ \"Vũ khí\" nào? \n\nVậy thì &b&lCung của Weapon Projectiles&r chính là người đàn ông của bạn! \n\nNó có hai Chế độ có thể được thay đổi thông qua Shift Right Click: Bình thường và Chiếu. Điều duy nhất thay đổi là liệu nó lấy bất kỳ Vũ khí nào từ Kho đồ (Bình thường) hay chỉ từ Offhand (Phép chiếu) của bạn. \n\nVũ khí được bắn từ &b&lBow sẽ hoạt động giống như một Cây đinh ba được ném ra và cũng có thể được lấy lại giống như một cây đinh ba. \n\nVũ khí sẽ gây sát thương tương tự như một Cú xoay bình thường!"]
 	quest.667B95A687703D6D.title: "&b&lCung của Weapon Projectiles"
@@ -58,13 +58,13 @@
 	quest.6E04A314CD796254.quest_desc: ["Mỗi Magic Mod cần gì? Có phải bạn vừa nói súng! Tôi hy vọng bạn nói một khẩu súng! \n\nNobu là một khẩu súng, tất nhiên có 3 chế độ bắn khác nhau."]
 	quest.6E04A314CD796254.title: "&5&lNobu"
 	quest.731A4846BC556AE1.quest_desc: ["Điều cuối cùng bạn cần cho &8&lBản sao, rõ ràng là liên quan đến một &7Scroll khác. \n\n&7Cuộn Mystic Eyes của Death Collection&r. \n\nNó sẽ cho phép bạn thu thập Linh hồn từ việc chứng kiến ​​đám đông chết. \n\nMỗi cái chết chỉ có rất ít Linh hồn nên bạn sẽ phải chứng kiến ​​rất nhiều cái chết. \n\nKhi bạn có đủ 5 Linh hồn, bạn sẽ sẵn sàng nhận &8&lBản sao."]
-	quest.731A4846BC556AE1.title: "Souls"
+	quest.731A4846BC556AE1.title: "Linh hồn"
 	quest.73325912C84F64A5.quest_desc: ["Một tùy chọn khác là sử dụng Chronal Exchange; kiếm được &4Mahou trong 12 giờ, sau đó sử dụng nó trong 12 giờ. \n\nNếu bạn tạo vòng kết nối Chronal Exchange thứ hai, khi vòng kết nối đầu tiên bắt đầu chi tiêu, nó sẽ trở thành một vòng lặp."]
 	quest.73325912C84F64A5.title: "Chronal Exchange"
-	quest.777BB82B56038ED3.quest_desc: ["Cách duy nhất để tăng sát thương của &4&lMorgan là giết Dân làng. Baby Villagers gây thêm sát thương! \n\nHy vọng bạn đã thành lập được một trang trại. Sau đó, sau rất nhiều, rất nhiều cái chết của Dân làng, bạn sẽ có tối đa &4&lMorgan. \n\nNgoài ra, bạn có thể giữ Right Click với &4&lMorgan để thực hiện một đòn tấn công đặc biệt."]
+	quest.777BB82B56038ED3.quest_desc: ["Cách duy nhất để tăng sát thương của &4&lMorgan&r là giết Dân làng. Baby Villagers còn tăng nhiều sát thương hơn! \n\nHy vọng bạn đã có một trang trại. Sau đó, sau rất nhiều, rất nhiều cái chết của Dân làng, bạn sẽ có một &4&lMorgan&r tối đa. \n\nNgoài ra, bạn có thể giữ nhấp chuột phải với &4&lMorgan&r để thực hiện một đòn tấn công đặc biệt."]
 	quest.777BB82B56038ED3.title: "Đã đạt mức tối đa&4&lMorgan"
 	quest.795FA102F6577368.quest_desc: ["Để có được &4&lMorgan, bạn cần phải giết một con Chó cưng bằng &e&lCaliburn&r. \n\nNgoài ra, Innate Cap của &e&lCaliburn sẽ là Innate Cap của &4&lMorgan. \n\nChúc may mắn!"]
-	quest.795FA102F6577368.title: "Got&4&lMorgan"
+	quest.795FA102F6577368.title: "Có&4&lMorgan"
 	quest.7992C63F063BE908.quest_desc: ["Công thức khá đơn giản của &7Scroll để tạo ra thứ gì đó mạnh mẽ đến vậy! Chỉ cần 2 &ePowdered Gold và 1 &bPowdered Diamond. \n\nSử dụng cái này trên &7Spell Fabric có &cMahoujin trên đó, sau khi đặt Right Click nó để nhận được &7Scroll! \n\nSau đó, sử dụng &7Scroll để nhận &c&lGậy Thuốc Nổ của bạn!"]
 	quest.7992C63F063BE908.title: "&7Cuộn Explosive Mana Condensation"
 	quest.7F7ED94590B5B857.quest_desc: ["Một số &eSpells có thể được đưa vào &7Scrolls để sử dụng khi cần thiết. \n\nĐầu tiên, bạn sẽ cần một &7Spell Fabric và đặt nó xuống. Sau đó, thực hiện nghi thức tương tự nhưng trên &7Spell Vải. \n\nSau khi hoàn thành tất cả &4Blood và &bPowder Right Click &7Spell Fabric và BOOM &7Scroll&r! \n\nMột số &eSpells không thể biến thành &7Scrolls, vì vậy tôi không chịu trách nhiệm về việc lãng phí vật liệu vì điều đó."]
