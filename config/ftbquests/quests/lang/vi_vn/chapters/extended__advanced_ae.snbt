@@ -12,13 +12,16 @@
 
 		"- Exactly một Quantum Computer Core"
 
+
 		"- Nhiều nhất là một Quantum Data Entangler"
 
 		"- Tối đa một Quantum Computer Multi-Threader"
 
+
 		"- Các khối All ở lớp bên ngoài phải là Quantum Computer Structural Glass"
 
 		"- Khối No bên trong có thể là Quantum Computer Structural Glass."
+
 
 		""
 		"Hy vọng bạn đã sẵn sàng để tạo ra nhiều Điểm kỳ dị."
@@ -96,6 +99,7 @@
 
 		""
 		"&lBạn chỉ có thể có một Quantum Computer Multi-Threader trong Quantum Computer Multiblock.&r"
+
 
 		""
 		"Nó cũng là một thành phần cho Ngôi sao ATM."
@@ -249,13 +253,14 @@
 		""
 		"&l&nNhà cung cấp mẫu Trong-World Highlight&r"
 
+
 		""
 		"Có thể khó chịu khi phát hiện ra Pattern Providers nào của bạn bị kẹt khi thực hiện các công việc chế tạo lớn. Thiết bị đầu cuối truy cập mẫu mở rộng có thể làm nổi bật Pattern Providers trên thế giới, giúp việc xác định vị trí của nó dễ dàng hơn."
 
 	]
 	quest.534D827A628907F4.title: "Truy cập mẫu tốt hơn: Thiết bị đầu cuối truy cập mẫu mở rộng"
 	quest.55DFC96B4CDBFA7D.quest_desc: ["Lõi máy tính lượng tử là trái tim của Quantum Computer. Nó có 256M bộ nhớ chế tạo và 12 luồng đồng xử lý. Nó cũng là khối duy nhất có khả năng tự hình thành Quantum Computer, khi được cấp nguồn qua các mặt Lên hoặc Xuống, nơi có các đầu nối. Tuy nhiên, nếu được sử dụng để tạo multiblock, có thể tạo ra một máy tính mạnh hơn nhiều."]
-	quest.55DFC96B4CDBFA7D.title: "Trái tim thủ công: Quantum Computer Core"
+	quest.55DFC96B4CDBFA7D.title: "Trái thời gian thủ công: Quantum Computer Core"
 	quest.56DE217FEAE3F036.quest_desc: [
 		"ME Advanced Pattern Provider là một loại mới của ME Pattern Provider nâng cấp tiêu chuẩn hoặc Extended Pattern Provider với khả năng định cấu hình bề mặt mà bất kỳ mục riêng lẻ nào trong mẫu được gửi tới. Điều này cho phép tự động hóa các máy yêu cầu các mặt cụ thể để thực hiện đầu vào cụ thể với một khối duy nhất và không có đường ống hoặc mạng con, chẳng hạn như với Metallurgic Infuser từ Mekanism."
 
@@ -289,11 +294,14 @@
 		""
 		"Ma trận hợp ngữ ít nhất phải là hình khối 3x3x3 và tối đa là hình khối 7x7x7. Nó yêu cầu các phần sau:"
 
-		"- Edges gồm có Assembler Matrix Frames"
+		"- Edges bao gồm Assembler Matrix Frames"
+
 
 		"- Faces bao gồm Assembler Matrix Wall/Kính"
 
+
 		"- Interior bao gồm Assembler Matrix Pattern/Craft/Speed Core"
+
 
 		""
 		"Assembler Matrix hợp lệ phải chứa ít nhất một lõi mẫu và lõi thủ công. Nó phải được lấp đầy hoàn toàn và không được rỗng. Khi Assembler Matrix được định hình và cấp nguồn chính xác, các đường trên khung sẽ chuyển sang màu xanh lam."
