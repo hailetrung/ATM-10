@@ -1,89 +1,89 @@
 {
-	quest.04D0543FE2820F64.quest_desc: ["Flax String can be used in replace of normal String."]
-	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
+	quest.04D0543FE2820F64.quest_desc: ["Flax String có thể được sử dụng thay thế cho Chuỗi thông thường."]
+	quest.04D0543FE2820F64.quest_subtitle: "Dù sao thì ai cũng cần Nhện?"
 	quest.04D0543FE2820F64.title: "Sợi lanh"
-	quest.0893EFCAC7031FEA.quest_desc: ["Time to bake a cake, if you've got some milk and eggs ready."]
-	quest.0893EFCAC7031FEA.quest_subtitle: "Have your Cake và Eat it too"
-	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Love this Stuff"
+	quest.0893EFCAC7031FEA.quest_desc: ["Đã đến lúc nướng bánh nếu bạn đã chuẩn bị sẵn một ít sữa và trứng."]
+	quest.0893EFCAC7031FEA.quest_subtitle: "Ăn bánh của bạn và ăn nó nữa"
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Love Nội dung này"
 	quest.0A1C2A7A8617D3E4.title: "Lúa mì"
 	quest.0A64D0937A5F7513.title: "Vàng Cần câu"
-	quest.0EFF1AA37772156B.quest_desc: ["This block provides water to the multi-block kitchen.\\n\\nIt can also provide infinite water by pumping water out via cables or pipes."]
-	quest.0EFF1AA37772156B.quest_subtitle: "1 Block does the trick!"
-	quest.0EFF1AA37772156B.title: "The Sink = Vô hạn Nước"
-	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice and Snow recipes!"]
-	quest.13AFCD3B6F62B986.quest_subtitle: "Ice, Ice, Baby!"
+	quest.0EFF1AA37772156B.quest_desc: ["Khối này cung cấp nước cho nhà bếp nhiều khối.\n\nNó cũng có thể cung cấp lượng nước vô tận bằng cách bơm nước ra ngoài qua dây cáp hoặc đường ống."]
+	quest.0EFF1AA37772156B.quest_subtitle: "1 Block thực hiện thủ thuật!"
+	quest.0EFF1AA37772156B.title: "The Sink = Vô hạn nước"
+	quest.13AFCD3B6F62B986.quest_desc: ["Provides Ice và công thức nấu ăn Tuyết!"]
+	quest.13AFCD3B6F62B986.quest_subtitle: "Băng, băng, em yêu!"
 	quest.13AFCD3B6F62B986.title: "Ice Nâng cấp"
-	quest.1515B32545F51266.quest_desc: ["Allows you to attach power to the Stove."]
+	quest.1515B32545F51266.quest_desc: ["Cho phép bạn gắn nguồn vào Bếp."]
 	quest.1515B32545F51266.title: "Heating Nâng cấp"
 	quest.1697CC05D08B388D.quest_subtitle: "Yummy Fried Gà!"
-	quest.1697CC05D08B388D.title: "The Gà Must Go"
+	quest.1697CC05D08B388D.title: "Gà Must Go"
 	quest.16D0F1E3CEB60ABF.title: "Sắt Cần câu"
-	quest.1827DEEA2DF1B144.quest_desc: ["Chào mừng đến với chương Thực phẩm và nông nghiệp!\\n\\nHere, you'll find different ways for you to grow and make food!"]
+	quest.1827DEEA2DF1B144.quest_desc: ["Chào mừng đến với chương trình Thực phẩm và nông nghiệp!\n\nTại đây, bạn sẽ tìm thấy nhiều cách khác nhau để trồng trọt và chế biến thức ăn!"]
 	quest.1827DEEA2DF1B144.title: "Thực phẩm và nông nghiệp"
-	quest.18EADBAFC932F864.quest_desc: ["To shear Sheep you need Shears, you wouldn't get Wool any other way...right?"]
+	quest.18EADBAFC932F864.quest_desc: ["Để xén lông cừu bạn cần có Kéo cắt, bạn sẽ không thể có được Len bằng bất kỳ cách nào khác...phải không?"]
 	quest.18EADBAFC932F864.quest_subtitle: "Pacifist Run"
 	quest.18EADBAFC932F864.title: "It's Clippin' Time"
-	quest.1D2EF12FD7FDD217.quest_desc: ["Chickens will lay these naturally. I guess it's not really considered naturally...\\n\\nI guess the chickens are just getting... &oEggs-ercise!!!&r."]
-	quest.1D2EF12FD7FDD217.quest_subtitle: "...or am I?"
-	quest.1D2EF12FD7FDD217.title: "I'm not gonna make an Trứng pun"
-	quest.1D48298525EEADC9.quest_desc: ["You should have everything you need already."]
+	quest.1D2EF12FD7FDD217.quest_desc: ["Gà sẽ đẻ những thứ này một cách tự nhiên. Tôi đoán nó không thực sự được coi là tự nhiên ...\n\nTôi đoán lũ gà đang... &oTrứng-ercise!!!&r."]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "...hay tôi?"
+	quest.1D2EF12FD7FDD217.title: "Tôi sẽ không chơi chữ Trứng"
+	quest.1D48298525EEADC9.quest_desc: ["Bạn nên có mọi thứ bạn cần rồi."]
 	quest.1D48298525EEADC9.quest_subtitle: "Pour some Đường on me!"
-	quest.1D48298525EEADC9.title: "You're so sweet"
-	quest.1DCAA0310AA55F1C.quest_desc: ["But he usually closes by 5, so who cares?"]
-	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Would be Proud"
-	quest.1DCAA0310AA55F1C.title: "The Start of a Fisher"
-	quest.1F114EB0AAB86DB4.quest_desc: ["Markets provide you with a villager than can sell you anything if you have the right amount of emeralds.\\n\\nSpoiler: It's usually just 1 Emerald per item, luckily, they have EVERYTHING."]
-	quest.1F114EB0AAB86DB4.quest_subtitle: "The Villager has more than one way to Spawn"
-	quest.1F114EB0AAB86DB4.title: "Purchasing Farm Supplies"
-	quest.2786D5AC19163524.quest_desc: ["This block enables smelting recipes in your kitchen multi-block!"]
+	quest.1D48298525EEADC9.title: "Bạn thật ngọt ngào"
+	quest.1DCAA0310AA55F1C.quest_desc: ["Nhưng anh ấy thường đóng cửa lúc 5 giờ, vậy ai quan tâm chứ?"]
+	quest.1DCAA0310AA55F1C.quest_subtitle: "Willy Would hãy tự hào"
+	quest.1DCAA0310AA55F1C.title: "Sự khởi đầu của một ngư dân"
+	quest.1F114EB0AAB86DB4.quest_desc: ["Chợ cung cấp cho bạn một dân làng có thể bán cho bạn bất cứ thứ gì nếu bạn có đủ số lượng ngọc lục bảo.\n\nTiết lộ: Thường chỉ có 1 Ngọc lục bảo cho mỗi vật phẩm, may mắn thay, họ có TẤT CẢ."]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "Dân làng có nhiều cách để sinh sản"
+	quest.1F114EB0AAB86DB4.title: "Mua vật tư trang trại"
+	quest.2786D5AC19163524.quest_desc: ["Khối này cho phép nấu các công thức nấu chảy trong nhiều khối nhà bếp của bạn!"]
 	quest.2786D5AC19163524.quest_subtitle: "No Timer Needed"
-	quest.2786D5AC19163524.title: "Honey, there's a Lò nung in the Nhà bếp"
-	quest.28C9EDBF6607E180.quest_desc: ["This block is part of a multi-block kitchen.\\n\\nThis will show you every recipe that is available to you with the food you have in your inventory, or stored in the kitchen multi-block.\\n\\nYou can finally create a nice kitchen in Minecraft."]
-	quest.28C9EDBF6607E180.quest_subtitle: "Betty White was born before Sliced Bread"
+	quest.2786D5AC19163524.title: "Em ơi, có lò nung trong Nhà bếp"
+	quest.28C9EDBF6607E180.quest_desc: ["Khối này là một phần của nhà bếp nhiều khối.\n\nĐiều này sẽ hiển thị cho bạn mọi công thức có sẵn cho bạn với thực phẩm bạn có trong kho hoặc được lưu trữ trong nhiều khối nhà bếp.\n\nCuối cùng bạn cũng có thể tạo ra một căn bếp đẹp trong Minecraft."]
+	quest.28C9EDBF6607E180.quest_subtitle: "Betty White ra đời trước Sliced Bread"
 	quest.28C9EDBF6607E180.title: "THE BEST THING SINCE SLICED BREAD"
-	quest.2E9C035EEE7E5C34.quest_desc: ["The classic Lead. Use this to get animals into your farm area.\\n\\nThis isn't the same thing as the ore."]
-	quest.2E9C035EEE7E5C34.quest_subtitle: "Get along little Doggy"
-	quest.2E9C035EEE7E5C34.title: "We're doing this the Old Fashioned way"
-	quest.361DFDB1E1352D6B.quest_desc: ["Find some Sugar Cane near some water."]
+	quest.2E9C035EEE7E5C34.quest_desc: ["Chì cổ điển. Sử dụng điều này để đưa động vật vào khu vực trang trại của bạn.\n\nĐiều này không giống với quặng."]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "Hãy cùng nhau nhé Doggy nhỏ"
+	quest.2E9C035EEE7E5C34.title: "Chúng tôi đang thực hiện việc này theo cách Old Fashioned"
+	quest.361DFDB1E1352D6B.quest_desc: ["Tìm một số Sugar Cane gần một ít nước."]
 	quest.361DFDB1E1352D6B.title: "Đường Đường"
-	quest.37CA6F9F0226F10E.quest_desc: ["This block stores items for cooking.\\n\\nYou can also place other kitchen multi-block items on it, like toasters and a Cow in a Jar."]
-	quest.37CA6F9F0226F10E.quest_subtitle: "We need more cooking space"
-	quest.37CA6F9F0226F10E.title: "Need more cooking space?"
-	quest.3EA883C0BB7BD38F.quest_desc: ["Let's gather some pieces of Wool!"]
-	quest.3EA883C0BB7BD38F.quest_subtitle: "Whose Fleece was....Rainbow?"
-	quest.3EA883C0BB7BD38F.title: "Mary had a Little Lamb"
-	quest.43021923E220CF68.quest_desc: ["To till Dirt into Farmland you'll need a Hoe."]
-	quest.43021923E220CF68.quest_subtitle: "Wait until you get Machines for this..."
-	quest.43021923E220CF68.title: "The Planter"
-	quest.45F83C2750F70F9B.quest_desc: ["Go ahead, put a Book in a Furnace and smelt it."]
-	quest.45F83C2750F70F9B.quest_subtitle: "Totally won't catch on fire..."
-	quest.45F83C2750F70F9B.title: "Making a Nhà bếp, with a Book"
-	quest.47764EFC822E462A.quest_desc: ["This block produces milk over time, and enables milk recipes for the kitchen multi-block.\\n\\nTo get a cow in the jar, place the jar in a hole. Lure the cow to fall in said hole above the jar, then drop an anvil on it.\\n\\nI have no clue what this glass is made of, but it's stronger than my relationship with Chicken."]
-	quest.47764EFC822E462A.quest_subtitle: "Phenomenal Milking Powers....Itty bitty living space"
-	quest.47764EFC822E462A.title: "A Cow in a Jar"
+	quest.37CA6F9F0226F10E.quest_desc: ["Khối này lưu trữ các vật phẩm để nấu ăn.\n\nBạn cũng có thể đặt các vật dụng nhà bếp nhiều khối khác lên đó, như lò nướng bánh và con bò trong lọ."]
+	quest.37CA6F9F0226F10E.quest_subtitle: "Chúng ta cần thêm không gian nấu ăn"
+	quest.37CA6F9F0226F10E.title: "Cần thêm không gian nấu nướng?"
+	quest.3EA883C0BB7BD38F.quest_desc: ["Hãy thu thập một số mảnh Len!"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "Whose Fleece là....Cầu vồng?"
+	quest.3EA883C0BB7BD38F.title: "Mary đã có Little Lamb"
+	quest.43021923E220CF68.quest_desc: ["Để xới đất thành đất nông nghiệp, bạn sẽ cần một cái cuốc."]
+	quest.43021923E220CF68.quest_subtitle: "Đợi cho đến khi bạn nhận được Máy cho việc này..."
+	quest.43021923E220CF68.title: "Người trồng cây"
+	quest.45F83C2750F70F9B.quest_desc: ["Hãy tiếp tục, đặt một cuốn sách vào lò nung và nấu chảy nó."]
+	quest.45F83C2750F70F9B.quest_subtitle: "Tuyệt đối sẽ không bắt lửa..."
+	quest.45F83C2750F70F9B.title: "Làm Nhà bếp bằng Sách"
+	quest.47764EFC822E462A.quest_desc: ["Khối này tạo ra sữa theo thời gian và cung cấp các công thức nấu sữa cho nhiều khối nhà bếp.\n\nĐể cho một con bò vào lọ, hãy đặt lọ vào một cái lỗ. Dụ bò rơi vào lỗ nói trên phía trên lọ, sau đó thả đe lên đó.\n\nTôi không biết chiếc ly này được làm bằng gì, nhưng nó bền chặt hơn mối quan hệ của tôi với Gà."]
+	quest.47764EFC822E462A.quest_subtitle: "Phenomenal Milking Powers....Không gian sống nhỏ bé"
+	quest.47764EFC822E462A.title: "Một con bò trong lọ"
 	quest.511562EA5811306B.title: "Kim cương Cần câu"
-	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.56550CD12C681B0F.quest_desc: ["&2Flax Seeds&r can be found growing in fields of grass. Flax is great if you need a lot of String in the early game."]
-	quest.56550CD12C681B0F.quest_subtitle: "Flax on, Flax off"
-	quest.58495CFBF4F20CE9.quest_desc: ["This works just like the kitchen counter, except in the air.\\n\\nAnd you can't put things on top of it."]
-	quest.58495CFBF4F20CE9.quest_subtitle: "So much room for activities!"
-	quest.58495CFBF4F20CE9.title: "Even More Storage"
-	quest.58D5BD3106BFD94A.quest_desc: ["Craft the next version of the book. I promise you, it's worth it.\\n\\nI'll even give you a Diamond back."]
-	quest.58D5BD3106BFD94A.quest_subtitle: "This is totally worth it"
-	quest.58D5BD3106BFD94A.title: "Cooking with the power of Diamonds"
+	quest.55C4824DAD905512.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.56550CD12C681B0F.quest_desc: ["&2Hạt lanh có thể được tìm thấy mọc trên các cánh đồng cỏ. Flax rất tuyệt nếu bạn cần nhiều String ở đầu game."]
+	quest.56550CD12C681B0F.quest_subtitle: "Bật lanh, tắt lanh"
+	quest.58495CFBF4F20CE9.quest_desc: ["Điều này hoạt động giống như quầy bếp, ngoại trừ trong không khí.\n\nVà bạn không thể đặt mọi thứ lên trên nó."]
+	quest.58495CFBF4F20CE9.quest_subtitle: "Rất nhiều chỗ cho các hoạt động!"
+	quest.58495CFBF4F20CE9.title: "Thậm chí nhiều bộ nhớ hơn"
+	quest.58D5BD3106BFD94A.quest_desc: ["Tạo phiên bản tiếp theo của cuốn sách. Tôi hứa với bạn, nó đáng giá.\n\nTôi thậm chí sẽ trả lại cho bạn một viên kim cương."]
+	quest.58D5BD3106BFD94A.quest_subtitle: "Điều này hoàn toàn xứng đáng"
+	quest.58D5BD3106BFD94A.title: "Nấu ăn với sức mạnh của Kim cương"
 	quest.5A1DCD6C7F712A78.title: "Neptunium Cần câu"
-	quest.635620A03E3505BF.quest_desc: ["I don't wanna know how you got these."]
-	quest.635620A03E3505BF.quest_subtitle: "But....Cows can't be sheared..."
+	quest.635620A03E3505BF.quest_desc: ["Tôi không muốn biết làm thế nào bạn có được những thứ này."]
+	quest.635620A03E3505BF.quest_subtitle: "Nhưng... con bò không thể bị xén lông..."
 	quest.635620A03E3505BF.title: "Da"
-	quest.659A903F97F93BE2.quest_subtitle: "Quick và Simple"
-	quest.659A903F97F93BE2.title: "The Bread of Life"
-	quest.72717D1135486D7F.quest_desc: ["Let's gather some seeds."]
+	quest.659A903F97F93BE2.quest_subtitle: "Nhanh chóng và đơn giản"
+	quest.659A903F97F93BE2.title: "Bánh Sự Sống"
+	quest.72717D1135486D7F.quest_desc: ["Hãy thu thập một số hạt giống."]
 	quest.72717D1135486D7F.quest_subtitle: "Block Hand 1, Block Grass 0"
-	quest.72717D1135486D7F.title: "Punch the Grass"
-	quest.73B8A70240E6070E.quest_desc: ["Find a Cow and Right Click it with a Bucket.\\n\\nSeriously, why no Bulls?"]
-	quest.73B8A70240E6070E.quest_subtitle: "Why aren't there Bulls in the game?"
+	quest.72717D1135486D7F.title: "Đấm cỏ"
+	quest.73B8A70240E6070E.quest_desc: ["Tìm một con bò và Right Click nó bằng một cái Xô.\n\nNghiêm túc mà nói, tại sao không có Bulls?"]
+	quest.73B8A70240E6070E.quest_subtitle: "Tại sao không có Bulls trong trò chơi?"
 	quest.73B8A70240E6070E.title: "Sữa a Cow - Profit"
-	quest.791AE62ACACBD5BA.quest_subtitle: "You'll open it, close it, then open it again, just because you're bored"
+	quest.791AE62ACACBD5BA.quest_subtitle: "Bạn mở nó ra, đóng lại rồi mở lại chỉ vì bạn chán"
 	task.1D8904E53906D972.title: "AllRightsReserved"
 	task.2725700B5EA1CD75.title: "Kéo"
 	task.323A434E1AF54408.title: "Hoes"
