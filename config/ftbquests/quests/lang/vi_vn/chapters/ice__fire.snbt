@@ -83,7 +83,7 @@
 
 		"{image:atm:textures/questpics/iceandfire/iaf_struct_lightningcave.png width:200 height:100 align:center}"
 	]
-	quest.1CB063BBEC35712B.title: "&5Sét Dragon Cave"
+	quest.1CB063BBEC35712B.title: "&5Bộ Dragon Cave"
 	quest.210542B036255FBF.quest_desc: [
 		"Hy vọng bạn có Rubber Gloves để xây dựng Multiblock 3x3x3 này! Bạn không? Ồ tốt! \n\nĐầu tiên, đặt dấu thập &5Lightning DragonForge Bricks với &7Dragon Bone Blocks bên cạnh chúng."
 
@@ -168,7 +168,7 @@
 
 		"{image:atm:textures/questpics/iceandfire/iaf_struct_lightningroost.png width:200 height:100 align:center}"
 	]
-	quest.42626A0CD814353D.title: "&5Sét Dragon Roost"
+	quest.42626A0CD814353D.title: "&5Bộ Dragon Roost"
 	quest.43008E93B34F4F06.quest_desc: ["Với &9Sea Serpent Scales &fand &9Fangs&r cộng với một cây gậy, chúng ta có thể tạo ra &9Tide Arrow&r. \n\nNhững mũi tên này hoạt động giống như Mũi tên bình thường nhưng sẽ không bị chậm lại bởi &9Water."]
 	quest.43008E93B34F4F06.title: "&9Mũi tên thủy triều"
 	quest.435890CE1A1B3C04.quest_desc: [
@@ -217,7 +217,7 @@
 	quest.47E4BA6643A4BA85.quest_desc: ["Việc thuần hóa &3Amphithere cũng tương tự như cách Humans Tamed Wolves thuần hóa Chó. Nó liên quan đến rất nhiều vết cắn... \n\nTrước tiên, bạn cần dùng Projectile bắn trúng một chiếc &3Flying Amphithere để hạ gục nó khỏi &bSky. \n\nSau đó, bạn có thể Right Click nó nhảy lên Mặt sau của nó. Giống như bạn làm với một con ngựa! Nhưng con Ngựa này sẽ quay đầu lại để Cắn bạn. \n\nĐể thuần hóa nó, bạn cần phải sống sót sau mỗi vết cắn và tiếp tục bám theo nó. Đến lúc nó sẽ từ bỏ và yêu bạn. \n\nMột khi họ yêu bạn, bạn có thể Cưỡi họ! Bộ điều khiển hơi rắc rối nhưng một khi bạn chơi với chúng một chút (và đọc Querst này), hy vọng bạn sẽ hiểu chúng rõ hơn! \n\nWhen Riding, bạn có thể Nhấn và Hold Space để làm cho &3Amphithere's Bay lên trên. Điều này sẽ làm cho nó bay thẳng lên từ vị trí hiện tại. Khi bạn buông tay ra, nó sẽ bắt đầu rơi trở lại mặt đất. \n\nWhen Flying bạn có thể sử dụng WASD để di chuyển theo từng hướng, nhưng bạn cũng có thể sử dụng Mouse Cursor để hướng nó Lướt lên hoặc xuống khi không sử dụng Space Bar. \n\nGiống như &eath Worms, khi Cưỡi bạn có thể sử dụng (G) để tấn công bằng &3Amphithere."]
 	quest.47E4BA6643A4BA85.title: "Thuần hóa&3Amphithere"
 	quest.48B1BD7D86CAC4A0.quest_desc: ["Không, không giống như trong &c&lThe Nether. Được rồi, nó giống như trong &c&lThe Nether’s. \n\nNó chứa đầy &7Soul Sand. \n\nChỉ cần lấy Hóa thạch ra và thêm nhiều Lỗ hơn là bạn sẽ có được cái này! \n\nHơn nữa nó còn có trong &b&lThe Other!"]
-	quest.48B1BD7D86CAC4A0.title: "&7Cái Other Soul Sand Valley"
+	quest.48B1BD7D86CAC4A0.title: "&7 Cái Other Soul Sand Valley"
 	quest.4A84C8578C2F7F71.quest_desc: ["Với một số &eDeath Worm Chitin &fand &eDeath Worm Tongues&r (cộng với Chain Line), chúng ta có thể tạo ra &eDeath Worm Gauntlets&r! \n\nVề cơ bản, chúng hoạt động như những phần nguy hiểm của &eath Worms. \n\nChúng tôi có thể Right Click gửi &eDeath Worm Tongue tới Mob. Nếu trúng chúng, nó sẽ gây một số sát thương và kéo chúng về phía bạn. \n\nThật không may, nó có Thời gian hồi chiêu... &eTongue cần quay trở lại."]
 	quest.4A84C8578C2F7F71.title: "&eCái chết Worm Gauntlet"
 	quest.4AFDC9ACAC926654.quest_desc: ["Sometimes Chicken Eggs có thể đặc biệt. Giống như có 2 Lòng Đỏ hoặc Ấp 4 Con Gà! Hoặc ấp trứng khủng long! \n\nĐợi đã... cái gì cơ? \n\nSometimes Chickens sẽ đẻ &0Trứng Thối. &0Trứng Thối có thể được ném để ấp &0Con gà trống con! \n\nNhững chú gà trống &0Baby này sẽ tự động được thuần hóa và cần phải lớn lên."]
@@ -235,7 +235,7 @@
 
 		"{image:atm:textures/questpics/iceandfire/iaf_worm.png width:100 height:100 align:center}"
 	]
-	quest.4ED6B18DF7D51E13.title: "&eDeath Worm"
+	quest.4ED6B18DF7D51E13.title: "&eSâu tử thần"
 	quest.59D91C5E11F67FC3.quest_desc: ["Đối thủ của &bAncient Warped Forest&r. \n\n&cForest này có mặt đất của &cCrimson Nylium cũng như &cNetherrack ở bên dưới. \n\nTuy nhiên, thay vì &bCây linh hồn, &cForest này có &cCây quỷ. Ôi thật đáng sợ!"]
 	quest.59D91C5E11F67FC3.title: "&cCổ đại Crimson Forest"
 	quest.5D6A4E574823446F.quest_desc: [
