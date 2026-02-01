@@ -1,6 +1,6 @@
 {
 	quest.007A11C49E06F15F.quest_desc: ["Những thứ này có thể được chế tạo. \n\n&9Crafting Component Blueprint là một trong những &9Blueprints quan trọng nhất. \n\nNó được sử dụng để giúp Bàn làm việc của &6Engineer tạo ra Mechanical Components nhỏ với giá rẻ hơn so với Bàn chế tạo. \n\nNó cũng có thể được sử dụng để Chế tạo các Vật phẩm độc đáo như Light Bulbs và Mạch điện!"]
-	quest.007A11C49E06F15F.title: "&9Chế tạo Components Blueprints"
+	quest.007A11C49E06F15F.title: "&9Chế độ tạo Components Blueprints"
 	quest.04DD3F761C210822.quest_desc: [
 		"&c&lCrude Blast Furnace&r là cách sản xuất &8Steel rất đơn giản (và thô sơ) của chúng tôi. \n\nBạn sẽ cần cho nó ăn &7Iron Ingot và &0Charcoal's hoặc &0Coke's. \n\nMỗi &8Steel Ingot mất 60 giây để nướng. &0Charcoal cho chúng ta 15 giây trong khi &0Coke cho chúng ta toàn bộ 60 giây. Chúng cũng có thể được nhân với các dạng Khối của chúng. \n\nChúng tôi cũng nhận được Xỉ... nó khá vô dụng."
 
@@ -10,7 +10,8 @@
 		"{image:atm:textures/questpics/immersive/immersive_crude1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude3.png width:100 height:100 align:center}"
-		"Một lần khác, nơi chúng tôi Right Click the Front Middle Block cùng với &6Hammer đáng tin cậy của chúng tôi!"
+		"Một lần khác, nơi chúng tôi Right Click Front Middle Block cùng với &6Hammer đáng tin cậy của chúng tôi!"
+
 
 		"{image:atm:textures/questpics/immersive/immersive_crude.png width:100 height:100 align:center}"
 	]
@@ -98,7 +99,7 @@
 		"{image:atm:textures/questpics/immersive/immersive_assembler.png width:100 height:100 align:center}"
 	]
 	quest.1C76E244AE3582E6.title: "&5&lAssembler"
-	quest.1D4E7F548431263A.quest_desc: ["Dễ dàng thực hiện đơn giản nhất trong số các Khối này. \n\nSắt và &4Redstone bạn sẽ nhận được từ lối chơi của &2&lVanilla, Vật phẩm \"khó\" duy nhất là &7Iron Sheetmetal."]
+	quest.1D4E7F548431263A.quest_desc: ["Dễ dàng thực hiện đơn giản nhất trong số các Khối này. \n\nSắt và &4Redstone bạn sẽ nhận được từ lối chơi của &2&lVanilla, Vật phẩm \"khó\"duy nhất là &7Iron Sheetmetal."]
 	quest.1D4E7F548431263A.title: "&4Khối kỹ thuật Redstone"
 	quest.1F7DA060792D716A.quest_desc: [
 		"&d&lMixer cũng giống như cái mà Mẹ/Bà của bạn sử dụng để trộn trứng với bột mì và đường để nướng bất kỳ món ngon nào mà họ đang làm! \n\n&d&lMixer sẽ trộn &eItems&r và &bFluids&r. Để đưa &bFluids vào, chúng ta cần sử dụng Cổng trên Left Side của &d&lMixer. Để cung cấp &eItems, chúng ta cần sử dụng Cổng ở phía sau. \n\nĐể hoạt động, nó cần được cấp &cEnergy từ Cổng ở phía trên cùng của Mặt trước của &d&lMixer. \n\nSau khi trộn xong, kết quả của chúng tôi sẽ xuất hiện ở Cổng ở phía trước máy!"
@@ -114,6 +115,7 @@
 
 		"{image:atm:textures/questpics/immersive/immersive_mixer3.png width:100 height:100 align:center}"
 		"Để tạo &d&lMixer Right Click, &7Iron Sheetmetal&giữa &eLight Engineering Block của chúng tôi và &4Redstone Engineering Block bằng &6Engineer's Hammer!"
+
 
 		"{image:atm:textures/questpics/immersive/immersive_mixer.png width:100 height:100 align:center}"
 	]
@@ -322,6 +324,7 @@
 		"{@pagebreak}"
 		"Lò nung &6&lAlloy là 2x2x2 của &6Kiln Bricks."
 
+
 		"{image:atm:textures/questpics/immersive/immersive_alloy1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_alloy2.png width:100 height:100 align:center}"
 		"Sau đó Nhấp chuột phải vào Top Right Block cùng với &6Búa kỹ sư để tạo ra nó!"
@@ -475,6 +478,7 @@
 
 		"{image:atm:textures/questpics/immersive/immersive_fermenter3.png width:100 height:100 align:center}"
 		"Right Click Cái vạc giữa &eLight Engineering Block và &4Redstone Engineering Block với &6Hammer."
+
 
 		"{image:atm:textures/questpics/immersive/immersive_fermenter.png width:100 height:100 align:center}"
 	]
