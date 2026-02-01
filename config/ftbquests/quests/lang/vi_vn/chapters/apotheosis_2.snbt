@@ -1,40 +1,40 @@
 {
-	quest.0D6D45DBA64E612D.quest_desc: ["The Maximum Spawn Delay is how long it could take to spawn mobs. Just like the Minimum it can be as low as 20 to as high as 32,767. Each Clock modifies the speed of the spawner by 10. The speed is expressed in ticks where 20 ticks equals 1 second. So quickest spawn delay would be 1 second between each."]
+	quest.0D6D45DBA64E612D.quest_desc: ["Độ trễ sinh sản tối đa là khoảng thời gian có thể sinh ra mob. Giống như Mức tối thiểu, nó có thể thấp từ 20 đến cao tới 32.767. Each Clock sửa đổi tốc độ của người sinh sản thêm 10. Tốc độ được biểu thị bằng tích tắc trong đó 20 tích tắc tương đương 1 giây. Vì vậy, độ trễ sinh sản nhanh nhất sẽ là 1 giây giữa mỗi lần."]
 	quest.0D6D45DBA64E612D.title: "Maximum Spawn Delay"
-	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Activation gives your spawner an on/off switch. Without Redstone Power it will not spawn."]
-	quest.0E02CE4469FCA4C9.title: "Redstone Active"
-	quest.0F89BFD4A3F63A48.quest_desc: ["Some mobs (mostly monsters) need certain Light Levels to spawn. Hostile ones needing lower levels and passive needing higher ones. Using a Soul Lantern makes it so you never have to worry about Light Levels as it ignores them! This does not ignore other requirements for spawning like livestock animals needing Grass."]
+	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Activation cung cấp cho người sinh sản của bạn một công tắc bật/tắt. Nếu không có Redstone Power, nó sẽ không sinh sản."]
+	quest.0E02CE4469FCA4C9.title: "Đá đỏ đang hoạt động"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Một số mob (chủ yếu là quái vật) cần một số Light Levels nhất định để sinh sản. Những người thù địch cần cấp độ thấp hơn và thụ động cần cấp độ cao hơn. Việc sử dụng Soul Lantern giúp bạn không bao giờ phải lo lắng về Light Levels vì nó bỏ qua chúng! Điều này không bỏ qua các yêu cầu khác để sinh sản như vật nuôi cần Cỏ."]
 	quest.0F89BFD4A3F63A48.title: "Ignore Light"
-	quest.167E1474644C9908.quest_desc: ["The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities."]
+	quest.167E1474644C9908.quest_desc: ["Thạch anh làm bất cứ điều gì mà vật phẩm khác làm thì điều ngược lại đối với Người sinh sản. Với Quartz trong tay của bạn và vật phẩm Spawner Modification khác trong vật phẩm chính của bạn, nó sẽ làm ngược lại vai trò của nó. Với Quartz và Blaze Rods thay vì tăng Spawn Range nó sẽ giảm đi. Với Quartz và Ghast Tears, nó sẽ giảm Số lượng Thực thể Tối đa."]
 	quest.167E1474644C9908.title: "Opposite Day"
-	quest.186593EBCE3FE8D8.quest_desc: ["The Spawn Range is the area of where mobs can spawn. The bigger the area, the more room for them to spawn in. The smaller the area the cheaper the factory."]
+	quest.186593EBCE3FE8D8.quest_desc: ["Phạm vi sinh sản là khu vực mà mob có thể sinh sản. Diện tích càng lớn thì càng có nhiều chỗ cho chúng sinh sản. Diện tích càng nhỏ thì nhà máy càng rẻ."]
 	quest.186593EBCE3FE8D8.title: "Spawn Range"
-	quest.18E0F5A78F696FA3.quest_desc: ["Echo shards give a special effect to the spawner. Any mobs spawned will have the loot that they drop multiplied."]
+	quest.18E0F5A78F696FA3.quest_desc: ["Các mảnh tiếng vang mang lại hiệu ứng đặc biệt cho người sinh sản. Bất kỳ mob nào được sinh ra sẽ có chiến lợi phẩm mà chúng đánh rơi được nhân lên."]
 	quest.18E0F5A78F696FA3.title: "Echoing"
-	quest.1AD87CB3226ED224.quest_desc: ["Wool only does one thing to the spawner and that's to shut it up. Don't like hearing the stupid Spawner noises? Then use Wool! Any color, thread count, or design!"]
-	quest.1AD87CB3226ED224.title: "Quiet down you'll wake up the mobs!"
-	quest.2FE4B7B70D90A455.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.30EB438C66324213.quest_desc: ["A Nether Star will do what the Prismarine Shards do but much better. Players no longer need to be near the spawner. As long as its chunk-loaded it will spawn."]
+	quest.1AD87CB3226ED224.quest_desc: ["Wool chỉ làm một việc với người sinh sản và đó là làm nó im lặng. Bạn không thích nghe những tiếng ồn Spawner ngu ngốc? Sau đó sử dụng Len! Bất kỳ màu sắc, số lượng sợi hoặc thiết kế!"]
+	quest.1AD87CB3226ED224.title: "Im lặng đi, bạn sẽ đánh thức đám đông!"
+	quest.2FE4B7B70D90A455.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.30EB438C66324213.quest_desc: ["Nether Star sẽ làm những gì Prismarine Shards làm nhưng tốt hơn nhiều. Người chơi không cần phải ở gần người sinh sản nữa. Miễn là nó được nạp chunk, nó sẽ sinh sản."]
 	quest.30EB438C66324213.title: "Ignore Players"
-	quest.310969B8FE0A94DE.quest_desc: ["Another game change Apotheosis brings is to Spawners. Remember being able to mine Spawners with Silk Touch? Well it's back thanks to Apotheosis! There's also many new Modifications you can add to Spawners by right clicking any of these items."]
+	quest.310969B8FE0A94DE.quest_desc: ["Một thay đổi khác trong trò chơi mà Apotheosis mang đến là Spawners. Bạn có nhớ có thể khai thác Spawners bằng Silk Touch không? Vâng, nó đã trở lại nhờ Apotheosis! Ngoài ra còn có nhiều Sửa đổi mới mà bạn có thể thêm vào Người sinh sản bằng cách nhấp chuột phải vào bất kỳ mục nào trong số này."]
 	quest.310969B8FE0A94DE.title: "Apothic Spawners"
-	quest.3E2A411FF5B4B0E7.quest_desc: ["Activation Range is how close the Player (You) must be to the Spawner for it to work. The lowest it can be is 1 block away and the highest is a 48 block radius."]
+	quest.3E2A411FF5B4B0E7.quest_desc: ["Activation Range là mức độ Người chơi (Bạn) phải ở gần Người sinh sản để nó hoạt động. Mức thấp nhất có thể cách đó 1 dãy nhà và cao nhất là bán kính 48 khối."]
 	quest.3E2A411FF5B4B0E7.title: "Activation Range"
-	quest.40096ED0B04C3EC5.quest_desc: ["The must-need for all Spawners. When it says ignores all conditions, it means most. Ignores light levels, blocks needing for spawning, and biomes. Space conditions are still needed though, like slimes needing 3x3 area to spawn, and same goes with players needing to be nearby."]
+	quest.40096ED0B04C3EC5.quest_desc: ["Điều cần thiết cho tất cả những người sinh sản. Khi nó nói bỏ qua tất cả các điều kiện, nó có nghĩa là hầu hết. Bỏ qua mức độ ánh sáng, khối cần sinh sản và quần xã. Tuy nhiên, điều kiện không gian vẫn cần thiết, chẳng hạn như chất nhờn cần diện tích 3x3 để sinh sản và điều tương tự cũng xảy ra với những người chơi cần ở gần."]
 	quest.40096ED0B04C3EC5.title: "Ignore All Conditions"
-	quest.42D7C8CD8E6F5CD7.quest_desc: ["By using a Chorus Fruit on a Spawner you suck the souls out the mobs that will be spawned, only leaving a hollow husk of what they used to be. The mobs will lose all AI so they will do basically what an armor stand does. They can't hit you, can't teleport, can't move on their own. They sit there ready to be killed, how exciting!"]
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Bằng cách sử dụng Chorus Fruit trên Spawner, bạn hút linh hồn của đám đông sẽ được sinh ra, chỉ để lại một lớp vỏ rỗng của những gì chúng từng là. Đám đông sẽ mất tất cả AI vì vậy về cơ bản chúng sẽ làm những gì mà giá treo áo giáp làm. Chúng không thể đánh bạn, không thể dịch chuyển tức thời, không thể tự di chuyển. Họ ngồi đó sẵn sàng bị giết, thú vị làm sao!"]
 	quest.42D7C8CD8E6F5CD7.title: "No AI"
-	quest.4D07B0A4A2E77CDA.quest_desc: ["Max entities is the amount of mobs that can be spawned by a spawner and kept. If it's only 6 max entities when 6 mobs are already spawned no more will spawned until they're dead or moved. Each Ghast Tear brings it up or down 2 Entities. Max of 16 Entities and Minimum of 1."]
-	quest.4D07B0A4A2E77CDA.title: "Max Entities"
-	quest.4F7F8F4ED1CA0550.quest_desc: ["A Campfire used on the spawner will have the mobs spawn on fire. Perfect for a nice Steak."]
+	quest.4D07B0A4A2E77CDA.quest_desc: ["Thực thể tối đa là số lượng mob có thể được sinh ra bởi người sinh sản và được giữ lại. Nếu chỉ có tối đa 6 thực thể khi đã sinh ra 6 mob thì sẽ không sinh ra nữa cho đến khi chúng chết hoặc bị di chuyển. Each Ghast Tear đưa lên hoặc xuống 2 Thực thể. Tối đa 16 Thực thể và Tối thiểu 1."]
+	quest.4D07B0A4A2E77CDA.title: "Thực thể tối đa"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["Lửa trại được sử dụng trên người sinh sản sẽ khiến mob sinh ra lửa. Hoàn hảo cho một món bít tết ngon."]
 	quest.4F7F8F4ED1CA0550.title: "Burning"
-	quest.6A497B063CF32A5C.quest_desc: ["A Fermented Spider's Eye can be used to increase the amount of mobs that CAN spawn from a spawner. The Mobs spawned is random with a Maximum amount determined by the number. It goes up or down by 1 for each eye to a maximum of 16."]
+	quest.6A497B063CF32A5C.quest_desc: ["Fermented Spider's Eye có ​​thể được sử dụng để tăng số lượng mob mà CAN sinh ra từ người sinh sản. Mob sinh ra là ngẫu nhiên với số lượng tối đa được xác định theo số lượng. Nó tăng hoặc giảm 1 cho mỗi mắt đến tối đa là 16."]
 	quest.6A497B063CF32A5C.title: "Spawn Count"
-	quest.6F71FD826C29C31A.quest_desc: ["This one might be new to ones returning from earlier versions. By using a turtle egg on a spawner, it will only spawn in baby versions of the mobs in it. This only works with Vanilla baby versions of mobs, not modded."]
+	quest.6F71FD826C29C31A.quest_desc: ["Cái này có thể mới đối với những cái quay lại từ các phiên bản trước. Bằng cách sử dụng trứng rùa trên máy sinh sản, nó sẽ chỉ sinh sản ở các phiên bản con của mob trong đó. Điều này chỉ hoạt động với các phiên bản mob trẻ em của Vanilla, không được sửa đổi."]
 	quest.6F71FD826C29C31A.title: "Youthful"
-	quest.7A9AE63998BB41FF.quest_desc: ["To determine when the Spawner will spawn it picks a random number between maximum and minimum spawn delay. The Minimum can be as low as 20 to as high as 32,767. Each piece of sugar modifies the min delay up or down by 10."]
+	quest.7A9AE63998BB41FF.quest_desc: ["Để xác định thời điểm Spawer sẽ sinh sản, nó chọn một số ngẫu nhiên giữa độ trễ sinh sản tối đa và tối thiểu. Mức tối thiểu có thể thấp từ 20 đến cao tới 32.767. Mỗi miếng đường điều chỉnh độ trễ tối thiểu lên hoặc xuống 10."]
 	quest.7A9AE63998BB41FF.title: "Minimum Spawn Delay"
-	quest.7F6B66566C211735.quest_desc: ["Dripstone used on the spawner will reduce the max health of the mob spawned. This can decrease their health to as low as 20%"]
+	quest.7F6B66566C211735.quest_desc: ["Đá nhỏ giọt được sử dụng trên người sinh sản sẽ làm giảm lượng máu tối đa của mob được sinh ra. Điều này có thể làm giảm sức khỏe của họ xuống thấp tới 20%"]
 	quest.7F6B66566C211735.title: "Health"
 	task.39702880D9133E3E.title: "Len"
 	task.3B219688DA1CF9C8.title: "AllRightsReserved"
