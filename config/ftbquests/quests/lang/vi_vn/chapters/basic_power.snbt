@@ -1,122 +1,133 @@
 {
-	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power has &9Powercells&r to store power, which are multi-block storage units that can be customized and upgraded to store power.\\n\\nYou will need a Wrench to determine inputs and outputs for power."]
-	quest.05B6DB75AEC01187.title: "&9RFTools Power:&cPowercells"
-	quest.0AEC181F5E21A299.quest_desc: ["If you've ever heard of someone talking about \\"Melon Power\\", this is it. Mekanism's &dGas-Burning Generator&r can produce a good amount of power by pumping in &9Ethylene&r made from Melon Slices.\\n\\nTo produce &dEthylene&r, start by crushing organic materials in a &eCrusher&r to create &6Bio Fuel&r. Melon Slices are typically used for this! This is then pumped into a &dPressurized Reaction Chamber&r (PRC for short).\\n\\nThe PRC needs Water, Bio Fuel, and some Hydrogen to create Ethylene. You can get the Hydrogen from separating water in an &9Electrolytic Separator&r.\\n\\nOnce you've started producing the Ethylene, pump it into the Gas-Burning Generator to start generating power!"]
+	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power có &9Powercells&r để lưu trữ năng lượng, là các bộ lưu trữ nhiều khối có thể được tùy chỉnh và nâng cấp để lưu trữ năng lượng.\n\nBạn sẽ cần một Cờ lê để xác định đầu vào và đầu ra cho nguồn điện."]
+	quest.05B6DB75AEC01187.title: "&9RFTools Power:&cPowercell"
+	quest.0AEC181F5E21A299.quest_desc: ["Nếu bạn đã từng nghe ai đó nói về \"Melon Power\" thì chính là nó. &dMáy phát điện đốt khí&r của Mekanism có thể tạo ra một lượng điện năng lớn bằng cách bơm vào &9Ethylene&r được làm từ Melon Slices.\n\nĐể sản xuất &dEthylene&r, hãy bắt đầu bằng cách nghiền các vật liệu hữu cơ trong &eCrusher&r để tạo ra &6Bio Fuel&r. Melon Slices thường được sử dụng cho việc này! Sau đó, chất này được bơm vào &dPressurized Reaction Chamber&r (gọi tắt là PRC).\n\nPRC cần Nước, Bio Fuel và một ít Hydro để tạo ra Ethylene. Bạn có thể lấy Hydro từ việc tách nước trong &9Electrolytic Separator&r.\n\nKhi bạn đã bắt đầu sản xuất Ethylene, hãy bơm nó vào Máy phát điện đốt khí để bắt đầu tạo ra điện!"]
 	quest.0AEC181F5E21A299.quest_subtitle: "MELON POWER!"
-	quest.0AEC181F5E21A299.title: "&9Mekanism:&dGas-Burning Generator"
-	quest.0BB367839D28607D.quest_desc: ["These &8Coal Generators&r are some of the easiest generators to make.\\n\\nThey are very simple to use and create a decent amount of power based on the combustible material you put in. They also automatically distributes power to adjacent blocks."]
+	quest.0AEC181F5E21A299.title: "&9Cơ chế cơ khí:&dMáy phát điện đốt khí"
+	quest.0BB367839D28607D.quest_desc: ["Những &8Coal Generators&r này là một số máy phát điện dễ chế tạo nhất.\n\nChúng rất đơn giản để sử dụng và tạo ra một lượng năng lượng kha khá dựa trên vật liệu dễ cháy mà bạn đưa vào. Chúng cũng tự động phân phối năng lượng cho các khối liền kề."]
 	quest.0BB367839D28607D.quest_subtitle: "Fossil Fuels"
 	quest.0BB367839D28607D.title: "&8Coal Generators"
-	quest.0BB42C5861B22D32.quest_desc: ["The &bMycelial Reactor&r consists of all the Mycelial Generators working at the same time, near the reactor block, and it produces a total of &a25MFE/t&r.\\n\\nAll sounds good, but you need to automate some stuff to get it working, see what each Mycelial Generator consumes to work, and automate it, most things are simple, but others, not that much... &olooking at Disenchanting Mycelial Generator&r.\\n\\nBut after you get it all automated, you don't need to stop at one, you can make more reactors."]
-	quest.0BB42C5861B22D32.quest_subtitle: "It's not Yourcelial Reactor"
+	quest.0BB42C5861B22D32.quest_desc: ["&bMycelial Reactor&r bao gồm tất cả Mycelial Generators hoạt động cùng lúc, gần khối lò phản ứng và nó tạo ra tổng cộng &a25MFE/t&r.\n\nTất cả nghe có vẻ ổn, nhưng bạn cần tự động hóa một số nội dung để nó hoạt động, xem mỗi Mycelial Generator tiêu thụ những gì để hoạt động và tự động hóa nó, hầu hết mọi thứ đều đơn giản, nhưng những thứ khác thì không nhiều... &oxem Dischanting Mycelial Generator&r.\n\nNhưng sau khi tự động hóa tất cả, bạn không cần dừng lại ở một cái mà có thể tạo ra nhiều lò phản ứng hơn."]
+	quest.0BB42C5861B22D32.quest_subtitle: "Không phải Yourcelial Reactor"
 	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing:&bMycelial Reactor"
-	quest.11D09E918015355C.quest_desc: ["Mekanism's &cHeat Generator&r is a different take on basic power production. It has two modes of creating power:\\n\\n&9Passive:&r Surrounding the generator with Lava source or flowing blocks creates passive power over time through heat. Place one Lava source block on top and let it flow over the sides. Make sure to have Pipes connected for energy first!\\n\\n&9Active:&r Placing combustible materials such as Coal or Wood into the generator will burn the fuel to create power. This is not very efficient."]
+	quest.11D09E918015355C.quest_desc: ["&cHeat Generator&r của Mekanism là một cách tiếp cận khác về sản xuất năng lượng cơ bản. Nó có hai chế độ tạo ra sức mạnh:\n\n&9Thụ động:&r Bao quanh máy phát điện bằng nguồn Dung nham hoặc các khối chảy sẽ tạo ra năng lượng thụ động theo thời gian thông qua nhiệt. Đặt một khối nguồn dung nham lên trên và để nó chảy qua các cạnh. Trước tiên hãy đảm bảo rằng các Đường ống được kết nối để lấy năng lượng!\n\n&9Hoạt động:&r Đặt các vật liệu dễ cháy như Than hoặc Gỗ vào máy phát điện sẽ đốt cháy nhiên liệu để tạo ra năng lượng. Điều này không hiệu quả lắm."]
 	quest.11D09E918015355C.title: "&cHeat Generator"
-	quest.1409C17773B6A131.quest_desc: ["All Upgrades increase the amount the &e&lPipez&r move but each grant more options to use with the &e&lPipe&r. \\n\\nBasic Upgrade allows Redstone Activation with &e&lPipez&r.\\n\\nImproved Upgrade allows you to change distribution either:Closest First, Farthest First, Round-Robin, or Random.\\n\\nAdvanced Upgrade gives you option to add Filters.\\n\\nUltimate doesn't grant anything new it just moves a lot!"]
-	quest.1409C17773B6A131.title: "&9Pipez:&aUpgrades"
-	quest.1BE26A00A420DAE3.quest_desc: ["In this mod, you'll need &aFlux Cores&r and &aFlux Blocks&r to craft the core parts of your network. Make a few of each!"]
-	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores you need these"
-	quest.1BE26A00A420DAE3.title: "The \\"Core\\" Crafting Materials"
-	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Dust can also be automated using &6XyCraft&r!\\n\\nPlace a charged redstone crystal block on bedrock, surround the crystal block with 4 obsidian on all sides and place the extractor on top.\\nThen just place a storage on top of the extractor and you're done!"]
+	quest.1409C17773B6A131.quest_desc: ["All Upgrades tăng số lượng di chuyển &e&lPipez&r nhưng mỗi lần di chuyển đều cấp nhiều tùy chọn hơn để sử dụng với &e&lPipe&r. \n\nBasic Upgrade cho phép Redstone Activation với &e&lPipez&r.\n\nImproved Upgrade cho phép bạn thay đổi cách phân phối:Closest First, Farthest First, Vòng tròn hoặc Ngẫu nhiên.\n\nAdvanced Upgrade cung cấp cho bạn tùy chọn để thêm Bộ lọc.\n\nUltimate không cấp bất cứ điều gì mới, nó chỉ di chuyển rất nhiều!"]
+	quest.1409C17773B6A131.title: "&9Ống:&aNâng cấp"
+	quest.1BE26A00A420DAE3.quest_desc: ["Trong bản mod này, bạn sẽ cần &aFlux Cores&r và &aFlux Blocks&r để tạo các phần cốt lõi trong mạng của bạn. Làm một vài cái mỗi cái!"]
+	quest.1BE26A00A420DAE3.quest_subtitle: "Of Cores bạn cần những thứ này"
+	quest.1BE26A00A420DAE3.title: "Vật liệu chế tạo \"Cốt lõi\""
+	quest.1EECA19DF9CF6A0C.quest_desc: ["Flux Dust cũng có thể được tự động hóa bằng &6XyCraft&r!\n\nĐặt một khối tinh thể đá đỏ đã tích điện trên nền đá, bao quanh khối tinh thể bằng 4 viên hắc thạch ở tất cả các mặt và đặt máy chiết lên trên.\nSau đó, chỉ cần đặt một bộ lưu trữ lên trên máy chiết là xong!"]
 	quest.1EECA19DF9CF6A0C.title: "Automated Flux Dust"
-	quest.1F81EA5E45424308.quest_desc: ["If you're looking for different ways to get power out of your machines, this is where you can find it!\\n\\nThere are several options, both &awired&r and &9wireless&r, for transferring power."]
-	quest.1F81EA5E45424308.title: "&f&lTransferring Power"
+	quest.1F81EA5E45424308.quest_desc: ["Nếu bạn đang tìm kiếm những cách khác nhau để lấy nguồn điện cho máy của mình thì đây là nơi bạn có thể tìm thấy!\n\nCó một số tùy chọn, cả &awired&r và &9wireless&r, để truyền nguồn."]
+	quest.1F81EA5E45424308.title: "&f&lChuyển giao quyền lực"
 	quest.27A4FA38992448A0.quest_desc: [
 		"Flux Networks also provides a way to charge your items wirelessly, even across dimensions!\\n\\nOnce you have a Plug attached to your power system, you'll want to make the &9Flux Controller&r and place it down.\\n\\nRight-click on it to bring up the interface, and go to the \"Wireless Charging\" tab. From there, you can select each section of your inventory you'd like to keep charged. To activate, make sure to hit the toggle button at the bottom to enable Wireless Charging, then click apply!\\n"
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
 	quest.27A4FA38992448A0.title: "Wireless Charging"
 	quest.2D4749DF9642F334.quest_desc: [
-		"The &eDyson Cube&r is the ultimate power source, producing an insane &l&a1GFE/t&r&r!"
+		"&eDyson Cube&r là nguồn năng lượng tối thượng, tạo ra một &l&a1GFE/t&r&r điên cuồng!"
+
 		""
-		"Set up an &eEM Rail Ejector Controller&r to launch &bSolar Sails&r and &bBeams&r into orbit around the Sun. You can input items &bautomatically&r through the center of the bottom face (you’ll definitely need automation to reach maximum power output). Unfortunately, it &ocannot fire&r at midday, at night, or during rain."
+		"Thiết lập &eEM Rail Ejector Controller&r để phóng &bSolar Sails&r và &bBeams&r vào quỹ đạo xung quanh Mặt trời. Bạn có thể nhập các mục &btự động&r thông qua tâm của mặt dưới (bạn chắc chắn sẽ cần tự động hóa để đạt công suất đầu ra tối đa). Thật không may, nó &okhông thể bắn&r vào giữa trưa, ban đêm hoặc khi trời mưa."
+
 		""
-		"To collect that glorious energy, build a &bRay Receiver Controller&r. It outputs power from the center of its bottom face but &ocannot receive power&r during &enight&r or &erain&r."
+		"Để thu thập năng lượng vinh quang đó, hãy xây dựng &bRay Receiver Controller&r. Nó phát ra năng lượng từ giữa mặt dưới của nó nhưng &okhông thể nhận nguồn&r trong &eđêm&r hoặc &emưa&r."
+
 		""
-		"You can &epackage&r beams and sails into bundles for faster launches, which is much easier than sending them one by one."
+		"Bạn có thể &epackage&r chia thành từng nhóm để phóng nhanh hơn, dễ dàng hơn nhiều so với việc gửi từng cái một."
+
 		""
-		"For maximum output, you’ll need to send &c8,333,333&r beams and &c49,999,998&r sails into orbit, which is quite a lot."
+		"Để có công suất tối đa, bạn sẽ cần gửi chùm &c8,333,333&r và &c49,999,998&r đi vào quỹ đạo, con số này khá nhiều."
+
 		""
-		"Before you start scaling up to that level, make sure you’ve got some &arobust resource generation&r in place."
+		"Trước khi bạn bắt đầu nâng cấp lên cấp độ đó, hãy đảm bảo rằng bạn đã có sẵn một số &atạo tài nguyên mạnh mẽ&r."
+
 	]
-	quest.2D4749DF9642F334.quest_subtitle: "The power of the Sun, in the palm of your hand"
+	quest.2D4749DF9642F334.quest_subtitle: "Sức mạnh của Mặt trời, trong lòng bàn tay bạn"
 	quest.2D4749DF9642F334.title: "&eDyson Cube"
 	quest.2EB7784D5296F410.quest_desc: [
-		"Right clicking a functional Flux Network block will give you this UI.\\n\\nEach Plug or Point can be named, have a custom priority level, and have a custom power transfer limit. This allows complete control over all parts of your system.\\n\\n&aBypass Limit&r ignores the limit set.\\n\\nThere are several other tabs to check out, mostly for statistics on your network!\\n"
+		"Nhấp chuột phải vào khối Flux Network chức năng sẽ cung cấp cho bạn UI này.\n\nEach Plug hoặc Điểm có thể được đặt tên, có mức độ ưu tiên tùy chỉnh và có giới hạn chuyển giao quyền lực tùy chỉnh. Điều này cho phép kiểm soát hoàn toàn tất cả các phần trong hệ thống của bạn.\n\n&aBypass Limit&r bỏ qua giới hạn đã đặt.\n\nCó một số tab khác để kiểm tra, chủ yếu là để xem số liệu thống kê trên mạng của bạn!"
+
 		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
 	]
-	quest.35ABB0DEE70DF7FD.quest_desc: ["Believe it or not, the &aPowah&r mod has some great options for getting... powwe.\\n\\nMake sure to check out the &cPowah&r qyest chapter to learn more!"]
-	quest.35ABB0DEE70DF7FD.title: "More&aPowah&r!"
-	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r is a mod that aims to be the solution to all of your wireless power needs.\\n\\nThe mod itself does not have a way to generate power, but it can store and wirelessly transmit power, even across dimensions. It can even charge your items in your inventory.\\n\\nYou can even charge your Jetpacks while you are flying with this mod.\\n\\nTo get started with the mod, you'll need some Flux Dust. Head to Bedrock, then throw some Redstone on top of some Bedrock. Place some Obsidian right above the floating Redstone, then left click the Obsidian."]
-	quest.35CC898E0E49FE58.quest_subtitle: "The Ultimate Wireless Power Solution"
+	quest.35ABB0DEE70DF7FD.quest_desc: ["Dù bạn có tin hay không, mod &aPowah&r có ​​một số tùy chọn tuyệt vời để nhận được... powwe.\n\nHãy nhớ xem chương &cPowah&r qyest để tìm hiểu thêm!"]
+	quest.35ABB0DEE70DF7FD.title: "Thêm&aPowah&r!"
+	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r là một mod nhằm mục đích trở thành giải pháp cho tất cả các nhu cầu về nguồn điện không dây của bạn.\n\nBản thân mod không có cách tạo ra năng lượng, nhưng nó có thể lưu trữ và truyền tải năng lượng không dây, thậm chí xuyên suốt các chiều không gian. Nó thậm chí có thể tính phí các mặt hàng trong kho của bạn.\n\nBạn thậm chí có thể sạc Jetpack của mình khi đang bay với bản mod này.\n\nĐể bắt đầu sử dụng mod, bạn sẽ cần một số Flux Dust. Đi đến Bedrock, sau đó ném một ít Redstone lên trên Bedrock. Đặt một ít Obsidian ngay phía trên Redstone nổi, sau đó nhấp chuột trái vào Obsidian."]
+	quest.35CC898E0E49FE58.quest_subtitle: "Giải pháp nguồn không dây tối ưu"
 	quest.35CC898E0E49FE58.title: "&8Flux Networks"
-	quest.36DEA17CBB696CC7.quest_desc: ["If you right-click on the Plug, you'll see the Flux Network UI. On the far top-right corner, click on the + button to create your first network. You'll need to set a password to create the network, but you can also set a color!\\n\\nFrom here, you can go to the Network Selection tab to activate your network on the Plug. If the Plug is attached to a power source, you can now harness that power anywhere in your system using a Flux Point!\\n\\nPro Tip: You can create multiple networks if you want to have different power sources powering different parts of your systems!"]
-	quest.36DEA17CBB696CC7.quest_subtitle: "Becoming a Network Admin!"
-	quest.3BDB94F17765EE77.quest_desc: ["If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &aReactors&r bigger. Upgrade your &9Thermo Generators&r to Nitro. Go wild.\\n\\nHowever, you may need even more power."]
-	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
+	quest.36DEA17CBB696CC7.quest_desc: ["Nếu bạn nhấp chuột phải vào Plug, bạn sẽ thấy Flux Network UI. Ở góc trên cùng bên phải, nhấp vào nút + để tạo mạng đầu tiên của bạn. Bạn sẽ cần đặt mật khẩu để tạo mạng, nhưng bạn cũng có thể đặt màu!\n\nTừ đây, bạn có thể chuyển đến tab Network Selection để kích hoạt mạng của mình trên Plug. Nếu Phích cắm được gắn vào nguồn điện, giờ đây bạn có thể khai thác nguồn điện đó ở bất kỳ đâu trong hệ thống của mình bằng cách sử dụng Flux Point!\n\nPro Tip: Bạn có thể tạo nhiều mạng nếu muốn có các nguồn điện khác nhau cung cấp năng lượng cho các bộ phận khác nhau trong hệ thống của mình!"]
+	quest.36DEA17CBB696CC7.quest_subtitle: "Trở thành Network Admin!"
+	quest.3BDB94F17765EE77.quest_desc: ["Nếu bạn đang muốn tạo ra nhiều năng lượng, bạn có thể bắt đầu bằng cách mở rộng một số tùy chọn từ phần &9Mid Game Power&r. Làm cho &aReactors&r của bạn lớn hơn. Nâng cấp &9Thermo Generators&r của bạn lên Nitro. Đi hoang dã.\n\nTuy nhiên, bạn có thể cần nhiều năng lượng hơn nữa."]
+	quest.3BDB94F17765EE77.quest_subtitle: "Nhiều sức mạnh hơn bạn cần"
 	quest.3BDB94F17765EE77.title: "End Game Power Options"
-	quest.42D173B9FF8D16E4.quest_desc: ["Looking for early game power options? These are good ways to get you started with generating power.\\n\\nThese don't produce a ton of power, but they are typically easy or cheap to get in the early game!"]
+	quest.42D173B9FF8D16E4.quest_desc: ["Bạn đang tìm kiếm các lựa chọn sức mạnh đầu game? Đây là những cách tốt để bạn bắt đầu tạo ra năng lượng.\n\nNhững thứ này không tạo ra nhiều sức mạnh, nhưng chúng thường dễ dàng hoặc rẻ tiền để có được trong giai đoạn đầu trò chơi!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Starter Power"
 	quest.42D173B9FF8D16E4.title: "&8&lEarly Game Power Options"
-	quest.43D83CFA824B0A70.quest_desc: ["&9Mekanism&r has an end game power option that is tough to beat. The &dFusion Reactor&r can produce up to 80MRF/t, and if you want to learn how to build it, make sure to check out the &aMekanism: &dReactors&r quest chapter!"]
+	quest.43D83CFA824B0A70.quest_desc: ["&9Mekanism&r có ​​tùy chọn sức mạnh cuối trò chơi rất khó đánh bại. &dFusion Reactor&r có thể tạo ra tới 80MRF/t và nếu bạn muốn tìm hiểu cách chế tạo nó, hãy nhớ xem chương nhiệm vụ &aMekanism: &dReactors&r!"]
 	quest.43D83CFA824B0A70.quest_subtitle: "Fusion Activate!"
-	quest.43D83CFA824B0A70.title: "&9Mekanism:&dFusion Reactor"
-	quest.477B411F84342EEA.quest_desc: ["Mekanism is one of the best mods for energy storage, especially in the early game.\\n\\nThe Basic Energy Cube is easy to configure, easy to craft, and stores a lot of power. It can also be upgraded, and can charge items inside of the interface!\\n\\nTo learn more about upgrading the Energy Cube as well as the mod, head over to the &aMekanism&r quest chapter!"]
-	quest.477B411F84342EEA.title: "&9Mekanism:&aEnergy Cubes"
-	quest.48DC9E8E9D21A2FA.quest_desc: ["Mekanism provides several ways to make power using renewable resources.\\n\\nThe &9Solar Generators&r harness the power of the Sun to provide basic power needs. It does not work during the night, and must have access to the sky. Glass is okay.\\n\\nThe &9Wind Generator&r provides power via the wind. Unless you've figured out a way for your character to manually spin this, the speed it spins is based off of the Y lvl it is placed at. It also needs direct access to the sky without any blocks above it."]
-	quest.48DC9E8E9D21A2FA.quest_subtitle: "The Power of the Sun..."
-	quest.48DC9E8E9D21A2FA.title: "&9Mekanism:&aRenewable Energy"
-	quest.4AB0DD227471FDBF.quest_desc: ["This chapter is dedicated to all things power related!\\n\\nHere you'll find the basic ways to generate, store, and transfer power."]
-	quest.4AB0DD227471FDBF.quest_subtitle: "All The Power!"
+	quest.43D83CFA824B0A70.title: "&9Chủ nghĩa cơ học:&dFusion Reactor"
+	quest.477B411F84342EEA.quest_desc: ["Mekanism là một trong những mod tốt nhất để lưu trữ năng lượng, đặc biệt là ở giai đoạn đầu game.\n\nKhối năng lượng cơ bản dễ cấu hình, dễ chế tạo và lưu trữ nhiều năng lượng. Nó cũng có thể được nâng cấp và có thể sạc các vật phẩm bên trong giao diện!\n\nĐể tìm hiểu thêm về cách nâng cấp Energy Cube cũng như bản mod, hãy xem chương nhiệm vụ &aMekanism&r!"]
+	quest.477B411F84342EEA.title: "&9Chủ nghĩa cơ học:&aEnergy Cubes"
+	quest.48DC9E8E9D21A2FA.quest_desc: ["Chủ nghĩa Mekan đưa ra một số cách để tạo ra năng lượng bằng cách sử dụng các nguồn tài nguyên tái tạo.\n\n&9Solar Generators&r khai thác sức mạnh của Mặt trời để cung cấp các nhu cầu năng lượng cơ bản. Nó không hoạt động vào ban đêm và phải có quyền truy cập vào bầu trời. Kính thì được.\n\n&9Wind Generator&r cung cấp năng lượng thông qua gió. Trừ khi bạn đã tìm ra cách để nhân vật của mình quay cái này theo cách thủ công, tốc độ quay của nó sẽ dựa trên cấp độ Y mà nó được đặt. Nó cũng cần truy cập trực tiếp lên bầu trời mà không có bất kỳ khối nào phía trên nó."]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "Sức mạnh của mặt trời..."
+	quest.48DC9E8E9D21A2FA.title: "&9Chủ nghĩa cơ học:&aRenewable Energy"
+	quest.4AB0DD227471FDBF.quest_desc: ["Chương này dành riêng cho tất cả những thứ liên quan đến quyền lực!\n\nỞ đây bạn sẽ tìm thấy những cách cơ bản để tạo ra, lưu trữ và truyền tải điện năng."]
+	quest.4AB0DD227471FDBF.quest_subtitle: "Tất cả sức mạnh!"
 	quest.4AB0DD227471FDBF.title: "&cNăng lượng cơ bản"
-	quest.4EEAB467C722ECE7.quest_desc: ["These are simple pipes that can be upgraded with Pipe Upgrades.\\n\\nTo 'extract' power from a block, place the pipe down next to the block, and on the side that is connected, shift+right-click with the pipe wrench to set the pipe to extract.\\n\\nThe &e&lPipez&r mod also offers ways to transport items, gases, and liquids as well! Or you can make an All-In-One Pipe called the &aUniversal Pipe&r.\\n\\nOther Wrenches work with &e&lPipez&r as well!"]
-	quest.4EEAB467C722ECE7.title: "&9Pipez:&aEnergy Pipes"
-	quest.56B6ABF3D6EA0D84.quest_desc: ["With our Plug set up, we can now tap into the power from our network. The &9Flux Point&r does exactly that. It points the power from your network to whatever block it is attached to, including Pipes or Cables, or just directly on machines!\\n\\nOnce you've placed your Point on the machine or block you want to power, right-click on it and select your network in the \\"Network Selection\\" tab. Just like the Plug, you can adjust how much power the Point pulls, priority level, etc."]
-	quest.56B6ABF3D6EA0D84.title: "Accessing Network Power"
-	quest.5C47935A3B2877FF.quest_desc: ["Mekanism offers a nice looking Cable to transfer your power.\\n\\nIf the machine you are connecting to already pulls or pushes power, you will not need to configure the Cable. Otherwise, you'll need a &9Configurator&r to configure the Cable. Shift right-clicking will change the Cable to pull or push mode."]
+	quest.4EEAB467C722ECE7.quest_desc: ["Đây là những đường ống đơn giản có thể được nâng cấp bằng Pipe Upgrades.\n\nĐể 'trích xuất' năng lượng từ một khối, đặt đường ống xuống bên cạnh khối và ở phía được kết nối, shift+nhấp chuột phải bằng cờ lê ống để đặt đường ống cần trích xuất.\n\nBản mod &e&lPipez&r cũng cung cấp các cách để vận chuyển vật phẩm, khí và chất lỏng! Hoặc bạn có thể tạo All-In-One Pipe gọi là &aUniversal Pipe&r.\n\nOther Wrenches cũng hoạt động với &e&lPipez&r!"]
+	quest.4EEAB467C722ECE7.title: "&9Ống:&aEnergy Pipes"
+	quest.56B6ABF3D6EA0D84.quest_desc: ["Sau khi thiết lập Plug, giờ đây chúng tôi có thể khai thác nguồn điện từ mạng của mình. &9Flux Point&r thực hiện chính xác điều đó. Nó hướng nguồn điện từ mạng của bạn tới bất kỳ khối nào được gắn vào, bao gồm Ống hoặc Cáp hoặc chỉ trực tiếp trên máy!\n\nKhi bạn đã đặt Điểm của mình trên máy hoặc khối mà bạn muốn cấp nguồn, hãy nhấp chuột phải vào nó và chọn mạng của bạn trong tab \"Network Selection\". Cũng giống như Plug, bạn có thể điều chỉnh mức độ kéo của Point, mức độ ưu tiên, v.v."]
+	quest.56B6ABF3D6EA0D84.title: "Truy cập nguồn mạng"
+	quest.5C47935A3B2877FF.quest_desc: ["Mekanism cung cấp một loại cáp đẹp mắt để truyền sức mạnh của bạn.\n\nNếu máy bạn đang kết nối đã kéo hoặc đẩy nguồn, bạn sẽ không cần định cấu hình Cáp. Nếu không, bạn sẽ cần &9Configurator&r để định cấu hình Cáp. Nhấn Shift chuột phải sẽ chuyển Cable sang chế độ kéo hoặc đẩy."]
 	quest.5C47935A3B2877FF.quest_subtitle: "Mekanism's Energy Transfer Pipe"
-	quest.5C47935A3B2877FF.title: "&9Mekanism:&aUniversal Cables"
-	quest.5E41363F9AE243F3.quest_desc: ["You can't power your base off of Coal forever! If you've got a decent amount of resources available, it's time to upgrade your power setup!\\n\\nThese options usually require a little setting up, but produce enough power to carry you far into your playthrough."]
+	quest.5C47935A3B2877FF.title: "&9Chủ nghĩa cơ học:&aUniversal Cables"
+	quest.5E41363F9AE243F3.quest_desc: ["Bạn không thể cung cấp năng lượng cho căn cứ của mình bằng Than mãi mãi! Nếu bạn có sẵn một lượng tài nguyên kha khá, đã đến lúc nâng cấp thiết lập nguồn điện của bạn!\n\nCác tùy chọn này thường yêu cầu thiết lập một chút nhưng có đủ sức mạnh để đưa bạn tiến xa hơn trong quá trình chơi."]
 	quest.5E41363F9AE243F3.title: "&b&lMid Game Power Options"
-	quest.5F078A574A783B02.quest_desc: ["The first item you'll need to start your Flux Network is a &9Flux Plug&r.\\n\\nThe Plug is used to \\"draw\\" power from the block it is attached to. Aside from a small buffer, the Plug does not store any power itself, so don't worry about it zapping up all of your power.\\n\\nIt is suggested to place the Plug on a power storage block like an Energy Cube. It can connect to Cables, Pipes, or the output of any power producing machine.\\n\\nTo learn how to set up your first network, check the next quest!"]
-	quest.5F078A574A783B02.quest_subtitle: "Just plug it in!"
-	quest.5F078A574A783B02.title: "Starting Your Network"
+	quest.5F078A574A783B02.quest_desc: ["Mục đầu tiên bạn cần để khởi động Flux Network là &9Flux Plug&r.\n\nPhích cắm được sử dụng để \"rút\" điện từ khối được gắn vào. Ngoài một bộ đệm nhỏ, Ổ cắm không tự lưu trữ bất kỳ nguồn điện nào, vì vậy đừng lo lắng về việc nó sẽ tiêu tốn toàn bộ nguồn điện của bạn.\n\nBạn nên đặt Phích cắm trên khối lưu trữ điện như Energy Cube. Nó có thể kết nối với Cáp, Đường ống hoặc đầu ra của bất kỳ máy sản xuất điện nào.\n\nĐể tìm hiểu cách thiết lập mạng đầu tiên của bạn, hãy xem nhiệm vụ tiếp theo!"]
+	quest.5F078A574A783B02.quest_subtitle: "Chỉ cần cắm nó vào!"
+	quest.5F078A574A783B02.title: "Bắt đầu mạng của bạn"
 	quest.677D0C23D53A77CA.quest_desc: [
-		"&bDraconic Evolution&r adds a multiblock called the &dEnergy Core&r."
+		"&bDraconic Evolution&r thêm một đa khối được gọi là &dEnergy Core&r."
+
 		""
-		"While it may seem confusing, the final tier can hold &m9,223,372,036,854,775,808 FE&r basically infinite power."
+		"Mặc dù có vẻ khó hiểu nhưng cấp cuối cùng có thể chứa &m9,223,372,036,854,775,808 FE&r về cơ bản là sức mạnh vô hạn."
+
 		""
-		"For more information check out the Draconic Evolution Chapter"
+		"Để biết thêm thông tin, hãy xem Draconic Evolution Chapter"
+
 		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
 	]
 	quest.677D0C23D53A77CA.quest_subtitle: "Basically Vô hạn Storage"
 	quest.677D0C23D53A77CA.title: "&9Draconic Evolution:&dEnergy Core"
 	quest.682034C680FDEDC2.quest_desc: [
-		"&9Mekanism's&r &aInduction Matrix&r is one of the best ways to store your power.\\n\\nIf you're looking for the best power storage Mekanism has to offer, check out the &aMekanism:&r &dReactors&r quest chapter.\\n"
+		"&9Mekanism's&r &aInduction Matrix&r là một trong những cách tốt nhất để lưu trữ năng lượng của bạn.\n\nNếu bạn đang tìm kiếm bộ lưu trữ năng lượng tốt nhất mà Mekanism cung cấp, hãy xem chương nhiệm vụ &aMekanism:&r &dReactors&r."
+
 		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
 	]
-	quest.682034C680FDEDC2.title: "More Power Storage"
-	quest.6D6E07564D8FDD8D.quest_desc: ["&aExtreme Reactors&r offers multi-block Reactors that are completely customizable in size, efficiency, and more.\\n\\nTo learn more about getting started with Extreme Reactors, check out the quest chapter for the mod!"]
+	quest.682034C680FDEDC2.title: "Thêm bộ lưu trữ năng lượng"
+	quest.6D6E07564D8FDD8D.quest_desc: ["&aExtreme Reactors&r cung cấp Lò phản ứng nhiều khối có thể tùy chỉnh hoàn toàn về kích thước, hiệu quả, v.v.\n\nĐể tìm hiểu thêm về cách bắt đầu với Extreme Reactors, hãy xem chương nhiệm vụ của mod!"]
 	quest.6D6E07564D8FDD8D.quest_subtitle: "Customizable Reactors!"
-	quest.6D6E07564D8FDD8D.title: "&9Extreme Reactors:&aReactors"
-	quest.72EA25D05C46D39A.quest_desc: ["&9Integrated Dynamics&r provides a simple power storage system. The Batteries can be combined in a crafting grid to increase the overall storage!"]
+	quest.6D6E07564D8FDD8D.title: "&9Extreme Reactors:&aLò phản ứng"
+	quest.72EA25D05C46D39A.quest_desc: ["&9Integrated Dynamics&r cung cấp một hệ thống lưu trữ năng lượng đơn giản. Pin có thể được kết hợp trong lưới chế tạo để tăng tổng dung lượng lưu trữ!"]
 	quest.72EA25D05C46D39A.quest_subtitle: "Batteries Included"
 	quest.72EA25D05C46D39A.title: "&9Integrated Dynamics:&bEnergy Battery"
-	quest.76EA017B12E8F01B.quest_desc: ["This section shows you different ways to store your power!"]
-	quest.76EA017B12E8F01B.title: "&f&lStoring Power"
-	quest.79AD74A863EA43CB.quest_desc: ["Flux Networks does provide a way to store the power you generate for your network!\\n\\nThese hold massive amounts of power overall, and can be upgraded to store even more!"]
-	quest.79AD74A863EA43CB.quest_subtitle: "Storing Power"
+	quest.76EA017B12E8F01B.quest_desc: ["Phần này chỉ cho bạn những cách khác nhau để lưu trữ năng lượng của bạn!"]
+	quest.76EA017B12E8F01B.title: "&f&lSức mạnh lưu trữ"
+	quest.79AD74A863EA43CB.quest_desc: ["Flux Networks cung cấp cách lưu trữ năng lượng bạn tạo ra cho mạng của mình!\n\nNhìn chung, chúng chứa một lượng điện năng khổng lồ và có thể được nâng cấp để lưu trữ nhiều hơn nữa!"]
+	quest.79AD74A863EA43CB.quest_subtitle: "lưu trữ điện"
 	quest.79AD74A863EA43CB.title: "Flux Storage"
-	quest.7A979BEB20C9591E.quest_desc: ["Flux Dust can be automated using &6Productive Bees&r!\\n\\nRedstone Bee Spawn Eggs can be converted to Flux Dust Bee Spawn Eggs using an Obsidian Bee."]
+	quest.7A979BEB20C9591E.quest_desc: ["Flux Dust có thể được tự động hóa bằng cách sử dụng &6Productive Bees&r!\n\nRedstone Bee Spawn Eggs có thể được chuyển đổi thành Flux Dust Bee Spawn Trứng bằng cách sử dụng Obsidian Bee."]
 	quest.7A979BEB20C9591E.title: "Automated Flux Dust"
-	quest.7FE969CB4B419FC6.quest_desc: ["With a little work into Mekanism, this machine allows you to transfer anything wirelessly.\\n\\nYou can set specific channels to transfer individual items, energy, or even gases from Mekanism. It's pretty cool."]
-	quest.7FE969CB4B419FC6.quest_subtitle: "Doesn't just work for Power"
-	quest.7FE969CB4B419FC6.title: "&9Mekanism:&6Quantum Entangloporter"
+	quest.7FE969CB4B419FC6.quest_desc: ["Chỉ cần nghiên cứu một chút về Mekanism, chiếc máy này cho phép bạn truyền tải mọi thứ không dây.\n\nBạn có thể đặt các kênh cụ thể để chuyển từng vật phẩm, năng lượng hoặc thậm chí là khí từ Mekanism. Nó khá tuyệt."]
+	quest.7FE969CB4B419FC6.quest_subtitle: "Không chỉ có tác dụng với Power"
+	quest.7FE969CB4B419FC6.title: "&9Chủ nghĩa cơ học:&6Quantum Entangloporter"
 	task.098F1B932F851616.title: "Pipe Upgrades"
 	task.0F7D7AE91E20F778.title: "Coal Generators"
-	task.2D0212699F99459F.title: "The First Network"
+	task.2D0212699F99459F.title: "Mạng đầu tiên"
 	task.35C1DBD4544C9BB0.title: "Induction Cells"
-	task.3D721B55E8D33FE8.title: "The Flux Networks UI"
+	task.3D721B55E8D33FE8.title: "Mạng thông lượng UI"
 	task.44C02386C9B8E0D3.title: "Induction Providers"
 	task.59DE118DD6597A4E.title: "Renewable Mekanism Energy Generators"
 	task.6C4B8A2662030CB0.title: "Universal Cables"
