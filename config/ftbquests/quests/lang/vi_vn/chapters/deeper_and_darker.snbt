@@ -1,144 +1,162 @@
 {
 	quest.01ECFBB5F0574C24.quest_desc: [
-		"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. "
+		"Nhiệm vụ này được tác giả bởi &6AllTheMods Staff hoặc một cộng tác viên của &2Community để sử dụng trong AllTheMods Modpacks."
+
 		""
-		"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. "
+		"Vì tất cả các gói của &6AllTheMods đều được cấp phép theo &eAll Rights Reserved&r, nên Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được Nhóm &6AllTheMods phát hành mà không có sự cho phép rõ ràng."
+
 		""
-		"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+		"Nhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."
+
 	]
 	quest.0450060852F290CA.quest_desc: [
-		"The &9Deeplands&r are most similar to the &3Deep Dark&r. \\n\\nThey are full of &3Sculk &falong with &3Shriekers &fand &3Sensors&r, which yes can still spawn the &9&lWarden&r. \\n\\nHere you'll also find more &3Sculk Creatures&r and Plants, and even the one Structure the &3&lOtherside&r has!"
+		"&9Deeplands giống nhất với &3Deep Dark&r. \n\nChúng chứa đầy &3Sculk &falong cùng với &3Shriekers &fand &3Sensors, những thứ này vẫn có thể sinh ra &9&lWarden. \n\nTại đây, bạn cũng sẽ tìm thấy thêm các Thực vật và Sinh vật &3Sculk, thậm chí cả Cấu trúc mà &3&lOtherside có!"
+
 		"{image:atm:textures/questpics/deepndark/dnd_land.png width:200 height:100 align:center}"
 	]
 	quest.0450060852F290CA.title: "&9Deeplands"
-	quest.0850F88E2205623F.quest_desc: ["&3Sculk Tendrils&r are like &bTwisting Vines&r... just &3Sculky&r. \\n\\nThey spawn rarely in &9Deeplands&r."]
+	quest.0850F88E2205623F.quest_desc: ["&3Sculk Tendrils giống như &bTwisting Vines của... chỉ là &3Sculky&r. \n\nChúng hiếm khi xuất hiện ở &9Deeplands."]
 	quest.0850F88E2205623F.title: "&3Sculk Tendrils"
 	quest.0B11EAB8D76529E0.quest_desc: [
-		"The &6Ancient City&r is only the most dangerous Structure in &2&lVanilla Minecraft&r. So of course that is just the start to &3&lDeeper and Darker&r! \\n\\nHere we can find &3Sculk&r galore, along with Loot and the &9&lWarden&r. We'll also find the Portal Frame made of &8Reinforced Deepslate&r. \\n\\nBut until then, Loot all you can! And be careful of the..."
+		"&6Thành phố cổ chỉ là công trình nguy hiểm nhất trong &2&lVanilla Minecraft. Vì vậy tất nhiên đó mới chỉ là khởi đầu cho &3&lSâu hơn và tối hơn! \n\nỞ đây chúng ta có thể tìm thấy rất nhiều thứ của &3Sculk, cùng với Loot và &9&lWarden. Chúng ta cũng sẽ tìm thấy Portal Frame được làm từ &8Reinforced Deepslate. \n\nNhưng cho đến lúc đó, hãy cướp tất cả những gì bạn có thể! Và hãy cẩn thận với..."
+
 		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
 	]
-	quest.0B11EAB8D76529E0.title: "Visit an&6Ancient City&r"
-	quest.0B718FC37699B822.quest_desc: ["&aEcho Logs&r are made from &aEcho Trees&r which spawn in the &5Echoing Forest&r... is there an echo in here, why do I hear it so much? \\n\\n&aEcho Trees&r have &5Purple Leaves&r and Sculk Gleam within them. While their Logs have a &7Light Grey Bark&r and a very &aLight Green Log color&r. \\n\\nAll the Planks and Wood Items made from it are all the &aLight Green Color&r, almost Mint like. \\n\\nThe Trapdoors and Doors even have cool unique patterns!"]
-	quest.0B718FC37699B822.title: "&aEcho Trees"
+	quest.0B11EAB8D76529E0.title: "Tham quan An&6Thành phố cổ"
+	quest.0B718FC37699B822.quest_desc: ["&aEcho Logs được làm từ &aEcho Trees sinh ra trong &5Echoing Forest... có tiếng vang ở đây không, sao tôi lại nghe thấy nhiều vậy? \n\n&aEcho Trees có &5Purple Leaves và Sculk Gleam bên trong chúng. Trong khi Nhật ký của họ có màu &7Light Grey Bark và màu&aLight Green Log rất. \n\nTất cả các tấm ván và Wood Items được làm từ nó đều là &aLight Green Color&, gần giống như Mint. \n\nCửa Bẫy và Cửa ra vào thậm chí còn có những hoa văn độc đáo thú vị!"]
+	quest.0B718FC37699B822.title: "&aCây tiếng vang"
 	quest.10E025288BB00657.quest_desc: [
-		"&bSludges&r spawn in &bBlooming Caverns&r and act like Slimes! \\n\\nTheir largest form has 8 &4Hearts&r and does a ton of Damage. On death they will spawn 2-4 Medium &bSludges&r. \\n\\nTheir medium forms have 2 &4Hearts&r and do much less Damage. On death they'll spawn 2-4 small &bSludges&r. \\n\\nThe small form has only a half a &4Heart of Health&r and won't do any Damage."
+		"&bBùn xuất hiện trong &bBlooming Caverns và hoạt động như Slime! \n\nDạng lớn nhất của chúng có 8 & 4Trái tim và gây ra rất nhiều sát thương. Khi chết chúng sẽ sinh ra 2-4 Medium &bSludges. \n\nDạng trung bình của chúng có 2 & 4 Trái tim và gây sát thương ít hơn nhiều. Khi chết chúng sẽ sinh ra 2-4 Bùn Nhỏ. \n\nDạng nhỏ chỉ có một nửa &4Heart of Health và sẽ không gây ra bất kỳ Thiệt hại nào."
+
 		"{image:atm:textures/questpics/deepndark/dnd_sludge.png width:100 height:100 align:center}"
 	]
 	quest.10E025288BB00657.title: "&bSludge"
-	quest.13B338F377951032.quest_desc: ["You ever wish you, yourself can use the &9&lWardens&r &bSonic Blast&r? \\n\\nWell with the &bSonorous Staff&r you can! Just simply Hold Right Click to charge it up, then release to send a &bSonic Blast&r. \\nThere is a slight cooldown to it and it does have Durability, so use with risk! \\n\\nTo Craft one you'll need a &9Heart of the Deep&r from the &9&lWarden&r, 2 &3Soul Crystals&r from the &3&lStalker&r, and 2 &3Sculk Bones &ffrom &3Shattereds&r."]
-	quest.13B338F377951032.title: "&bSonorous Staff"
+	quest.13B338F377951032.quest_desc: ["Bạn có bao giờ ước mình có thể sử dụng &9&lWardens &bSonic Blast&s không? \n\nVâng, với &bSonorous Staff, bạn có thể! Chỉ cần Hold Right Click để sạc pin, sau đó thả ra để gửi &bSonic Blast. \nNó có thời gian hồi chiêu nhẹ và nó có Độ bền, vì vậy hãy cẩn thận khi sử dụng! \n\nĐể chế tạo một cái, bạn sẽ cần &9Heart of the Deep từ &9&lWarden’s, 2 &3Soul Crystals từ &3&lStalker&r, và 2 &3Sculk Bones &ffrom &3Shattereds&r."]
+	quest.13B338F377951032.title: "&bNhân viên có tiếng vang"
 	quest.16A2CC83C99B1F86.quest_desc: [
-		"&9Angler Fish&r spawn in &9Water Ponds&r within &bBlooming Caverns&r. \\n\\nThey act like normal Fish, obviously needing &9Water&r to breathe. \\n\\nThey have 3 &4Hearts&r and will attack you when you are near. \\n\\nThey don't drop anything on death unfortunately... sorry Fishies!"
+		"&9Cá câu cá sinh sản trong &9Ao Nước bên trong &blooming Caverns. \n\nChúng hành động như những con Cá bình thường, rõ ràng là cần &9Water để thở. \n\nChúng có 3 & 4 Trái tim và sẽ tấn công bạn khi bạn ở gần. \n\nThật không may, họ không đánh rơi bất cứ thứ gì khi chết... xin lỗi Fishies!"
+
 		"{image:atm:textures/questpics/deepndark/dnd_fish.png width:100 height:120 align:center}"
 	]
-	quest.16A2CC83C99B1F86.title: "&9Angler Fish"
-	quest.183F6A790EC006B8.quest_desc: ["&bBlooming Stems&r aren't like Trees, they're more like if Chorus and Bamboo had a baby. \\n\\nThey spawn within the &bBlooming Caverns&r and need other &bBlooming Stems&r to keep up! This is the only way to find them. \\n\\nYou can still Strip them or make Planks out of them. The Planks have a &bLight Blue color&r to them, and so will whatever you make out of them!"]
-	quest.183F6A790EC006B8.title: "&bBlooming Wood"
-	quest.196003E1486ABB31.quest_desc: ["To upgrade from &cNetherite&r to &9Warden Gear&r, you'll need a &9Smithing Template&r! \\n\\nThese are found in Chests in &6Ancient Cities&r. \\n\\nThey can then be duplicated with 7 Diamonds and a &3Sculk Block&r!"]
-	quest.196003E1486ABB31.title: "&9Warden Nâng cấp Template"
-	quest.1A2EA742FDED54FF.quest_desc: ["&5Echo Soil&r covers the floor of the &5Echoing Forests&r. \\n\\nThey do not act like normal &2Grass&r or Dirt besides allowing &5Echoing Saplings&r to grow on them. \\n\\nNo normal Saplings."]
-	quest.1A2EA742FDED54FF.title: "&5Echo Soil"
-	quest.1BFE6745F49B4AB0.quest_desc: ["Sculk Gleam has properties of Shroomlights. They don't need a Tool to collect, but break fastest with a Hoe. \\n\\nThey spawn within &5Echoing Trees&r and rarely underground."]
-	quest.201E3E41018F9521.quest_desc: ["&6Gloomy Cacti&r are just like normal &2Cacti&r, just these spawn within &cOvercast Columns&r. \\n\\nI mean they like the Heat, they don't need &9Water&r to grow, they hurt to touch, are there even any differences? \\n\\nOh yeah, these can be Smelted into &6Orange Dye&r instead of &2Green&r!"]
-	quest.201E3E41018F9521.title: "&6Gloomy Cacti"
-	quest.21398F45428CD1D1.quest_desc: ["&6Bloom Berries&r grow from &bGlowing Vines&r on the roof of the &bBlooming Caverns&r. \\n\\nWithin the &bGlowing Vines&r, &6Bloom Berries&r might spawn and will wait for you to pick them off the &bVine&r with Right Click! \\n\\nThis is the only Food Source in the &3&lOtherside&r."]
-	quest.21398F45428CD1D1.title: "&6Bloom Berries"
+	quest.16A2CC83C99B1F86.title: "&9Cá câu cá"
+	quest.183F6A790EC006B8.quest_desc: ["&bRễ nở hoa không giống Cây cối, chúng giống như Chorus và Bamboo có con hơn. \n\nChúng sinh sản trong &blooming Caverns và cần những &bBlooming Stems’ khác để theo kịp! Đây là cách duy nhất để tìm thấy chúng. \n\nBạn vẫn có thể loại bỏ chúng hoặc tạo ván từ chúng. Các tấm ván có &bMàu xanh nhạt, và bất cứ thứ gì bạn tạo ra từ chúng cũng vậy!"]
+	quest.183F6A790EC006B8.title: "&bGỗ nở hoa"
+	quest.196003E1486ABB31.quest_desc: ["Để nâng cấp từ &cNetherite lên &9Warden Gear, bạn sẽ cần &9Mẫu Smithing! \n\nNhững thứ này được tìm thấy trong Rương ở &6Thành phố cổ. \n\nSau đó, chúng có thể được nhân đôi với 7 viên Kim cương và & Khối 3Sculk!"]
+	quest.196003E1486ABB31.title: "&9Mẫu nâng cấp Warden"
+	quest.1A2EA742FDED54FF.quest_desc: ["&5Echo Soil bao phủ sàn của &5Rừng vang vọng. \n\nChúng không hoạt động như &2Grass hay Dirt bình thường ngoài việc cho phép &5Echoing Cành Con phát triển trên chúng. \n\nKhông có cây con bình thường."]
+	quest.1A2EA742FDED54FF.title: "&5Đất vang vọng"
+	quest.1BFE6745F49B4AB0.quest_desc: ["Sculk Gleam có đặc tính của Shroomlights. Họ không cần Công cụ để thu thập mà phá vỡ nhanh nhất bằng Cuốc. \n\nChúng sinh sản trong &5Cây vang vọng và hiếm khi ở dưới lòng đất."]
+	quest.201E3E41018F9521.quest_desc: ["&6Gloomy Cacti cũng giống như &2Cacti bình thường, chỉ sinh sản trong &cOvercast Columns. \n\nÝ tôi là họ thích Heat, họ không cần 9Water để phát triển, chạm vào họ sẽ thấy đau, thậm chí có sự khác biệt nào không? \n\nỒ vâng, những thứ này có thể được nấu chảy thành &6Orange Dye thay vì &2Green!"]
+	quest.201E3E41018F9521.title: "&6Xương rồng u ám"
+	quest.21398F45428CD1D1.quest_desc: ["&6Blooming Berries mọc lên từ &bGlowing Vines trên mái của &bBlooming Caverns. \n\nTrong &bGlowing Vines, &6Bloom Berries có thể sinh sản và sẽ đợi bạn nhặt chúng khỏi &bVine bằng Right Click! \n\nĐây là Food Source duy nhất trong &3&lOtherside."]
+	quest.21398F45428CD1D1.title: "&6Quả mọng nở hoa"
 	quest.35629CB10DBDE340.quest_desc: [
-		"The &6Ancient Temple&r is the important and necessary Structure found within the &9Deeplands&r. \\n\\nIt looks like a Mayan Pyramid made of &8Deepslate &fand &3Sculk&r. There's tons of &3Sculk Sensors &fand &3Shriekers&r as well as Chests and Ancient Vases. \\n\\nWithin the higher floors you'll find mostly just Chests and Ancient Vases but within the &6Pyramid&r we'll find even &eBlocks of Gold&r and other Materials."
+		"&6Ancient Temple là cấu trúc quan trọng và cần thiết được tìm thấy trong &9Deeplands. \n\nNó trông giống như một Mayan Pyramid được làm từ &8Deepslate &fand &3Sculk&r. Có rất nhiều &3Sculk Cảm biến &fand &3Shriekers cũng như Rương và Ancient Vases. \n\nỞ các tầng cao hơn, bạn hầu như chỉ tìm thấy Rương và Ancient Vases nhưng trong &6Kim tự tháp, chúng ta sẽ tìm thấy thậm chí cả &eBlocks of Gold và các Vật liệu khác."
+
 		"{image:atm:textures/questpics/deepndark/dnd_temple.png width:200 height:100 align:center}"
 	]
-	quest.35629CB10DBDE340.quest_subtitle: "The only structure"
-	quest.35629CB10DBDE340.title: "&6Ancient Temples"
-	quest.36149E69A8C264E4.quest_desc: ["&bIce Lilies&r are Plants that grow on the &9Water Ponds&r within the &bBlooming Caverns&r (I told you it has a lot of Plants). \\n\\nThere's 2 parts to the Plant, the &bLily&r and the &bIce Flower&r. The &bLily Pad&r is what floats on &9Water&r and allows you to walk on it. The &bIce Flower&r lies on top of the &bLily Pad&r and looks pretty!\\n\\nYou'll need Shears to nab them."]
-	quest.36149E69A8C264E4.title: "&bIce Lilies"
-	quest.39100B3867E9C01E.quest_desc: ["&cGloomy Geysers&r are Blocks you can find within &cOvercast Columns&r. \\n\\nWhen you Walk over them they will shoot you high up into the Air! Be careful though, you'll still take Fall Damage. \\n\\nYou can pick them up with Silk Touch."]
-	quest.39100B3867E9C01E.title: "&cGloomy Geyser"
-	quest.39BED5DD9D24F98E.quest_desc: ["&3Sculk Grime&r is &3&lDeeper and Darker's&r version of Clay! \\n\\nYou can find it within a few Biomes and when you mine it you'll get &3Grime Balls&r. \\n\\nThese can then be made back into &3Sculk Grime&r or made into &3Grime Bricks&r."]
-	quest.39BED5DD9D24F98E.title: "&3Sculk Grime"
+	quest.35629CB10DBDE340.quest_subtitle: "Cấu trúc duy nhất"
+	quest.35629CB10DBDE340.title: "&6Chùa cổ"
+	quest.36149E69A8C264E4.quest_desc: ["&bHoa loa kèn băng là Thực vật mọc trên &9Ao nước trong &blooming Caverns(Tôi đã nói với bạn rằng nó có rất nhiều Thực vật). \n\nCây có 2 phần, &bLily và &bIce Flower. &bLily Pad là vật nổi trên &9Water và cho phép bạn đi trên đó. Chiếc &bIce Flower nằm trên chiếc &bLily Pad và trông thật đẹp!\n\nBạn sẽ cần Shears để bắt chúng."]
+	quest.36149E69A8C264E4.title: "&bHoa huệ băng"
+	quest.39100B3867E9C01E.quest_desc: ["&cGloomy Geysers là các Khối bạn có thể tìm thấy trong &cOvercast Columns&r. \n\nKhi bạn bước qua chúng, chúng sẽ bắn bạn lên không trung! Tuy nhiên, hãy cẩn thận, bạn vẫn sẽ lấy Fall Damage. \n\nBạn có thể nhặt chúng bằng Silk Touch."]
+	quest.39100B3867E9C01E.title: "&cMạch phun nước ảm đạm"
+	quest.39BED5DD9D24F98E.quest_desc: ["&3Sculk Grime là phiên bản Clay của &3&lSâu hơn và tối hơn! \n\nBạn có thể tìm thấy nó trong một vài quần xã và khi khai thác nó, bạn sẽ nhận được &3Grime Balls. \n\nSau đó, những thứ này có thể được chế tạo lại thành &3Sculk Grime hoặc tạo thành &3Grime Bricks."]
+	quest.39BED5DD9D24F98E.title: "&3Bụi bẩn bẩn thỉu"
 	quest.3CF2DFB7F0CE065B.quest_desc: [
-		"The &cOvercast Columns&r are much more Hot and &6Orange&r than any other Biome here. \\n\\nHere &3Sculk&r is replaced with &cGloomy Sculk&r and &3Sculk Stone&r is replaced with &cGloomslate&r. \\n\\nYou'll also find Soul Sand/Soil plus &cMagma &fwith &cLava&r beneath them. \\n\\nWith the temperatures being so Hot, Mobs won't normally spawn here, but there is a few Plant life! "
+		"Các Cột &cOvercast nóng hơn và &6Orange hơn nhiều so với bất kỳ Quần xã nào khác ở đây. \n\nỞ đây &3Sculk&r được thay thế bằng &cGloomy Sculk&r và &3Sculk Stone&r được thay thế bằng &cGloomslate&r. \n\nBạn cũng sẽ tìm thấy Soul Sand/Soil plus &cMagma &fvới &cLava&rd ở bên dưới chúng. \n\nVới nhiệt độ quá Nóng, Mob thường không sinh sản ở đây, nhưng có một số Thực vật!"
+
 		"{image:atm:textures/questpics/deepndark/dnd_column.png width:200 height:100 align:center}"
 	]
-	quest.3CF2DFB7F0CE065B.title: "&cOvercast Columns"
+	quest.3CF2DFB7F0CE065B.title: "&c Cột u ám"
 	quest.3D579A1F7EFEDD5C.quest_desc: [
-		"The &9&lWarden&r. The most difficult boss in &2&lMinecraft&r, of course being within the most difficult Structure. \\n\\nHe's spawned from a &3Sculk Shrieker&r being activated 3 times, or any amount after the first &9&lWarden&r. \\n\\nHe has 500 &4Hearts&r and does a ton of Damage from either hitting you with his fists or his &bSonic Blast&r! \\n\\nHe does have a weakness though, that being that he is Blind. He can only find you with Sound, or Smell if you are close enough! Keep your distance, like 23 Blocks up."
+		"&9&lQuản giáo. Con trùm khó nhất trong &2&lMinecraft, tất nhiên nằm trong Cấu trúc khó nhất. \n\nAnh ta sinh ra từ &3Sculk Shrieker được kích hoạt 3 lần hoặc bất kỳ số lượng nào sau lần &9&lWarden đầu tiên. \n\nAnh ta có 500 &4Trái tim và gây ra rất nhiều sát thương từ việc đánh bạn bằng nắm đấm hoặc &bSonic Blast của anh ta! \n\nTuy nhiên, anh ta có một điểm yếu, đó là anh ta bị mù. Anh ấy chỉ có thể tìm thấy bạn bằng Âm thanh hoặc Mùi nếu bạn ở đủ gần! Giữ khoảng cách, như ở trên 23 khối."
+
 		"{image:atm:textures/questpics/gettingstarted/warden_roar.png width:100 height:100 align:center}"
 	]
-	quest.3D579A1F7EFEDD5C.title: "Kill the&9&lWarden&r"
-	quest.44F9B8F285546B2C.quest_desc: ["&bBlooming Moss&r comes from the... you guessed it! &bBlooming Caverns&r! \\n\\nIt will spawn on the ground just waiting for you to collect it. \\n\\nThey don't spread like normal &2Moss&r nor do they have any Recipes."]
-	quest.44F9B8F285546B2C.title: "&bBlooming Moss"
-	quest.45C9D975E3731DFE.quest_desc: ["&9Reinforced Echo Shard&r is a Crafted Item that requires a few Items. \\n\\nFirst, and easiest to obtain are &7Phantom Membrane&r! &7Phantoms&r will spawn after the Player hasn't slept in a few days. The more restless nights, the more &7Phantoms&r! \\n\\nSecond, is the &9Echo Shard&r. These can be found in quite a few ways but easiest is Looting in &6Ancient Cities&r. \\n\\nThe last is the &9Warden Carapaces&r. These are Drops from the &9&lWarden&r on death. Don't worry he usually drops more than one!"]
-	quest.45C9D975E3731DFE.title: "&9Reinforced Echo Shard"
-	quest.4A01C5F5DCF32C19.quest_desc: ["The &3Soul Elytra&r works just like a normal &8Elytra&r, just now with more Durability and Armor Points! \\n\\nThey can't be repaired with &7Phantom Membranes&r like normal &8Elytras&r... but Enchantments can still repair them! \\n\\nTo Craft one you'll need an &8Elytra&r, 4 &3Sculk Bones&r which drop from &3Shattered&r, 2 &3Soul Dust&r which drop from &3Sculk Snappers &for &3Sculk Leeches&r, and a &3Soul Crystal&r which drops from the &3&lStalker&r."]
+	quest.3D579A1F7EFEDD5C.title: "Giết&9&lQuản giáo"
+	quest.44F9B8F285546B2C.quest_desc: ["&bBlooming Moss xuất phát từ... bạn đoán xem! &b Hang động nở hoa! \n\nNó sẽ sinh sản trên mặt đất chỉ chờ bạn thu thập. \n\nChúng không lan truyền như &2Moss bình thường cũng như không có bất kỳ Công thức nấu ăn nào."]
+	quest.44F9B8F285546B2C.title: "&bRêu nở hoa"
+	quest.45C9D975E3731DFE.quest_desc: ["&9Được gia cố Echo Shard&r là Crafted Item yêu cầu một vài Vật phẩm. \n\nĐầu tiên và dễ dàng có được nhất là &7Phantom Membrane! &7Phantoms sẽ xuất hiện sau khi Người chơi không ngủ trong vài ngày. Càng nhiều đêm trằn trọc, càng có nhiều &7Phantoms! \n\nThứ hai, là &9Echo Shard. Những thứ này có thể được tìm thấy theo nhiều cách nhưng dễ nhất là Cướp bóc trong &6Thành phố cổ. \n\nCuối cùng là &9Warden Carapaces. Đây là những vật rơi ra từ &9&lQuản ngục khi chết. Đừng lo lắng, anh ấy thường đánh rơi nhiều hơn một!"]
+	quest.45C9D975E3731DFE.title: "&9Gia cố Echo Shard"
+	quest.4A01C5F5DCF32C19.quest_desc: ["&3Soul Elytra hoạt động giống như &8Elytra bình thường, giờ đây có thêm Độ bền và Armor Points! \n\nChúng không thể được sửa chữa bằng &7Phantom Membranes như bình thường của &8Elytras... nhưng Enchantments vẫn có thể sửa chữa chúng! \n\nĐể chế tạo một cái, bạn sẽ cần &8Elytra, 4 &3Sculk Bones rơi ra từ &3Shattered&r, 2 &3Soul Dust rơi ra từ &3Sculk Snappers &cho &3Sculk Leeches&r, và &3Soul Crystal rơi ra từ &3&lStalker."]
 	quest.4A01C5F5DCF32C19.title: "&3Soul Elytra"
 	quest.4D57A07592AED307.quest_desc: [
-		"The &3&lStalker&r is a Boss that can be spawned by breaking Ancient Vases. \\n\\nHe has 200 &4Hearts&r and a Boss Bar to keep track. We'll need to kill him to get &3Soul Crystals&r. \\n\\nHe is very fast and does a ton of Damage if he Hits you. Thankfully he is Blind, like the &9&lWarden&r. But he also has an amazing sense of hearing which allows him to hear everything nearby. \\n\\nHe has a few attacks, normally he will just Hit you. Sometimes he might cause an AOE attack and can summon &3Sculk Leeches&r to attack you! \\n\\nHe'll also attack every non-&3Sculk&r Mob."
+		"&3&lStalker là một Boss có thể được sinh ra bằng cách phá vỡ Ancient Vases. \n\nAnh ấy có 200 &4Trái tim và Boss Bar để theo dõi. Chúng ta cần phải giết hắn để lấy &3Soul Crystals. \n\nAnh ta rất nhanh và gây ra rất nhiều sát thương nếu đánh bạn. Rất may là anh ta bị mù, giống như &9&lWarden. Nhưng anh ấy cũng có thính giác tuyệt vời cho phép anh ấy nghe thấy mọi thứ ở gần. \n\nAnh ta có một vài đòn tấn công, bình thường anh ta sẽ chỉ đánh bạn. Đôi khi anh ta có thể gây ra đòn tấn công AOE và có thể triệu hồi &3Sculk Leeches để tấn công bạn! \n\nAnh ta cũng sẽ tấn công mọi Mob không phải &3Sculk."
+
 		"{image:atm:textures/questpics/deepndark/dnd_stalker.png width:100 height:200 align:center}"
 	]
 	quest.4D57A07592AED307.title: "&3&lStalker"
-	quest.56D41A4605C42EB5.quest_desc: ["&6Crystallized Amber&r spawns within &cOvercast Columns&r. \\n\\nYou'll need Silk Touch to grab them. \\n\\nThey don't do much, but they look pretty!"]
-	quest.56D41A4605C42EB5.title: "&6Crystallized Amber"
+	quest.56D41A4605C42EB5.quest_desc: ["&6Hổ phách kết tinh xuất hiện trong &cCột u ám. \n\nBạn sẽ cần Silk Touch để lấy chúng. \n\nHọ không làm gì nhiều, nhưng họ trông rất đẹp!"]
+	quest.56D41A4605C42EB5.title: "&6Hổ phách kết tinh"
 	quest.5866438E5D19AB69.quest_desc: [
-		"&3Sculk Leeches&r can sometimes spawn from broken Ancient Vases. \\n\\nIt acts as a little surprise for you when 2 spawn out! \\n\\nThey only have 2 &4Hearts&r and will attack you despise that. \\n\\nOn death they will drop &3Soul Dust&r."
+		"Đỉa &3Sculk đôi khi có thể sinh ra từ Ancient Vases bị hỏng. \n\nBạn sẽ có chút bất ngờ khi có 2 con xuất hiện! \n\nHọ chỉ có 2 & 4Hearts và sẽ tấn công bạn coi thường điều đó. \n\nKhi chết chúng sẽ rơi ra &3Soul Dust."
+
 		"{image:atm:textures/questpics/deepndark/dnd_leech.png width:100 height:100 align:center}"
 	]
-	quest.5866438E5D19AB69.title: "&3Sculk Leech"
+	quest.5866438E5D19AB69.title: "&3Đỉa Sculk"
 	quest.59AF80E8EE17C769.quest_desc: [
-		"The &5Echoing Forest&r is a little plain but it also houses the &5Echoing Trees&r! \\n\\nThe &5Echoing Trees&r act like normal Trees, you can Mine their &aLogs&r for Crafting and their &5Leaves&r will drop Saplings. You can also find Sculk Gleam within the Leaves. \\n\\nAround it you will find &5Echoing Soil&r all over the surface. These unfortunately can not be made into Farmland or Dirt, they're just Blocks."
+		"Khu &5Rừng vang vọng hơi đơn sơ nhưng cũng có &5Cây dội âm! \n\nCây &5Echoing hoạt động giống như Cây bình thường, bạn có thể Khai thác &aLog của chúng để Chế tạo và &5Leaves của chúng sẽ rơi ra Cây con. Bạn cũng có thể tìm thấy Sculk Gleam trong Lá. \n\nXung quanh nó bạn sẽ tìm thấy &5Echoing Soil trên khắp bề mặt. Thật không may, những thứ này không thể biến thành Farmland hoặc Dirt, chúng chỉ là Khối."
+
 		"{image:atm:textures/questpics/deepndark/dnd_forest.png width:200 height:100 align:center}"
 	]
-	quest.59AF80E8EE17C769.title: "&5Echoing Forest"
-	quest.5C983A41886A2B75.quest_desc: ["To get back to the &2&lOverworld&r, we can leave the same way we came! \\n\\nUse the &9Heart of the Deep&r on a Frame of &8Reinforced Deepslate&r. \\n\\nLuckily we get one of those within the bottom of the &6Ancient Temple&r."]
-	quest.5C983A41886A2B75.title: "Home, Sweet Home!"
-	quest.5CCF573B67317591.quest_desc: ["&bGlowing Roots&r spawn in &bBlooming Caverns&r. \\n\\nThey can't be Climbed and don't drop Food... I think they are just for decor."]
-	quest.5CCF573B67317591.title: "&bGlowing Roots"
+	quest.59AF80E8EE17C769.title: "&5Rừng vang vọng"
+	quest.5C983A41886A2B75.quest_desc: ["Để quay trở lại &2&lOverworld, chúng ta có thể rời đi theo cách mà chúng ta đã đến! \n\nSử dụng &9Heart of the Deep trên Khung &8Đá phiến sâu được gia cố. \n\nMay mắn thay, chúng tôi có được một trong những thứ đó ở dưới cùng của &6Chùa cổ."]
+	quest.5C983A41886A2B75.title: "Trang chủ, Sweet Home!"
+	quest.5CCF573B67317591.quest_desc: ["&bRễ phát sáng xuất hiện trong &bBlooming Caverns. \n\nChúng không thể Leo lên và không làm rơi Thức ăn... Tôi nghĩ chúng chỉ để trang trí."]
+	quest.5CCF573B67317591.title: "&bRễ phát sáng"
 	quest.5E287410EE969244.quest_desc: [
-		"&9Shattered&r spawn in quite a few Biomes in the &3&lOtherside&r. \\n\\nThey act like mini &9&lWardens&r, being Blind relying on &3Sculk&r to find Enemies. They also attack all non-&3Sculk&r Mobs. \\n\\n&9Shattereds&r have 50 &4Hearts&r and pack quite a punch! So careful to not attract too many. \\n\\nIf you can kill them, they'll drop &9Sculk Bones&r. These will be needed for a few Recipes."
+		"&9Shattered xuất hiện ở khá nhiều Quần xã trong &3&lOtherside. \n\nHọ hành động giống như &9&lWardens’s nhỏ, bị mù dựa vào &3Sculk để tìm Kẻ thù. Chúng cũng tấn công tất cả các Mob không thuộc &3Sculk. \n\n&9Shattereds có 50 &4Trái tim và có sức mạnh khá lớn! Vì vậy, hãy cẩn thận để không thu hút quá nhiều. \n\nNếu bạn có thể giết chúng, chúng sẽ rơi ra &9Sculk Bones. Những thứ này sẽ cần thiết cho một số Công thức nấu ăn."
+
 		"{image:atm:textures/questpics/deepndark/dnd_shattered.png width:100 height:150 align:center}"
 	]
 	quest.5E287410EE969244.title: "&9Shattered"
 	quest.60721C9B94B36C24.quest_desc: [
-		"&3Sculk Centipedes&r are long neutral Mobs that spawn in the &3&lOtherside&r. \\n\\nThey have 10 &4Hearts&r and will attack in a group if Hit, like Wolves. \\n\\nThey only drop &aXP&r and maybe String, so best to leave them be!"
+		"&3&lRết Sculk là những Mob trung lập dài xuất hiện ở &3&lOtherside. \n\nChúng có 10 & 4 Trái tim và sẽ tấn công theo nhóm nếu trúng đòn, giống như Sói. \n\nHọ chỉ thả &aXP và có thể cả String, vậy nên tốt nhất cứ để chúng như vậy!"
+
 		"{image:atm:textures/questpics/deepndark/dnd_centipede.png width:100 height:100 align:center}"
 	]
-	quest.60721C9B94B36C24.title: "&3Sculk Centipede"
-	quest.67D38E8A57949B34.quest_desc: ["&3Sculk Jaws&r are Blocks we can find within the &9Deeplands&r. \\n\\nWhen you accidentally walk over them they'll bite you, this drags you down and deals Damage when you are stuck in them. \\n\\nYou can take them by using Silk Touch."]
-	quest.67D38E8A57949B34.title: "&3Sculk Jaw"
+	quest.60721C9B94B36C24.title: "&3Rết Sculk"
+	quest.67D38E8A57949B34.quest_desc: ["&3Sculk Jaws là các Khối chúng ta có thể tìm thấy trong &9Deeplands. \n\nKhi bạn vô tình bước qua chúng, chúng sẽ cắn bạn, điều này sẽ kéo bạn xuống và gây sát thương khi bạn mắc kẹt trong chúng. \n\nBạn có thể lấy chúng bằng cách sử dụng Silk Touch."]
+	quest.67D38E8A57949B34.title: "&3Hàm Sculk"
 	quest.68446510A1B0D9B8.quest_desc: [
-		"The &bBlooming Caverns&r are more like Lush Caves than normal Caves. I say that because of the abundance of PLANTS! \\n\\nYou'll find Plants growing from the ceiling to the floor, Plants growing from the floor to the ceiling, Plants growing from the &9Water&r, and Plants not even Growing at all! \\n\\nThe floor is covered in &bBlooming Sculk Stone&r and even &bBlooming Moss&r. \\n\\nThere's even Water Ponds here, the only place you can find &9Water&r in this &3&lDimension&r."
+		"Hang động &blooming giống Lush Caves hơn so với Hang động bình thường. Tôi nói vậy vì có quá nhiều PLANTS! \n\nBạn sẽ tìm thấy Cây mọc từ trần đến sàn, Cây mọc từ sàn đến trần, Cây mọc từ &9Water, và Cây thậm chí không phát triển chút nào! \n\nSàn nhà được bao phủ bởi &bBlooming Sculk Stone và thậm chí cả &bBlooming Moss. \n\nThậm chí còn có Water Ponds ở đây, nơi duy nhất bạn có thể tìm thấy &9Water trong &3&lDimension&r này."
+
 		"{image:atm:textures/questpics/deepndark/dnd_cave.png width:200 height:100 align:center}"
 	]
-	quest.68446510A1B0D9B8.title: "&bBlooming Caverns"
-	quest.6BB948F44B0950E8.quest_desc: ["&3Sculk Stone&r spawns pretty much everywhere but &cOvercast Columns&r. \\n\\nIt works like normal &7Stone&r, like in every single way. You can smelt Cobbled versions to get &3Sculk Stone&r which can then be made into many other Building Blocks. \\n\\nUnfortunately it can't be used to make Stone Tools though... wait what do you care you killed the &9&lWarden&r! Why do you need Stone Tools?!?!?!"]
-	quest.6BB948F44B0950E8.title: "&3Sculk Stone"
-	quest.6E38CF6E7360E9CA.quest_desc: ["The &9&lWarden&r will drop quite a few Items but the &9Heart of the Deep&r is most important. \\n\\nWe can use the &9Heart of the Deep&r on a frame of &8Reinforced Deepslate&r to get our Portal to the &3&lOtherside&r. There can't be any Blocks blocking the Portal Frame or else it won't work. \\n\\nHe also drops &9Warden Carapace&r and &9Echo Shards&r, both will be useful for Crafting other Items!"]
-	quest.6E38CF6E7360E9CA.title: "&9Heart of the Deep"
-	quest.6E901EF1CB411088.quest_desc: ["&9Warden Armor&r is direct upgrade to &cNetherite&r. Just use a &9Warden Upgrade Template&r, a &9Reinforced Echo Shard&r, and a piece of &cNetherite Armor&r to make it. \\n\\nEach piece has 1 more Armor Point and 1 more Armor Protection compared to its &cNetherite&r counterpart. \\n\\nNo more Knockback Resistance though. \\n\\nThey atleast look much cooler than &cNetherite&r though! The &9Helmet&r has giant horns like the &9&lWarden&r and the &9Chestplate&r has a heart spot."]
+	quest.68446510A1B0D9B8.title: "&b Hang động nở hoa"
+	quest.6BB948F44B0950E8.quest_desc: ["&3Sculk Stone xuất hiện khá nhiều ở mọi nơi ngoại trừ &cOvercast Columns. \n\nNó hoạt động giống như &7Stone bình thường, giống như mọi cách. Bạn có thể nấu chảy các phiên bản Cobbled để lấy &3Sculk Stone, sau đó có thể chế tạo thành nhiều Khối Xây dựng khác. \n\nThật không may, nó không thể được sử dụng để tạo ra Stone Tools... chờ đã, bạn quan tâm đến điều gì khi bạn đã giết &9&lWarden! Tại sao bạn cần Stone Tools?!?!?!"]
+	quest.6BB948F44B0950E8.title: "&3Sculk Đá"
+	quest.6E38CF6E7360E9CA.quest_desc: ["&9&lWarden sẽ đánh rơi khá nhiều Vật phẩm nhưng &9Heart of the Deep là quan trọng nhất. \n\nChúng ta có thể sử dụng &9Heart of the Deep trên khung của &8Reinforced Deepslate để đưa Cổng thông tin của chúng ta đến &3&lOtherside. Không thể có bất kỳ Khối nào chặn Portal Frame nếu không nó sẽ không hoạt động. \n\nAnh ta cũng đánh rơi &Mảnh 9Warden Carapace và &Mảnh 9Echo, cả hai đều hữu ích cho việc Chế tạo các Vật phẩm khác!"]
+	quest.6E38CF6E7360E9CA.title: "&9Trái tim vực sâu"
+	quest.6E901EF1CB411088.quest_desc: ["&9Warden Armor là bản nâng cấp trực tiếp lên &cNetherite. Chỉ cần sử dụng &9Warden Upgrade Template&r, &9Reinforced Echo Shard&r và một mảnh &cNetherite Armor để tạo ra nó. \n\nMỗi mảnh có thêm 1 Armor Point và thêm 1 Armor Protection so với đối tác &cNetherite của nó. \n\nTuy nhiên, không còn Knockback Resistance nữa. \n\nÍt nhất chúng trông ngầu hơn nhiều so với &cNetherite! &9&9Helmet có cặp sừng khổng lồ giống như &9&lWarden và &9Chestplate của có một điểm hình trái tim."]
 	quest.6E901EF1CB411088.title: "&9Warden&rArmor"
-	quest.716FF64ACF896D50.quest_desc: ["&cGloomslate&r replaces &3Sculk Stone&r in the &cOvercast Columns&r. \\n\\nIt works just like &3Sculk Stone&r, just more Brown."]
+	quest.716FF64ACF896D50.quest_desc: ["&cGloomslate thay thế &3Sculk Stone trong &cOvercast Columns&r. \n\nNó hoạt động giống như &3Sculk Stone, chỉ có màu nâu hơn."]
 	quest.716FF64ACF896D50.title: "&cGloomslate"
-	quest.726A627BD7654E0C.quest_desc: ["Not much change from &cNetherite&r to &9Warden&r for these Tools. \\n\\nThe Pickaxe is same Tier and same Speed. Shovels can still make Pathways and again same Speed. Hoes can still make Farmland and also same Speed. \\n\\nOnly real change is higher Attack Damage for all of them. \\n\\nFunny enough that means &9Warden Hoes&r have higher Damage than all &2&lVanilla&r Hoes!"]
+	quest.726A627BD7654E0C.quest_desc: ["Không có nhiều thay đổi từ &cNetherite đến &9Warden cho các Công cụ này. \n\nCuốc có cùng Cấp và cùng Tốc độ. Xẻng vẫn có thể tạo Đường đi và lại có cùng Tốc độ. Cuốc vẫn có thể tạo ra Đất Nông nghiệp và Tốc độ tương tự. \n\nChỉ có sự thay đổi thực sự là cao hơn Attack Damage đối với tất cả chúng. \n\nThật buồn cười khi điều đó có nghĩa là cuốc của &9Warden có sát thương cao hơn tất cả cuốc của &2&lVanilla!"]
 	quest.726A627BD7654E0C.title: "&9Warden&rTools"
-	quest.72EC845C19645AFC.quest_desc: ["&3Sculk Vines&r are the &3Sculk&r version of &4Weeping Vines&r. \\n\\nThey can spawn within &bBlooming Caverns&r and &9Deeplands&r."]
-	quest.72EC845C19645AFC.title: "&3Sculk Vines"
+	quest.72EC845C19645AFC.quest_desc: ["&3Sculk Vines là phiên bản &3Sculk của &4Weeping Vines. \n\nChúng có thể sinh sản trong &blooming caverns và &9Deeplands."]
+	quest.72EC845C19645AFC.title: "&3Cây nho Sculk"
 	quest.736F4A43EEBDD7B3.quest_desc: [
-		"&3Sculk Snappers&r are tiny but angry Mobs! \\n\\nI've seen them spawn in &9Deeplands &fand &cBlooming Caverns&r. \\n\\nThey have 6 &4Hearts&r and will drop &3Soul Dust&r on Death."
+		"&3Sculk Snappers là những Mob nhỏ bé nhưng đầy giận dữ! \n\nTôi đã thấy chúng sinh sản trong &9Deeplands &fand &cBlooming Caverns&r. \n\nHọ có 6 &4 Trái tim và sẽ rơi ra &3 Bụi linh hồn khi chết."
+
 		"{image:atm:textures/questpics/deepndark/dnd_snapper.png width:100 height:100 align:center}"
 	]
-	quest.736F4A43EEBDD7B3.title: "&3Sculk Snapper"
-	quest.76F14C2B866B4EAD.quest_desc: ["The &3&lOtherside&r is the birthplace of &3Sculk &fand &3Sculk creatures&r, including the &9&lWarden&r. \\n\\nHere you'll find many of his distant cousins, but don't worry there's also a few plus-sides to the &3&lOtherside&r! \\n\\nThere's plenty of new Building Blocks and Items we can find and &3Sculk&r everywhere for tons of &aXP&r! \\n\\nSo get your Hoe ready and adventure into the &3&lOtherside&r!"]
-	quest.76F14C2B866B4EAD.quest_subtitle: "Hello from..."
-	quest.76F14C2B866B4EAD.title: "The&3&lOtherside"
+	quest.736F4A43EEBDD7B3.title: "&3Cá hồng Sculk"
+	quest.76F14C2B866B4EAD.quest_desc: ["&3&lOtherside’s là nơi sinh của các sinh vật &3Sculk &fand &3Sculk, bao gồm cả &9&lWarden&r. \n\nỞ đây bạn sẽ tìm thấy nhiều anh em họ xa của anh ấy, nhưng đừng lo lắng cũng có một số mặt tích cực của &3&lOtherside! \n\nCó rất nhiều Khối xây dựng và Vật phẩm mới mà chúng ta có thể tìm thấy và &3Sculk ở khắp mọi nơi với hàng tấn &aXP! \n\nVì vậy hãy chuẩn bị cuốc và phiêu lưu vào &3&lOtherside!"]
+	quest.76F14C2B866B4EAD.quest_subtitle: "Xin chào từ..."
+	quest.76F14C2B866B4EAD.title: "The&3&lBên cạnh đó"
 	quest.774D61FEFABEFD9A.quest_desc: [
-		"Shriek Worms spawn from stepping on &3Infested Sculk&r in &9Deeplands&r. \\n\\nThey are Mini bosses with 100 &4Hearts&r. \\n\\nIf you get too close they'll bite you, causing a ton of Damage! But if you go too far they'll retreat back down into the ground. \\n\\nThey don't drop anything but a bit of &aXP&r, which I don't think is worth the trouble."
+		"Shriek Worms sinh ra khi dẫm lên &3Infested Sculk ở &9Deeplands. \n\nHọ là những ông chủ nhỏ với 100 &4Trái tim. \n\nNếu bạn đến quá gần, chúng sẽ cắn bạn, gây ra rất nhiều sát thương! Nhưng nếu bạn đi quá xa, chúng sẽ rút lui xuống lòng đất. \n\nHọ không bỏ bất cứ thứ gì ngoại trừ một chút &aXP, thứ mà tôi không nghĩ là đáng để bận tâm."
+
 		"{image:atm:textures/questpics/deepndark/dnd_worm.png width:100 height:200 align:center}"
 	]
 	quest.774D61FEFABEFD9A.title: "Shriek Worm"
-	quest.78BCED8699ADEDF4.quest_desc: ["&3Soundproof Glass&r is made by combining &3Soul Dust&r and Glass. \\n\\nThese work at dampening Sound just like Wool! If a &3Sculk Sensor &for &3Shrieker&r has one covering them, they won't hear Sounds. \\n\\nJust these you can see through!"]
-	quest.78BCED8699ADEDF4.title: "&3Soundproof Glass"
-	quest.7CBAA67204CC258C.quest_desc: ["No, the &9&lWarden&r doesn't use Swords and Axes. But we can! \\n\\nBoth the &9Warden Sword &fand &9Axe&r are upgrades of their &cNetherite versions&r with a &9Reinforced Echo Shard &fand &9Warden Upgrade Template&r. \\n\\nThey each have 1 &4Heart&r of Damage more and even more Durability! \\n\\nYes, the Axe can still efficiently chop down Trees."]
+	quest.78BCED8699ADEDF4.quest_desc: ["&3Kính cách âm được tạo ra bằng cách kết hợp &3Soul Dust và Glass. \n\nNhững thứ này có tác dụng làm giảm âm thanh giống như Wool! Nếu Cảm biến &3Sculk &cho &3Shrieker có một cái che chúng, chúng sẽ không nghe thấy Âm thanh. \n\nChỉ những điều này bạn có thể nhìn xuyên qua!"]
+	quest.78BCED8699ADEDF4.title: "&3Kính cách âm"
+	quest.7CBAA67204CC258C.quest_desc: ["Không, &9&lWarden không sử dụng Kiếm và Rìu. Nhưng chúng ta có thể! \n\nCả &9Warden Sword &fand &9Axe đều là bản nâng cấp của phiên bản &cNetherite của họ với &9Reinforced Echo Shard &fand &9Warden Upgrade Template&r. \n\nMỗi người đều có sát thương 1 & 4 trái tim và độ bền thậm chí còn cao hơn! \n\nĐúng vậy, Rìu vẫn có thể chặt cây một cách hiệu quả."]
 	quest.7CBAA67204CC258C.title: "&9Warden&rWeapons"
-	quest.7FF3EA602FE7A546.quest_desc: ["The &3Sculk Transmitter&r is a very rare Item we can find within Chests of the &6Ancient Temple&r. \\n\\nOnce you do find one, it'll be your Bestfriend! \\n\\nTo use it, simply Shift Right Click a Block that has a GUI, think of: Chests, Crafting Tables, and Furnaces. Then, the &3Transmitter&r will be bound to that Item. \\n\\nAfter that, we can use the &3Transmitter&r to remotely access that Block from wherever! \\n\\nTo unbind the Block, Shift Right Click the Air with the &3Transmitter&r."]
-	quest.7FF3EA602FE7A546.title: "&3Sculk Transmitter"
+	quest.7FF3EA602FE7A546.quest_desc: ["Máy phát &3Sculk là một Vật phẩm rất hiếm mà chúng ta có thể tìm thấy trong Rương của &6Chùa Cổ. \n\nKhi bạn tìm thấy một người, đó sẽ là Người bạn thân nhất của bạn! \n\nĐể sử dụng nó, chỉ cần Shift Right Click một Khối có GUI, hãy nghĩ đến: Rương, Bàn chế tạo và Lò nung. Sau đó, &3Transmitter sẽ được liên kết với Item đó. \n\nSau đó, chúng ta có thể sử dụng &3Transmitter để truy cập từ xa vào Khối đó từ bất cứ đâu! \n\nĐể hủy liên kết Khối, Shift Right Click Air với &3Transmitter."]
+	quest.7FF3EA602FE7A546.title: "&3Máy phátSculk"
 	task.5B7FD7C2F05FA64D.title: "AllRightsReserved"
 }
