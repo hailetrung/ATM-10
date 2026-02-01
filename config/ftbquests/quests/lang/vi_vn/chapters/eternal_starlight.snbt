@@ -1,218 +1,247 @@
 {
-	quest.00453FF528AA0B1C.quest_desc: ["Lonestar Skeletons are hostile Mobs that can spawn anywhere. \\n\\nThey have 10 Hearts and will throw their Sword at you to attack you. \\n\\nOn death they can drop Bones, Swamp Silver Nuggets, Shattered Swords, and the drops added by Corail for Undead Mobs."]
+	quest.00453FF528AA0B1C.quest_desc: ["Lonestar Skeletons là những Mob thù địch có thể xuất hiện ở bất cứ đâu. \n\nHọ có 10 Trái tim và sẽ ném Thanh kiếm của họ vào bạn để tấn công bạn. \n\nKhi chết, họ có thể rơi ra Xương, Swamp Silver Nuggets, Shattered Swords và những thứ được Corail thêm vào cho Undead Mobs."]
 	quest.00453FF528AA0B1C.title: "Lonestar Skeletons"
-	quest.01F322AEFCC6109E.quest_desc: ["Tangled Skulls can be dropped from... well Tangled Skulls. \\n\\nThey can be used as a projectile like a Wither Head thrown from a Wither. \\n\\nIt will be used up when you do that though."]
+	quest.01F322AEFCC6109E.quest_desc: ["Tangled Skulls có thể bị rơi từ... à Tangled Skulls. \n\nChúng có thể được sử dụng làm đạn giống như Wither Head được ném từ Wither. \n\nTuy nhiên, nó sẽ được sử dụng hết khi bạn làm điều đó."]
 	quest.02B574B09AB45D09.quest_desc: [
-		"Freezes work similar to Blazes, they'll fly up and shoot a ball at you. \\n\\nJust Freezes only throw 1 ball and it will make you cold instead of warm. \\n\\nThey have 16 Hearts and will drop Frozen Tubes on death."
+		"Freeze hoạt động tương tự như Blaze, chúng sẽ bay lên và bắn một quả bóng vào bạn. \n\nJust Freezes chỉ ném 1 quả bóng sẽ khiến bạn lạnh thay vì ấm. \n\nHọ có 16 Trái tim và sẽ rơi ra Frozen Tubes khi chết."
+
 		"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
 	]
 	quest.02B574B09AB45D09.title: "Freeze"
-	quest.0342248394E40B6A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.0342248394E40B6A.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
 	quest.03B40AB768FC0161.quest_desc: [
-		"Shimmer Rivers are friendly rivers. These won't go out of their way to kill you. \\n\\nThey sometimes connect Seas together and go through Forests. \\n\\nClearly they have Water but within the Water is plenty of goods!"
+		"Shimmer Rivers là những dòng sông thân thiện. Những thứ này sẽ không có cách nào để giết bạn. \n\nĐôi khi chúng kết nối các Biển lại với nhau và đi xuyên qua Rừng. \n\nRõ ràng là họ có Nước nhưng bên trong Nước lại có rất nhiều hàng hóa!"
+
 		"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
 	]
 	quest.03B40AB768FC0161.title: "Shimmer River"
 	quest.0576C32B0FB360B0.quest_desc: [
-		"The Lunar Monstrosity has 200 Hearts and will only take 1 damage from each hit unless you use Fire. \\n\\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \\n\\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, Tenacious Petals, Trapped Souls, and a chance at a rare Weapon!"
+		"Lunar Monstrosity có 200 Hearts và sẽ chỉ nhận 1 sát thương từ mỗi đòn đánh trừ khi bạn sử dụng Fire. \n\nNó có một số đòn tấn công bao gồm Ground Spikes, Đạn và Đầu nổ rối! \n\nKhi bạn giết nó, nó sẽ rơi ra Mũi tên, Thỏi, Tangled Skulls, Tenacious Petals, Trapped Souls và cơ hội nhận được Vũ khí hiếm!"
+
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
 	quest.0576C32B0FB360B0.title: "Lunar Monstrosity"
 	quest.0BB8D556305EB307.quest_desc: [
-		"Ether River is something you'll know when you see it. \\n\\nIt's bright, very bright and might appear red in your Map, that's a bug ignore that. "
+		"Ether River là thứ bạn sẽ biết khi nhìn thấy nó. \n\nNó sáng, rất sáng và có thể xuất hiện màu đỏ trên Bản đồ của bạn, đó là một lỗi, hãy bỏ qua điều đó."
+
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
 	quest.0BB8D556305EB307.title: "Ether River"
-	quest.0C096EE635645E43.quest_desc: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
-	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees range in size and shape and even sometimes fallen down! \\n\\nBut all have pink leaves! Including the ones on the ground."]
-	quest.0F4783FA019C4567.quest_desc: ["Amaraber is found rarely by stripping Torreya Logs. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
+	quest.0C096EE635645E43.quest_desc: ["Nỏ Pha Lê được chế tạo giống như Mechanical Crossbow chỉ bằng Pha lê thay vì gậy. \n\nNó bắn Mũi tên và gây sát thương tương tự như Nỏ bình thường nhưng cái này mang lại Crystal Infection. Crystal Infection gây 1 sát thương mỗi giây với Pha lê sinh ra trên chúng! Và vâng, nó sẽ giết họ."]
+	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees đa dạng về kích thước và hình dạng và thậm chí đôi khi còn rơi xuống! \n\nNhưng tất cả đều có lá màu hồng! Bao gồm cả những người trên mặt đất."]
+	quest.0F4783FA019C4567.quest_desc: ["Amaraber hiếm khi được tìm thấy bằng cách tước Torreya Logs. \n\nNó có thể được chế tạo thành Thỏi để chế tạo Áo giáp và Công cụ hoặc được sử dụng trong các công thức nấu ăn khác như lửa trại để bạn có thể hồi phục!"]
 	quest.10AB188AC6FB24D3.quest_desc: [
-		"The Starlight Golem has 220 Hearts and 2 Modes. \\n\\n1st mode is his attack mode, here he can't be damaged instead you'll have to wait for his attacks to go before hitting him. He attacks with Fireballs, Ground Pound, or a devastating Laser Beam! \\n\\nHis 2nd mode is his charging mode; in this one he'll begin taking power from the Energy Blocks which will need to be turned off in order to damage him. \\n\\nOn death he will drop plenty of Ingots and Arrows, Golem Steel, Forge Armor Trim, and maybe even the Energy Sword!"
+		"Starlight Golem có 220 Trái tim và 2 Chế độ. \n\nChế độ thứ nhất là chế độ tấn công của anh ta, ở đây anh ta không thể bị sát thương thay vào đó bạn sẽ phải đợi đòn tấn công của anh ta kết thúc trước khi đánh anh ta. Anh ta tấn công bằng Quả cầu lửa, Ground Pound hoặc Laser Beam có ​​sức tàn phá khủng khiếp! \n\nChế độ thứ 2 của anh ấy là chế độ sạc; trong phần này, anh ta sẽ bắt đầu lấy năng lượng từ Energy Blocks cần phải tắt để gây sát thương cho anh ta. \n\nKhi chết, anh ta sẽ đánh rơi rất nhiều Thỏi và Mũi tên, Golem Steel, Forge Armor Trim, và thậm chí có thể là Energy Sword!"
+
 		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
 	]
 	quest.10AB188AC6FB24D3.title: "Starlight Golem"
-	quest.127D085D6C9DB690.quest_desc: ["Saltpeter can be found anywhere Underground but very common in the Warm Shore Biome. \\n\\nIt needs a Stone Pickaxe to mine it and when mined it will drop a couple Saltpeter Powder. Yes, Fortune works on it! \\n\\nThe Powder can be used as a replacement for other Niters."]
-	quest.144ECED643031A9A.quest_desc: ["Glowing Mushrooms are huge Mushroom plants you can find in the Scarlet Forests! \\n\\nThey function just like Brown or Red Mushrooms just these ones Glow much brighter! \\n\\n(If you didn't know Brown and Red Mushrooms actually emit a Light Source level of 1)."]
-	quest.15195F456D8AD4C8.quest_desc: ["When Ether touches Water Thioquartz will form. This can happen naturally with random generation or you can make it happen! \\n\\nThese aren't how we get Shards though, those are from Budding Thioquartz!"]
-	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords can either be dropped from Lonestar Skeletons or crafted using the dropped Blades. \\n\\nThe Shattered Sword is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the Blade like a Loyalty Trident, and Right Click again to reload it if needed."]
-	quest.17D82EEA20D02EC8.quest_desc: ["Lining the Sea floor is Dusted Gravel. \\n\\nIt can be used as a replacement for normal Gravel and can rarely drop Dusted Shards which can make other Blocks!"]
+	quest.127D085D6C9DB690.quest_desc: ["Saltpeter có thể được tìm thấy ở bất cứ đâu dưới lòng đất nhưng rất phổ biến ở Warm Shore Biome. \n\nNó cần một Stone Pickaxe để khai thác và khi khai thác nó sẽ rơi ra một vài Saltpeter Powder. Vâng, Fortune đã làm được điều đó! \n\nBột có thể được sử dụng để thay thế cho các Niters khác."]
+	quest.144ECED643031A9A.quest_desc: ["Nấm Phát Sáng là những cây Nấm khổng lồ mà bạn có thể tìm thấy trong Scarlet Forests! \n\nChúng hoạt động giống như màu Nâu hoặc Red Mushrooms chỉ những cái này Phát sáng hơn nhiều! \n\n(Nếu bạn không biết Brown và Red Mushrooms thực sự phát ra mức Light Source là 1)."]
+	quest.15195F456D8AD4C8.quest_desc: ["When Ether chạm vào Water Thioquartz sẽ hình thành. Điều này có thể xảy ra một cách tự nhiên với việc tạo ngẫu nhiên hoặc bạn có thể khiến nó xảy ra! \n\nTuy nhiên, đây không phải là cách chúng tôi có được Mảnh vỡ, đó là từ Thioquartz vừa chớm nở!"]
+	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords có thể rơi ra từ Lonestar Skeletons hoặc được chế tạo bằng Lưỡi dao rơi ra. \n\nShattered Sword được sử dụng giống như Trident hơn là Sword, thay vì đánh bạn sẽ ném nó. Sau đó, bạn có thể Right Click để mang Blade trở lại như Loyalty Trident và Right Click lần nữa để tải lại nếu cần."]
+	quest.17D82EEA20D02EC8.quest_desc: ["Lót đáy biển là Dusted Gravel. \n\nNó có thể được sử dụng để thay thế cho Gravel bình thường và hiếm khi rơi ra Dusted Shards để có thể tạo ra các Khối khác!"]
 	quest.17EC65B33AC5F0B4.quest_desc: [
-		"Thirst Walkers are neutral Mobs that spawn on the surface of the Crystallized Deserts. \\n\\nWhen aggro-ed they will hit you and give you Hunger. \\n\\nThey have 20 Hearts and can drop Tooth of Hunger on death."
+		"Thirst Walkers là các Mob trung lập xuất hiện trên bề mặt của Crystallized Deserts. \n\nKhi hung hãn chúng sẽ đánh bạn và khiến bạn Đói. \n\nChúng có 20 Trái tim và có thể đánh rơi Răng Đói khi chết."
+
 		"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
 	]
 	quest.17EC65B33AC5F0B4.title: "Thirst Walker"
 	quest.1815A439BA9879B7.quest_desc: [
-		"The Warm Shore is a pretty boring Biome and is mostly for connecting the Starlit Sea and land. \\n\\nIt has Twilight Sand with Stone beneath it. I also found, more than usual, Saltpeter here."
+		"Warm Shore là một Quần xã khá nhàm chán và chủ yếu dùng để kết nối Starlit Sea và đất liền. \n\nNó có Twilight Sand với Đá bên dưới. Tôi cũng tìm thấy Saltpeter ở đây nhiều hơn bình thường."
+
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
 	quest.1815A439BA9879B7.title: "Warm Shore"
 	quest.1AB17923F87AE264.quest_desc: [
-		"The Yeti is a name that strikes fear into all those who explore the Cold! An abominable furry creature that lives in the harshest coldest climate eating anything that dare venture there! \\n\\nWell not this Yeti, these ones are cute and friendly! They'd rather roll around than eat you. \\n\\nHeck they don't even fight back and only have 10 Hearts. \\n\\nOn death they will drop their Fur and String, the former which can be used as a replacement for Wool."
+		"Yeti là cái tên gây sợ hãi cho tất cả những ai khám phá Lạnh giá! Một sinh vật có lông đáng ghê tởm sống ở vùng khí hậu lạnh giá khắc nghiệt nhất, ăn bất cứ thứ gì dám mạo hiểm ở đó! \n\nChà, không phải Yeti này, những người này thật dễ thương và thân thiện! Họ thà lăn lộn hơn là ăn thịt bạn. \n\nChết tiệt, họ thậm chí không đánh trả và chỉ có 10 Trái tim. \n\nKhi chết, chúng sẽ đánh rơi Lông và Dây, những thứ trước đây có thể được sử dụng để thay thế cho Len."
+
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
-	quest.1BE8F864AB9147C0.quest_desc: ["Atalphaite Ore can be found when Mining anywhere underground in the Starlight. \\n\\nIt can't be made into Tools or Armor but it can make different types of Lights!"]
-	quest.1ECD4331DDFBBB52.quest_desc: ["Torreya Trees are huge purple/pink Trees that stand around 40 Blocks tall. \\n\\nThe leaves will sprout out in every direction and the Torreya Vines hang from them."]
+	quest.1BE8F864AB9147C0.quest_desc: ["Atalphaite Ore có thể được tìm thấy khi Khai thác ở bất kỳ đâu dưới lòng đất trong Starlight. \n\nNó không thể chế tạo thành Công cụ hoặc Áo giáp nhưng nó có thể tạo ra nhiều loại Đèn khác nhau!"]
+	quest.1ECD4331DDFBBB52.quest_desc: ["Torreya Trees là những Cây khổng lồ màu tím/hồng cao khoảng 40 Khối. \n\nNhững chiếc lá sẽ mọc ra theo mọi hướng và Torreya Vines treo trên chúng."]
 	quest.252AD9C886DE45C8.quest_desc: [
-		"Twilight Gaze are a neutral Fish located in The Abyss. \\n\\nIf you hit one, all will attack you, similar to Wolves or Zombified Piglins. If you get too far from The Abyss they will stop following you and swim back to the depths. \\n\\nThey don't drop anything on death so maybe don't hit them..."
+		"Twilight Gaze là loài Cá trung lập nằm trong The Abyss. \n\nNếu bạn đánh trúng một con, tất cả sẽ tấn công bạn, tương tự như Sói hoặc Zombified Piglins. Nếu bạn đi quá xa The Abyss, chúng sẽ ngừng đuổi theo bạn và bơi trở lại vực sâu. \n\nHọ không đánh rơi bất cứ thứ gì khi chết nên có lẽ đừng đánh họ..."
+
 		"{image:atm:textures/questpics/eternal/starlight_gaze.png width:150 height:100 align:center}"
 	]
 	quest.252AD9C886DE45C8.title: "Twilight Gaze"
-	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers are dropped by Aurora Deers on death. \\n\\nIt can be used as a Sword or a Hoe."]
-	quest.271A112ABDD923A6.quest_desc: ["Like normal Mangrove but these aren't ugly."]
-	quest.29283BF1B6ED3634.quest_desc: ["The Mechanical Crossbow is made like a normal Crossbow just with Golem Steel. \\n\\nIt works like a normal Crossbow just much stronger! And can be enchanted to do even more!"]
-	quest.298963543B99734E.quest_desc: ["The Starlit Seas spawn their own versions of Coral! \\n\\nJust don't be like me and forget Silk Touch to pick them up..."]
+	quest.25E782DB4309A1B8.quest_desc: ["Aurora Deer Antlers giảm đi Aurora Deers khi chết. \n\nNó có thể được sử dụng như một thanh kiếm hoặc một cái cuốc."]
+	quest.271A112ABDD923A6.quest_desc: ["Giống như Mangrove bình thường nhưng chúng không xấu."]
+	quest.29283BF1B6ED3634.quest_desc: ["Nỏ Cơ Học được chế tạo giống như Nỏ bình thường chỉ với Golem Steel. \n\nNó hoạt động giống như một chiếc Nỏ bình thường nhưng mạnh hơn nhiều! Và có thể bị mê hoặc để làm nhiều hơn nữa!"]
+	quest.298963543B99734E.quest_desc: ["Starlit Seas sinh ra các phiên bản Coral của riêng họ! \n\nĐừng như tôi mà quên Silk Touch nhặt chúng lên nhé..."]
 	quest.29A1E1FF02BD9219.quest_desc: [
-		"A Forest as blue as the Ocean. \\n\\nThe Starlight Forest is by far the most common biome in the Starlight. \\n\\nIt has dozens of Lunar Trees covering it entirely with plenty of Mobs, passive and hostile, below it."
+		"Rừng xanh như đại dương. \n\nStarlight Forest cho đến nay là quần xã sinh vật phổ biến nhất trong Starlight. \n\nNó có hàng tá Lunar Trees bao phủ toàn bộ nó với rất nhiều Mob, thụ động và thù địch, bên dưới nó."
+
 		"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
 	]
 	quest.29A1E1FF02BD9219.title: "Starlight Forest"
-	quest.29EC143D7E0347DE.quest_desc: ["The Dagger of Hunger is made with the Teeth of Hunger. No, I am not saying Tooths. \\n\\nThe Dagger has a Hunger Value. When you hit Mobs it will go up, when it's inactive it will decrease. When it gets to 100% you'll get boosts. And if it goes to 0% it will start killing you. \\n\\nWhen you hit Mobs (or Players) it will also give the Hunger effect. \\n\\nI don't blame it, I get angry when hungry too."]
+	quest.29EC143D7E0347DE.quest_desc: ["Dao găm đói được chế tạo bằng Răng đói. Không, tôi không nói Răng. \n\nCon dao găm có Hunger Value. Khi bạn đánh Mob nó sẽ tăng lên, khi không hoạt động nó sẽ giảm đi. Khi đạt tới 100%, bạn sẽ được tăng sức mạnh. Và nếu nó về 0%, nó sẽ bắt đầu giết chết bạn. \n\nKhi bạn đánh Mob (hoặc Người chơi) nó cũng sẽ gây ra hiệu ứng Đói. \n\nTôi không trách nó, tôi cũng tức giận khi đói."]
 	quest.2D457E53BB6D63C7.quest_desc: [
-		"Highest points in the Starlight is the Permafrost Forests which lie upon Mountains. \\n\\nBeing so far up makes them much colder making them covered in Snow and Ice! \\n\\nAtleast the friendly Mobs seem to enjoy the Cold!"
+		"Điểm cao nhất trong Starlight là Permafrost Forests nằm trên Núi. \n\nỞ quá xa khiến chúng lạnh hơn nhiều và được bao phủ trong Tuyết và Băng! \n\nÍt nhất thì các Mob thân thiện dường như cũng thích cái lạnh!"
+
 		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
 	]
 	quest.2D457E53BB6D63C7.title: "Permafrost Forest"
-	quest.2DA8CE213AC3869B.quest_desc: ["Starlight Crystals can be found all over and even under the Crystallized Deserts. \\n\\nThey work similar to Amethyst and even sound like it!"]
+	quest.2DA8CE213AC3869B.quest_desc: ["Starlight Crystals có thể được tìm thấy khắp nơi và thậm chí dưới Crystallized Deserts. \n\nChúng hoạt động tương tự như thạch anh tím và thậm chí có âm thanh giống như vậy!"]
 	quest.2E29DC243E8AD61E.quest_desc: [
-		"Shimmer Lacewings don't do or drop anything, they just add atmosphere. \\n\\nThey also resemble the only bug I tolerate!"
+		"Shimmer Lacewings không làm hay bỏ bất cứ thứ gì, họ chỉ tạo thêm không khí thôi. \n\nChúng cũng giống lỗi duy nhất mà tôi chịu đựng được!"
+
 		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
 	]
 	quest.2E29DC243E8AD61E.title: "Shimmer Lacewing"
 	quest.2F3E7233129F2B89.quest_desc: [
-		"Acts exactly like a Luminofish just these have a horn on their head!"
+		"Hoạt động giống hệt cá Luminofish, chỉ khác là chúng có sừng trên đầu!"
+
 		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
 	]
 	quest.2F3E7233129F2B89.title: "Luminaris"
-	quest.342EEB042DEC2B8C.quest_desc: ["Magma and Geysers both spawn on the bottom of The Abyss. \\n\\nMagma will help you get down below and help keep your breath. \\n\\nGeysers just look cool!"]
-	quest.362F4CFD1B8B12B1.quest_desc: ["All living things will die in Ether as if it were Lava. Funny enough you can put it in a Bucket though! \\n\\nThe only way to get it is finding it in the Ether River. \\n\\nWhen Water touches Ether it will form Thioquartz Blocks!"]
-	quest.36BCCF7395658A5C.quest_desc: ["The Bosses in the Starlight live in their structures. These aren't common (thankfully) so you might need assistance aka the Seeking Eyes. \\n\\nSeaking Eyes work like Ender Eyes, Right Click with them to throw them and follow them to get to the structures. \\n\\nTo set the structure you'll need a certain Item in your Offhand, items like..."]
-	quest.36BCCF7395658A5C.title: "Finding the Bosses"
-	quest.37355F60E45777FE.quest_desc: ["The Orb of Prophecy can be crafted or obtained through beating the Gatekeeper! \\n\\nIt's main use is activating the Portal, but there will be more uses for it!"]
+	quest.342EEB042DEC2B8C.quest_desc: ["Magma và Geysers đều sinh ra ở đáy The Abyss. \n\nMagma sẽ giúp bạn xuống bên dưới và giúp bạn giữ được hơi thở. \n\nMạch nước phun trông thật tuyệt!"]
+	quest.362F4CFD1B8B12B1.quest_desc: ["Mọi sinh vật sống sẽ chết trong Ether như thể nó là Lava. Thật buồn cười là bạn có thể đặt nó vào một cái Xô! \n\nCách duy nhất để có được nó là tìm nó trong Ether River. \n\nWhen Water chạm vào Ether nó sẽ hình thành Thioquartz Blocks!"]
+	quest.36BCCF7395658A5C.quest_desc: ["Các Trùm trong Starlight sống trong công trình của chúng. Những điều này không phổ biến (may mắn thay) vì vậy bạn có thể cần sự trợ giúp hay còn gọi là Đôi mắt tìm kiếm. \n\nSeaking Eyes hoạt động giống như Ender Eyes, Right Click để ném chúng và đi theo chúng để đến các công trình. \n\nĐể thiết lập cấu trúc, bạn sẽ cần một Vật phẩm nhất định trong Offhand của mình, các vật phẩm như..."]
+	quest.36BCCF7395658A5C.title: "Đi tìm ông chủ"
+	quest.37355F60E45777FE.quest_desc: ["Quả cầu tiên tri có thể được chế tạo hoặc thu được thông qua việc đánh bại Người gác cổng! \n\nCông dụng chính của nó là kích hoạt Cổng thông tin, nhưng sẽ có nhiều công dụng hơn cho nó!"]
 	quest.375F0A098589CF29.quest_desc: [
-		"Using your Seeking Eyes you might become confused why they've suddenly gone underground. That's probably because the Golem Forge is deep underground, like in the negative Y levels. \\n\\nThere's many winding rooms each full of Loot, Lava, and Freezes! The room we are looking for holds the Starlight Golem!"
+		"Khi sử dụng Đôi mắt Tìm kiếm, bạn có thể bối rối vì sao chúng đột nhiên hoạt động bí mật. Đó có thể là do Golem Forge nằm sâu dưới lòng đất, giống như ở tầng Y âm. \n\nCó nhiều căn phòng quanh co chứa đầy Chiến lợi phẩm, Dung nham và Đóng băng! Căn phòng chúng tôi đang tìm có chứa Starlight Golem!"
+
 		"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
 	]
 	quest.375F0A098589CF29.title: "Golem Forge"
 	quest.3991EEEFDD263A91.quest_desc: [
-		"Nightfall Spiders, like Lonestar Skeletons, are Hostile and spawn anywhere. \\n\\nThey have 5 Hearts and attack by hitting you. After hitting you they will give you the Glowing effect for a few seconds. \\n\\nOn death they will drop String and their eyes!"
+		"Nightfall Spiders, giống như Lonestar Skeletons, là Kẻ thù địch và sinh sản ở bất cứ đâu. \n\nHọ có 5 Trái tim và tấn công bằng cách đánh bạn. Sau khi đánh bạn, chúng sẽ cho bạn hiệu ứng Phát sáng trong vài giây. \n\nKhi chết họ sẽ đánh rơi Chuỗi và mắt của mình!"
+
 		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
 	]
 	quest.3991EEEFDD263A91.title: "Nightfall Spiders"
-	quest.3C74DAE7EC844A98.quest_desc: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \\nJust these give much more Food Points and Saturation!"]
+	quest.3C74DAE7EC844A98.quest_desc: ["Lunar Berries là một Food Source tuyệt vời và rất dễ kiếm được! \n\nChúng sinh sản từ Lunar Tree Leaves, bạn có thể hái Quả ra khỏi Dây leo như Glow Berries. \nChỉ những thứ này mới mang lại nhiều hơn Food Points và Độ bão hòa!"]
 	quest.3CAD0701EC16C2D8.quest_desc: [
-		"Dark Swamps litter the world of the Starlight. \\n\\nHere you can find plenty of plants, animals, and of course Mud."
+		"Dark Swamps xả rác vào thế giới của Ánh Sao. \n\nỞ đây bạn có thể tìm thấy rất nhiều thực vật, động vật và tất nhiên là Bùn."
+
 		"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
 	]
 	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
 	quest.3D26E7BFE0AA964A.quest_desc: [
-		"The Luminofish is a glowing fish that lives within The Abyss.\\n\\nThey act just like normal Fish. You can fish for them, put them in a Bucket, you can even cook them!"
+		"Luminofish là một loài cá phát sáng sống trong The Abyss.\n\nHọ hành động giống như Cá bình thường. Bạn có thể câu cá, cho chúng vào Xô, thậm chí bạn có thể nấu chúng!"
+
 		"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
 	]
 	quest.3D26E7BFE0AA964A.title: "Luminofish"
-	quest.3D4032E7119AF8B7.quest_desc: ["Sonar Bombs are made with Shivering Gel which is dropped from Crystallized Moths. \\n\\nThey can be thrown to damage any Mob (and Player) in a huge area! It will also shake the players screen and play a loud sound effect. \\n\\nIt is disorienting so only use it on your friends!"]
+	quest.3D4032E7119AF8B7.quest_desc: ["Sonar Bombs được làm bằng Gel Rùng Rợn rơi ra từ Crystallized Moths. \n\nChúng có thể được ném để gây sát thương cho bất kỳ Mob (và Người chơi) nào trong một khu vực rộng lớn! Nó cũng sẽ làm rung màn hình của người chơi và phát ra hiệu ứng âm thanh lớn. \n\nNó gây mất phương hướng nên chỉ sử dụng nó cho bạn bè của bạn!"]
 	quest.40786B63E2901D11.quest_desc: [
-		"Let's see how do I describe the Cursed Garden... it's a big freakin' maze! \\n\\nThere's entrances on each side and you must find your way to the middle where the Lunar Monstrosity is! \\n\\nAll around the maze you can find chests full of Loot and Tangled!"
+		"Hãy xem tôi mô tả Cursed Garden như thế nào... đó là một mê cung khổng lồ! \n\nCó lối vào ở mỗi bên và bạn phải tìm đường đến giữa nơi có Lunar Monstrosity! \n\nXung quanh mê cung, bạn có thể tìm thấy những chiếc rương chứa đầy Chiến lợi phẩm và Tangled!"
+
 		"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
 	]
 	quest.40786B63E2901D11.title: "Cursed Garden"
-	quest.40C776497D68367F.quest_desc: ["Vines, Red and Blue Crystal Moss Carpets, Lunar Berries, Cave Moss, and Red and Blue Crystal Roots. \\n\\nThese can be used in your Offhand with the Seeking Eye to find the Cursed Garden."]
+	quest.40C776497D68367F.quest_desc: ["Dây leo, Đỏ và Blue Crystal Moss Carpets, Lunar Berries, Cave Moss, Đỏ và Blue Crystal Roots. \n\nNhững thứ này có thể được sử dụng trong Offhand của bạn với Seeking Eye để tìm Cursed Garden."]
 	quest.40C776497D68367F.title: "Monstrosity Items"
 	quest.4147D247E4D754D0.quest_desc: [
-		"Gleeches are tiny little mobs that spawn in the Crystallized Desert. \\n\\nThey relentlessly want your blood and that means even through violent ways. Thankfully they only have 4 Hearts! \\n\\nOn death they might drop their Eggs which can be thrown as a projectile."
+		"Gleeches là đám đông nhỏ sinh ra trong Crystallized Desert. \n\nHọ không ngừng muốn máu của bạn và điều đó có nghĩa là thậm chí bằng những cách bạo lực. Rất may họ chỉ có 4 Trái tim! \n\nKhi chết, chúng có thể đánh rơi Trứng và có thể ném chúng như một vật phóng."
+
 		"{image:atm:textures/questpics/eternal/starlight_gleech.png width:100 height:100 align:center}"
 	]
 	quest.4147D247E4D754D0.title: "Gleech"
-	quest.41C70F0873E14307.quest_desc: ["There is Trees in the Desert! \\n\\nNo, wait, there was Trees..."]
-	quest.429785E8F64929CE.quest_desc: ["In order to get to the Starlight Dimension you'll need to find Portal Ruins in the Overworld. \\n\\nThere you will find a Gatekeeper, Right Click to initiate a conversation and challenge them to a duel! Careful, they are very tough. \\n\\nOnce you win the duel you'll be gifted a few Items, the Orb of Prophecy being one. Right Click the Portal with the Orb to activate it! Then, walk in to get to the..."]
-	quest.429785E8F64929CE.title: "The Gatekeeper và The Gate"
-	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines are found hanging from Torreya Trees. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
-	quest.484ABFF266C8791E.quest_desc: ["Orbflora are plants that grow from the Sea floor. \\n\\nThey can be harvested anytime but if you want the Orbflora Lights you'll need to wait! \\n\\nWhen they grow to the Sea Level they will flower. After flowering they will grow the Light!"]
-	quest.49D1EA8E812A12F6.quest_desc: ["It's just a neat plant. \\n\\nYou'll need a Swamp Silver Sickle to collect it! \\n\\nI don't know why I've never cared about plants but Reeds are cool to me. Maybe it's the being by Water, or Cattails looking like Corndogs. I don't know but I like them."]
-	quest.49DC0BD7DC1B893C.quest_desc: ["The Abyss are deep trenches within Starlit Seas. These going as far down as -50! \\n\\nThey have multiple colored layers of Stone lining them and hold many different Blocks, Mosses, and Fish!"]
-	quest.49DC0BD7DC1B893C.title: "The Abyss"
-	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss spawns within The Abyss. \\n\\nYou can mine green ones to get Velvetumoss Balls which can either be eaten or made into a Slimeball! \\n\\nThe Red ones will spawn pretty plants!"]
-	quest.4A5EA948F5DCEB73.quest_desc: ["Swamp Silver can be rarely found within the Nightfall Mud. \\n\\nIt can be used to craft Armor and Tools!"]
-	quest.4C23D7E3DC8327C2.quest_desc: ["In order to kill the Lunar Monstrosity you'll need to set it on Fire! \\n\\nYou can use Flint and Steel or a Saltpeter Matchbox. \\n\\nPersonally I think the Matchbox is more fitting!"]
-	quest.4C23D7E3DC8327C2.title: "Burn it!"
-	quest.4D0B50731FED3CEE.quest_desc: ["To get the Cresant Spear you will need to either craft it from Items dropped by the Lunar Monstrosity and the Tangled Hatred, or have it dropped from the Lunar Monstrosity. (You'll have to kill him regardless basically). \\n\\nYou can use the Spear like a Trident and just smack Mobs or you can hold Right Click to be sent flying forward with it. If you hit any Mobs with the second attack, any Mobs nearby will also take damage."]
-	quest.4D4DE266A2A325B0.quest_desc: ["Redstone, Golem Steel, and Oxidized Golem Steel are Items used for finding the Golem Forge. \\n\\nHold one of these (most likely Redstone which does spawn in the Starlight underground) in your Offhand and use the Seeking Eye to find the Golem Forge which btw is underground!"]
+	quest.41C70F0873E14307.quest_desc: ["Có cây ở sa mạc! \n\nKhông, chờ đã, có Cây..."]
+	quest.429785E8F64929CE.quest_desc: ["Để đến được Starlight Dimension, bạn cần tìm Portal Ruins trong Overworld. \n\nỞ đó, bạn sẽ tìm thấy Người gác cổng, Right Click để bắt đầu cuộc trò chuyện và thách đấu tay đôi với họ! Hãy cẩn thận, chúng rất cứng rắn. \n\nSau khi giành chiến thắng trong cuộc đấu tay đôi, bạn sẽ được tặng một số Vật phẩm, trong đó có Quả cầu Tiên tri. Right Click Cổng có Quả cầu để kích hoạt nó! Sau đó, bước vào để đến..."]
+	quest.429785E8F64929CE.title: "Người gác cổng và Cánh cổng"
+	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines được tìm thấy treo trên Torreya Trees. \n\nChúng bị treo vì không thể đặt chúng theo cách nào khác... \n\nBóng đèn ở phía dưới chúng sẽ phát ra Ánh sáng!"]
+	quest.484ABFF266C8791E.quest_desc: ["Orbflora là những loài thực vật mọc từ đáy biển. \n\nChúng có thể được thu hoạch bất cứ lúc nào nhưng nếu bạn muốn Orbflora Lights bạn sẽ phải đợi! \n\nKhi chúng phát triển đến Sea Level chúng sẽ ra hoa. Sau khi ra hoa chúng sẽ phát triển Ánh sáng!"]
+	quest.49D1EA8E812A12F6.quest_desc: ["Nó chỉ là một cái cây gọn gàng. \n\nBạn sẽ cần Swamp Silver Sickle để thu thập nó! \n\nTôi không biết tại sao tôi chưa bao giờ quan tâm đến thực vật nhưng Reeds rất tuyệt với tôi. Có thể đó là sự tồn tại của Water, hoặc Cattails trông giống Corndogs. Tôi không biết nhưng tôi thích chúng."]
+	quest.49DC0BD7DC1B893C.quest_desc: ["Vực thẳm là những rãnh sâu trong Starlit Seas. Những con số này có thể giảm tới -50! \n\nChúng có nhiều lớp Đá màu xếp dọc và chứa nhiều Khối, Rêu và Cá khác nhau!"]
+	quest.49DC0BD7DC1B893C.title: "Vực thẳm"
+	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss sinh sản trong The Abyss. \n\nBạn có thể khai thác những quả màu xanh lá cây để nhận Velvetumoss Balls có thể ăn được hoặc chế tạo thành Slimeball! \n\nNhững con màu đỏ sẽ sinh ra những cây đẹp!"]
+	quest.4A5EA948F5DCEB73.quest_desc: ["Swamp Silver hiếm khi được tìm thấy trong Nightfall Mud. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ!"]
+	quest.4C23D7E3DC8327C2.quest_desc: ["Để tiêu diệt Lunar Monstrosity bạn cần đốt nó! \n\nBạn có thể sử dụng Flint and Steel hoặc Saltpeter Matchbox. \n\nCá nhân tôi nghĩ Matchbox phù hợp hơn!"]
+	quest.4C23D7E3DC8327C2.title: "Hãy đốt nó đi!"
+	quest.4D0B50731FED3CEE.quest_desc: ["Để có được Cresant Spear, bạn cần chế tạo nó từ Vật phẩm rơi ra từ Lunar Monstrosity và Tangled Hatred, hoặc rơi ra từ Lunar Monstrosity. (Về cơ bản, bạn sẽ phải giết anh ta). \n\nBạn có thể sử dụng Ngọn giáo như Cây đinh ba và chỉ cần đập mob hoặc bạn có thể giữ Right Click để được đưa bay về phía trước cùng với nó. Nếu bạn đánh bất kỳ Mob nào bằng đòn tấn công thứ hai, bất kỳ Mob nào ở gần cũng sẽ nhận sát thương."]
+	quest.4D4DE266A2A325B0.quest_desc: ["Đá đỏ, Golem Steel và Oxidized Golem Steel là các Vật phẩm dùng để tìm Golem Forge. \n\nGiữ một trong những thứ này (rất có thể là Redstone xuất hiện trong Starlight dưới lòng đất) trong Offhand của bạn và sử dụng Seeking Eye để tìm Golem Forge btw ở dưới lòng đất!"]
 	quest.4D4DE266A2A325B0.title: "Golem Items"
-	quest.4D53D9BBD8279282.quest_desc: ["Lunar Trees can range from massive towering Trees, to itty bitty ones. They adapt to take as much room as they can! (That would explain Dense Forests). \\n\\nThey plant like normal Saplings and can have Lunar Berries spawn from their leaves!"]
-	quest.4D8C9960BB675221.quest_desc: ["It has a funny name!"]
+	quest.4D53D9BBD8279282.quest_desc: ["Lunar Trees có thể bao gồm từ những Cây cao chót vót cho đến những Cây nhỏ bé. Họ thích nghi để chiếm nhiều chỗ nhất có thể! (Điều đó sẽ giải thích Dense Forests). \n\nChúng trồng giống như Cây Con bình thường và có thể sinh sản Lunar Berries từ lá của chúng!"]
+	quest.4D8C9960BB675221.quest_desc: ["Nó có một cái tên buồn cười!"]
 	quest.4DBC3B4D38CC6152.quest_desc: [
-		"Crystallized Moths spawn deep below the Crystallized Deserts. \\n\\nThey are neutral and I recommend not hitting them because they do a ton of damage! \\n\\nThey also have 10 Hearts and can drop Starlight Crystals or Shivering Gel on death."
+		"Crystallized Moths sinh sản sâu bên dưới Crystallized Deserts. \n\nChúng trung lập và tôi khuyên bạn không nên đánh chúng vì chúng gây ra rất nhiều sát thương! \n\nHọ cũng có 10 Trái tim và có thể rơi ra Starlight Crystals hoặc Gel Rùng mình khi chết."
+
 		"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
 	]
 	quest.4DBC3B4D38CC6152.title: "Crystallized Moth"
 	quest.50674FE3C6BE9990.quest_desc: [
-		"Just like the normal Starlight Forest just with much less spacing within Trees!"
+		"Giống như Starlight Forest bình thường chỉ với khoảng cách ít hơn nhiều trong Cây!"
+
 		"{image:atm:textures/questpics/eternal/starlight_dense.png width:200 height:100 align:center}"
 	]
 	quest.50674FE3C6BE9990.title: "Dense Starlight Forest"
-	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes are dropped from Freezes in the Golem Forge. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
+	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes bị rơi ra khỏi trạng thái Đóng băng trong Golem Forge. \n\nChúng có thể được ném ra như Potion để làm tổn thương bất cứ ai nó chạm phải."]
 	quest.5244B2D6B5FA0487.quest_desc: [
-		"Crystallized Desert looks like a normal Desert but shaded Purple. \\n\\nAlso with added giant crystals, I don't think normal Deserts have that..."
+		"Crystallized Desert trông giống như Sa mạc bình thường nhưng có màu Tím. \n\nNgoài ra, với những tinh thể khổng lồ được thêm vào, tôi không nghĩ Sa mạc bình thường có được thứ đó..."
+
 		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
 	]
 	quest.5244B2D6B5FA0487.title: "Crystallized Desert"
-	quest.5424A0E1292B13EE.quest_desc: ["Around the Starlight you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find Thermal Springstone."]
-	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \\n\\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
-	quest.54DE8AAAE2181F18.quest_desc: ["The Moonring Greatsword needs to be crafted from drops by both Bosses! Obviously making it the hardest to get and the most powerful! \\n\\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
-	quest.5DFE3CB5B0130A7A.quest_desc: ["There's plenty of plant life on top of the Shimmer River, some you can stand on!"]
+	quest.5424A0E1292B13EE.quest_desc: ["Xung quanh Starlight bạn có thể tìm thấy Hot Ponds. \n\n(Đây không phải là quần xã hay cấu trúc nên bạn chỉ cần nhìn xung quanh để tìm thấy chúng!) \n\nTrong đó bạn có thể tìm thấy Thermal Springstone."]
+	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit về mặt kỹ thuật có thể sinh sản ở bất kỳ vùng nước nào nhưng đó là loài duy nhất sống trong Shimmer Rivers. \n\nNó phát triển giống như Tảo bẹ từ tầng trở lên, nhưng cũng hoạt động giống như Quả phát sáng khi trong Trái cây phát triển và có thể thu thập được từ nó."]
+	quest.54DE8AAAE2181F18.quest_desc: ["Moonring Greatsword cần được chế tạo từ vật phẩm rơi ra của cả hai Boss! Rõ ràng là làm cho nó khó có được nhất và mạnh nhất! \n\nNó hoạt động giống như một thanh Sword bình thường, ngay trước phiên bản 1.9. Nó có thể chặn các đòn tấn công như một tấm khiên, nhưng nó không thể bị spam để gây sát thương hoàn toàn."]
+	quest.5DFE3CB5B0130A7A.quest_desc: ["Có rất nhiều loài thực vật trên Shimmer River, một số bạn có thể đứng trên đó!"]
 	quest.60FDCA2FDFE74056.quest_desc: [
-		"IT'S PINK! \\n\\nHere you will find Scarlet Trees with their dropped leaves piled below them. You can also find Glowing Mushrooms here!"
+		"IT'S PINK! \n\nỞ đây bạn sẽ tìm thấy Scarlet Trees với những chiếc lá rụng xếp chồng lên nhau bên dưới. Bạn cũng có thể tìm thấy Nấm phát sáng ở đây!"
+
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
 	quest.60FDCA2FDFE74056.title: "Scarlet Forest"
-	quest.62F33BBE7BDFE404.quest_desc: ["Wand of Teleportation is another drop from the Lunar Monstrosity, and only that! \\n\\nYou can hold Right Click with the Wand to start it, then when you release it will teleport you to the Block you were looking at last! \\n\\nThere is a range but it's pretty far. And there is a cooldown after use!"]
-	quest.6314B892B569A0A5.quest_desc: ["The Starlight! \\n\\nA Dimension where it is constantly Dusk, and no you can't change that. \\n\\nThere is dozens of Biomes, Mobs, Bosses, and even just Blocks to find! Can you discover them all?"]
+	quest.62F33BBE7BDFE404.quest_desc: ["Đũa Dịch Chuyển là một sản phẩm khác từ Lunar Monstrosity, và chỉ có vậy thôi! \n\nBạn có thể giữ Right Click bằng Đũa phép để khởi động nó, sau đó khi bạn thả nó ra, nó sẽ dịch chuyển bạn đến Khối mà bạn đang nhìn cuối cùng! \n\nCó một phạm vi nhưng nó khá xa. Và có thời gian hồi chiêu sau khi sử dụng!"]
+	quest.6314B892B569A0A5.quest_desc: ["Ánh sao! \n\nMột chiều không gian liên tục là Hoàng hôn và không, bạn không thể thay đổi điều đó. \n\nCó hàng tá Quần xã, Mob, Trùm và thậm chí chỉ là Khối để tìm! Bạn có thể khám phá tất cả?"]
 	quest.6314B892B569A0A5.title: "Eternal Starlight"
 	quest.63362CC33B39C627.quest_desc: [
-		"Starlit Seas are huge bodies of Water sitting neatly between the Warm Shores and land. \\n\\nThey hold many wonders within them and growing in them! \\n\\nHope you brought your goggles!"
+		"Starlit Seas là những khối Nước khổng lồ nằm ngay ngắn giữa Warm Shores và đất liền. \n\nHọ chứa đựng nhiều điều kỳ diệu bên trong và lớn lên trong đó! \n\nHy vọng bạn đã mang theo kính bảo hộ của mình!"
+
 		"{image:atm:textures/questpics/eternal/starlight_starlitsea.png width:200 height:100 align:center}"
 	]
 	quest.63362CC33B39C627.title: "Starlit Sea"
 	quest.636848ED1115A0B3.quest_desc: [
-		"Ratlins are peaceful Mobs that can spawn on the Surface. \\n\\nOn death they will drop Ratlin Meat, Leather, and Cave Moss. \\n\\nThe latter which can be used to Breed them together!"
+		"Ratlins là Mob hòa bình có thể sinh sản trên Bề mặt. \n\nKhi chết, chúng sẽ rơi ra Ratlin Meat, Da và Cave Moss. \n\nCái sau có thể được sử dụng để nhân giống chúng lại với nhau!"
+
 		"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
 	]
 	quest.636848ED1115A0B3.title: "Ratlins"
 	quest.68B2D3B985FC1378.quest_desc: [
-		"A bright and beautiful Forest, full of Torreya Trees and Vines."
+		"Một khu rừng tươi sáng và xinh đẹp, đầy Torreya Trees và Dây leo."
+
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
 	]
 	quest.68B2D3B985FC1378.title: "Torreya Forest"
 	quest.6B00D5DBB3552F15.quest_desc: [
-		"Tangled are enemies that spawn within the Cursed Garden. \\n\\nThey have 10 Hearts and will attack by smacking you. If you get hit, you'll get a small amount of poison. \\n\\nOn death they will drop Vines and Bones but also will spawn a Tangled Skull! \\n\\nTangled Skulls act similar to Vexes, they will fly around through blocks and hit you. They only have 5 Hearts and on death will give you them as an Item."
+		"Rối là những kẻ thù sinh ra trong Cursed Garden. \n\nChúng có 10 Trái tim và sẽ tấn công bằng cách đánh bạn. Nếu bị trúng đòn, bạn sẽ nhận được một lượng nhỏ chất độc. \n\nKhi chết, chúng sẽ rơi ra Dây leo và Xương nhưng cũng sẽ sinh ra Tangled Skull! \n\nTangled Skulls hoạt động tương tự như Vexes, chúng sẽ bay vòng qua các khối và đánh bạn. Họ chỉ có 5 Trái tim và khi chết sẽ đưa cho bạn chúng như một Vật phẩm."
+
 		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
 	]
 	quest.6B00D5DBB3552F15.title: "Tangled"
-	quest.6E970CF05B96EB20.quest_desc: ["In order to damage the Golem you'll need to turn off his power supply! \\n\\nTo do so you'll need to Right Click the Energy Blocks when they turn blue. \\n\\nYou can usually find 2 in the corners of the boss room and 2 above him!"]
-	quest.6E970CF05B96EB20.title: "Powering down"
+	quest.6E970CF05B96EB20.quest_desc: ["Để làm hỏng Golem, bạn cần phải tắt nguồn điện của anh ta! \n\nĐể làm như vậy, bạn cần phải Right Click Energy Blocks khi chúng chuyển sang màu xanh lam. \n\nBạn thường có thể tìm thấy 2 cái ở góc phòng sếp và 2 cái phía trên ông ta!"]
+	quest.6E970CF05B96EB20.title: "Tắt nguồn"
 	quest.6EC289857CDC4969.quest_desc: [
-		"Ents are another peaceful Mob spawning on the Surface of the Starlight. These spawning in the forests! \\n\\nThese little trees can drop Sticks, Lunar Berries, and Lunar Leaves on death. \\n\\nYou can use Lunar Berries to Breed them!"
+		"Ent là một Mob yên bình khác sinh sản trên Bề mặt Ánh Sao. Những sinh sản trong rừng! \n\nNhững cây nhỏ này có thể rơi ra Gậy, Lunar Berries và Lunar Leaves khi chết. \n\nBạn có thể sử dụng Lunar Berries để nhân giống chúng!"
+
 		"{image:atm:textures/questpics/eternal/starlight_ent.png width:100 height:100 align:center}"
 	]
 	quest.6EC289857CDC4969.title: "Ents"
-	quest.70A82A5D17D558FB.quest_desc: ["The Energy Sword can only be dropped from the Starlight Golem. \\n\\nIt works like a normal Sword but with Right Click you can dash at them while swinging it, like Genji from Overwatch! "]
-	quest.713548E540B18E07.quest_desc: ["The Moonring Bow can only drop from the Lunar Monstrosity. \\n\\nIt shoots Arrows like a normal Bow but Ground Spikes will come the same direction the Arrow went!"]
-	quest.713EF442D59501BA.quest_desc: ["The Chain of Souls can only be crafted from drops by the Tangled Hatred and Lunar Monstrosity. \\n\\nIt's a grappling hook! Tap Right Click to send it and once it hits something it will start reeling you in. Then, you have to Right Click again to detach it. \\n\\nAlso needed for the ATM Star!"]
-	quest.71C58666D4BC2508.quest_desc: ["Works like Flint and Steel!"]
-	quest.770C0975CA61CE46.quest_desc: ["Glacite can be found deep underground in the Permafrost Forests. \\n\\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
+	quest.70A82A5D17D558FB.quest_desc: ["Thanh kiếm Năng lượng chỉ có thể rơi ra từ Starlight Golem. \n\nNó hoạt động giống như một thanh Kiếm bình thường nhưng với Right Click bạn có thể lao vào chúng trong khi vung nó, giống như Genji trong Overwatch!"]
+	quest.713548E540B18E07.quest_desc: ["Cung Trăng chỉ có thể rơi ra từ Lunar Monstrosity. \n\nNó bắn Mũi tên giống như Cung bình thường nhưng Ground Spikes sẽ đi theo cùng hướng Mũi tên đã đi!"]
+	quest.713EF442D59501BA.quest_desc: ["Chuỗi Linh hồn chỉ có thể được chế tạo từ những vật phẩm rơi ra của Tangled Hatred và Lunar Monstrosity. \n\nĐó là một cái móc vật lộn! Tap Right Click để gửi nó và khi nó chạm vào thứ gì đó, nó sẽ bắt đầu cuốn bạn vào. Sau đó, bạn phải Right Click một lần nữa để tách nó ra. \n\nCũng cần thiết cho Ngôi sao ATM!"]
+	quest.71C58666D4BC2508.quest_desc: ["Hoạt động giống như Flint và Steel!"]
+	quest.770C0975CA61CE46.quest_desc: ["Glacite có thể được tìm thấy sâu dưới lòng đất ở Permafrost Forests. \n\nNó có thể được sử dụng để chế tạo Áo giáp và Công cụ giúp chống lại sát thương Đóng băng!"]
 	quest.7A16D2EB63359294.quest_desc: [
-		"Aurora Deers are friendly hooved animals who also live in the cold. \\n\\nThese Deers won't try to harm you but if you get in their way when you run you might feel some Antlers. \\n\\nAntlers which can also be dropped by them on death which can be used as either a weapon or a hoe! \\n\\nThey might also drop Leather or Aurora Deer Steak."
+		"Aurora Deers là loài động vật có móng guốc thân thiện cũng sống ở vùng giá lạnh. \n\nNhững con hươu này sẽ không cố gắng làm hại bạn nhưng nếu bạn cản đường chúng khi chạy, bạn có thể cảm thấy một số Gạc. \n\nNhững chiếc gạc cũng có thể bị chúng đánh rơi khi chết, có thể dùng làm vũ khí hoặc cuốc! \n\nHọ cũng có thể đánh rơi Da hoặc Aurora Deer Steak."
+
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
 	quest.7A16D2EB63359294.title: "Aurora Deer"
-	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite can be found underground in the Starlight. \\n\\nIt works as a normal Stone being able to be made into other Blocks. \\n\\nIts Molten version works as a normal Magma Block!"]
-	quest.7B5D34650BBD97D9.quest_desc: ["Very rarely in the Starlight Dimension a Meteor Shower might occur. \\n\\nMost times the Meteors are tiny and disappear before hitting the ground. \\n\\nBut some are bigger and survive, there you will find Aethersent Ore!"]
-	quest.7D7BD1458CF12021.quest_desc: ["It is a Desert of course there's Cacti! \\n\\nThe Cacti when fully grown can grow Fruit on top of them!"]
-	quest.7E90138B0A2C3210.quest_desc: ["The Northland Trees are big sturdy Trees up in the Permafrost Forests. \\n\\nThey look like Spruce but much lighter! Maybe they're an albino Spruce. \\n\\nTheir saplings need to be placed on Dirt, not Grass, and in a 2x2 formation."]
-	quest.7FBB431AC055FE93.quest_desc: ["The Soulit Spectator is crafted with a Trapped Soul and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
-	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \\n\\nYou can make more Blocks out of it!"]
+	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite có thể được tìm thấy dưới lòng đất trong Starlight. \n\nNó hoạt động như một Viên đá bình thường và có thể được chế tạo thành các Khối khác. \n\nPhiên bản Its Molten hoạt động như phiên bản Magma Block bình thường!"]
+	quest.7B5D34650BBD97D9.quest_desc: ["Rất hiếm khi xảy ra Starlight Dimension a Meteor Shower. \n\nHầu hết các sao băng đều rất nhỏ và biến mất trước khi chạm đất. \n\nNhưng một số lớn hơn và tồn tại, ở đó bạn sẽ tìm thấy Aethersent Ore!"]
+	quest.7D7BD1458CF12021.quest_desc: ["Đó là sa mạc tất nhiên là có xương rồng! \n\nXương rồng khi trưởng thành hoàn toàn có thể mọc Quả lên trên chúng!"]
+	quest.7E90138B0A2C3210.quest_desc: ["Cây Northland là những Cây to khỏe ở Permafrost Forests. \n\nChúng trông giống Spruce nhưng nhẹ hơn nhiều! Có lẽ họ là một cây vân sam bạch tạng. \n\nCây non của chúng cần được đặt trên Đất, không phải Cỏ và theo đội hình 2x2."]
+	quest.7FBB431AC055FE93.quest_desc: ["Soulit Spectator được chế tạo bằng Trapped Soul và Nightfal Spider Eye. \n\nNó hoạt động tương tự như Sticky Camera từ Tom Clancy's Splinter Cell. Bạn có thể Right Click để gửi Spectator và sau một thời gian bạn sẽ có thể nhìn thấy nó. Bạn thậm chí có thể nhìn thấy chính mình với nó! \n\nNó không thể kết thúc sớm nên hãy cẩn thận khi sử dụng nó. Nó cũng có độ bền và thời gian hồi chiêu."]
+	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud chỉ có thể được tìm thấy trong Dark Swamps. \n\nBạn có thể tạo ra nhiều Khối hơn từ nó!"]
 	task.0AD8AC7ECCD8002A.title: "AllRightsReserved"
 	task.2510A7EE5D886B63.title: "AllRightsReserved"
-	task.452736994864F623.title: "Visit a Shimmer River"
-	task.67690077D4273A36.title: "Visit the Starlight"
+	task.452736994864F623.title: "Hãy ghé thăm Shimmer River"
+	task.67690077D4273A36.title: "Tham quan Ánh sao"
 }
