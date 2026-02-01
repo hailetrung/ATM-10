@@ -1,75 +1,75 @@
 {
-	quest.002D65E4D7E8F62B.title: "Tier 2 Grader Catalyst"
-	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
+	quest.002D65E4D7E8F62B.title: "Cấp 2 Grader Catalyst"
+	quest.036D5767E07005BC.quest_desc: ["&bDrains là những gì chúng ta sẽ sử dụng để chiết xuất &7Liquid Metals của chúng ta. Có, rất tiếc là nó quá nóng đối với Tay hoặc Xô của chúng tôi. \n\nKết nối &c&lFoundry &7Tap của với &bDrain’s để xả &7Liquid Metals của &7Liquid Metals khi Right Clicking Tap. \n\nBạn cũng có thể xem số lượng Chất lỏng trong &c&lFoundry khi xem &bDrain’s!"]
 	quest.036D5767E07005BC.title: "&c&lFoundry&r&bDrains"
-	quest.047F3F99035CE623.quest_subtitle: "I yearn for the Mines"
-	quest.061A51A0EC13CA0F.quest_desc: ["Now that we have a &aController&r, &bDrains&r, and &4Tanks&r, we'll need a few more Blocks. \\n\\nFirst, is &6Liquid Heating Coils&r. These will make up the floor of the &c&lFoundry&r, and are needed to Heat up the &c&lFoundry&r. \\n\\nLast is either &c&lFoundry&r Windows or &cFire Bricks&r. These are what we'll use for the rest of the structure! The building blocks, quite literally. \\n\\nThe &c&lFoundry&r will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The &aController&r will tell you where a Block is missing, if there is one. \\n\\nThe &c&lFoundry&r can be as small as 1x1 on the inside, as long as it has a &aController&r, &6Liquid Heating Coils&r, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the &c&lFoundry&r, the more space it has in it! \\n\\nYou'll know the &c&lFoundry&r is built, when the &aController&r lights up like a Furnace, and the &6Liquid Heating Coils&r turn &6Orange&r."]
-	quest.061A51A0EC13CA0F.title: "Building the&c&lFoundry&r"
-	quest.083ABBA1C45FF960.quest_subtitle: "Just a Lawn Mower"
-	quest.0947B4ED95B0267E.quest_desc: ["Coats an items and tools.\\n\\nNetherite makes a great coating material."]
-	quest.0947B4ED95B0267E.quest_subtitle: "Totally not just for Netherite"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["Higher Durability than a Dagger, but lower damage and speed."]
+	quest.047F3F99035CE623.quest_subtitle: "Tôi khao khát Mỏ"
+	quest.061A51A0EC13CA0F.quest_desc: ["Bây giờ chúng ta đã có &aController, &bDrains và &4Tanks, chúng ta sẽ cần thêm một vài Khối nữa. \n\nĐầu tiên là &6Cuộn dây sưởi ấm chất lỏng. Những thứ này sẽ tạo nên sàn của &c&lFoundry và cần thiết để làm nóng &c&lFoundry. \n\nCuối cùng là Windows của &c&lFoundry hoặc &cFire Bricks. Đây là những gì chúng ta sẽ sử dụng cho phần còn lại của cấu trúc! Các khối xây dựng, theo đúng nghĩa đen. \n\n&c&lFoundry sẽ không cần xây dựng khung nên mọi góc đều có thể trống; nhưng nó phải có 4 Bức tường và một Tầng mới có thể hoàn thành. &aController sẽ cho bạn biết vị trí Khối bị thiếu, nếu có. \n\n&c&lFoundry có thể nhỏ tới 1x1 ở bên trong, miễn là nó có &aController, &6Cuộn dây sưởi ấm chất lỏng và các Bức tường khác được lấp đầy! \n\nTuy nhiên, tôi không khuyên bạn nên làm một cái quá nhỏ, vì &c&lFoundry càng lớn thì càng có nhiều không gian trong đó! \n\nBạn sẽ biết &c&lFoundry đã được xây dựng, khi &aController sáng lên như một cái lò, và &6Liquid Heat Coils đến lượt &6Orange."]
+	quest.061A51A0EC13CA0F.title: "Xây dựng&c&lFoundry"
+	quest.083ABBA1C45FF960.quest_subtitle: "Chỉ là Lawn Mower"
+	quest.0947B4ED95B0267E.quest_desc: ["Phủ lên một vật phẩm và công cụ.\n\nNetherite tạo ra một vật liệu phủ tuyệt vời."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Hoàn toàn không chỉ dành cho Netherite"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Higher Durability hơn Dao găm, nhưng sát thương và tốc độ thấp hơn."]
 	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Stabby"
-	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Cast, you can make the basic sword! Reliable damage and reliable speed."]
-	quest.0DF4B01CC5B49E4E.quest_subtitle: "Good ol' Reliable"
-	quest.0FEAD3CA2CC4A8B1.title: "Tier 3 Starlight Charger Catalyst"
-	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear gear can be repaired using a &9Repair Kit&r.\\n\\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \\"fill\\" the Repair Kit.\\n\\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid."]
-	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
-	quest.158B24939A269D83.quest_desc: ["The Tip Upgrade is used to increase the mining level of a tool.\\n\\nFor example: If you have an Iron Pickaxe, with 1 Diamond, you can make a Diamond Tip Upgrade, and place it on your pickaxe. This will allow it to mine Obsidian, as well as give it a stat boost."]
-	quest.158B24939A269D83.quest_subtitle: "For when you don't find 3 Diamonds"
-	quest.2156C00E30424844.quest_desc: ["&4Tanks&r are made for adding Liquids into our &c&lFoundry&r. \\n\\nMostly Fuel. \\n\\nMostly &cLava&r! \\n\\nThat appears to be one of the only ways to actually Fuel the &c&lFoundry&r."]
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Với Cast này, bạn có thể tạo ra thanh kiếm cơ bản! Thiệt hại đáng tin cậy và tốc độ đáng tin cậy."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Tốt lắm, đáng tin cậy"
+	quest.0FEAD3CA2CC4A8B1.title: "Cấp 3 Starlight Charger Catalyst"
+	quest.11B0B93D725ABE43.quest_desc: ["Thiết bị Silent Gear có thể được sửa chữa bằng &Bộ dụng cụ sửa chữa 9.\n\nĐể sửa chữa một vật phẩm, hãy đặt Repair Kit vào lưới chế tạo, sau đó đặt các vật liệu cần thiết để sửa chữa công cụ vào đó. Điều này sẽ \"lấp đầy\" Repair Kit.\n\nĐể sửa chữa công cụ, hãy kết hợp Repair Kit đã điền với công cụ bạn muốn sửa chữa trong lưới chế tạo."]
+	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils bắt buộc"
+	quest.158B24939A269D83.quest_desc: ["Nâng cấp Mẹo được sử dụng để tăng mức độ khai thác của một công cụ.\n\nVí dụ: Nếu bạn có Iron Pickaxe, với 1 Kim cương, bạn có thể tạo Diamond Tip Upgrade và đặt nó vào cuốc của mình. Điều này sẽ cho phép nó khai thác Obsidian, cũng như tăng chỉ số cho nó."]
+	quest.158B24939A269D83.quest_subtitle: "Khi bạn không tìm thấy 3 viên kim cương"
+	quest.2156C00E30424844.quest_desc: ["&4Tanks được tạo ra để thêm Chất lỏng vào &c&lFoundry của chúng tôi. \n\nMostly Fuel. \n\nChủ yếu là &cLava! \n\nĐó dường như là một trong những cách duy nhất để thực sự cung cấp nhiên liệu cho &c&lFoundry."]
 	quest.2156C00E30424844.title: "&l&cFoundry&r&4Tanks"
-	quest.222D08F43B995FED.quest_subtitle: "Try và dent this"
-	quest.22A0A9C81A5C85A1.quest_subtitle: "Holding everything together"
-	quest.262036FE8E87F50A.quest_subtitle: "3x3 Mining"
-	quest.26F9DB31A835B69C.quest_desc: ["&nFoundry&r: &aCheck&r \\n&nLiquid Metal in Foundry&r: &aCheck&r \\n\\nNow how do we get it out? \\n\\nRemember our friend from earlier? The &c&lFoundry&r &bDrain&r? We'll need to acquaint him with our new friend, the &c&lFoundry&r &7Tap&r. \\n\\nPlace the &c&lFoundry&r &7Tap&r on the &bDrain&r, now we can place Blocks beneath it to drain the &7Liquid Metal&r into... \\n\\nBlocks like the &8Casting Bin&r, which will turn about 900mB of &7Liquid Metal&r, into the full &7Metal Block&r. \\n\\nOr the &8Casting Table&r which is what we'll need in order to make..."]
-	quest.26F9DB31A835B69C.title: "Casting Items"
-	quest.29131C3532610ADF.quest_desc: ["This is a Tier 2 Pillar Cap for the Starlight Charger."]
-	quest.29131C3532610ADF.title: "Tier 2 Starlight Charger Pillar Cap"
-	quest.2BF119DD5D977409.title: "Tier 2 Starlight Charger Catalyst"
-	quest.2EB96FF06627FD9A.quest_desc: ["The Salvager allows you to break down gear into the items they from.\\n\\nFor example: If you put in some Diamond Boots you will get 4 Diamonds back."]
-	quest.2EB96FF06627FD9A.quest_subtitle: "Breaking down (some) items!"
+	quest.222D08F43B995FED.quest_subtitle: "Hãy thử và khắc phục điều này"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Giữ mọi thứ lại với nhau"
+	quest.262036FE8E87F50A.quest_subtitle: "Khai thác 3x3"
+	quest.26F9DB31A835B69C.quest_desc: ["&nFoundry: &aCheck&r \n&nKim loại lỏng trong xưởng đúc: &aSéc \n\nBây giờ chúng ta làm cách nào để lấy nó ra? \n\nBạn có nhớ người bạn của chúng ta lúc trước không? &c&lFoundry &bDrain&r của? Chúng ta cần làm quen anh ta với người bạn mới của chúng ta, &c&lFoundry &7Tap&r. \n\nĐặt &c&lFoundry &7Tap của trên &bDrain, bây giờ chúng ta có thể đặt các Khối bên dưới nó để hút &7Liquid Metal của &7Liquid Metal vào... \n\nCác khối như &8Casting Bin, sẽ biến khoảng 900mB &7Liquid Metal thành &7Metal Block đầy đủ. \n\nHoặc &8Bàn đúc là thứ chúng ta cần để thực hiện..."]
+	quest.26F9DB31A835B69C.title: "Vật phẩm đúc"
+	quest.29131C3532610ADF.quest_desc: ["Đây là Cấp 2 Pillar Cap dành cho Starlight Charger."]
+	quest.29131C3532610ADF.title: "Cấp 2 Starlight Charger Pillar Cap"
+	quest.2BF119DD5D977409.title: "Cấp 2 Starlight Charger Catalyst"
+	quest.2EB96FF06627FD9A.quest_desc: ["Salvager cho phép bạn chia nhỏ trang bị thành các vật phẩm tạo nên chúng.\n\nVí dụ: Nếu bạn bỏ vào một ít Diamond Boots bạn sẽ nhận lại được 4 Kim cương."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "Phá vỡ (một số) mặt hàng!"
 	quest.2EB96FF06627FD9A.title: "Salvager"
-	quest.3722B43822F80470.quest_desc: ["More damage than a Sword, but slower."]
+	quest.3722B43822F80470.quest_desc: ["Sát thương cao hơn Kiếm, nhưng chậm hơn."]
 	quest.3722B43822F80470.quest_subtitle: "Release Your Inner Samurai"
-	quest.3930404D5C8B44EB.quest_desc: ["This is used to create custom alloys.\\n\\nIt is also the only way to get Tyrian Steel!"]
+	quest.3930404D5C8B44EB.quest_desc: ["Điều này được sử dụng để tạo ra các hợp kim tùy chỉnh.\n\nĐó cũng là cách duy nhất để có được Tyrian Steel!"]
 	quest.3930404D5C8B44EB.quest_subtitle: "Combines Materials"
-	quest.39B85DB54B1037FE.quest_desc: ["Slightly faster than a Sword, but lower damage."]
+	quest.39B85DB54B1037FE.quest_desc: ["Nhanh hơn một chút so với Kiếm, nhưng sát thương thấp hơn."]
 	quest.39B85DB54B1037FE.quest_subtitle: "Thicc Sword"
-	quest.3AC03D1FA5C341A7.quest_desc: ["The Recrystallizer allows you to combine together different crystals to make new crystals to use to make weapons, tools and armor."]
-	quest.3B560B2ECE331CAF.quest_desc: ["This is a Tier 3 Pillar Cap for the Starlight Charger."]
-	quest.3B560B2ECE331CAF.title: "Tier 3 Starlight Charger Pillar Cap"
-	quest.3D2C6FF462B17205.quest_desc: ["Low damage, very high attack speed. Reduces the invincibility time of the target."]
+	quest.3AC03D1FA5C341A7.quest_desc: ["Recrystallizer cho phép bạn kết hợp các tinh thể khác nhau để tạo ra các tinh thể mới dùng để chế tạo vũ khí, công cụ và áo giáp."]
+	quest.3B560B2ECE331CAF.quest_desc: ["Đây là Cấp 3 Pillar Cap dành cho Starlight Charger."]
+	quest.3B560B2ECE331CAF.title: "Cấp 3 Starlight Charger Pillar Cap"
+	quest.3D2C6FF462B17205.quest_desc: ["Sát thương thấp, tốc độ tấn công rất cao. Giảm thời gian bất khả chiến bại của mục tiêu."]
 	quest.3D2C6FF462B17205.quest_subtitle: "Stabby Stab"
-	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Digging!"
-	quest.405DCD3E36232EEA.quest_desc: ["Less damage than a Sword, but longer reach."]
+	quest.3F39BEB788175CEF.quest_subtitle: "Đào 3x3!"
+	quest.405DCD3E36232EEA.quest_desc: ["Ít sát thương hơn Kiếm, nhưng tầm với dài hơn."]
 	quest.405DCD3E36232EEA.quest_subtitle: "Release Your Inner Spartan"
 	quest.427516AA3E8C9442.quest_subtitle: "Versatile Hoe"
-	quest.45899579D9B92D91.quest_desc: ["The &aController&r is the heart of the &c&lFoundry&r. \\n\\nEach &c&lFoundry&r will need atleast 1, to be made. \\n\\nWe can use the &c&lFoundry&r to view the GUI of the &c&lFoundry&r. Here we can see the amounts of Liquids within the &c&lFoundry&r. \\n\\nWe can also use it to put and take Items in and out of the &c&lFoundry&r."]
+	quest.45899579D9B92D91.quest_desc: ["&aController là trái tim của &c&lFoundry. \n\nMỗi &c&lFoundry sẽ cần ít nhất 1 chiếc để được tạo ra. \n\nChúng ta có thể sử dụng &c&lFoundry để xem GUI của &c&lFoundry. Ở đây chúng ta có thể thấy lượng Chất lỏng trong &c&lFoundry. \n\nChúng ta cũng có thể sử dụng nó để đưa và lấy Vật phẩm vào và ra khỏi &c&lFoundry."]
 	quest.45899579D9B92D91.title: "&c&lFoundry&r&aController"
 	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
-	quest.48D358470A019E7A.title: "Tier 1 Starlight Charger Catalyst"
-	quest.52CDB46F6CBF007B.quest_subtitle: "Are you digging this?"
-	quest.63CAD77A4488F2CE.quest_subtitle: "Pickaxe + Axe + Shovel"
-	quest.657B3116A6419420.quest_subtitle: "Your own Handle!"
-	quest.67216EC5274F08B9.quest_subtitle: "Used by Shear-perds"
-	quest.69383DA579901E7E.quest_subtitle: "Let me Axe you this"
-	quest.6A393C7A24899E3E.quest_desc: ["Placing an ingot in the Grader with a Grader Catalyst will give the material a grade.\\n\\nThe better the grade, the better the stats are on the material.\\n\\nThe best grade is \\"MAX\\"."]
-	quest.6A393C7A24899E3E.quest_subtitle: "The Material Tester"
-	quest.6B78378BC8036227.title: "Tier 1 Grader Catalyst"
-	quest.6BBC440BD0AD0E93.quest_desc: ["Some people like &9&lSilent Gear&r, while some like &7&lTinker's Construct&r. \\n\\nInstead of choosing between them, we've decided to take the best of both worlds by using &9&lSilent Gear&r and &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r will change how we obtain our &9&lSilent&r Items. Instead of using &9Blueprints&r, we'll now need &8Casts&r and a &c&lFoundry&r. \\n\\nTo start making the &c&lFoundry&r, start with &cFire Clay&r."]
-	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&rvà&c&lProductive Metalworks"
-	quest.6BFD7854F078BF16.quest_subtitle: "Get a Grip on this"
-	quest.711826BBCA832EE2.quest_desc: ["All &8Casts&r are made equal. In another sense I mean they are made the same way. \\n\\nBy Pouring &8Steel&r onto an Item in a &8Casting Table&r! \\n\\nHow do we make &8Steel&r you ask? Simply Melt down any &8Steel&r Items or Ingots. Or you can Alloy 9 &7Iron&r to 10 &0Coal&r. \\n\\nAlloying will happen when the &c&lFoundry&r is &6Heated&r and the right amounts of different &7Liquid Metals&r are in it. These two &7Liquid Metals&r will combine into one &7Liquid Metal&r!"]
+	quest.48D358470A019E7A.title: "Cấp 1 Starlight Charger Catalyst"
+	quest.52CDB46F6CBF007B.quest_subtitle: "Bạn đang đào cái này à?"
+	quest.63CAD77A4488F2CE.quest_subtitle: "Cuốc + Rìu + Xẻng"
+	quest.657B3116A6419420.quest_subtitle: "Tay cầm của riêng bạn!"
+	quest.67216EC5274F08B9.quest_subtitle: "Được sử dụng bởi Shear-perds"
+	quest.69383DA579901E7E.quest_subtitle: "Hãy để tôi Axe cho bạn cái này"
+	quest.6A393C7A24899E3E.quest_desc: ["Đặt một thỏi vào Máy chấm điểm bằng Grader Catalyst sẽ cho điểm vật liệu.\n\nĐiểm càng cao thì số liệu thống kê về tài liệu càng tốt.\n\nĐiểm tốt nhất là \"MAX\"."]
+	quest.6A393C7A24899E3E.quest_subtitle: "Người kiểm tra vật liệu"
+	quest.6B78378BC8036227.title: "Cấp 1 Grader Catalyst"
+	quest.6BBC440BD0AD0E93.quest_desc: ["Một số người thích &9&lSilent Gear, trong khi một số khác thích &7&lTinker's Construct. \n\nThay vì lựa chọn giữa chúng, chúng tôi đã quyết định tận dụng tối đa cả hai thế giới bằng cách sử dụng &9&lSilent Gear và &c&lProductive Metalworks! \n\n&c&lProductive Metalworks sẽ thay đổi cách chúng ta có được Vật phẩm &9&lSilent. Thay vì sử dụng &9Blueprints, bây giờ chúng ta sẽ cần &8Casts và &c&lFoundry. \n\nĐể bắt đầu tạo &c&lFoundry’s, hãy bắt đầu với &cFire Clay’s."]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&rvà&c&lSản xuất kim loại hiệu quả"
+	quest.6BFD7854F078BF16.quest_subtitle: "Nắm bắt được điều này"
+	quest.711826BBCA832EE2.quest_desc: ["Tất cả &8Casts đều bình đẳng. Theo một nghĩa khác, ý tôi là chúng được làm theo cùng một cách. \n\nBằng cách đổ &8Thép vào một vật phẩm trong &8Bàn đúc! \n\nBạn hỏi chúng tôi làm thế nào để tạo ra &8Steel? Simply Melt hạ bất kỳ Vật phẩm hoặc Thỏi nào của &8Steel. Hoặc bạn có thể Hợp kim 9 &7Iron thành 10 &0Coal&r. \n\nQuá trình hợp kim hóa sẽ diễn ra khi &c&lFoundry là &6Heated và có đúng số lượng &7Liquid Metals khác nhau trong đó. Hai &7Liquid Metal này sẽ kết hợp thành một &7Liquid Metal!"]
 	quest.711826BBCA832EE2.title: "&8Casts"
-	quest.766C80E5D7B7A916.quest_subtitle: "Pick one!"
-	quest.769D5DE66D13B256.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.7C3D763CF22D167A.quest_desc: ["The Starlight Charger can \\"enchant\\" materials with the \\"Star Charged\\" enchantment.\\n\\nA structure must be built with the Starlight Charger in the middle in view of the night sky. It only gains Starlight Power during the night.\\n\\nThe Charger must be placed in the middle of a 7x7 structure, with a Pillar in each corner. Each pillar must have a \\"Starlight Charger Cap\\".\\n\\nIt also requires a charger catalyst per material."]
-	quest.7C3D763CF22D167A.quest_subtitle: "\\"Enchanting\\" Materials"
-	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
-	quest.7D690A7D0FF6E328.title: "Tier 3 Grader Catalyst"
-	quest.7E13007340A818C5.quest_desc: ["This is a Tier 1 Pillar Cap for the Starlight Charger."]
-	quest.7E13007340A818C5.title: "Tier 1 Starlight Charger Pillar Cap"
+	quest.766C80E5D7B7A916.quest_subtitle: "Chọn một!"
+	quest.769D5DE66D13B256.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.7C3D763CF22D167A.quest_desc: ["Starlight Charger có thể \"phù phép\" các vật liệu bằng bùa \"Star Charged\".\n\nMột công trình phải được xây dựng với Starlight Charger ở giữa nhìn ra bầu trời đêm. Nó chỉ tăng Starlight Power vào ban đêm.\n\nBộ sạc phải được đặt ở giữa cấu trúc 7x7, với một Trụ ở mỗi góc. Mỗi trụ cột phải có một \"Starlight Charger Cap\".\n\nNó cũng đòi hỏi một chất xúc tác sạc cho mỗi vật liệu."]
+	quest.7C3D763CF22D167A.quest_subtitle: "Vật liệu “thêm mê”"
+	quest.7C3D763CF22D167A.title: "&dBộ sạc Starlight"
+	quest.7D690A7D0FF6E328.title: "Cấp 3 Grader Catalyst"
+	quest.7E13007340A818C5.quest_desc: ["Đây là Cấp 1 Pillar Cap dành cho Starlight Charger."]
+	quest.7E13007340A818C5.title: "Cấp 1 Starlight Charger Pillar Cap"
 	task.55E0635973A828B0.title: "AllRightsReserved"
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
 }
