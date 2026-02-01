@@ -1,27 +1,27 @@
 {
-	quest.104EBBC08B4733F5.quest_desc: ["The &dSimulation Chamber&r is the main machine within HNN.\\n\\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip. \\n\\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\\n\\nThe result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\\n\\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation."]
-	quest.104EBBC08B4733F5.title: "&aSimulating Deaths"
-	quest.10E8BC20D406D9FB.quest_subtitle: "Makes various Nether Materials"
-	quest.12AE2856444996F6.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
+	quest.104EBBC08B4733F5.quest_desc: ["&dPhòng mô phỏng là máy chính trong HNN.\n\nKhi được cấp nguồn, nó sẽ chạy mô phỏng dựa trên &bData Model được đặt bên trong. Công suất yêu cầu cũng phụ thuộc vào Data Model được đặt bên trong và có thể được nhìn thấy trong chú giải công cụ của Mô hình. \n\nMáy cũng yêu cầu ít nhất một &9Ma trận dự đoán để chạy mô phỏng.\n\nKết quả mô phỏng sẽ được xuất ra Ma trận. Mô phỏng sẽ luôn tạo ra một số loại &Dự đoán tổng quát, có thể được sử dụng trong các công thức chế tạo khác nhau. Chúng cũng khác nhau tùy thuộc vào nguồn gốc của mob trong Data Model.\n\nNếu mô phỏng thành công, bạn sẽ nhận được &D Dự đoán dựa trên mô hình. Cấp Data Model được sử dụng càng cao thì tỷ lệ mô phỏng thành công càng cao."]
+	quest.104EBBC08B4733F5.title: "&aMô phỏng cái chết"
+	quest.10E8BC20D406D9FB.quest_subtitle: "Tạo ra nhiều loại Nether Materials"
+	quest.12AE2856444996F6.quest_desc: ["Nhiệm vụ này được tác giả bởi &6AllTheMods Staff&r hoặc một &2Người đóng góp cộng đồng&r để sử dụng trong AllTheMods Modpacks.\n\nVì tất cả các gói &6AllTheMods&r đều được cấp phép theo &eAll Rights Reserved&r, Nhiệm vụ này không được phép sử dụng trong bất kỳ gói công khai nào không được phát hành bởi &6AllTheMods Team&r mà không có sự cho phép rõ ràng.\n\nNhiệm vụ này được cố ý ẩn đi, nếu bạn thấy điều này nghĩa là bạn đang ở chế độ chỉnh sửa."]
+	quest.14B3542ECB59869C.quest_desc: ["&5Loot Fabricator của là cỗ máy mang lại cho bạn những chiến lợi phẩm ngọt ngào từ Mob Predictions.\n\nKhi được cấp sức mạnh và Mob Prediction thành công, bạn sẽ có thể chọn vật phẩm bạn muốn nhận từ Data Model của đám đông đó. Máy sẽ ghi nhớ lựa chọn của bạn nên có thể tự động hóa.\n\nVí dụ về Mob Predictions:\n\n- &dEnder Dragons cho &dTrứng Rồng\n - &2Zombies dành cho Sắt\n - &0Withers's dành cho &5Nether Stars"]
 	quest.14B3542ECB59869C.title: "Creating&dLoot"
-	quest.14F7F256DA863280.quest_subtitle: "Makes various Twilight Forest Materials"
-	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
-	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
-	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
+	quest.14F7F256DA863280.quest_subtitle: "Tạo ra nhiều loại Twilight Forest Materials"
+	quest.2559201BCF5D497C.quest_subtitle: "Tạo ra nhiều loại Overworld Materials"
+	quest.34CD54347E9821B5.quest_desc: ["Sau khi tạo Data Model đầu tiên, bạn sẽ cần nâng cấp để nó trở nên hữu ích.\n\nData Models bắt đầu ở cấp đầu tiên: &7Faulty&r. Ít nhất bạn cần phải nâng nó lên mức &aBasic nếu bạn muốn chạy một số mô phỏng trên đó!\n\nSau khi được đặt bên trong Deep Learner, HUD sẽ cho bạn biết cần phải tiêu diệt bao nhiêu lần để tăng cấp cho nó. Bạn cũng có thể xem thông tin này trong chú giải công cụ của chính Mô hình."]
+	quest.34CD54347E9821B5.title: "Tăng cấp mô hình dữ liệu"
 	quest.37EBB8E0D6E5F821.quest_desc: [
 		"&6Hostile Neural Networks&r (HNN for short) is a mod based around simulating mob kills for loot!\\n\\nTo do this, you will be collecting \"data\" on mobs, then running simulations from the data to create their drops!\\n"
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
-	quest.37EBB8E0D6E5F821.title: "Welcome to&9Hostile Neural Networks&r!"
-	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
-	quest.3E3CBDCEAB0FF28F.quest_subtitle: "The Learning HUD"
-	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs"
-	quest.4092E914B24C52A7.quest_subtitle: "Makes various Starlight Materials"
-	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
-	quest.58C2ABED43B2EA61.quest_subtitle: "\\"Gathering Data\\""
-	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
-	quest.5A23107C363A209E.quest_subtitle: "Makes various End Materials"
+	quest.37EBB8E0D6E5F821.title: "Chào mừng đến với&9Hostile Neural Networks&r!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["&9Deep Learner là một trong những thành phần cốt lõi của HNN.\n\nVới vật phẩm này, bạn có thể nhấp chuột phải để mở HUD và lưu trữ &6Data Models để thu thập dữ liệu trong khi tiêu diệt mob.\n\nEach Learner có thể chứa 4 Data Models và miễn là bạn có Người học ở bất kỳ đâu trong kho của mình, nó sẽ thu thập dữ liệu cho các mô hình được đặt bên trong!\n\nLưu ý: Bạn có thể có nhiều Deep Learners trong kho của mình và nó sẽ tính số lần tiêu diệt được tất cả Data Models bên trong tất cả Học viên."]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "Việc học HUD"
+	quest.3E3CBDCEAB0FF28F.title: "&aMob học tập"
+	quest.4092E914B24C52A7.quest_subtitle: "Tạo ra nhiều loại Starlight Materials"
+	quest.58C2ABED43B2EA61.quest_desc: ["&9Khung mô hình là điểm khởi đầu để tạo Data Models.\n\nĐể bắt đầu thu thập dữ liệu về một mob cụ thể, bạn sẽ muốn tạo một trong những mob này sau đó &9nhấp chuột phải vào mob mà bạn muốn thu thập dữ liệu. Khi thực hiện đúng cách, Model Framework sẽ biến thành Data Model của mob mà bạn đã nhấp vào.\n\nĐể thu thập dữ liệu cho mob đó, hãy đặt Data Model mới tạo vào bên trong &aDeep Learner, sau đó bắt đầu tiêu diệt mob cụ thể đó bằng Deep Learner trong kho của bạn."]
+	quest.58C2ABED43B2EA61.quest_subtitle: "\"Thu thập dữ liệu\""
+	quest.58C2ABED43B2EA61.title: "&9Mob mô hình hóa"
+	quest.5A23107C363A209E.quest_subtitle: "Tạo ra nhiều loại End Materials"
 	task.15D2A03410859443.title: "AllRightsReserved"
 	task.6B580F95A2E5A465.title: "AllRightsReserved"
 	task.7F17E48ACE65C84E.title: "Data Models"
