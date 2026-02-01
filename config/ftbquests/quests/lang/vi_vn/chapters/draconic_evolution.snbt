@@ -71,7 +71,7 @@
 		"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
 	]
-	quest.1F7D147C9AF6A4FC.quest_subtitle: "Cửa hàng: 9,880,000,000 RF"
+	quest.1F7D147C9AF6A4FC.quest_subtitle: "Cửa hàng: 9.880.000.000 RF"
 	quest.1F7D147C9AF6A4FC.title: "Cấp 4"
 	quest.20D8DA523E900A52.quest_desc: ["Wireless Energy Links hãy giúp Wireless Crystals có thể sạc các vật phẩm của bạn. Càng nhiều mô-đun, nó càng có thể lấy được nhiều OP và với tốc độ tốt hơn."]
 	quest.20D8DA523E900A52.title: "Wireless Energy Link"
@@ -136,7 +136,7 @@
 	]
 	quest.366431661CC43A6E.quest_subtitle: ""
 	quest.366431661CC43A6E.title: ""
-	quest.36DAFC3FECC67406.quest_desc: ["Best Energy Battery DE sẽ cho."]
+	quest.36DAFC3FECC67406.quest_desc: ["Best Energy Battery DE sẽ chọn."]
 	quest.36DAFC3FECC67406.title: "Chaotic Capacitor"
 	quest.36F123B2A6B52A01.quest_desc: ["Những thứ này có thể di chuyển nhiều Năng lượng hơn và có nhiều liên kết hơn. Mức cao nhất Energy Crystals đi."]
 	quest.36F123B2A6B52A01.title: "Draconic Energy Relay Crystal"
@@ -185,7 +185,7 @@
 	quest.45EE60207C466D6C.quest_desc: ["Để vào Draconic Evolution bạn cần có Chaos Shards. Chaos Shards ở trong Chaos Islands được bảo vệ bởi Chaos Guardians ở phần cuối. Đi đến Cuối ở tọa độ X/Z là bội số của 10k. 10k, 10k/10k, 20k/20k, 20k v.v."]
 	quest.45EE60207C466D6C.quest_subtitle: "Tìm đảo hỗn loạn"
 	quest.45EE60207C466D6C.title: "Anh ấy ở đâu?"
-	quest.4638F21544D6D337.title: "Hỗn loạn-Entangled Quantum Energy Tunnel"
+	quest.4638F21544D6D337.title: "Phân vùng-Entangled Quantum Energy Tunnel"
 	quest.46C816844C513D5D.quest_desc: ["Phiên bản nâng cấp của Wyvern Shovel."]
 	quest.46C816844C513D5D.title: "Draconic Shovel"
 	quest.4903BDC389C73082.title: "Draconic Projectile Damage Module"
